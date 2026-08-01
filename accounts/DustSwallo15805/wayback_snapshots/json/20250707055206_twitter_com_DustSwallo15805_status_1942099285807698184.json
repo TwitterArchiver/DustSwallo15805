@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Masami Nagasawa (長澤まさみ)",
+          "id": "1012070571708854274",
+          "name": "Masami Nagasawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1133397661602668544",
+          "name": "Nana Mori"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Masami Nagasawa (長澤まさみ)",
+          "id": "1012070571708854274",
+          "name": "Masami Nagasawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1133397661602668544",
+          "name": "Nana Mori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Masami Nagasawa (長澤まさみ)",
+          "id": "1012070571708854274",
+          "name": "Masami Nagasawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1133397661602668544",
+          "name": "Nana Mori"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714559518150656",
+          "name": "Japanese actors"
+        }
+      }
+    ],
+    "conversation_id": "1942099285807698184",
+    "created_at": "2025-07-07T05:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T06:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942099285807698184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/primevideo_jp/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/primevideo_jp/status/1940968815019307402",
+          "start": 6,
+          "url": "https://t.co/B7G0gKW3qb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942099285807698184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940968815019307402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尼康fm2 https://t.co/B7G0gKW3qb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_1940968811479379972",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu-02bBXMAQlP_Y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Masami Nagasawa (長澤まさみ)",
+              "id": "1012070571708854274",
+              "name": "Masami Nagasawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1133397661602668544",
+              "name": "Nana Mori"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Masami Nagasawa (長澤まさみ)",
+              "id": "1012070571708854274",
+              "name": "Masami Nagasawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1133397661602668544",
+              "name": "Nana Mori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Masami Nagasawa (長澤まさみ)",
+              "id": "1012070571708854274",
+              "name": "Masami Nagasawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1133397661602668544",
+              "name": "Nana Mori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1942099285807698184",
+        "created_at": "2025-07-07T05:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942099285807698184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/primevideo_jp/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/primevideo_jp/status/1940968815019307402",
+              "start": 6,
+              "url": "https://t.co/B7G0gKW3qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942099285807698184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940968815019307402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼康fm2 https://t.co/B7G0gKW3qb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940968811479379972"
+          ]
+        },
+        "author_id": "3343924333",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Masami Nagasawa (長澤まさみ)",
+              "id": "1012070571708854274",
+              "name": "Masami Nagasawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1133397661602668544",
+              "name": "Nana Mori"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1283512999584559104",
+              "name": "Amazon Prime Video JP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Masami Nagasawa (長澤まさみ)",
+              "id": "1012070571708854274",
+              "name": "Masami Nagasawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1133397661602668544",
+              "name": "Nana Mori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Masami Nagasawa (長澤まさみ)",
+              "id": "1012070571708854274",
+              "name": "Masami Nagasawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1133397661602668544",
+              "name": "Nana Mori"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1940968815019307402",
+        "created_at": "2025-07-04T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940968815019307402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "四月になれば彼女は",
+              "probability": 0.8266,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "佐藤健",
+              "probability": 0.9759,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 99,
+              "normalized_text": "長澤まさみ",
+              "probability": 0.9878,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "森七菜",
+              "probability": 0.6862,
+              "start": 125,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJhcWKFPuD",
+              "end": 169,
+              "expanded_url": "https://x.com/PrimeVideo_JP/status/1940968815019307402/photo/1",
+              "media_key": "3_1940968811479379972",
+              "start": 146,
+              "url": "https://t.co/HJhcWKFPuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940968815019307402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 1128074,
+          "like_count": 2045,
+          "quote_count": 27,
+          "reply_count": 4,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "壮大で心に刺さるラブストーリー\n『四月になれば彼女は』\n見放題独占配信中🌸\n\n痛みを抱えながら恋愛の意味を探し求める姿を熱演した《佐藤健》\n\n予測不能な行動に隠された繊細な感情を表現した《長澤まさみ》\n\n初恋の切なさと儚さを体現する透明感を放った《森七菜》\n\n3人の名演技から目が離せない👀 https://t.co/HJhcWKFPuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 235,
+          "like_count": 16874,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1236
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-26T02:48:38.000Z",
+        "description": "Prime Videoの配信情報や、作品の深掘り情報を投稿中🎬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/gp/video/store…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/gp/video/storefront/",
+                "start": 0,
+                "url": "https://t.co/ra9NsgEdkn"
+              }
+            ]
+          }
+        },
+        "id": "3343924333",
+        "name": "Prime Video（プライムビデオ）",
+        "pinned_tweet_id": "1939632512755466683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820657159425990656/k-jl182-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848131,
+          "following_count": 26,
+          "like_count": 4047,
+          "listed_count": 3223,
+          "media_count": 239223,
+          "tweet_count": 269683
+        },
+        "url": "https://t.co/ra9NsgEdkn",
+        "username": "PrimeVideo_JP",
+        "verified": true
+      }
+    ]
+  }
+}

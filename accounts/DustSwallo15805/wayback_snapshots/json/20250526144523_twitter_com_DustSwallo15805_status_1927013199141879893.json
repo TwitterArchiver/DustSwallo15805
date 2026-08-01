@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1927013199141879893",
+    "created_at": "2025-05-26T14:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T15:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927013199141879893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2183594916",
+          "start": 3,
+          "username": "amsrntk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927013199141879893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926645146168197199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amsrntk3: なちょぬい3種がもういろんなところにいるらしい（なんとオンクレもある）\n捕獲報告待ってます🐈‍⬛🐈‍⬛🐈‍⬛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1927013199141879893",
+        "created_at": "2025-05-26T14:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T15:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927013199141879893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2183594916",
+              "start": 3,
+              "username": "amsrntk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927013199141879893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926645146168197199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amsrntk3: なちょぬい3種がもういろんなところにいるらしい（なんとオンクレもある）\n捕獲報告待ってます🐈‍⬛🐈‍⬛🐈‍⬛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2183594916",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1926645146168197199",
+        "created_at": "2025-05-25T14:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926645146168197199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furyu_prize/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/furyu_prize/status/1923196706675425712",
+              "start": 55,
+              "url": "https://t.co/EijV7j2r46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926645146168197199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 128619,
+          "like_count": 2003,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923196706675425712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なちょぬい3種がもういろんなところにいるらしい（なんとオンクレもある）\n捕獲報告待ってます🐈‍⬛🐈‍⬛🐈‍⬛ https://t.co/EijV7j2r46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 180,
+          "like_count": 10891,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 851
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-09T04:46:00.000Z",
+        "description": "illustrator｜#Nachonyano (iroiro) #Nyaacho (art)｜💙 GOODS https://t.co/Ub4aOVJfcr ｜ https://t.co/OpxXBqzkwL ｜🐈‍⬛sub @nyachodayo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 12,
+                "tag": "Nachonyano"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "Nyaacho"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "nyachodayo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nanyanostore.com",
+                "end": 79,
+                "expanded_url": "http://nanyanostore.com",
+                "start": 56,
+                "url": "https://t.co/Ub4aOVJfcr"
+              },
+              {
+                "display_url": "twitch.tv/nacho_dayo",
+                "end": 105,
+                "expanded_url": "http://twitch.tv/nacho_dayo",
+                "start": 82,
+                "url": "https://t.co/OpxXBqzkwL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amashiro.com",
+                "end": 23,
+                "expanded_url": "http://amashiro.com",
+                "start": 0,
+                "url": "https://t.co/TIdkXkycsX"
+              }
+            ]
+          }
+        },
+        "id": "2183594916",
+        "name": "甘城なつき/Nachoneko💤",
+        "pinned_tweet_id": "1917870252198953443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404929851815915522/Z1df-mSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629129,
+          "following_count": 1442,
+          "like_count": 23123,
+          "listed_count": 3226,
+          "media_count": 163,
+          "tweet_count": 12031
+        },
+        "url": "https://t.co/TIdkXkycsX",
+        "username": "amsrntk3",
+        "verified": true
+      }
+    ]
+  }
+}

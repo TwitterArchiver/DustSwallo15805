@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1950044890429038927",
+    "created_at": "2025-07-29T04:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T05:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950045972203266424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        },
+        {
+          "end": 25,
+          "id": "1292331800585371648",
+          "start": 13,
+          "username": "Syryia_2460"
+        },
+        {
+          "end": 38,
+          "id": "1252463831185371136",
+          "start": 26,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950045972203266424",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950045517221941374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 @Syryia_2460 @Dadadajie01 说你呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1950044890429038927",
+        "created_at": "2025-07-29T04:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950045972203266424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            },
+            {
+              "end": 25,
+              "id": "1292331800585371648",
+              "start": 13,
+              "username": "Syryia_2460"
+            },
+            {
+              "end": 38,
+              "id": "1252463831185371136",
+              "start": 26,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950045972203266424",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950045517221941374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 @Syryia_2460 @Dadadajie01 说你呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "1950044890429038927",
+        "created_at": "2025-07-29T04:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950045517221941374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 29,
+              "id": "1292331800585371648",
+              "start": 17,
+              "username": "Syryia_2460"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950045517221941374",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950044890429038927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @Syryia_2460 说你呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 314,
+          "like_count": 23359,
+          "listed_count": 1,
+          "media_count": 385,
+          "tweet_count": 1598
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 1984,
+          "like_count": 33673,
+          "listed_count": 8,
+          "media_count": 970,
+          "tweet_count": 5822
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-09T05:28:19.000Z",
+        "description": "电子diy&半个集戳爱好者😉\nDE BI4KSR",
+        "id": "1292331800585371648",
+        "name": "Syryia.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877458134803034112/X9NVgeD-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 236,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 749
+        },
+        "username": "Syryia_2460",
+        "verified": false
+      }
+    ]
+  }
+}

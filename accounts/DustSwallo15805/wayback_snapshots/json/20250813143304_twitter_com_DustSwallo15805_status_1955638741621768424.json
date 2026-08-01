@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1955589870447181954",
+    "created_at": "2025-08-13T14:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T15:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955638741621768424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955638741621768424",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955589870447181954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD 姐姐靠你了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1955589870447181954",
+        "created_at": "2025-08-13T14:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T15:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955638741621768424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955638741621768424",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955589870447181954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 姐姐靠你了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929159802477010944",
+        "conversation_id": "1955589870447181954",
+        "created_at": "2025-08-13T11:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955589870447181954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dadadajie01/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Dadadajie01/status/1955262463563239483",
+              "start": 8,
+              "url": "https://t.co/HqDaHohTJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955589870447181954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955262463563239483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持每一个梦想 https://t.co/HqDaHohTJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 351,
+          "like_count": 26649,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 1761
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "中华土产顺直男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVLuS7"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "冬瓜片",
+        "pinned_tweet_id": "1954107074582859898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954942539724943360/9Gkq2S4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 145,
+          "like_count": 2988,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/KeoonVLuS7",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

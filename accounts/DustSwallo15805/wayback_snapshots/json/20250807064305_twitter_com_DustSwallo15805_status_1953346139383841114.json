@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953346125077069827"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1953346139383841114",
+    "created_at": "2025-08-07T06:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T07:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953346139383841114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eBD14s7Vqo",
+          "end": 31,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1953346139383841114/photo/1",
+          "media_key": "3_1953346125077069827",
+          "start": 8,
+          "url": "https://t.co/eBD14s7Vqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953346139383841114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于拿到手了😸 https://t.co/eBD14s7Vqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953346125077069827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxut85SawAMLjLn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953346125077069827"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1953346139383841114",
+        "created_at": "2025-08-07T06:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953346139383841114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eBD14s7Vqo",
+              "end": 31,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1953346139383841114/photo/1",
+              "media_key": "3_1953346125077069827",
+              "start": 8,
+              "url": "https://t.co/eBD14s7Vqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953346139383841114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于拿到手了😸 https://t.co/eBD14s7Vqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了，我还是少点不切实际的幻想吧",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 337,
+          "like_count": 25397,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1710
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

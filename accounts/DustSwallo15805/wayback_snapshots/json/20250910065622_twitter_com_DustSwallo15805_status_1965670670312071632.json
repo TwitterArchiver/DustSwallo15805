@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965669210799177729"
+      ],
+      "media_source_tweet_id": [
+        "1965669214909587538"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1965670670312071632",
+    "created_at": "2025-09-10T06:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965670670312071632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1499103632255455233",
+          "start": 3,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQxY73SG9r",
+          "end": 84,
+          "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/1965669214909587538/photo/1",
+          "media_key": "3_1965669210799177729",
+          "start": 61,
+          "url": "https://t.co/HQxY73SG9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965670670312071632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965669214909587538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKIYAMAYUGUMO: 在推上的大伙都在讨论新一年的林檎发布会有多抽象的时候，我们康康发了个大的（非贬义） https://t.co/HQxY73SG9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_1965669210799177729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0d1u4-bgAEX8VU.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965669210799177729"
+          ],
+          "media_source_tweet_id": [
+            "1965669214909587538"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1965670670312071632",
+        "created_at": "2025-09-10T06:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965670670312071632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1499103632255455233",
+              "start": 3,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQxY73SG9r",
+              "end": 84,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/1965669214909587538/photo/1",
+              "media_key": "3_1965669210799177729",
+              "start": 61,
+              "url": "https://t.co/HQxY73SG9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965670670312071632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965669214909587538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKIYAMAYUGUMO: 在推上的大伙都在讨论新一年的林檎发布会有多抽象的时候，我们康康发了个大的（非贬义） https://t.co/HQxY73SG9r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965669210799177729"
+          ]
+        },
+        "author_id": "1499103632255455233",
+        "conversation_id": "1965669214909587538",
+        "created_at": "2025-09-10T06:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965669214909587538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQxY73SG9r",
+              "end": 65,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/1965669214909587538/photo/1",
+              "media_key": "3_1965669210799177729",
+              "start": 42,
+              "url": "https://t.co/HQxY73SG9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965669214909587538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在推上的大伙都在讨论新一年的林檎发布会有多抽象的时候，我们康康发了个大的（非贬义） https://t.co/HQxY73SG9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1942947223589044408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 443,
+          "like_count": 36131,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 2268
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "Trying to save it but I haven't……",
+        "id": "1499103632255455233",
+        "location": "夕云艺术研究社",
+        "name": "秋山夕云",
+        "pinned_tweet_id": "1964780343019585973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910250028981182464/FntzR3MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 686,
+          "like_count": 14526,
+          "listed_count": 3,
+          "media_count": 967,
+          "tweet_count": 3781
+        },
+        "username": "AKIYAMAYUGUMO",
+        "verified": false
+      }
+    ]
+  }
+}

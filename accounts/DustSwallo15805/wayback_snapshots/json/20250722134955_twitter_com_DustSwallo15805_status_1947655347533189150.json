@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1947570826867261609",
+    "created_at": "2025-07-22T13:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T14:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947655347533189150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "Xinyi_ADHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947655347533189150",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947570826867261609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xinyi_ADHD 普速车好玩啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947570816151130113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcpVq-bEAEbVSH.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1947570826867261609",
+        "created_at": "2025-07-22T13:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T14:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947655347533189150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "Xinyi_ADHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947655347533189150",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947570826867261609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xinyi_ADHD 普速车好玩啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947570816151130113"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "1947570826867261609",
+        "created_at": "2025-07-22T08:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T09:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947570826867261609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQVd3qN8Id",
+              "end": 47,
+              "expanded_url": "https://x.com/Xinyi_ADHD/status/1947570826867261609/photo/1",
+              "media_key": "3_1947570816151130113",
+              "start": 24,
+              "url": "https://t.co/sQVd3qN8Id"
+            },
+            {
+              "display_url": "x.com/rosmarinou/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/rosmarinou/status/1947463176704188784",
+              "start": 48,
+              "url": "https://t.co/u5NO7FFZjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947570826867261609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947463176704188784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑问\n推u为什么都这么喜欢普速车\n飞机也不贵啊 https://t.co/sQVd3qN8Id https://t.co/u5NO7FFZjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 302,
+          "like_count": 22081,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 1551
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "勇敢的人先享受世界\nafab跨男同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpKvQ"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "立栀",
+        "pinned_tweet_id": "1946520101336777196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947324222071861248/7tZGQQ4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 1706,
+          "like_count": 13946,
+          "listed_count": 6,
+          "media_count": 1003,
+          "tweet_count": 10886
+        },
+        "url": "https://t.co/O8fBywpKvQ",
+        "username": "Xinyi_ADHD",
+        "verified": false
+      }
+    ]
+  }
+}

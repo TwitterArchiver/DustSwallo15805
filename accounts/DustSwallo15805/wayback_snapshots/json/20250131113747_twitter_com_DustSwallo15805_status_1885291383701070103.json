@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1885257732779106479",
+    "created_at": "2025-01-31T11:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T12:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885291383701070103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792546158323339264",
+          "start": 0,
+          "username": "imyourgrand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885291383701070103",
+    "in_reply_to_user_id": "1792546158323339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885290392280801669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyourgrand 这是个猪腿不是鸡腿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1885257732779106479",
+        "created_at": "2025-01-31T11:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T12:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885291383701070103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792546158323339264",
+              "start": 0,
+              "username": "imyourgrand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885291383701070103",
+        "in_reply_to_user_id": "1792546158323339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885290392280801669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyourgrand 这是个猪腿不是鸡腿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792546158323339264",
+        "conversation_id": "1885257732779106479",
+        "created_at": "2025-01-31T11:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T12:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885290392280801669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885290392280801669",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885257732779106479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 第一步，把包装袋撕开\n第二部，把鸡腿放嘴里\n第三步，吃掉鸡腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 97,
+          "like_count": 5074,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 550
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T13:21:33.000Z",
+        "description": "I'm learning English",
+        "id": "1792546158323339264",
+        "name": "Charlie·Holmes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866126994402127872/zTQoKpbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 13,
+          "like_count": 5834,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 269
+        },
+        "username": "imyourgrand",
+        "verified": false
+      }
+    ]
+  }
+}

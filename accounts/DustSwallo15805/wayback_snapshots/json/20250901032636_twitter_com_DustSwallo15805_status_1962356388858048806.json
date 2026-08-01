@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1962342272277819632",
+    "created_at": "2025-09-01T03:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T04:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962356388858048806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1287994312714670080",
+          "start": 0,
+          "username": "bozhuLANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962356388858048806",
+    "in_reply_to_user_id": "1287994312714670080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962356297686540391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bozhuLANG 想开了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1962342272277819632",
+        "created_at": "2025-09-01T03:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T04:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962356388858048806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287994312714670080",
+              "start": 0,
+              "username": "bozhuLANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962356388858048806",
+        "in_reply_to_user_id": "1287994312714670080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962356297686540391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bozhuLANG 想开了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287994312714670080",
+        "conversation_id": "1962342272277819632",
+        "created_at": "2025-09-01T03:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T04:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962356297686540391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962356297686540391",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962355721737298136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 借记，但是卡面好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 420,
+          "like_count": 33497,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2134
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T06:12:35.000Z",
+        "description": "「波珠朗」 aka 『BZLang』 ｜ Aircraft mechanic, graduated from Vehicle Proposal Engineering at Civil Aviation University of China. 中國民航大學 飛行器動力工程畢業生。打算换种活法最近...",
+        "id": "1287994312714670080",
+        "location": "CAN / ZGGG; TSN / ZBTJ. 系廣東仔! ",
+        "name": "BZLang",
+        "pinned_tweet_id": "1956679928054992906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289474702788960256/pwpMRqa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 1116,
+          "like_count": 141775,
+          "listed_count": 5,
+          "media_count": 3742,
+          "tweet_count": 23268
+        },
+        "username": "bozhuLANG",
+        "verified": false
+      }
+    ]
+  }
+}

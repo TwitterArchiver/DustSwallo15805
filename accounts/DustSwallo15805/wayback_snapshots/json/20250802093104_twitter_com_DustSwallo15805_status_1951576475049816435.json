@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951576463867801600",
+        "3_1951576463700033536"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1951576475049816435",
+    "created_at": "2025-08-02T09:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T10:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951576475049816435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rrWgqus7gP",
+          "end": 30,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1951576475049816435/photo/1",
+          "media_key": "3_1951576463867801600",
+          "start": 7,
+          "url": "https://t.co/rrWgqus7gP"
+        },
+        {
+          "display_url": "pic.x.com/rrWgqus7gP",
+          "end": 30,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1951576475049816435/photo/1",
+          "media_key": "3_1951576463700033536",
+          "start": 7,
+          "url": "https://t.co/rrWgqus7gP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951576475049816435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃饭喵（2） https://t.co/rrWgqus7gP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951576463867801600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVkdDjacAA1Fw9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1951576463700033536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVkdC7agAAXbqb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951576463867801600",
+            "3_1951576463700033536"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1951576475049816435",
+        "created_at": "2025-08-02T09:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951576475049816435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrWgqus7gP",
+              "end": 30,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1951576475049816435/photo/1",
+              "media_key": "3_1951576463867801600",
+              "start": 7,
+              "url": "https://t.co/rrWgqus7gP"
+            },
+            {
+              "display_url": "pic.x.com/rrWgqus7gP",
+              "end": 30,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1951576475049816435/photo/1",
+              "media_key": "3_1951576463700033536",
+              "start": 7,
+              "url": "https://t.co/rrWgqus7gP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951576475049816435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭喵（2） https://t.co/rrWgqus7gP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 320,
+          "like_count": 24225,
+          "listed_count": 1,
+          "media_count": 404,
+          "tweet_count": 1661
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

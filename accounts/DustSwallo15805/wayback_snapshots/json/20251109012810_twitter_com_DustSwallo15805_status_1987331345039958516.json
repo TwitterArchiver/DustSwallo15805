@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1987296465266610337",
+    "created_at": "2025-11-09T01:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T02:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987331345039958516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "EmaH1ro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987331345039958516",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987296465266610337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmaH1ro 为什么给的你这么低？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_1987296462481600512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5RLmn2bMAAoNXm.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1987296465266610337",
+        "created_at": "2025-11-09T01:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T02:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987331345039958516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "EmaH1ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987331345039958516",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987296465266610337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmaH1ro 为什么给的你这么低？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987296462481600512"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "conversation_id": "1987296465266610337",
+        "created_at": "2025-11-08T23:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T00:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987296465266610337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JdY40F0mVH",
+              "end": 37,
+              "expanded_url": "https://x.com/EmaH1ro/status/1987296465266610337/photo/1",
+              "media_key": "3_1987296462481600512",
+              "start": 14,
+              "url": "https://t.co/JdY40F0mVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987296465266610337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000额度的亲情卡，谁接 https://t.co/JdY40F0mVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1986988676354875520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 534,
+          "like_count": 51103,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 2830
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "爱发电 https://t.co/XVUMPt2jT6 | #穷玩卡系列",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "穷玩卡系列"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "afdian.com/a/EmaH1ro",
+                "end": 27,
+                "expanded_url": "https://afdian.com/a/EmaH1ro",
+                "start": 4,
+                "url": "https://t.co/XVUMPt2jT6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/5Gjxs4x",
+                "end": 23,
+                "expanded_url": "https://b23.tv/5Gjxs4x",
+                "start": 0,
+                "url": "https://t.co/PYsWBfVeoG"
+              }
+            ]
+          }
+        },
+        "id": "1973748660975587328",
+        "location": "Scotland, United Kingdom",
+        "name": "艾之希伤",
+        "pinned_tweet_id": "1986993769745698955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986521304879816704/ezBYGzK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 466,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/PYsWBfVeoG",
+        "username": "EmaH1ro",
+        "verified": true
+      }
+    ]
+  }
+}

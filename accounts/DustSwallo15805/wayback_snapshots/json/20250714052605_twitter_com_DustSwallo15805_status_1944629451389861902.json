@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944629441755549696"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1944629451389861902",
+    "created_at": "2025-07-14T05:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944629451389861902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLRmLzOX7K",
+          "end": 43,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1944629451389861902/photo/1",
+          "media_key": "3_1944629441755549696",
+          "start": 20,
+          "url": "https://t.co/CLRmLzOX7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944629451389861902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈\n谁家买来徕卡还送尼康充电器 https://t.co/CLRmLzOX7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944629441755549696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvy2LJebEAAus7W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944629441755549696"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1944629451389861902",
+        "created_at": "2025-07-14T05:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944629451389861902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLRmLzOX7K",
+              "end": 43,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1944629451389861902/photo/1",
+              "media_key": "3_1944629441755549696",
+              "start": 20,
+              "url": "https://t.co/CLRmLzOX7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944629451389861902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈\n谁家买来徕卡还送尼康充电器 https://t.co/CLRmLzOX7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "太君窝是良民啊太君",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 261,
+          "like_count": 19121,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 1374
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

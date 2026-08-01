@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1988150919251587245",
+    "created_at": "2025-11-11T07:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T08:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988150919251587245"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Suicaのペンギン",
+          "probability": 0.294,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 57,
+          "normalized_text": "坂崎千春",
+          "probability": 0.9642,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 129,
+          "normalized_text": "JR東日本",
+          "probability": 0.752,
+          "start": 125,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600808467476156416",
+          "start": 3,
+          "username": "ntv_tetsudobu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988150919251587245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10668
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988111243753009566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ntv_tetsudobu: 【速報】\n「Suicaのペンギン」来年度末で卒業へ新キャラクターへ\n\n坂崎千春さん作\n2001年度〜Suicaキャラクターで活躍\n\nモバイルSuicaアプリに\nコード決済を来年秋追加\nチャージ最大30万円まで\n\nJR東日本社長会見午後2時〜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_1988111240124870656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cwo7GasAANHp4.jpg",
+        "width": 998
+      },
+      {
+        "height": 1698,
+        "media_key": "3_1988111241517445120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cwpASbsAAI5_E.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1988150919251587245",
+        "created_at": "2025-11-11T07:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988150919251587245"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Suicaのペンギン",
+              "probability": 0.294,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "坂崎千春",
+              "probability": 0.9642,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 129,
+              "normalized_text": "JR東日本",
+              "probability": 0.752,
+              "start": 125,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600808467476156416",
+              "start": 3,
+              "username": "ntv_tetsudobu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988150919251587245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10668
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988111243753009566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ntv_tetsudobu: 【速報】\n「Suicaのペンギン」来年度末で卒業へ新キャラクターへ\n\n坂崎千春さん作\n2001年度〜Suicaキャラクターで活躍\n\nモバイルSuicaアプリに\nコード決済を来年秋追加\nチャージ最大30万円まで\n\nJR東日本社長会見午後2時〜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988111240124870656",
+            "3_1988111241517445120"
+          ]
+        },
+        "author_id": "1600808467476156416",
+        "conversation_id": "1988111243753009566",
+        "created_at": "2025-11-11T05:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988111243753009566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Suicaのペンギン",
+              "probability": 0.3387,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "坂崎千春",
+              "probability": 0.9628,
+              "start": 35,
+              "type": "Person"
+            },
+            {
+              "end": 110,
+              "normalized_text": "JR東日本",
+              "probability": 0.7335,
+              "start": 106,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 162,
+              "start": 151,
+              "tag": "Suicaのペンギン"
+            },
+            {
+              "end": 169,
+              "start": 163,
+              "tag": "JR東日本"
+            },
+            {
+              "end": 177,
+              "start": 170,
+              "tag": "日テレ鉄道部"
+            }
+          ],
+          "urls": [
+            {
+              "description": "JR東日本の社長が記者会見を行います。その模様を配信します。◇メンバーシップ「日テレNEWSクラブ」始まりました月額290円で所属歴に応じ色が変化しステータスアップしていくバッジ特典や、ライブ配信のチャットで使えるスタンプなどの基本機能が特典となります!! https://www.youtube.com/chan...",
+              "display_url": "youtube.com/live/t0oMlHr1w…",
+              "end": 149,
+              "expanded_url": "https://www.youtube.com/live/t0oMlHr1wjw?si=eR4OwkILQ3ymccTW",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1988111247645306883/crofZbzJ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988111247645306883/crofZbzJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 126,
+              "status": 200,
+              "title": "【ライブ】JR東日本 社長会見──社会ニュースライブ（日テレNEWS LIVE）",
+              "unwound_url": "https://www.youtube.com/live/t0oMlHr1wjw?si=eR4OwkILQ3ymccTW",
+              "url": "https://t.co/96H09KsD7L"
+            },
+            {
+              "display_url": "pic.x.com/UICpiglMR7",
+              "end": 201,
+              "expanded_url": "https://x.com/ntv_tetsudobu/status/1988111243753009566/photo/1",
+              "media_key": "3_1988111240124870656",
+              "start": 178,
+              "url": "https://t.co/UICpiglMR7"
+            },
+            {
+              "display_url": "pic.x.com/UICpiglMR7",
+              "end": 201,
+              "expanded_url": "https://x.com/ntv_tetsudobu/status/1988111243753009566/photo/1",
+              "media_key": "3_1988111241517445120",
+              "start": 178,
+              "url": "https://t.co/UICpiglMR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988111243753009566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1651,
+          "impression_count": 1599008,
+          "like_count": 14493,
+          "quote_count": 3548,
+          "reply_count": 242,
+          "retweet_count": 10668
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】\n「Suicaのペンギン」来年度末で卒業へ新キャラクターへ\n\n坂崎千春さん作\n2001年度〜Suicaキャラクターで活躍\n\nモバイルSuicaアプリに\nコード決済を来年秋追加\nチャージ最大30万円まで\n\nJR東日本社長会見午後2時〜LIVE👉️https://t.co/96H09KsD7L\n\n#Suicaのペンギン #JR東日本 #日テレ鉄道部 https://t.co/UICpiglMR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1987725337997001193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 535,
+          "like_count": 51825,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 2861
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-08T11:04:39.000Z",
+        "description": "日テレ社内の鉄道好きが集う「日テレ鉄道部」公式アカウント。ふだんのニュース番組でお伝えしきれない「鉄分たっぷり」の内容をお届け。最新の鉄道NEWSはもちろん、鉄兄ちゃんこと藤田大介アナの鉄道企画をご紹介。日テレ鉄道部YouTubeチャンネルの新作情報も！（つぶやきは日本テレビの公式見解を示すものではありません）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ntv_tetsudobu…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ntv_tetsudobu?si=za5XGXBhfPLXpGHM",
+                "start": 0,
+                "url": "https://t.co/1mlRLN7WRm"
+              }
+            ]
+          }
+        },
+        "id": "1600808467476156416",
+        "name": "日テレ鉄道部",
+        "pinned_tweet_id": "1986945745229119820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600809181082419200/B5aLE7Qf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26230,
+          "following_count": 70,
+          "like_count": 37,
+          "listed_count": 252,
+          "media_count": 1862,
+          "tweet_count": 4727
+        },
+        "url": "https://t.co/1mlRLN7WRm",
+        "username": "ntv_tetsudobu",
+        "verified": false
+      }
+    ]
+  }
+}

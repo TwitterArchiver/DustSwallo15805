@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939291836838727680"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1939291848683704494",
+    "created_at": "2025-06-29T11:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939291848683704494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gvDbuNgiSy",
+          "end": 30,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1939291848683704494/photo/1",
+          "media_key": "3_1939291836838727680",
+          "start": 7,
+          "url": "https://t.co/gvDbuNgiSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939291848683704494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这日子不过了 https://t.co/gvDbuNgiSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939291836838727680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum_ppqWUAATSFK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939291836838727680"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1939291848683704494",
+        "created_at": "2025-06-29T11:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939291848683704494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvDbuNgiSy",
+              "end": 30,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1939291848683704494/photo/1",
+              "media_key": "3_1939291836838727680",
+              "start": 7,
+              "url": "https://t.co/gvDbuNgiSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939291848683704494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这日子不过了 https://t.co/gvDbuNgiSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 218,
+          "like_count": 15294,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1141
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

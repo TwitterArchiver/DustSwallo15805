@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932746051171332096",
+        "3_1932746051058085891",
+        "3_1932746051066474499",
+        "3_1932746051162943488"
+      ],
+      "media_source_tweet_id": [
+        "1932746081332572520",
+        "1932746081332572520",
+        "1932746081332572520",
+        "1932746081332572520"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933119370169118857",
+    "created_at": "2025-06-12T11:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T12:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933119370169118857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3238495793",
+          "start": 3,
+          "username": "HirumeshiHaSoba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4hKBRhGiiv",
+          "end": 73,
+          "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+          "media_key": "3_1932746051171332096",
+          "start": 50,
+          "url": "https://t.co/4hKBRhGiiv"
+        },
+        {
+          "display_url": "pic.x.com/4hKBRhGiiv",
+          "end": 73,
+          "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+          "media_key": "3_1932746051058085891",
+          "start": 50,
+          "url": "https://t.co/4hKBRhGiiv"
+        },
+        {
+          "display_url": "pic.x.com/4hKBRhGiiv",
+          "end": 73,
+          "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+          "media_key": "3_1932746051066474499",
+          "start": 50,
+          "url": "https://t.co/4hKBRhGiiv"
+        },
+        {
+          "display_url": "pic.x.com/4hKBRhGiiv",
+          "end": 73,
+          "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+          "media_key": "3_1932746051162943488",
+          "start": 50,
+          "url": "https://t.co/4hKBRhGiiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933119370169118857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 220
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932746081332572520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HirumeshiHaSoba: 琉球政府時代のパトカーがカッコ良すぎるので復活してほしい https://t.co/4hKBRhGiiv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1932746051171332096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ-Sx0bMAAYAdH.jpg",
+        "width": 300
+      },
+      {
+        "height": 713,
+        "media_key": "3_1932746051058085891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ-SxZbMAMv_lQ.jpg",
+        "width": 1395
+      },
+      {
+        "height": 400,
+        "media_key": "3_1932746051066474499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ-SxbbMAMxuvv.jpg",
+        "width": 600
+      },
+      {
+        "height": 1328,
+        "media_key": "3_1932746051162943488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ-SxybMAAa9rr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932746051171332096",
+            "3_1932746051058085891",
+            "3_1932746051066474499",
+            "3_1932746051162943488"
+          ],
+          "media_source_tweet_id": [
+            "1932746081332572520",
+            "1932746081332572520",
+            "1932746081332572520",
+            "1932746081332572520"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933119370169118857",
+        "created_at": "2025-06-12T11:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T12:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933119370169118857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3238495793",
+              "start": 3,
+              "username": "HirumeshiHaSoba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 73,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051171332096",
+              "start": 50,
+              "url": "https://t.co/4hKBRhGiiv"
+            },
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 73,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051058085891",
+              "start": 50,
+              "url": "https://t.co/4hKBRhGiiv"
+            },
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 73,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051066474499",
+              "start": 50,
+              "url": "https://t.co/4hKBRhGiiv"
+            },
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 73,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051162943488",
+              "start": 50,
+              "url": "https://t.co/4hKBRhGiiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933119370169118857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 220
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932746081332572520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HirumeshiHaSoba: 琉球政府時代のパトカーがカッコ良すぎるので復活してほしい https://t.co/4hKBRhGiiv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932746051171332096",
+            "3_1932746051058085891",
+            "3_1932746051066474499",
+            "3_1932746051162943488"
+          ]
+        },
+        "author_id": "3238495793",
+        "conversation_id": "1932746081332572520",
+        "created_at": "2025-06-11T10:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T11:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932746081332572520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 52,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051171332096",
+              "start": 29,
+              "url": "https://t.co/4hKBRhGiiv"
+            },
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 52,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051058085891",
+              "start": 29,
+              "url": "https://t.co/4hKBRhGiiv"
+            },
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 52,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051066474499",
+              "start": 29,
+              "url": "https://t.co/4hKBRhGiiv"
+            },
+            {
+              "display_url": "pic.x.com/4hKBRhGiiv",
+              "end": 52,
+              "expanded_url": "https://x.com/HirumeshiHaSoba/status/1932746081332572520/photo/1",
+              "media_key": "3_1932746051162943488",
+              "start": 29,
+              "url": "https://t.co/4hKBRhGiiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932746081332572520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 35745,
+          "like_count": 1284,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 220
+        },
+        "reply_settings": "everyone",
+        "text": "琉球政府時代のパトカーがカッコ良すぎるので復活してほしい https://t.co/4hKBRhGiiv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "звезда（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 185,
+          "like_count": 11774,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 914
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-06T08:05:17.000Z",
+        "description": "◯NISSAN Austin A50 Cambridge◯NISSAN MARCH 12SR◯SUZUKI jimny JM◯SUZUKI K50◯",
+        "id": "3238495793",
+        "name": "コージロー",
+        "pinned_tweet_id": "1843612795922985296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1252126787812749312/WpePkaMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 575,
+          "like_count": 14481,
+          "listed_count": 2,
+          "media_count": 1870,
+          "tweet_count": 3497
+        },
+        "username": "HirumeshiHaSoba",
+        "verified": false
+      }
+    ]
+  }
+}

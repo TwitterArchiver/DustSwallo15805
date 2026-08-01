@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947976652027572224"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1947976660822937895",
+    "created_at": "2025-07-23T11:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T12:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947976660822937895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEAwZIpg0J",
+          "end": 35,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1947976660822937895/photo/1",
+          "media_key": "3_1947976652027572224",
+          "start": 12,
+          "url": "https://t.co/rEAwZIpg0J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947976660822937895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找中南海支局要邮戳去了 https://t.co/rEAwZIpg0J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1947976652027572224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwiacbbbsAAxcQ4.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947976652027572224"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1947976660822937895",
+        "created_at": "2025-07-23T11:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T12:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947976660822937895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEAwZIpg0J",
+              "end": 35,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1947976660822937895/photo/1",
+              "media_key": "3_1947976652027572224",
+              "start": 12,
+              "url": "https://t.co/rEAwZIpg0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947976660822937895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找中南海支局要邮戳去了 https://t.co/rEAwZIpg0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 304,
+          "like_count": 22335,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 1559
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

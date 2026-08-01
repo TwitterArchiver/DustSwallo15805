@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1955182412096528700",
+    "created_at": "2025-08-12T08:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955187293045899272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "any_300"
+        },
+        {
+          "end": 20,
+          "id": "1904539885769457665",
+          "start": 9,
+          "username": "yanmin1105"
+        },
+        {
+          "end": 33,
+          "id": "1746513679502503936",
+          "start": 21,
+          "username": "long_long99"
+        },
+        {
+          "end": 45,
+          "id": "1537858604724015104",
+          "start": 34,
+          "username": "tonghua245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955187293045899272",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955182412096528700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@any_300 @yanmin1105 @long_long99 @tonghua245 信用卡卡号哈人😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955182398628564993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyI0CFVaEAE-dLE.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955182400159485954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyI0CLCaEAIwcQd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955182400096571393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyI0CKzaEAEXmVC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1955182412096528700",
+        "created_at": "2025-08-12T08:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955187293045899272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "any_300"
+            },
+            {
+              "end": 20,
+              "id": "1904539885769457665",
+              "start": 9,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 33,
+              "id": "1746513679502503936",
+              "start": 21,
+              "username": "long_long99"
+            },
+            {
+              "end": 45,
+              "id": "1537858604724015104",
+              "start": 34,
+              "username": "tonghua245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955187293045899272",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955182412096528700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@any_300 @yanmin1105 @long_long99 @tonghua245 信用卡卡号哈人😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955182398628564993",
+            "3_1955182400159485954",
+            "3_1955182400096571393"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955182412096528700",
+        "created_at": "2025-08-12T08:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955182412096528700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1904539885769457665",
+              "start": 18,
+              "username": "yanmin1105"
+            },
+            {
+              "end": 42,
+              "id": "1746513679502503936",
+              "start": 30,
+              "username": "long_long99"
+            },
+            {
+              "end": 54,
+              "id": "1537858604724015104",
+              "start": 43,
+              "username": "tonghua245"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/As06nxWL8b",
+              "end": 78,
+              "expanded_url": "https://x.com/any_300/status/1955182412096528700/photo/1",
+              "media_key": "3_1955182398628564993",
+              "start": 55,
+              "url": "https://t.co/As06nxWL8b"
+            },
+            {
+              "display_url": "pic.x.com/As06nxWL8b",
+              "end": 78,
+              "expanded_url": "https://x.com/any_300/status/1955182412096528700/photo/1",
+              "media_key": "3_1955182400159485954",
+              "start": 55,
+              "url": "https://t.co/As06nxWL8b"
+            },
+            {
+              "display_url": "pic.x.com/As06nxWL8b",
+              "end": 78,
+              "expanded_url": "https://x.com/any_300/status/1955182412096528700/photo/1",
+              "media_key": "3_1955182400096571393",
+              "start": 55,
+              "url": "https://t.co/As06nxWL8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955182412096528700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们三个就开银趴吧 \n我是分奴（\n\n@yanmin1105 @long_long99 @tonghua245 https://t.co/As06nxWL8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 347,
+          "like_count": 26262,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 1743
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Sup｜MtX🏳️‍⚧️｜前世@ryq59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1951295845795864974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947808335241334784/uuZksHfd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 1911,
+          "like_count": 16882,
+          "listed_count": 7,
+          "media_count": 371,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "any_300",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1927273983600144815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 299,
+          "like_count": 1992,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 843
+        },
+        "username": "yanmin1105",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T12:44:54.000Z",
+        "description": "022   分享日常  是个brat👀",
+        "id": "1746513679502503936",
+        "location": "Hong Kong",
+        "name": "龙龙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954604777033351168/-mDwyqsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 1502,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1162
+        },
+        "username": "long_long99",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T18:04:08.000Z",
+        "description": "mtf 最喜欢@zihuan9011",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "zihuan9011"
+              }
+            ]
+          }
+        },
+        "id": "1537858604724015104",
+        "name": "江浔",
+        "pinned_tweet_id": "1949378587716731070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954770578524745728/xe6vihHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 686,
+          "like_count": 3680,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 526
+        },
+        "username": "tonghua245",
+        "verified": false
+      }
+    ]
+  }
+}

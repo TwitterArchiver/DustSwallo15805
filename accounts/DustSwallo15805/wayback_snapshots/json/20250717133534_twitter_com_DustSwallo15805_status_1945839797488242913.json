@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945822446881579102",
+    "created_at": "2025-07-17T13:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T14:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945839797488242913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1731220298610188288",
+          "start": 0,
+          "username": "hereisryq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945839797488242913",
+    "in_reply_to_user_id": "1731220298610188288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945833130352332897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hereisryq 我这种穷鬼有什么好羡慕的🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945833130352332897].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945833130352332897",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945833130352332897"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945822446881579102",
+        "created_at": "2025-07-17T13:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T14:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945839797488242913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1731220298610188288",
+              "start": 0,
+              "username": "hereisryq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945839797488242913",
+        "in_reply_to_user_id": "1731220298610188288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945833130352332897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hereisryq 我这种穷鬼有什么好羡慕的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 276,
+          "like_count": 20286,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 1464
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T07:54:25.000Z",
+        "description": "我愿意将我的内心展现给你们｜一些真话｜A piece of peace is needed here.｜主人@ckyf1134｜笨蛋@cy79p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "ckyf1134"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "username": "cy79p"
+              }
+            ]
+          }
+        },
+        "id": "1731220298610188288",
+        "name": "任意🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831306682170839040/tmDYzzIJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 157,
+          "like_count": 1307,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 176
+        },
+        "username": "hereisryq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NHK",
+          "id": "1034881250840915968",
+          "name": "NHK"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "1964607829031211185",
+    "created_at": "2025-09-07T08:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T09:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964607829031211185"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "NHKニュース",
+          "probability": 0.3242,
+          "start": 14,
+          "type": "Organization"
+        },
+        {
+          "end": 37,
+          "normalized_text": "石破首相　辞任",
+          "probability": 0.4668,
+          "start": 31,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "116548789",
+          "start": 3,
+          "username": "UN_NERV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964607829031211185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21509
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964573104392569171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @UN_NERV: 【NHKニュース速報 15:14】\n石破首相　辞任の意向固める"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1964607829031211185",
+        "created_at": "2025-09-07T08:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964607829031211185"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "NHKニュース",
+              "probability": 0.3242,
+              "start": 14,
+              "type": "Organization"
+            },
+            {
+              "end": 37,
+              "normalized_text": "石破首相　辞任",
+              "probability": 0.4668,
+              "start": 31,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "116548789",
+              "start": 3,
+              "username": "UN_NERV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964607829031211185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21509
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964573104392569171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @UN_NERV: 【NHKニュース速報 15:14】\n石破首相　辞任の意向固める"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "116548789",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1964573104392569171",
+        "created_at": "2025-09-07T06:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964573104392569171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "NHKニュース",
+              "probability": 0.3216,
+              "start": 1,
+              "type": "Organization"
+            },
+            {
+              "end": 24,
+              "normalized_text": "石破首相　辞任",
+              "probability": 0.4664,
+              "start": 18,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964573104392569171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1250,
+          "impression_count": 6145625,
+          "like_count": 66505,
+          "quote_count": 5668,
+          "reply_count": 0,
+          "retweet_count": 21509
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【NHKニュース速報 15:14】\n石破首相　辞任の意向固める"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|欢迎找我交换明信片喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 436,
+          "like_count": 35268,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 2220
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-22T21:35:21.000Z",
+        "description": "U.N.NERV ネルフです。お問い合わせなどは @NERVPR 宛にお願いいたします。 特務機関NERV防災アプリ → https://t.co/87eFK8f5hl Official English Account → @EN_NERV ※本アカウントの名称およびアイコンは、エヴァンゲリオン版権元の許諾に基づき使用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "NERVPR"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "username": "EN_NERV"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nerv.app",
+                "end": 84,
+                "expanded_url": "http://nerv.app",
+                "start": 61,
+                "url": "https://t.co/87eFK8f5hl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nerv.app",
+                "end": 23,
+                "expanded_url": "https://nerv.app/",
+                "start": 0,
+                "url": "https://t.co/Sc9oJAvu4d"
+              }
+            ]
+          }
+        },
+        "id": "116548789",
+        "location": "第3新東京市",
+        "name": "特務機関NERV",
+        "pinned_tweet_id": "1963955169370034560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1106073272502763520/3_992uWj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877349,
+          "following_count": 211,
+          "like_count": 19,
+          "listed_count": 45947,
+          "media_count": 98191,
+          "tweet_count": 368818
+        },
+        "url": "https://t.co/Sc9oJAvu4d",
+        "username": "UN_NERV",
+        "verified": true
+      }
+    ]
+  }
+}

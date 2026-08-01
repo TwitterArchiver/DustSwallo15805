@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1821540479496032544",
+    "created_at": "2024-08-08T15:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T16:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821570573086105764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760996307705982976",
+          "start": 0,
+          "username": "OvO_Qian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821570573086105764",
+    "in_reply_to_user_id": "1760996307705982976",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821540479496032544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_Qian take me home county roads"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821540479496032544",
+        "created_at": "2024-08-08T15:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T16:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821570573086105764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760996307705982976",
+              "start": 0,
+              "username": "OvO_Qian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821570573086105764",
+        "in_reply_to_user_id": "1760996307705982976",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821540479496032544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_Qian take me home county roads"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760996307705982976",
+        "conversation_id": "1821540479496032544",
+        "created_at": "2024-08-08T13:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T14:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821540479496032544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821540479496032544",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3761,
+          "like_count": 49,
+          "quote_count": 8,
+          "reply_count": 71,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "路过的推友分享一首自己永远也听不腻的歌～👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 107,
+          "like_count": 3922,
+          "listed_count": 0,
+          "tweet_count": 561
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T11:54:22.000Z",
+        "description": "暂时还是男的🍥丨无聊上来玩玩推丨🚪198＝vx好友位（朋友圈有脸照）+大尺度涩涩福利（视蘋群+图包+定制）丨全国✈️过门咨询线下",
+        "id": "1760996307705982976",
+        "location": "随机刷新",
+        "name": "铃木 花音🍥",
+        "pinned_tweet_id": "1807744637500850302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785920004632039424/jlwAGGKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13829,
+          "following_count": 228,
+          "like_count": 1284,
+          "listed_count": 29,
+          "tweet_count": 1285
+        },
+        "username": "OvO_Qian",
+        "verified": false
+      }
+    ]
+  }
+}

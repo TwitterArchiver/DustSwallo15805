@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1985735291785940998",
+    "created_at": "2025-11-04T15:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T16:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985735708875829266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985735708875829266",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985735291785940998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD 唉，卡奴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1985735282281627650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46_t-ZbQAIZ1NR.jpg",
+        "width": 1107
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1985735291785940998",
+        "created_at": "2025-11-04T15:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985735708875829266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985735708875829266",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985735291785940998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 唉，卡奴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985735282281627650"
+          ]
+        },
+        "author_id": "1929159802477010944",
+        "conversation_id": "1985735291785940998",
+        "created_at": "2025-11-04T15:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T16:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985735291785940998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ObCNLmnC4",
+              "end": 32,
+              "expanded_url": "https://x.com/1207auggnoD/status/1985735291785940998/photo/1",
+              "media_key": "3_1985735282281627650",
+              "start": 9,
+              "url": "https://t.co/4ObCNLmnC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985735291785940998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩(   )玩的 https://t.co/4ObCNLmnC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 525,
+          "like_count": 50151,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 2799
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "I see a window, a limit, to live it, or not at all",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVKX2z"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "饥饿的冬瓜",
+        "pinned_tweet_id": "1985401138695585999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981759977782988800/IY4Ns7j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 223,
+          "like_count": 13920,
+          "listed_count": 1,
+          "media_count": 756,
+          "tweet_count": 3054
+        },
+        "url": "https://t.co/KeoonVKX2z",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

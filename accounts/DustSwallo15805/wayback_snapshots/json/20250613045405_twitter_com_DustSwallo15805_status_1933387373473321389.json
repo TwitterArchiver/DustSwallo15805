@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933387365277708289"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933380740856885661",
+    "created_at": "2025-06-13T04:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T05:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933387373473321389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "Anastasia195113"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p3OmQvy6KL",
+          "end": 40,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1933387373473321389/photo/1",
+          "media_key": "3_1933387365277708289",
+          "start": 17,
+          "url": "https://t.co/p3OmQvy6KL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933387373473321389",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933380740856885661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anastasia195113 https://t.co/p3OmQvy6KL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_1933387365277708289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTFkLCbMAEtkHa.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933387365277708289"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933380740856885661",
+        "created_at": "2025-06-13T04:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933387373473321389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "Anastasia195113"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3OmQvy6KL",
+              "end": 40,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1933387373473321389/photo/1",
+              "media_key": "3_1933387365277708289",
+              "start": 17,
+              "url": "https://t.co/p3OmQvy6KL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933387373473321389",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933380740856885661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anastasia195113 https://t.co/p3OmQvy6KL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662058783215087617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1933380740856885661",
+        "created_at": "2025-06-13T04:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933380740856885661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933380740856885661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越讨厌华为了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "звезда（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 185,
+          "like_count": 11892,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 927
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。04年跨女，hrt纪念日2022.7.？匿名提问https://t.co/FqhYHQn60F 恋人@Sorsacerba ，家人@emiya436900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "Sorsacerba"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "emiya436900"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anastasia195113",
+                "end": 57,
+                "expanded_url": "https://ngl.link/anastasia195113",
+                "start": 34,
+                "url": "https://t.co/FqhYHQn60F"
+              }
+            ]
+          }
+        },
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1927301590777479428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 1501,
+          "like_count": 47121,
+          "listed_count": 7,
+          "media_count": 811,
+          "tweet_count": 24812
+        },
+        "username": "Anastasia195113",
+        "verified": false
+      }
+    ]
+  }
+}

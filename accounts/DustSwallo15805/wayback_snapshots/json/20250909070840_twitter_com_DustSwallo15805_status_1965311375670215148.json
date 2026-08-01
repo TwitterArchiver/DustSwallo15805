@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1377318190846382081",
+          "name": "Japan Ministry of Defense"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1377318190846382081",
+          "name": "Japan Ministry of Defense"
+        }
+      }
+    ],
+    "conversation_id": "1965311375670215148",
+    "created_at": "2025-09-09T07:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T08:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965311375670215148"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 101,
+          "normalized_text": "岡山",
+          "probability": 0.7331,
+          "start": 100,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "自衛隊"
+        },
+        {
+          "end": 58,
+          "start": 52,
+          "tag": "岡山ちほん"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "自衛隊"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "自衛官"
+        },
+        {
+          "end": 132,
+          "start": 126,
+          "tag": "自衛官募集"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "8番出口"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "316868933",
+          "start": 3,
+          "username": "okayamaPCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965311375670215148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3472
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964974489344622812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okayamaPCO: ＼🚪8番入口 #自衛隊 🚪／\n映画のブームにちゃっかり乗っかります！\n\n#岡山ちほん 本部の廊下に異変が起きている…？\nこのおじさんは誰なのか…？\n\n気になる方は、岡山ちほんまたは各募集事務所へ☺\n\n#自衛隊 #自衛官 #自衛官募集 #8番出口…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1964935687213666304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TamMrb0AAeDaS.jpg",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          }
+        ],
+        "conversation_id": "1965311375670215148",
+        "created_at": "2025-09-09T07:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T08:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965311375670215148"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 101,
+              "normalized_text": "岡山",
+              "probability": 0.7331,
+              "start": 100,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "自衛隊"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "岡山ちほん"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "自衛隊"
+            },
+            {
+              "end": 125,
+              "start": 121,
+              "tag": "自衛官"
+            },
+            {
+              "end": 132,
+              "start": 126,
+              "tag": "自衛官募集"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "8番出口"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "316868933",
+              "start": 3,
+              "username": "okayamaPCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965311375670215148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3472
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964974489344622812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okayamaPCO: ＼🚪8番入口 #自衛隊 🚪／\n映画のブームにちゃっかり乗っかります！\n\n#岡山ちほん 本部の廊下に異変が起きている…？\nこのおじさんは誰なのか…？\n\n気になる方は、岡山ちほんまたは各募集事務所へ☺\n\n#自衛隊 #自衛官 #自衛官募集 #8番出口…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964935687213666304"
+          ]
+        },
+        "author_id": "316868933",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299362485133213696",
+              "name": "Chugoku & Shikoku region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299369126809317376",
+              "name": "Okayama Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377318190846382081",
+              "name": "Japan Ministry of Defense"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1299369126809317376",
+              "name": "Okayama Prefecture"
+            }
+          }
+        ],
+        "conversation_id": "1964974489344622812",
+        "created_at": "2025-09-08T08:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964974489344622812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "岡山",
+              "probability": 0.7064,
+              "start": 84,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "自衛隊"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "岡山ちほん"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "自衛隊"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "自衛官"
+            },
+            {
+              "end": 116,
+              "start": 110,
+              "tag": "自衛官募集"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "8番出口"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "パロディ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IA071tl0Z",
+              "end": 152,
+              "expanded_url": "https://x.com/okayamaPCO/status/1964974489344622812/photo/1",
+              "media_key": "3_1964935687213666304",
+              "start": 129,
+              "url": "https://t.co/5IA071tl0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964974489344622812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 580,
+          "impression_count": 1019705,
+          "like_count": 12918,
+          "quote_count": 306,
+          "reply_count": 85,
+          "retweet_count": 3472
+        },
+        "reply_settings": "everyone",
+        "text": "＼🚪8番入口 #自衛隊 🚪／\n映画のブームにちゃっかり乗っかります！\n\n#岡山ちほん 本部の廊下に異変が起きている…？\nこのおじさんは誰なのか…？\n\n気になる方は、岡山ちほんまたは各募集事務所へ☺\n\n#自衛隊 #自衛官 #自衛官募集 #8番出口 #パロディ https://t.co/5IA071tl0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1964711873150095716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 442,
+          "like_count": 35852,
+          "listed_count": 2,
+          "media_count": 467,
+          "tweet_count": 2247
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-14T02:43:52.000Z",
+        "description": "はじめまして🍑自衛隊岡山地方協力本部の公式Xです！\n岡山ちほんの日常、自衛官募集情報、イベント情報をつぶやいております🐵🐶🐦\n運用ポリシー👉https://t.co/XeJ6e6lv48",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mod.go.jp/pco/okayama/to…",
+                "end": 93,
+                "expanded_url": "https://www.mod.go.jp/pco/okayama/top/sns.html",
+                "start": 70,
+                "url": "https://t.co/XeJ6e6lv48"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mod.go.jp/pco/okayama/",
+                "end": 23,
+                "expanded_url": "https://www.mod.go.jp/pco/okayama/",
+                "start": 0,
+                "url": "https://t.co/MoWM0HBh51"
+              }
+            ]
+          }
+        },
+        "id": "316868933",
+        "location": "岡山県岡山市北区下石井１丁目4-1",
+        "name": "🍑自衛隊岡山地方協力本部【公式】🍑",
+        "pinned_tweet_id": "1964883892126757005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907305705650229248/2B1W_2J4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24098,
+          "following_count": 397,
+          "like_count": 55322,
+          "listed_count": 496,
+          "media_count": 1711,
+          "tweet_count": 12569
+        },
+        "url": "https://t.co/MoWM0HBh51",
+        "username": "okayamaPCO",
+        "verified": false
+      }
+    ]
+  }
+}

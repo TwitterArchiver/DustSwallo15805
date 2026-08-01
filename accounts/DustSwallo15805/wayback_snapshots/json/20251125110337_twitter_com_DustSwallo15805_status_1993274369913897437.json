@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1993272133984862649",
+    "created_at": "2025-11-25T11:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T12:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993274369913897437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993274369913897437",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993272133984862649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 收到🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1993272133984862649",
+        "created_at": "2025-11-25T11:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993274369913897437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993274369913897437",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993272133984862649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 收到🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "1993272133984862649",
+        "created_at": "2025-11-25T10:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993272133984862649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/citric_baizhou…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/citric_baizhou/status/1992680151784776026",
+              "start": 5,
+              "url": "https://t.co/MnxX67OePk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993272133984862649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992680151784776026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是男的 https://t.co/MnxX67OePk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜2025，11｜欢迎找我交换明信片喵｜若有错字请谅解喵｜@Dust08461185294",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Dust08461185294"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1993105554513051953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 565,
+          "like_count": 55037,
+          "listed_count": 3,
+          "media_count": 538,
+          "tweet_count": 2991
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb | 对象：@bushi_8964｜私养の猫：@mtnya123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜本人男 | 对象🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "username": "mtnya123"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFlwV5"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Jonathan",
+        "pinned_tweet_id": "1990054768715411936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991869043738038272/SThnRrGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 250,
+          "like_count": 1503,
+          "listed_count": 2,
+          "media_count": 418,
+          "tweet_count": 2369
+        },
+        "url": "https://t.co/hxccVFlwV5",
+        "username": "Tim_Pan_5",
+        "verified": false
+      }
+    ]
+  }
+}

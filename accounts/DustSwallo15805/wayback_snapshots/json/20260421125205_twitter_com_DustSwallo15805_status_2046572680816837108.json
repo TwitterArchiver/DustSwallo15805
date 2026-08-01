@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046533592659161088"
+      ],
+      "media_source_tweet_id": [
+        "2046559573570359572"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046572680816837108",
+    "created_at": "2026-04-21T12:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046572680816837108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3aPafPLNG",
+          "end": 130,
+          "expanded_url": "https://x.com/BI3BXI/status/2046559573570359572/video/1",
+          "media_key": "13_2046533592659161088",
+          "start": 107,
+          "url": "https://t.co/s3aPafPLNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046572680816837108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046559573570359572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 有了！这下真就鼠鼠猫猫狗鸡了（\n继阿彬羊排饭之后 王串场又一地标性建筑—张连起刨冰\n\n张连起要真有这能耐也不至于上蓟县了（bushi\n\n《 上 蓟 县 》—黑麦BlackMic/肥龙和老西 https://t.co/s3aPafPLNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 146866,
+        "height": 1080,
+        "media_key": "13_2046533592659161088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046533592659161088/img/C8cuUIriO6oZXKdR.jpg",
+        "public_metrics": {
+          "view_count": 22
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046533592659161088/vid/avc1/1280x720/hEfuZarNKF0G3hLE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046533592659161088/pl/2i62RTL_YIEUapN2.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046533592659161088/vid/avc1/480x270/XkOGenMjGe3nrejE.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046533592659161088/vid/avc1/1920x1080/9vPYVE0Z4Vwu3_3g.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046533592659161088/vid/avc1/640x360/VJWWoksMdsJhvPcc.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046533592659161088"
+          ],
+          "media_source_tweet_id": [
+            "2046559573570359572"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046572680816837108",
+        "created_at": "2026-04-21T12:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046572680816837108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3aPafPLNG",
+              "end": 130,
+              "expanded_url": "https://x.com/BI3BXI/status/2046559573570359572/video/1",
+              "media_key": "13_2046533592659161088",
+              "start": 107,
+              "url": "https://t.co/s3aPafPLNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046572680816837108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046559573570359572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 有了！这下真就鼠鼠猫猫狗鸡了（\n继阿彬羊排饭之后 王串场又一地标性建筑—张连起刨冰\n\n张连起要真有这能耐也不至于上蓟县了（bushi\n\n《 上 蓟 县 》—黑麦BlackMic/肥龙和老西 https://t.co/s3aPafPLNG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046533592659161088"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046559573570359572",
+        "created_at": "2026-04-21T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046559573570359572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3aPafPLNG",
+              "end": 118,
+              "expanded_url": "https://x.com/BI3BXI/status/2046559573570359572/video/1",
+              "media_key": "13_2046533592659161088",
+              "start": 95,
+              "url": "https://t.co/s3aPafPLNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046559573570359572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有了！这下真就鼠鼠猫猫狗鸡了（\n继阿彬羊排饭之后 王串场又一地标性建筑—张连起刨冰\n\n张连起要真有这能耐也不至于上蓟县了（bushi\n\n《 上 蓟 县 》—黑麦BlackMic/肥龙和老西 https://t.co/s3aPafPLNG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 737,
+          "like_count": 75033,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 3951
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@Show5560｜ @XUEQIUxka ｜@Tennoujinyano\n\n婊子配狗 天长地久",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Show5560"
+              },
+              {
+                "end": 21,
+                "start": 11,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "Tennoujinyano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8924,
+          "following_count": 4091,
+          "like_count": 42594,
+          "listed_count": 25,
+          "media_count": 2794,
+          "tweet_count": 10926
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

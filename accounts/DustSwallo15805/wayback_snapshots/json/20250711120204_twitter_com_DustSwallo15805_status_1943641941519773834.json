@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943641868488830976",
+        "3_1943641868660609024"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1943641941519773834",
+    "created_at": "2025-07-11T12:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T13:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943641941519773834"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 0,
+          "tag": "SwallowingDust的铁道旅行"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bll5Eansdp",
+          "end": 58,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1943641941519773834/photo/1",
+          "media_key": "3_1943641868488830976",
+          "start": 35,
+          "url": "https://t.co/bll5Eansdp"
+        },
+        {
+          "display_url": "pic.x.com/bll5Eansdp",
+          "end": 58,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1943641941519773834/photo/1",
+          "media_key": "3_1943641868660609024",
+          "start": 35,
+          "url": "https://t.co/bll5Eansdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943641941519773834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#SwallowingDust的铁道旅行\n车没赶上又从京局回济局了😇 https://t.co/bll5Eansdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943641868488830976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvkz-0XacAA7NlW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943641868660609024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvkz-1AXkAA2sIx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943641868488830976",
+            "3_1943641868660609024"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1943641941519773834",
+        "created_at": "2025-07-11T12:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T13:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943641941519773834"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "SwallowingDust的铁道旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bll5Eansdp",
+              "end": 58,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1943641941519773834/photo/1",
+              "media_key": "3_1943641868488830976",
+              "start": 35,
+              "url": "https://t.co/bll5Eansdp"
+            },
+            {
+              "display_url": "pic.x.com/bll5Eansdp",
+              "end": 58,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1943641941519773834/photo/1",
+              "media_key": "3_1943641868660609024",
+              "start": 35,
+              "url": "https://t.co/bll5Eansdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943641941519773834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#SwallowingDust的铁道旅行\n车没赶上又从京局回济局了😇 https://t.co/bll5Eansdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 245,
+          "like_count": 18263,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1306
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1884419841253335337",
+    "created_at": "2025-01-29T01:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T02:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884420313007734821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1577558800575234048",
+          "start": 0,
+          "username": "ojirkf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884420313007734821",
+    "in_reply_to_user_id": "1577558800575234048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884419841253335337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ojirkf1 过年好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1884419841253335337",
+        "created_at": "2025-01-29T01:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T02:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884420313007734821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1577558800575234048",
+              "start": 0,
+              "username": "ojirkf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884420313007734821",
+        "in_reply_to_user_id": "1577558800575234048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884419841253335337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ojirkf1 过年好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577558800575234048",
+        "conversation_id": "1884419841253335337",
+        "created_at": "2025-01-29T01:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T02:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884419841253335337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884419841253335337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年好，大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 109,
+          "like_count": 4805,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 526
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T07:18:30.000Z",
+        "description": "砸碎立场一身轻，从此成为乐子人。",
+        "id": "1577558800575234048",
+        "name": "奥加尔科夫",
+        "pinned_tweet_id": "1629386382304219137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705778078922981376/cZfyB7_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 199,
+          "like_count": 3852,
+          "listed_count": 8,
+          "media_count": 1360,
+          "tweet_count": 15179
+        },
+        "username": "ojirkf1",
+        "verified": false
+      }
+    ]
+  }
+}

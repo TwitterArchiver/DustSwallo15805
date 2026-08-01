@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988497302043193349"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1988497339380887623",
+    "created_at": "2025-11-12T06:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T07:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988497339380887623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xt14Nbq3Kr",
+          "end": 28,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1988497339380887623/photo/1",
+          "media_key": "3_1988497302043193349",
+          "start": 5,
+          "url": "https://t.co/Xt14Nbq3Kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988497339380887623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高雅人士 https://t.co/Xt14Nbq3Kr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988497302043193349",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iPwr0bcAUMsmp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988497302043193349"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1988497339380887623",
+        "created_at": "2025-11-12T06:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988497339380887623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xt14Nbq3Kr",
+              "end": 28,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1988497339380887623/photo/1",
+              "media_key": "3_1988497302043193349",
+              "start": 5,
+              "url": "https://t.co/Xt14Nbq3Kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988497339380887623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高雅人士 https://t.co/Xt14Nbq3Kr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1987725337997001193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 536,
+          "like_count": 52058,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 2874
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

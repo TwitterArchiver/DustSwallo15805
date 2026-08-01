@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1975146569352765453",
+    "created_at": "2025-10-06T10:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T11:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975148405778444326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975148405778444326",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975146569352765453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD 我也要玩🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975146560288907264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2khVPFa4AAncla.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1975146569352765453",
+        "created_at": "2025-10-06T10:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975148405778444326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975148405778444326",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975146569352765453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 我也要玩🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975146560288907264"
+          ]
+        },
+        "author_id": "1929159802477010944",
+        "conversation_id": "1975146569352765453",
+        "created_at": "2025-10-06T10:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T11:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975146569352765453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKvqE6j85G",
+              "end": 29,
+              "expanded_url": "https://x.com/1207auggnoD/status/1975146569352765453/photo/1",
+              "media_key": "3_1975146560288907264",
+              "start": 6,
+              "url": "https://t.co/IKvqE6j85G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975146569352765453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样吗原来 https://t.co/IKvqE6j85G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜男的｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 488,
+          "like_count": 43038,
+          "listed_count": 2,
+          "media_count": 490,
+          "tweet_count": 2575
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "📡/📷/🔭/🚄,18yo,学生です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVLuS7"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "鸫瓜",
+        "pinned_tweet_id": "1971595178604716446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958141619838046210/iDR1pLRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 236,
+          "like_count": 10007,
+          "listed_count": 1,
+          "media_count": 618,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/KeoonVLuS7",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

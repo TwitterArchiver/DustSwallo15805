@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888876552307585024"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1888548024504520704",
+    "created_at": "2025-02-10T09:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T10:03:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888876558800327037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855957873538523136",
+          "start": 0,
+          "username": "1213serika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4d0oSdLJsq",
+          "end": 35,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1888876558800327037/photo/1",
+          "media_key": "3_1888876552307585024",
+          "start": 12,
+          "url": "https://t.co/4d0oSdLJsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888876558800327037",
+    "in_reply_to_user_id": "1855957873538523136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888548024504520704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1213serika https://t.co/4d0oSdLJsq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888876552307585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjajN3TbsAALKRh.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888876552307585024"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1888548024504520704",
+        "created_at": "2025-02-10T09:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T10:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888876558800327037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855957873538523136",
+              "start": 0,
+              "username": "1213serika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4d0oSdLJsq",
+              "end": 35,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1888876558800327037/photo/1",
+              "media_key": "3_1888876552307585024",
+              "start": 12,
+              "url": "https://t.co/4d0oSdLJsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888876558800327037",
+        "in_reply_to_user_id": "1855957873538523136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888548024504520704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1213serika https://t.co/4d0oSdLJsq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855957873538523136",
+        "conversation_id": "1888548024504520704",
+        "created_at": "2025-02-09T11:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888548024504520704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dweam.xyz/luck",
+              "end": 29,
+              "expanded_url": "https://dweam.xyz/luck",
+              "start": 6,
+              "status": 200,
+              "unwound_url": "https://dweam.xyz/luck",
+              "url": "https://t.co/RN2typ2guO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888548024504520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4939,
+          "like_count": 14,
+          "quote_count": 18,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "投胎抽卡機 https://t.co/RN2typ2guO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 123,
+          "like_count": 6295,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 627
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T12:57:09.000Z",
+        "description": "🚪500 不接線下 接受私信 請註明來意 歡迎給我錢",
+        "id": "1855957873538523136",
+        "location": "世界上只有一個serika其他都是假的ˋ^ˊ！",
+        "name": "せりか三号机",
+        "pinned_tweet_id": "1886381816199954736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886664903907532802/s0J7-XJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 347,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 328
+        },
+        "username": "1213serika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1968605626944131374",
+    "created_at": "2025-09-18T09:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T10:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968605626944131374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856699710981251072",
+          "start": 3,
+          "username": "Tim_Pan_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968605626944131374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968605501345906949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tim_Pan_5: 我素可爱小药酿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1968605626944131374",
+        "created_at": "2025-09-18T09:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968605626944131374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856699710981251072",
+              "start": 3,
+              "username": "Tim_Pan_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968605626944131374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968605501345906949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tim_Pan_5: 我素可爱小药酿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "1968605501345906949",
+        "created_at": "2025-09-18T09:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T10:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968605501345906949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968605501345906949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我素可爱小药酿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 457,
+          "like_count": 38309,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 2382
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 | 热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFlwV5"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "潘老师不是盘老师 （Dr. Bernard）",
+        "pinned_tweet_id": "1962165553478721988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 203,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 1805
+        },
+        "url": "https://t.co/hxccVFlwV5",
+        "username": "Tim_Pan_5",
+        "verified": false
+      }
+    ]
+  }
+}

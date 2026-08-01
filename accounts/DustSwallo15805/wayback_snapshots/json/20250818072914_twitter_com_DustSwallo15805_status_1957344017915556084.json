@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957343944666480640"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1957344017915556084",
+    "created_at": "2025-08-18T07:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T08:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957344017915556084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fKvTZIqT65",
+          "end": 23,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1957344017915556084/video/1",
+          "media_key": "13_1957343944666480640",
+          "start": 0,
+          "url": "https://t.co/fKvTZIqT65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957344017915556084",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/fKvTZIqT65"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1733,
+        "height": 1280,
+        "media_key": "13_1957343944666480640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957343944666480640/img/3MLMpGPyL2D75FUJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957343944666480640/vid/avc1/320x568/iFYMcZw6J8Sv2TKf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957343944666480640/vid/avc1/480x852/oRkDQxgdZbFBMX9R.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957343944666480640/vid/avc1/720x1280/aazhRStvJn8ra7sr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957343944666480640/pl/l-FW3jC2pf6ZFhK1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957343944666480640"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1957344017915556084",
+        "created_at": "2025-08-18T07:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957344017915556084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKvTZIqT65",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1957344017915556084/video/1",
+              "media_key": "13_1957343944666480640",
+              "start": 0,
+              "url": "https://t.co/fKvTZIqT65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957344017915556084",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fKvTZIqT65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "玩好每一天",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 357,
+          "like_count": 28043,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 1803
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

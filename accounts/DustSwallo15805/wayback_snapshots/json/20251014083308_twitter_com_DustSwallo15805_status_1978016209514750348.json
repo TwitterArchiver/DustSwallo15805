@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1977742378044637591",
+    "created_at": "2025-10-14T08:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T09:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978016209514750348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1287994312714670080",
+          "start": 0,
+          "username": "bozhuLANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978016209514750348",
+    "in_reply_to_user_id": "1287994312714670080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978016094238462115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bozhuLANG 在中银的ATM机里找到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1977742378044637591",
+        "created_at": "2025-10-14T08:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978016209514750348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287994312714670080",
+              "start": 0,
+              "username": "bozhuLANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978016209514750348",
+        "in_reply_to_user_id": "1287994312714670080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978016094238462115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bozhuLANG 在中银的ATM机里找到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287994312714670080",
+        "conversation_id": "1977742378044637591",
+        "created_at": "2025-10-14T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978016094238462115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978016094238462115",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977742378044637591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 挂失（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 500,
+          "like_count": 45419,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 2659
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T06:12:35.000Z",
+        "description": "「波珠朗」 aka 『BZLang』｜ Aircraft mechanic, graduated from Vehicle Proposal Engineering at National Civil Aviation University of China. 中國民航大學 飛行器動力工程。",
+        "id": "1287994312714670080",
+        "location": "CAN / ZGGG; TSN / ZBTJ. 系廣東仔! ",
+        "name": "BZLang",
+        "pinned_tweet_id": "1761871385624707272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289474702788960256/pwpMRqa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 1140,
+          "like_count": 148050,
+          "listed_count": 5,
+          "media_count": 3875,
+          "tweet_count": 24421
+        },
+        "username": "bozhuLANG",
+        "verified": false
+      }
+    ]
+  }
+}

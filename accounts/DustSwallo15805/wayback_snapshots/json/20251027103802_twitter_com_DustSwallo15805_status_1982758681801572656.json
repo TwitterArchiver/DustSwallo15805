@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982724169679708160"
+      ],
+      "media_source_tweet_id": [
+        "1982741560237465709"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1982758681801572656",
+    "created_at": "2025-10-27T10:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982758681801572656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "JDE_Alva"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TDzKYWjdBd",
+          "end": 49,
+          "expanded_url": "https://x.com/JDE_Alva/status/1982741560237465709/photo/1",
+          "media_key": "3_1982724169679708160",
+          "start": 26,
+          "url": "https://t.co/TDzKYWjdBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982758681801572656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982741560237465709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDE_Alva: 很符合我的学习状态（？ https://t.co/TDzKYWjdBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_1982724169679708160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QNIJ1XIAANqt2.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982724169679708160"
+          ],
+          "media_source_tweet_id": [
+            "1982741560237465709"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1982758681801572656",
+        "created_at": "2025-10-27T10:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982758681801572656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "JDE_Alva"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDzKYWjdBd",
+              "end": 49,
+              "expanded_url": "https://x.com/JDE_Alva/status/1982741560237465709/photo/1",
+              "media_key": "3_1982724169679708160",
+              "start": 26,
+              "url": "https://t.co/TDzKYWjdBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982758681801572656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982741560237465709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDE_Alva: 很符合我的学习状态（？ https://t.co/TDzKYWjdBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982724169679708160"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1982741560237465709",
+        "created_at": "2025-10-27T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982741560237465709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDzKYWjdBd",
+              "end": 35,
+              "expanded_url": "https://x.com/JDE_Alva/status/1982741560237465709/photo/1",
+              "media_key": "3_1982724169679708160",
+              "start": 12,
+              "url": "https://t.co/TDzKYWjdBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982741560237465709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很符合我的学习状态（？ https://t.co/TDzKYWjdBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982640234794717184/L-ufHMbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 507,
+          "like_count": 48120,
+          "listed_count": 2,
+          "media_count": 505,
+          "tweet_count": 2738
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Coach.｜Inherited from @ryq59｜Enby.｜#Worlds2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 35,
+                "tag": "Worlds2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 22,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3g8T"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥（互fo寻回中）",
+        "pinned_tweet_id": "1975487873429459064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2727,
+          "following_count": 2225,
+          "like_count": 22989,
+          "listed_count": 11,
+          "media_count": 503,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/HOju3R3g8T",
+        "username": "JDE_Alva",
+        "verified": true
+      }
+    ]
+  }
+}

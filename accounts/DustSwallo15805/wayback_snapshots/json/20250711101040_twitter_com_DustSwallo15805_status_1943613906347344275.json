@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1943613758401867776"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1943613906347344275",
+    "created_at": "2025-07-11T10:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T11:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943613906347344275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1au0ECxf7",
+          "end": 32,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1943613906347344275/video/1",
+          "media_key": "13_1943613758401867776",
+          "start": 9,
+          "url": "https://t.co/N1au0ECxf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943613906347344275",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "crh380bl https://t.co/N1au0ECxf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30703,
+        "height": 1920,
+        "media_key": "13_1943613758401867776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1943613758401867776/img/svY3MUrJzjhiPSob.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943613758401867776/vid/avc1/320x568/v5vUMfzZa245cR24.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943613758401867776/vid/avc1/480x852/btIudIbe6qTwj65z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1943613758401867776/vid/avc1/720x1280/NrjDqx7rjDePKmIX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1943613758401867776/pl/UPiwmiQN27H-UJ3S.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1943613758401867776"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1943613906347344275",
+        "created_at": "2025-07-11T10:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943613906347344275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1au0ECxf7",
+              "end": 32,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1943613906347344275/video/1",
+              "media_key": "13_1943613758401867776",
+              "start": 9,
+              "url": "https://t.co/N1au0ECxf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943613906347344275",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "crh380bl https://t.co/N1au0ECxf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 245,
+          "like_count": 18230,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 1303
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

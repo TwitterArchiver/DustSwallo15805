@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1940114588579897726",
+    "created_at": "2025-07-01T18:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T19:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940114588579897726"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "登顶喵",
+          "probability": 0.4511,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "description": "登顶喵",
+          "display_url": "x.com/i/broadcasts/1…",
+          "end": 27,
+          "expanded_url": "https://x.com/i/broadcasts/1PlJQMNEQpYJE",
+          "start": 4,
+          "status": 200,
+          "title": "SwallowingDust",
+          "unwound_url": "https://twitter.com/i/broadcasts/1PlJQMNEQpYJE",
+          "url": "https://t.co/RFuHMSjwxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940114588579897726",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "登顶喵 https://t.co/RFuHMSjwxn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1940114588579897726",
+        "created_at": "2025-07-01T18:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T19:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940114588579897726"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "登顶喵",
+              "probability": 0.4511,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "登顶喵",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/broadcasts/1PlJQMNEQpYJE",
+              "start": 4,
+              "status": 200,
+              "title": "SwallowingDust",
+              "unwound_url": "https://twitter.com/i/broadcasts/1PlJQMNEQpYJE",
+              "url": "https://t.co/RFuHMSjwxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940114588579897726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "登顶喵 https://t.co/RFuHMSjwxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 223,
+          "like_count": 15826,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 1184
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

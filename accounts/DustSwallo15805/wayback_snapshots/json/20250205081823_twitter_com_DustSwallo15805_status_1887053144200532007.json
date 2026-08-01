@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1887033872485114363",
+    "created_at": "2025-02-05T08:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T09:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887053144200532007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887053144200532007",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887033872485114363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 确实，能做到这样也没谁了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1887033872485114363",
+        "created_at": "2025-02-05T08:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887053144200532007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887053144200532007",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887033872485114363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 确实，能做到这样也没谁了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "1887033872485114363",
+        "created_at": "2025-02-05T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887033872485114363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manakaao68/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/manakaao68/status/1887032423642489341",
+              "start": 17,
+              "url": "https://t.co/NJ5eXzngfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887033872485114363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887032423642489341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😂😂🤣完美正确的表达了作者的立场 https://t.co/NJ5eXzngfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 111,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 583
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あお/真中藍/真中苍 です 国旗设计者\n🍥🏳️/mtf/交通/喜欢变可爱喵/喜欢看恋爱小行星\n同类互fo 谢绝鉴证 /橘子教🍊教主\n@Tw2027Liberate（）\n炸山公交截团喊话BOT（大嘘）\n落后能源绝对不会被报废的（） \n我永远爱你！！@heiwawomamore （）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Tw2027Liberate"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集团",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍊🍔",
+        "pinned_tweet_id": "1877669811678802255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885008919795556353/gedKif8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 3535,
+          "like_count": 15545,
+          "listed_count": 7,
+          "media_count": 878,
+          "tweet_count": 19486
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988188242932592640",
+        "3_1988188255511326720",
+        "3_1988188275807510528",
+        "3_1988188275870470145"
+      ],
+      "media_source_tweet_id": [
+        "1988188281432109137",
+        "1988188281432109137",
+        "1988188281432109137",
+        "1988188281432109137"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1988567669927219299",
+    "created_at": "2025-11-12T11:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988567669927219299"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "東日本旅客鉄道",
+          "probability": 0.7735,
+          "start": 20,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1568841598875877377",
+          "start": 3,
+          "username": "Gocce_di_vento"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HpUzyU97XL",
+          "end": 66,
+          "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+          "media_key": "3_1988188242932592640",
+          "start": 43,
+          "url": "https://t.co/HpUzyU97XL"
+        },
+        {
+          "display_url": "pic.x.com/HpUzyU97XL",
+          "end": 66,
+          "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+          "media_key": "3_1988188255511326720",
+          "start": 43,
+          "url": "https://t.co/HpUzyU97XL"
+        },
+        {
+          "display_url": "pic.x.com/HpUzyU97XL",
+          "end": 66,
+          "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+          "media_key": "3_1988188275807510528",
+          "start": 43,
+          "url": "https://t.co/HpUzyU97XL"
+        },
+        {
+          "display_url": "pic.x.com/HpUzyU97XL",
+          "end": 66,
+          "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+          "media_key": "3_1988188275870470145",
+          "start": 43,
+          "url": "https://t.co/HpUzyU97XL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988567669927219299",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988188281432109137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gocce_di_vento: 東日本旅客鉄道会社代表取締役社長退任で今これ https://t.co/HpUzyU97XL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 815,
+        "media_key": "3_1988188242932592640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d2rE6a8AAexqN.jpg",
+        "width": 1000
+      },
+      {
+        "height": 525,
+        "media_key": "3_1988188255511326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d2rzxbMAAZaEc.jpg",
+        "width": 943
+      },
+      {
+        "height": 401,
+        "media_key": "3_1988188275807510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d2s_YaYAAkDWs.jpg",
+        "width": 720
+      },
+      {
+        "height": 404,
+        "media_key": "3_1988188275870470145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d2s_nbEAEMGzs.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988188242932592640",
+            "3_1988188255511326720",
+            "3_1988188275807510528",
+            "3_1988188275870470145"
+          ],
+          "media_source_tweet_id": [
+            "1988188281432109137",
+            "1988188281432109137",
+            "1988188281432109137",
+            "1988188281432109137"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1988567669927219299",
+        "created_at": "2025-11-12T11:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988567669927219299"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "東日本旅客鉄道",
+              "probability": 0.7735,
+              "start": 20,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1568841598875877377",
+              "start": 3,
+              "username": "Gocce_di_vento"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 66,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188242932592640",
+              "start": 43,
+              "url": "https://t.co/HpUzyU97XL"
+            },
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 66,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188255511326720",
+              "start": 43,
+              "url": "https://t.co/HpUzyU97XL"
+            },
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 66,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188275807510528",
+              "start": 43,
+              "url": "https://t.co/HpUzyU97XL"
+            },
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 66,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188275870470145",
+              "start": 43,
+              "url": "https://t.co/HpUzyU97XL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988567669927219299",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988188281432109137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gocce_di_vento: 東日本旅客鉄道会社代表取締役社長退任で今これ https://t.co/HpUzyU97XL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988188242932592640",
+            "3_1988188255511326720",
+            "3_1988188275807510528",
+            "3_1988188275870470145"
+          ]
+        },
+        "author_id": "1568841598875877377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1988188281432109137",
+        "created_at": "2025-11-11T10:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988188281432109137"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "東日本旅客鉄道",
+              "probability": 0.7287,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 46,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188242932592640",
+              "start": 23,
+              "url": "https://t.co/HpUzyU97XL"
+            },
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 46,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188255511326720",
+              "start": 23,
+              "url": "https://t.co/HpUzyU97XL"
+            },
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 46,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188275807510528",
+              "start": 23,
+              "url": "https://t.co/HpUzyU97XL"
+            },
+            {
+              "display_url": "pic.x.com/HpUzyU97XL",
+              "end": 46,
+              "expanded_url": "https://x.com/Gocce_di_vento/status/1988188281432109137/photo/1",
+              "media_key": "3_1988188275870470145",
+              "start": 23,
+              "url": "https://t.co/HpUzyU97XL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988188281432109137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 53683,
+          "like_count": 1504,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "東日本旅客鉄道会社代表取締役社長退任で今これ https://t.co/HpUzyU97XL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1987725337997001193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 536,
+          "like_count": 52148,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 2876
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-11T06:00:21.000Z",
+        "description": "東国の人間　無言フォロー失礼します。\n(最近はrt中心)\nハルカ、ニコ、たぬき推し\n\nフォロバ99.9%(ブロバも)\nサブ垢→　@four_five_four \nイラスト垢→@yabashira_note",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "four_five_four"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "yabashira_note"
+              }
+            ]
+          }
+        },
+        "id": "1568841598875877377",
+        "location": "3次元",
+        "name": "やばしら@ニコ実装期成同盟会",
+        "pinned_tweet_id": "1955642716332999145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941885830118957056/_Zvc4nGc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 2734,
+          "like_count": 204391,
+          "listed_count": 2,
+          "media_count": 4936,
+          "tweet_count": 90710
+        },
+        "username": "Gocce_di_vento",
+        "verified": false
+      }
+    ]
+  }
+}

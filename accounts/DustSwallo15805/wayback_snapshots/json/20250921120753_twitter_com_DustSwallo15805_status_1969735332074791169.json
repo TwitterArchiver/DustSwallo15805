@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1969720034848378891",
+    "created_at": "2025-09-21T12:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T13:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969735332074791169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554286007096590336",
+          "start": 0,
+          "username": "Mr_LDYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969735332074791169",
+    "in_reply_to_user_id": "1554286007096590336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969720034848378891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mr_LDYS 看样子效果不错，有空窝也要试试😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1969720034848378891",
+        "created_at": "2025-09-21T12:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969735332074791169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554286007096590336",
+              "start": 0,
+              "username": "Mr_LDYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969735332074791169",
+        "in_reply_to_user_id": "1554286007096590336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969720034848378891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mr_LDYS 看样子效果不错，有空窝也要试试😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554286007096590336",
+        "conversation_id": "1969720034848378891",
+        "created_at": "2025-09-21T11:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969720034848378891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mr_LDYS/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Mr_LDYS/status/1969716259958018287",
+              "start": 25,
+              "url": "https://t.co/SucuPvpbpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969720034848378891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969716259958018287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再也不乱吃药了（）阳痿一整天的感觉真不好受😵‍💫 https://t.co/SucuPvpbpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜友跨顺男｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 462,
+          "like_count": 39008,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 2425
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T02:00:47.000Z",
+        "description": "欢迎来和我一起Van♂ 😋｜没人爱我｜高中生牛马麦当劳学兼｜对一切性向和性别认同政治认同友好｜\n欢迎扩列喵｜\n08/178cm/75kg/0.5/m偏0不10（side）/Gay🏳️‍🌈 xp很杂｜\n里@JasonKazuha｜\n🔞&⚠️情绪低落警告｜\n头像选自@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "Now_shika_7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/John_Kazuha",
+                "end": 23,
+                "expanded_url": "http://t.me/John_Kazuha",
+                "start": 0,
+                "url": "https://t.co/k7YP9BH7Sv"
+              }
+            ]
+          }
+        },
+        "id": "1554286007096590336",
+        "location": "天津市",
+        "name": "John.Kazuha",
+        "pinned_tweet_id": "1952234170568351796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909598615984893952/2YdD-3Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 2525,
+          "like_count": 6477,
+          "listed_count": 3,
+          "media_count": 633,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/k7YP9BH7Sv",
+        "username": "Mr_LDYS",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1950179264579469739",
+    "created_at": "2025-07-29T13:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T14:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950191637105430728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950191637105430728",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950179264579469739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonzyt 好可爱🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_1950179254853099521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBtsyXa4AEx61w.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1950179264579469739",
+        "created_at": "2025-07-29T13:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T14:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950191637105430728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950191637105430728",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950179264579469739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt 好可爱🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950179254853099521"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1950179264579469739",
+        "created_at": "2025-07-29T12:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T13:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950179264579469739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rARbwF1gWh",
+              "end": 46,
+              "expanded_url": "https://x.com/Jasonzyt/status/1950179264579469739/photo/1",
+              "media_key": "3_1950179254853099521",
+              "start": 23,
+              "url": "https://t.co/rARbwF1gWh"
+            },
+            {
+              "display_url": "x.com/jasonzyt/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/jasonzyt/status/1950068908276285718",
+              "start": 47,
+              "url": "https://t.co/JsRK7u0RCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950179264579469739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 366,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950068908276285718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来ootd（\n防止辣眼睛加个敏感👉🏻👈🏻 https://t.co/rARbwF1gWh https://t.co/JsRK7u0RCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 314,
+          "like_count": 23398,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 1602
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁事学生 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 业余摄影 | 交通迷 ✈🚅🚢 | Ham(等呼号中) | Formerly at @levimc_org | 愿望是大家都能天天开心 | ❤ Friendly to EVERYONE ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonz.yt/about",
+                "end": 23,
+                "expanded_url": "https://jasonz.yt/about",
+                "start": 0,
+                "url": "https://t.co/IqxpClrmeQ"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "JasonZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878308194407313408/MJZNf2sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 574,
+          "like_count": 38296,
+          "listed_count": 4,
+          "media_count": 786,
+          "tweet_count": 9822
+        },
+        "url": "https://t.co/IqxpClrmeQ",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

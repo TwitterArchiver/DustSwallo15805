@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "1935680197975757029",
+    "created_at": "2025-06-19T12:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935680197975757029"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 17,
+          "tag": "ProjectV_80"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1411922503664951298",
+          "start": 3,
+          "username": "LeoChan1202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935680197975757029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935332724526694761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LeoChan1202: #ProjectV_80 DAY-23 : “Flying Tigers”Squadron，ROCAF🇹🇼🇺🇸\n-1942，China Yunnan-Burma Road front\n\n中華民國空軍美籍志願大隊，「飛虎隊」 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_1935332615126499328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuuwnbXwAAt9KF.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1935680197975757029",
+        "created_at": "2025-06-19T12:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935680197975757029"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "ProjectV_80"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1411922503664951298",
+              "start": 3,
+              "username": "LeoChan1202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935680197975757029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935332724526694761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LeoChan1202: #ProjectV_80 DAY-23 : “Flying Tigers”Squadron，ROCAF🇹🇼🇺🇸\n-1942，China Yunnan-Burma Road front\n\n中華民國空軍美籍志願大隊，「飛虎隊」 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935332615126499328"
+          ]
+        },
+        "author_id": "1411922503664951298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1935332724526694761",
+        "created_at": "2025-06-18T13:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T14:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935332724526694761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ProjectV_80"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HllEbTsMzy",
+              "end": 135,
+              "expanded_url": "https://x.com/LeoChan1202/status/1935332724526694761/photo/1",
+              "media_key": "3_1935332615126499328",
+              "start": 112,
+              "url": "https://t.co/HllEbTsMzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935332724526694761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 7529,
+          "like_count": 723,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "#ProjectV_80 DAY-23 : “Flying Tigers”Squadron，ROCAF🇹🇼🇺🇸\n-1942，China Yunnan-Burma Road front\n\n中華民國空軍美籍志願大隊，「飛虎隊」 https://t.co/HllEbTsMzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 198,
+          "like_count": 13054,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1025
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T05:38:58.000Z",
+        "description": "歷史/軍事/ACG/二創 /(ww2 mainly)military ＆history uniform with anime girls           \nWeeb from Taiwan.      \nCN/EN ok        \nhttps://t.co/hCQ77NO4s8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9495199",
+                "end": 144,
+                "expanded_url": "http://pixiv.net/users/9495199",
+                "start": 121,
+                "url": "https://t.co/hCQ77NO4s8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/leo1202_painti…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/leo1202_painting?igsh=MXA4ejc3Z2s0aXcwNw==",
+                "start": 0,
+                "url": "https://t.co/CbWW9jjJbL"
+              }
+            ]
+          }
+        },
+        "id": "1411922503664951298",
+        "location": "新北市, 台灣",
+        "name": "流泉 Leo Chan1202",
+        "pinned_tweet_id": "1920494066326004222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1577652846803054597/KCIs3i3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3625,
+          "following_count": 497,
+          "like_count": 2160,
+          "listed_count": 26,
+          "media_count": 90,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/CbWW9jjJbL",
+        "username": "LeoChan1202",
+        "verified": true
+      }
+    ]
+  }
+}

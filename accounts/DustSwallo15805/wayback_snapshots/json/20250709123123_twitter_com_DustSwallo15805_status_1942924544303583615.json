@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1941807250856615936"
+      ],
+      "media_source_tweet_id": [
+        "1941807326144663981"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1942924544303583615",
+    "created_at": "2025-07-09T12:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T13:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942924544303583615"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "サーシャさん",
+          "probability": 0.699,
+          "start": 36,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 65,
+          "tag": "ノラホルカ"
+        },
+        {
+          "end": 82,
+          "start": 72,
+          "tag": "第12回ノラホルカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1373461008509902848",
+          "start": 3,
+          "username": "vaida_miri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RPVsORsPZ5",
+          "end": 106,
+          "expanded_url": "https://x.com/vaida_miri/status/1941807326144663981/video/1",
+          "media_key": "13_1941807250856615936",
+          "start": 83,
+          "url": "https://t.co/RPVsORsPZ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942924544303583615",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941807326144663981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vaida_miri: 踊っていいよ、とのことだったので..\n\nサーシャさんの🪗に合わせて、\n即興で踊ってきました⚔️\n\n#ノラホルカ\n#第12回ノラホルカ https://t.co/RPVsORsPZ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20056,
+        "height": 960,
+        "media_key": "13_1941807250856615936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941807250856615936/img/lnBRTup4HWU4mzST.jpg",
+        "public_metrics": {
+          "view_count": 1987
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941807250856615936/vid/avc1/320x426/nFRctbluW9lr0zvO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941807250856615936/vid/avc1/480x640/9LrFsOZDTcZyZeVP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941807250856615936/vid/avc1/720x960/NFOZEQgMXwRJARid.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941807250856615936/pl/K0Lho-0e39cyOaho.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941807250856615936"
+          ],
+          "media_source_tweet_id": [
+            "1941807326144663981"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1942924544303583615",
+        "created_at": "2025-07-09T12:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T13:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942924544303583615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "サーシャさん",
+              "probability": 0.699,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "ノラホルカ"
+            },
+            {
+              "end": 82,
+              "start": 72,
+              "tag": "第12回ノラホルカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1373461008509902848",
+              "start": 3,
+              "username": "vaida_miri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPVsORsPZ5",
+              "end": 106,
+              "expanded_url": "https://x.com/vaida_miri/status/1941807326144663981/video/1",
+              "media_key": "13_1941807250856615936",
+              "start": 83,
+              "url": "https://t.co/RPVsORsPZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942924544303583615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941807326144663981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vaida_miri: 踊っていいよ、とのことだったので..\n\nサーシャさんの🪗に合わせて、\n即興で踊ってきました⚔️\n\n#ノラホルカ\n#第12回ノラホルカ https://t.co/RPVsORsPZ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941807250856615936"
+          ]
+        },
+        "author_id": "1373461008509902848",
+        "conversation_id": "1941807326144663981",
+        "created_at": "2025-07-06T10:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941807326144663981"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "サーシャさん",
+              "probability": 0.703,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "ノラホルカ"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "第12回ノラホルカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPVsORsPZ5",
+              "end": 90,
+              "expanded_url": "https://x.com/vaida_miri/status/1941807326144663981/video/1",
+              "media_key": "13_1941807250856615936",
+              "start": 67,
+              "url": "https://t.co/RPVsORsPZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941807326144663981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5047,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "踊っていいよ、とのことだったので..\n\nサーシャさんの🪗に合わせて、\n即興で踊ってきました⚔️\n\n#ノラホルカ\n#第12回ノラホルカ https://t.co/RPVsORsPZ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 242,
+          "like_count": 17664,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 1269
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T02:27:01.000Z",
+        "description": "コサック愛好家。コサックの剣舞でステージに立ったり、衣装再現や偶に論考書いたりしてます。16世紀から現代までのコサック。🪗初心者。ミリタリーと文化、コーカサス、ルーシ、民謡 I am interested in Cossack history. I don't talk politics, I am neutral.",
+        "id": "1373461008509902848",
+        "location": "剣舞のご依頼お待ちしてます",
+        "name": "ゔぇーだー(荒川コサック)",
+        "pinned_tweet_id": "1898326993135161837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757379888804446208/sdBgt2Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 614,
+          "like_count": 8340,
+          "listed_count": 6,
+          "media_count": 2499,
+          "tweet_count": 9521
+        },
+        "username": "vaida_miri",
+        "verified": false
+      }
+    ]
+  }
+}

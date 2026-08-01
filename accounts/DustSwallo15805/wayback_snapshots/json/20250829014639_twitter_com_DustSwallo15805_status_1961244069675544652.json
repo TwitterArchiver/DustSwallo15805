@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1961242608371732941",
+    "created_at": "2025-08-29T01:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T02:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961244069675544652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961244069675544652",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961242608371732941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo 机身盖和镜头盖我也经常丢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1961242608371732941",
+        "created_at": "2025-08-29T01:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961244069675544652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961244069675544652",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961242608371732941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 机身盖和镜头盖我也经常丢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "1961242608371732941",
+        "created_at": "2025-08-29T01:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T02:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961242608371732941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961242608371732941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我那么多尼康机身盖怎么都不见了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 418,
+          "like_count": 32568,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 2068
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "何小灯家政服务中心主理人，何小灯将不竭尽全力为您服务",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "何何猫猫",
+        "pinned_tweet_id": "1960511491976651240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960920621711265792/t-2iMA_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7943,
+          "following_count": 1554,
+          "like_count": 7447,
+          "listed_count": 59,
+          "media_count": 22154,
+          "tweet_count": 346008
+        },
+        "username": "GuajavaDuo",
+        "verified": false
+      }
+    ]
+  }
+}

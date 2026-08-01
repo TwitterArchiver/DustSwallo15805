@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1964197587512422577",
+    "created_at": "2025-09-06T05:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964197587512422577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1660276482030342145",
+          "start": 3,
+          "username": "i1314151241475i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964197587512422577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963929812336324686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i1314151241475i: 飞机飞过山东上空所有女性乘客都默默收起小桌板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1964197587512422577",
+        "created_at": "2025-09-06T05:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964197587512422577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1660276482030342145",
+              "start": 3,
+              "username": "i1314151241475i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964197587512422577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963929812336324686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i1314151241475i: 飞机飞过山东上空所有女性乘客都默默收起小桌板"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1963929812336324686",
+        "created_at": "2025-09-05T11:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963929812336324686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963929812336324686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12119,
+          "like_count": 167,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "飞机飞过山东上空所有女性乘客都默默收起小桌板"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 429,
+          "like_count": 34901,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 2210
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人 推广关评自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=RxOjXpbL",
+                "start": 0,
+                "url": "https://t.co/TMNyyogDFX"
+              }
+            ]
+          }
+        },
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1962512077047947492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946535798632828928/NfPbY4-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10976,
+          "following_count": 225,
+          "like_count": 8189,
+          "listed_count": 16,
+          "media_count": 162,
+          "tweet_count": 3636
+        },
+        "url": "https://t.co/TMNyyogDFX",
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

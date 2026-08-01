@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962102585655214080"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1962101551629250798",
+    "created_at": "2025-08-31T10:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T11:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962102593112752507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OK7Evk3O0L",
+          "end": 36,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1962102593112752507/photo/1",
+          "media_key": "3_1962102585655214080",
+          "start": 13,
+          "url": "https://t.co/OK7Evk3O0L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962102593112752507",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962101551629250798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD https://t.co/OK7Evk3O0L"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1962101551629250798].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1962101551629250798",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1962101551629250798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1962102585655214080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrJ5-7awAAB9B8.jpg",
+        "width": 487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962102585655214080"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1962101551629250798",
+        "created_at": "2025-08-31T10:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T11:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962102593112752507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OK7Evk3O0L",
+              "end": 36,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1962102593112752507/photo/1",
+              "media_key": "3_1962102585655214080",
+              "start": 13,
+              "url": "https://t.co/OK7Evk3O0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962102593112752507",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962101551629250798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD https://t.co/OK7Evk3O0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 419,
+          "like_count": 33354,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2129
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "一句话介绍我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVKX2z"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "冬瓜瓜东",
+        "pinned_tweet_id": "1957852332743618655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958141619838046210/iDR1pLRV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 176,
+          "like_count": 4760,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/KeoonVKX2z",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

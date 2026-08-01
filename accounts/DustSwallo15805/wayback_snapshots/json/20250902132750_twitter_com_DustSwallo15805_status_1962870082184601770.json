@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1962798835794849792"
+      ],
+      "media_source_tweet_id": [
+        "1962799396141310268"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962870082184601770",
+    "created_at": "2025-09-02T13:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962870082184601770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LoxpPeEZJs",
+          "end": 131,
+          "expanded_url": "https://x.com/bbcchinese/status/1962799396141310268/video/1",
+          "media_key": "13_1962798835794849792",
+          "start": 108,
+          "url": "https://t.co/LoxpPeEZJs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962870082184601770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962799396141310268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 【现场画面】据信搭载朝鲜领导人金正恩的火车抵达中国北京火车站。该专列悬挂有朝鲜国旗。\n\n据朝鲜官方通讯社报道，金正恩周一（9月1日）从平壤乘专列启程前往中国，外务相崔善姬等官员陪同。 https://t.co/LoxpPeEZJs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45360,
+        "height": 1920,
+        "media_key": "13_1962798835794849792",
+        "preview_image_url": "https://pbs.twimg.com/media/Gz1EKCKacAAzbI8.jpg",
+        "public_metrics": {
+          "view_count": 91103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/720x1280/HgTSZSCsMCp6Drn5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/1080x1920/11O_o8u4yos8_40d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/480x852/i1NhnVjYmn9uZ96E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/pl/hjdDC-Q-kIKlRgX5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/320x568/t7Vvprl1D03fIIVL.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 45360,
+        "height": 1920,
+        "media_key": "13_1962798835794849792",
+        "preview_image_url": "https://pbs.twimg.com/media/Gz1EKCKacAAzbI8.jpg",
+        "public_metrics": {
+          "view_count": 92072
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/720x1280/HgTSZSCsMCp6Drn5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/1080x1920/11O_o8u4yos8_40d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/480x852/i1NhnVjYmn9uZ96E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/pl/hjdDC-Q-kIKlRgX5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962798835794849792/vid/avc1/320x568/t7Vvprl1D03fIIVL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962798835794849792"
+          ],
+          "media_source_tweet_id": [
+            "1962799396141310268"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962870082184601770",
+        "created_at": "2025-09-02T13:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962870082184601770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoxpPeEZJs",
+              "end": 131,
+              "expanded_url": "https://x.com/bbcchinese/status/1962799396141310268/video/1",
+              "media_key": "13_1962798835794849792",
+              "start": 108,
+              "url": "https://t.co/LoxpPeEZJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962870082184601770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962799396141310268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 【现场画面】据信搭载朝鲜领导人金正恩的火车抵达中国北京火车站。该专列悬挂有朝鲜国旗。\n\n据朝鲜官方通讯社报道，金正恩周一（9月1日）从平壤乘专列启程前往中国，外务相崔善姬等官员陪同。 https://t.co/LoxpPeEZJs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962798835794849792"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1962799396141310268",
+        "created_at": "2025-09-02T08:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T09:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962799396141310268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoxpPeEZJs",
+              "end": 115,
+              "expanded_url": "https://x.com/bbcchinese/status/1962799396141310268/video/1",
+              "media_key": "13_1962798835794849792",
+              "start": 92,
+              "url": "https://t.co/LoxpPeEZJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962799396141310268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 187186,
+          "like_count": 431,
+          "quote_count": 17,
+          "reply_count": 84,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "【现场画面】据信搭载朝鲜领导人金正恩的火车抵达中国北京火车站。该专列悬挂有朝鲜国旗。\n\n据朝鲜官方通讯社报道，金正恩周一（9月1日）从平壤乘专列启程前往中国，外务相崔善姬等官员陪同。 https://t.co/LoxpPeEZJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 427,
+          "like_count": 33980,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2155
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5103821,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11830,
+          "media_count": 23803,
+          "tweet_count": 153613
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

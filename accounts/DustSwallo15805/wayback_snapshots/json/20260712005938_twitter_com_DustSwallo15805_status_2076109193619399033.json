@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2076006685966245888"
+      ],
+      "media_source_tweet_id": [
+        "2076006884205789582"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2076109193619399033",
+    "created_at": "2026-07-12T00:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T01:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076109193619399033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793325876947542016",
+          "start": 3,
+          "username": "khyleri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/76ceQQvVc0",
+          "end": 36,
+          "expanded_url": "https://x.com/khyleri/status/2076006884205789582/photo/1",
+          "media_key": "16_2076006685966245888",
+          "start": 13,
+          "url": "https://t.co/76ceQQvVc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076109193619399033",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076006884205789582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @khyleri: https://t.co/76ceQQvVc0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "16_2076006685966245888",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HM91FOxaoAAO-ap.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HM91FOxaoAAO-ap.mp4"
+          }
+        ],
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2076006685966245888"
+          ],
+          "media_source_tweet_id": [
+            "2076006884205789582"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2076109193619399033",
+        "created_at": "2026-07-12T00:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076109193619399033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793325876947542016",
+              "start": 3,
+              "username": "khyleri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/76ceQQvVc0",
+              "end": 36,
+              "expanded_url": "https://x.com/khyleri/status/2076006884205789582/photo/1",
+              "media_key": "16_2076006685966245888",
+              "start": 13,
+              "url": "https://t.co/76ceQQvVc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076109193619399033",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076006884205789582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @khyleri: https://t.co/76ceQQvVc0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2076006685966245888"
+          ]
+        },
+        "author_id": "793325876947542016",
+        "conversation_id": "2076006884205789582",
+        "created_at": "2026-07-11T18:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076006884205789582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76ceQQvVc0",
+              "end": 23,
+              "expanded_url": "https://x.com/khyleri/status/2076006884205789582/photo/1",
+              "media_key": "16_2076006685966245888",
+              "start": 0,
+              "url": "https://t.co/76ceQQvVc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076006884205789582",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16767,
+          "impression_count": 1657944,
+          "like_count": 170553,
+          "quote_count": 187,
+          "reply_count": 592,
+          "retweet_count": 12118
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/76ceQQvVc0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 866,
+          "like_count": 84883,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 4292
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-01T05:36:43.000Z",
+        "description": "misewable",
+        "id": "793325876947542016",
+        "name": "Khyle.",
+        "pinned_tweet_id": "1940083994168893687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741861405836660736/5LApnIYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177567,
+          "following_count": 497,
+          "like_count": 74400,
+          "listed_count": 4688,
+          "media_count": 1213,
+          "tweet_count": 3533
+        },
+        "url": "",
+        "username": "khyleri",
+        "verified": true
+      }
+    ]
+  }
+}

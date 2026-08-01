@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1908750725594947814",
+    "created_at": "2025-04-06T15:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T16:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908912434607489312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908912434607489312",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908750725594947814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky 铁道员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1908750725594947814",
+        "created_at": "2025-04-06T15:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908912434607489312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908912434607489312",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908750725594947814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 铁道员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1908750725594947814",
+        "created_at": "2025-04-06T05:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908750725594947814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908750725594947814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么现在有什么能看的电影吗（？\n打发一下时间😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 146,
+          "like_count": 7752,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 702
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我叫阳阳，ASD在学着如何成为人类，欢迎私信。⭐️ @Littlecat111007 @quitee123 @ming_li19274 @Ark_merhod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "quitee123"
+              },
+              {
+                "end": 67,
+                "start": 54,
+                "username": "ming_li19274"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Ark_merhod"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "北京安定医院",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1907737102814687458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898402237363507200/Wx3H_9yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 1992,
+          "like_count": 14083,
+          "listed_count": 4,
+          "media_count": 210,
+          "tweet_count": 6006
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

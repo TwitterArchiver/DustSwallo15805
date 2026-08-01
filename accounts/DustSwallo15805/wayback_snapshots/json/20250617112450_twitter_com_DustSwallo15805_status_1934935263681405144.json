@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1934935261869469697"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1934935263681405144",
+    "created_at": "2025-06-17T11:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934935263681405144"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934935263681405144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "预算1个多相机买那个好喵"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2025-06-24T11:24:50.000Z",
+        "id": "1934935261869469697",
+        "options": [
+          {
+            "label": "胶卷",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "数码",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1934935261869469697"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1934935263681405144",
+        "created_at": "2025-06-17T11:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934935263681405144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934935263681405144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "预算1个多相机买那个好喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 192,
+          "like_count": 12610,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1005
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

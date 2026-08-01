@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1963812396071326085",
+    "created_at": "2025-09-05T04:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963819438807097399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        },
+        {
+          "end": 20,
+          "id": "1514545830493044736",
+          "start": 11,
+          "username": "Miwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963819438807097399",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963812396071326085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe @Miwu0721 姐姐你上电视了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1963812357358194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Dc7y3bkAANih2.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1963812396071326085",
+        "created_at": "2025-09-05T04:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963819438807097399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            },
+            {
+              "end": 20,
+              "id": "1514545830493044736",
+              "start": 11,
+              "username": "Miwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963819438807097399",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963812396071326085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe @Miwu0721 姐姐你上电视了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963812357358194688"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1963812396071326085",
+        "created_at": "2025-09-05T03:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T04:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963812396071326085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwrITvlp1X",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1963812396071326085/photo/1",
+              "media_key": "3_1963812357358194688",
+              "start": 0,
+              "url": "https://t.co/zwrITvlp1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963812396071326085",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 386,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zwrITvlp1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 428,
+          "like_count": 34616,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 2194
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14824,
+          "following_count": 59,
+          "like_count": 50,
+          "listed_count": 45,
+          "media_count": 5123,
+          "tweet_count": 5147
+        },
+        "username": "hsn8086xe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)、bilibili：ミウ同学、\n碧蓝航线/星露谷物语/Minecraft/战雷/CS2玩家、全推最尊重菠萝油的主播、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします\n涩涩里推：@Miuu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Miuu0721"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "name": "ミウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833574711269498880/Q0twsHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 418,
+          "like_count": 59055,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 2836
+        },
+        "username": "Miwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

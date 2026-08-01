@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2029872704308867301",
+    "created_at": "2026-03-06T12:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029894292383428941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678688720126627841",
+          "start": 0,
+          "username": "xianjing_youhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029894292383428941",
+    "in_reply_to_user_id": "1678688720126627841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029872704308867301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianjing_youhu 贴贴咪🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2029872698524848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuOdu7WUAA6nPw.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2029872704308867301",
+        "created_at": "2026-03-06T12:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029894292383428941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678688720126627841",
+              "start": 0,
+              "username": "xianjing_youhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029894292383428941",
+        "in_reply_to_user_id": "1678688720126627841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029872704308867301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianjing_youhu 贴贴咪🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029872698524848128"
+          ]
+        },
+        "author_id": "1678688720126627841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2029872704308867301",
+        "created_at": "2026-03-06T10:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029872704308867301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028112396590698496/0n2tOOjC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/bt5VtLvpXe"
+            },
+            {
+              "display_url": "pic.x.com/C3OHzfKCz5",
+              "end": 64,
+              "expanded_url": "https://x.com/xianjing_youhu/status/2029872704308867301/photo/1",
+              "media_key": "3_2029872698524848128",
+              "start": 41,
+              "url": "https://t.co/C3OHzfKCz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029872704308867301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/bt5VtLvpXe https://t.co/C3OHzfKCz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 656,
+          "like_count": 68827,
+          "listed_count": 3,
+          "media_count": 659,
+          "tweet_count": 3671
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T08:53:09.000Z",
+        "description": "可以叫我狐狐捏〜 | 07.02.22 | INFJ | MTF |  HRT 24.10.10- | JLPT N1 | 长居 上海 重庆 东京 | 术力口 | 🎀🎨推 | 小桃厨 | 交通吃 | 想要变成可爱猫娘 | 喜欢涩涩(x | 求fo喵(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡ | ♥️ @hcrk862",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 147,
+                "username": "hcrk862"
+              }
+            ]
+          }
+        },
+        "id": "1678688720126627841",
+        "name": "仙境幽狐🐧🐱🍦🌰🍊🍋",
+        "pinned_tweet_id": "1981769896070701082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025500801754648576/wJr21MyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 910,
+          "like_count": 34177,
+          "listed_count": 2,
+          "media_count": 1460,
+          "tweet_count": 4408
+        },
+        "username": "xianjing_youhu",
+        "verified": false
+      }
+    ]
+  }
+}

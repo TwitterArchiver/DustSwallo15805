@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1965996661139968120",
+    "created_at": "2025-09-11T10:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T11:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966091911720251470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830192967120011266",
+          "start": 0,
+          "username": "RikuSakaLine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966091911720251470",
+    "in_reply_to_user_id": "1830192967120011266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966091754148606421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuSakaLine 我在考虑去天津还是去济南"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1965996661139968120",
+        "created_at": "2025-09-11T10:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966091911720251470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830192967120011266",
+              "start": 0,
+              "username": "RikuSakaLine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966091911720251470",
+        "in_reply_to_user_id": "1830192967120011266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966091754148606421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuSakaLine 我在考虑去天津还是去济南"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192967120011266",
+        "conversation_id": "1965996661139968120",
+        "created_at": "2025-09-11T10:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966091754148606421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966091754148606421",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966090506087346566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 那东北或西北地区，风景也好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 446,
+          "like_count": 36409,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 2283
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "繁华之下，尽是丑恶｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·EEW系统爱好者｜擅长人文地理·应用地质·地质灾害·观测气象研究｜似理科生｜努力学习中｜高考日语生｜分享日常与吐槽为主｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "1960654526555546064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962502143140876289/nkmusFnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 157,
+          "like_count": 1578,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 811
+        },
+        "username": "RikuSakaLine",
+        "verified": false
+      }
+    ]
+  }
+}

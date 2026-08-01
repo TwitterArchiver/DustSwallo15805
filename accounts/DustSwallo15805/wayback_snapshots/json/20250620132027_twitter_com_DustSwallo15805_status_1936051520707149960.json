@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1936048245878501839",
+    "created_at": "2025-06-20T13:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T14:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936051520707149960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936051520707149960",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936048245878501839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 我感觉十分适合阁下（不是）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38567,
+        "height": 1280,
+        "media_key": "13_1936048173136375809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936048173136375809/img/EpfIu3Yb0_DN_gwL.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936048173136375809/vid/avc1/320x690/4MCCMQFBEnWsTQ0Y.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936048173136375809/vid/avc1/480x1036/Jw0Q3v8cGsZSZajJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936048173136375809/vid/avc1/592x1280/LPl6G6SDJNyZFHbe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936048173136375809/pl/HheOcBG7nse_z2L8.m3u8?tag=14"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1936048245878501839",
+        "created_at": "2025-06-20T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936051520707149960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936051520707149960",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936048245878501839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 我感觉十分适合阁下（不是）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936048173136375809"
+          ]
+        },
+        "author_id": "1252463831185371136",
+        "conversation_id": "1936048245878501839",
+        "created_at": "2025-06-20T13:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936048245878501839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpPDjmNyXW",
+              "end": 27,
+              "expanded_url": "https://x.com/Dadadajie01/status/1936048245878501839/video/1",
+              "media_key": "13_1936048173136375809",
+              "start": 4,
+              "url": "https://t.co/xpPDjmNyXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936048245878501839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶俗啊 https://t.co/xpPDjmNyXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 198,
+          "like_count": 13313,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1039
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1902,
+          "like_count": 31098,
+          "listed_count": 8,
+          "media_count": 860,
+          "tweet_count": 5242
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

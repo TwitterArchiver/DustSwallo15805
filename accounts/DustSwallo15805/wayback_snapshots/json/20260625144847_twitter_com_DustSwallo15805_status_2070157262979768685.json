@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070141902066954240"
+      ],
+      "media_source_tweet_id": [
+        "2070141908924748260"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2070157262979768685",
+    "created_at": "2026-06-25T14:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070157262979768685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1287994312714670080",
+          "start": 3,
+          "username": "bozhuLANG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qwai8Bfdwi",
+          "end": 38,
+          "expanded_url": "https://x.com/bozhuLANG/status/2070141908924748260/photo/1",
+          "media_key": "3_2070141902066954240",
+          "start": 15,
+          "url": "https://t.co/Qwai8Bfdwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070157262979768685",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070141908924748260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bozhuLANG: https://t.co/Qwai8Bfdwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2070141902066954240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqfF4NaMAAH9U-.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070141902066954240"
+          ],
+          "media_source_tweet_id": [
+            "2070141908924748260"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2070157262979768685",
+        "created_at": "2026-06-25T14:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070157262979768685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1287994312714670080",
+              "start": 3,
+              "username": "bozhuLANG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwai8Bfdwi",
+              "end": 38,
+              "expanded_url": "https://x.com/bozhuLANG/status/2070141908924748260/photo/1",
+              "media_key": "3_2070141902066954240",
+              "start": 15,
+              "url": "https://t.co/Qwai8Bfdwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070157262979768685",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070141908924748260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bozhuLANG: https://t.co/Qwai8Bfdwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070141902066954240"
+          ]
+        },
+        "author_id": "1287994312714670080",
+        "conversation_id": "2070141908924748260",
+        "created_at": "2026-06-25T13:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070141908924748260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwai8Bfdwi",
+              "end": 23,
+              "expanded_url": "https://x.com/bozhuLANG/status/2070141908924748260/photo/1",
+              "media_key": "3_2070141902066954240",
+              "start": 0,
+              "url": "https://t.co/Qwai8Bfdwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070141908924748260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qwai8Bfdwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜重要的人：@Kuroneko450430｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 790,
+          "like_count": 80590,
+          "listed_count": 4,
+          "media_count": 705,
+          "tweet_count": 4120
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-28T06:12:35.000Z",
+        "description": "「波珠朗」 aka 『BZLang』｜ Former aircraft mechanic, graduated from Vehicle Proposal Engineering at National Civil Aviation University of China. 中國民航大學 飛行器動力工程。",
+        "id": "1287994312714670080",
+        "location": "CAN / ZGGG; KIX / RJBB. 系廣東仔! ",
+        "name": "BZLang",
+        "pinned_tweet_id": "2044795533886460352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289474702788960256/pwpMRqa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 1497,
+          "like_count": 189075,
+          "listed_count": 6,
+          "media_count": 4625,
+          "tweet_count": 28953
+        },
+        "url": "",
+        "username": "bozhuLANG",
+        "verified": false
+      }
+    ]
+  }
+}

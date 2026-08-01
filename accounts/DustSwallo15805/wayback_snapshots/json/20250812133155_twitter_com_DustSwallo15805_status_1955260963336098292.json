@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955260955849560064"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1955259360214442343",
+    "created_at": "2025-08-12T13:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955260963336098292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809914523714998272",
+          "start": 0,
+          "username": "yusphotograph"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wTBTXkc08I",
+          "end": 38,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1955260963336098292/photo/1",
+          "media_key": "3_1955260955849560064",
+          "start": 15,
+          "url": "https://t.co/wTBTXkc08I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955260963336098292",
+    "in_reply_to_user_id": "1809914523714998272",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955259360214442343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusphotograph https://t.co/wTBTXkc08I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1955260955849560064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJ7etyakAAB5W2.jpg",
+        "width": 487
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1955259356527857665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJ6Bn2aEAEUfMb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955260955849560064"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1955259360214442343",
+        "created_at": "2025-08-12T13:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955260963336098292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809914523714998272",
+              "start": 0,
+              "username": "yusphotograph"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTBTXkc08I",
+              "end": 38,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1955260963336098292/photo/1",
+              "media_key": "3_1955260955849560064",
+              "start": 15,
+              "url": "https://t.co/wTBTXkc08I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955260963336098292",
+        "in_reply_to_user_id": "1809914523714998272",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955259360214442343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusphotograph https://t.co/wTBTXkc08I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955259356527857665"
+          ]
+        },
+        "author_id": "1809914523714998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955259360214442343",
+        "created_at": "2025-08-12T13:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955259360214442343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0T6JwHOmM",
+              "end": 26,
+              "expanded_url": "https://x.com/yusphotograph/status/1955259360214442343/photo/1",
+              "media_key": "3_1955259356527857665",
+              "start": 3,
+              "url": "https://t.co/b0T6JwHOmM"
+            },
+            {
+              "display_url": "x.com/yusphotograph/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yusphotograph/status/1955190469958435166",
+              "start": 27,
+              "url": "https://t.co/BafFexViDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955259360214442343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955190469958435166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃吃 https://t.co/b0T6JwHOmM https://t.co/BafFexViDp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 347,
+          "like_count": 26367,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 1748
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T11:37:24.000Z",
+        "description": "写真って、時代が変わっても変わることのない愛情表現なんだ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yusphotograph",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yusphotograph",
+                "start": 0,
+                "url": "https://t.co/PJ49UFoDXP"
+              }
+            ]
+          }
+        },
+        "id": "1809914523714998272",
+        "location": "GuangZhouDong RailwayStation",
+        "name": "Hikari毓",
+        "pinned_tweet_id": "1948057067820101700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837483826282369024/TgO6f12e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 176,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/PJ49UFoDXP",
+        "username": "yusphotograph",
+        "verified": false
+      }
+    ]
+  }
+}

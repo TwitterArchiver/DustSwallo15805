@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1940013919978103248",
+    "created_at": "2025-07-01T11:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940014059660959881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804154448215969795",
+          "start": 0,
+          "username": "bushi_8964"
+        },
+        {
+          "end": 27,
+          "id": "1865419581206208512",
+          "start": 12,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 37,
+          "id": "1840055457756610560",
+          "start": 28,
+          "username": "hood8964"
+        },
+        {
+          "end": 47,
+          "id": "1793963191451398144",
+          "start": 38,
+          "username": "moli8964"
+        },
+        {
+          "end": 57,
+          "id": "1514545830493044736",
+          "start": 48,
+          "username": "Miwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940014059660959881",
+    "in_reply_to_user_id": "1804154448215969795",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940013919978103248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi_8964 @DDzhanshou5150 @hood8964 @moli8964 @Miwu0721 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1940013916643532800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxQYOjaIAA8bpg.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1940013919978103248",
+        "created_at": "2025-07-01T11:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940014059660959881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804154448215969795",
+              "start": 0,
+              "username": "bushi_8964"
+            },
+            {
+              "end": 27,
+              "id": "1865419581206208512",
+              "start": 12,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 37,
+              "id": "1840055457756610560",
+              "start": 28,
+              "username": "hood8964"
+            },
+            {
+              "end": 47,
+              "id": "1793963191451398144",
+              "start": 38,
+              "username": "moli8964"
+            },
+            {
+              "end": 57,
+              "id": "1514545830493044736",
+              "start": 48,
+              "username": "Miwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940014059660959881",
+        "in_reply_to_user_id": "1804154448215969795",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940013919978103248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi_8964 @DDzhanshou5150 @hood8964 @moli8964 @Miwu0721 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940013916643532800"
+          ]
+        },
+        "author_id": "1804154448215969795",
+        "conversation_id": "1940013919978103248",
+        "created_at": "2025-07-01T11:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940013919978103248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1865419581206208512",
+              "start": 22,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 47,
+              "id": "1840055457756610560",
+              "start": 38,
+              "username": "hood8964"
+            },
+            {
+              "end": 70,
+              "id": "1647170304844914689",
+              "start": 54,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 86,
+              "id": "1793963191451398144",
+              "start": 77,
+              "username": "moli8964"
+            },
+            {
+              "end": 96,
+              "id": "1514545830493044736",
+              "start": 87,
+              "username": "Miwu0721"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinityweet.com/family-tree",
+              "end": 124,
+              "expanded_url": "https://infinityweet.com/family-tree",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1939967843791249408/Y0AKNEzb?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1939967843791249408/Y0AKNEzb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinityweet.com/family-tree/",
+              "url": "https://t.co/YC8DlT0UBu"
+            },
+            {
+              "display_url": "pic.x.com/wCCtvMS1W4",
+              "end": 148,
+              "expanded_url": "https://x.com/bushi_8964/status/1940013919978103248/photo/1",
+              "media_key": "3_1940013916643532800",
+              "start": 125,
+              "url": "https://t.co/wCCtvMS1W4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940013919978103248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @DDzhanshou5150 @hood8964\n👰 配偶: @DustSwallo15805\n👶 孩子: @moli8964 @Miwu0721\n\n➡️ https://t.co/YC8DlT0UBu https://t.co/wCCtvMS1W4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 223,
+          "like_count": 15698,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1163
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "坐标天津｜出生于2008年｜喜欢推油们😘｜淡推ing｜成分复杂｜mtf/x｜姐姐:@Moningmeng｜好朋友:@mizuki_bot ｜树洞/逃生舱:@aaazbushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "aaazbushi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵⛩️ (贴贴bot)",
+        "pinned_tweet_id": "1849612974287462759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919261449983283200/oSpFMpfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 864,
+          "like_count": 4434,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 4467,
+          "like_count": 14209,
+          "listed_count": 6,
+          "media_count": 2458,
+          "tweet_count": 19700
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "@SLhttpssri26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "SLhttpssri26"
+              }
+            ]
+          }
+        },
+        "id": "1840055457756610560",
+        "name": "46亿年的紅移与紅移驭者",
+        "pinned_tweet_id": "1917169464879046853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934893071184855040/FkLJ-0Kf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 1664,
+          "like_count": 70304,
+          "listed_count": 5,
+          "media_count": 846,
+          "tweet_count": 16047
+        },
+        "username": "hood8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T11:12:45.000Z",
+        "description": "",
+        "id": "1793963191451398144",
+        "location": "包子神社",
+        "name": "睦头掉进海里😹🍄🍁🌠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932657401137958912/3rpgKdNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 759,
+          "like_count": 44618,
+          "listed_count": 2,
+          "media_count": 602,
+          "tweet_count": 5034
+        },
+        "username": "moli8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)、bilibili：ミウ同学、\n碧蓝航线/星露谷物语/Minecraft/战雷/CS2玩家、全推最尊重菠萝油的主播、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします\n涩涩小号：@Miuu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Miuu0721"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "name": "ミウ",
+        "pinned_tweet_id": "1936139846424379807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833574711269498880/Q0twsHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 413,
+          "like_count": 40897,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 2167
+        },
+        "username": "Miwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

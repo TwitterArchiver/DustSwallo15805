@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945405363051704320"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945405375072891212",
+    "created_at": "2025-07-16T08:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T09:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945405375072891212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/50eFcd63Kr",
+          "end": 36,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1945405375072891212/photo/1",
+          "media_key": "3_1945405363051704320",
+          "start": 13,
+          "url": "https://t.co/50eFcd63Kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945405375072891212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一条不用梯子的推文文 https://t.co/50eFcd63Kr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945405363051704320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv933tjWMAAA1zA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945405363051704320"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945405375072891212",
+        "created_at": "2025-07-16T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945405375072891212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/50eFcd63Kr",
+              "end": 36,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1945405375072891212/photo/1",
+              "media_key": "3_1945405363051704320",
+              "start": 13,
+              "url": "https://t.co/50eFcd63Kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945405375072891212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条不用梯子的推文文 https://t.co/50eFcd63Kr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 268,
+          "like_count": 19941,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 1436
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

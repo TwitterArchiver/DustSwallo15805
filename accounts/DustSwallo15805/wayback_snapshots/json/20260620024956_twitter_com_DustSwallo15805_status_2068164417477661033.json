@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068164408497590272"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2068164417477661033",
+    "created_at": "2026-06-20T02:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T03:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068164417477661033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kANpj9ZIQT",
+          "end": 23,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2068164417477661033/photo/1",
+          "media_key": "3_2068164408497590272",
+          "start": 0,
+          "url": "https://t.co/kANpj9ZIQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068164417477661033",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/kANpj9ZIQT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_2068164408497590272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOYkmma0AAbzCB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068164408497590272"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2068164417477661033",
+        "created_at": "2026-06-20T02:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068164417477661033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kANpj9ZIQT",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2068164417477661033/photo/1",
+              "media_key": "3_2068164408497590272",
+              "start": 0,
+              "url": "https://t.co/kANpj9ZIQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068164417477661033",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kANpj9ZIQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 785,
+          "like_count": 80090,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 4110
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

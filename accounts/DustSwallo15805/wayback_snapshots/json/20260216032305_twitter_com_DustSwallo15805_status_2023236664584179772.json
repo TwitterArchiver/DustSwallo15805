@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022690020201828352"
+      ],
+      "media_source_tweet_id": [
+        "2022690061662171593"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2023236664584179772",
+    "created_at": "2026-02-16T03:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T04:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023236664584179772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1746245052307841024",
+          "start": 3,
+          "username": "KittyCatEmpire"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/flMrcJFOyz",
+          "end": 43,
+          "expanded_url": "https://x.com/KittyCatEmpire2/status/2022690061662171593/video/1",
+          "media_key": "13_2022690020201828352",
+          "start": 20,
+          "url": "https://t.co/flMrcJFOyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023236664584179772",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022769909961208109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KittyCatEmpire: https://t.co/flMrcJFOyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24166,
+        "height": 960,
+        "media_key": "13_2022690020201828352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022690020201828352/img/7xeF-k0XAvt8MDg5.jpg",
+        "public_metrics": {
+          "view_count": 827
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022690020201828352/vid/avc1/320x426/V09eVjTvHLjqSi1y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022690020201828352/vid/avc1/480x640/DCVs_O6572gV5qvI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022690020201828352/vid/avc1/720x960/v9nVwzxFFuJ7AffE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022690020201828352/pl/nrT5vsjkG7NOE73h.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022690020201828352"
+          ],
+          "media_source_tweet_id": [
+            "2022690061662171593"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2023236664584179772",
+        "created_at": "2026-02-16T03:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T04:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023236664584179772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1746245052307841024",
+              "start": 3,
+              "username": "KittyCatEmpire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/flMrcJFOyz",
+              "end": 43,
+              "expanded_url": "https://x.com/KittyCatEmpire2/status/2022690061662171593/video/1",
+              "media_key": "13_2022690020201828352",
+              "start": 20,
+              "url": "https://t.co/flMrcJFOyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023236664584179772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022769909961208109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KittyCatEmpire: https://t.co/flMrcJFOyz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022690020201828352"
+          ],
+          "media_source_tweet_id": [
+            "2022690061662171593"
+          ]
+        },
+        "author_id": "1746245052307841024",
+        "conversation_id": "2022769909961208109",
+        "created_at": "2026-02-14T20:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022769909961208109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flMrcJFOyz",
+              "end": 23,
+              "expanded_url": "https://x.com/KittyCatEmpire2/status/2022690061662171593/video/1",
+              "media_key": "13_2022690020201828352",
+              "start": 0,
+              "url": "https://t.co/flMrcJFOyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022769909961208109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2853,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/flMrcJFOyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 644,
+          "like_count": 66366,
+          "listed_count": 3,
+          "media_count": 638,
+          "tweet_count": 3593
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T18:57:29.000Z",
+        "description": "posting the latest viral cat videos, handpicked daily! 🐱 scroll down and enjoy :) follow backup: @KittyCatEmpire2 🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "KittyCatEmpire2"
+              }
+            ]
+          }
+        },
+        "id": "1746245052307841024",
+        "location": "dm for credit/removal 💗",
+        "name": "Kitty Cat Empire",
+        "pinned_tweet_id": "2022387997833085234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767826830474481664/xWpZRcrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51103,
+          "following_count": 2609,
+          "like_count": 74369,
+          "listed_count": 232,
+          "media_count": 21300,
+          "tweet_count": 25351
+        },
+        "username": "KittyCatEmpire",
+        "verified": true
+      }
+    ]
+  }
+}

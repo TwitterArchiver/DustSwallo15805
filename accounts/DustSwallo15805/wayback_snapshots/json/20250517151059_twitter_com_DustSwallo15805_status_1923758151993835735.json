@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923758139901362176"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1923755395232731276",
+    "created_at": "2025-05-17T15:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923758151993835735"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "推特小剧场"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "ryq59"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVvygXrXKY",
+          "end": 37,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1923758151993835735/photo/1",
+          "media_key": "3_1923758139901362176",
+          "start": 14,
+          "url": "https://t.co/WVvygXrXKY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923758151993835735",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923755395232731276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryq59 #推特小剧场 https://t.co/WVvygXrXKY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923758139901362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrKP1fKWQAA7TeR.jpg",
+        "width": 945
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1923650970300411904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrIuXZSXcAAOn0H.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923758139901362176"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1923755395232731276",
+        "created_at": "2025-05-17T15:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923758151993835735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "推特小剧场"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVvygXrXKY",
+              "end": 37,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1923758151993835735/photo/1",
+              "media_key": "3_1923758139901362176",
+              "start": 14,
+              "url": "https://t.co/WVvygXrXKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923758151993835735",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923755395232731276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 #推特小剧场 https://t.co/WVvygXrXKY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923650970300411904"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1923755395232731276",
+        "created_at": "2025-05-17T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923755395232731276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSKjzOTsyh",
+              "end": 25,
+              "expanded_url": "https://x.com/ryq59/status/1923755395232731276/photo/1",
+              "media_key": "3_1923650970300411904",
+              "start": 2,
+              "url": "https://t.co/NSKjzOTsyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923755395232731276",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/NSKjzOTsyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 178,
+          "like_count": 10303,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 830
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "深柜MTX 🏳️‍⚧️｜Mid&Sup｜Esports Analyst",
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17295,
+          "following_count": 4969,
+          "like_count": 181152,
+          "listed_count": 71,
+          "media_count": 5366,
+          "tweet_count": 23480
+        },
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

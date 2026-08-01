@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921367892995575809"
+      ],
+      "media_source_tweet_id": [
+        "1921367902248181837"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1921570361935565160",
+    "created_at": "2025-05-11T14:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T15:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921570361935565160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1243945571796295681",
+          "start": 3,
+          "username": "ryq59"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfTKD7Lgxp",
+          "end": 34,
+          "expanded_url": "https://x.com/ryq59/status/1921367902248181837/photo/1",
+          "media_key": "3_1921367892995575809",
+          "start": 11,
+          "url": "https://t.co/GfTKD7Lgxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921570361935565160",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921367902248181837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryq59: https://t.co/GfTKD7Lgxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_1921367892995575809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqoR6zjXkAETz0P.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921367892995575809"
+          ],
+          "media_source_tweet_id": [
+            "1921367902248181837"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1921570361935565160",
+        "created_at": "2025-05-11T14:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T15:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921570361935565160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1243945571796295681",
+              "start": 3,
+              "username": "ryq59"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfTKD7Lgxp",
+              "end": 34,
+              "expanded_url": "https://x.com/ryq59/status/1921367902248181837/photo/1",
+              "media_key": "3_1921367892995575809",
+              "start": 11,
+              "url": "https://t.co/GfTKD7Lgxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921570361935565160",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921367902248181837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ryq59: https://t.co/GfTKD7Lgxp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921367892995575809"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1921367902248181837",
+        "created_at": "2025-05-11T00:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T01:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921367902248181837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfTKD7Lgxp",
+              "end": 23,
+              "expanded_url": "https://x.com/ryq59/status/1921367902248181837/photo/1",
+              "media_key": "3_1921367892995575809",
+              "start": 0,
+              "url": "https://t.co/GfTKD7Lgxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921367902248181837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4849,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GfTKD7Lgxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 175,
+          "like_count": 9696,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 796
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "MTX 🏳️‍⚧️ / Honor of King tutor / former pubgm tutor / 由 @aoi_mti 共同管理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "aoi_mti"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17406,
+          "following_count": 4951,
+          "like_count": 181117,
+          "listed_count": 70,
+          "media_count": 5295,
+          "tweet_count": 23362
+        },
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

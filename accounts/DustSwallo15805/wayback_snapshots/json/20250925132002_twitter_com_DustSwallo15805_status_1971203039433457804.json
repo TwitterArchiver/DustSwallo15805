@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970879335277215745"
+      ],
+      "media_source_tweet_id": [
+        "1970879341094744509"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1971203039433457804",
+    "created_at": "2025-09-25T13:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T14:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971203039433457804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779747754216198144",
+          "start": 3,
+          "username": "Mercury_97z"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnYTVBGnPK",
+          "end": 58,
+          "expanded_url": "https://x.com/Mercury_97z/status/1970879341094744509/photo/1",
+          "media_key": "3_1970879335277215745",
+          "start": 35,
+          "url": "https://t.co/AnYTVBGnPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971203039433457804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970879341094744509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercury_97z: 中秋要来了 我发现我是：广式月饼派 https://t.co/AnYTVBGnPK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_1970879335277215745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1n4UDJbQAE_mIZ.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970879335277215745"
+          ],
+          "media_source_tweet_id": [
+            "1970879341094744509"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971203039433457804",
+        "created_at": "2025-09-25T13:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971203039433457804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779747754216198144",
+              "start": 3,
+              "username": "Mercury_97z"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnYTVBGnPK",
+              "end": 58,
+              "expanded_url": "https://x.com/Mercury_97z/status/1970879341094744509/photo/1",
+              "media_key": "3_1970879335277215745",
+              "start": 35,
+              "url": "https://t.co/AnYTVBGnPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971203039433457804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970879341094744509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercury_97z: 中秋要来了 我发现我是：广式月饼派 https://t.co/AnYTVBGnPK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970879335277215745"
+          ]
+        },
+        "author_id": "1779747754216198144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1970879341094744509",
+        "created_at": "2025-09-24T15:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970879341094744509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnYTVBGnPK",
+              "end": 41,
+              "expanded_url": "https://x.com/Mercury_97z/status/1970879341094744509/photo/1",
+              "media_key": "3_1970879335277215745",
+              "start": 18,
+              "url": "https://t.co/AnYTVBGnPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970879341094744509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19995,
+          "like_count": 201,
+          "quote_count": 20,
+          "reply_count": 54,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "中秋要来了 我发现我是：广式月饼派 https://t.co/AnYTVBGnPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜友跨顺男｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 475,
+          "like_count": 40306,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 2462
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T05:45:24.000Z",
+        "description": "爱蓝色/双/超爱动漫/热爱美好肉体和有趣的帖子/爱互动/听得杂/看得杂/人有点乱七八糟",
+        "id": "1779747754216198144",
+        "name": "咩咩",
+        "pinned_tweet_id": "1966192177559777694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790982641937944576/nlVtuUmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 943,
+          "like_count": 22753,
+          "listed_count": 3,
+          "media_count": 353,
+          "tweet_count": 3287
+        },
+        "username": "Mercury_97z",
+        "verified": false
+      }
+    ]
+  }
+}

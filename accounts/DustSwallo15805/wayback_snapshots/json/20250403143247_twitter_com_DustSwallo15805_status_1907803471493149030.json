@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1907661614440182169",
+    "created_at": "2025-04-03T14:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907803471493149030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2553530658",
+          "start": 0,
+          "username": "Hastin_moe"
+        },
+        {
+          "end": 23,
+          "id": "213596477",
+          "start": 12,
+          "username": "kidhaibara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907803471493149030",
+    "in_reply_to_user_id": "2553530658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907767333223018503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hastin_moe @kidhaibara 确实，再添点就可以卖奥巴om3了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1907661614440182169",
+        "created_at": "2025-04-03T14:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907803471493149030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2553530658",
+              "start": 0,
+              "username": "Hastin_moe"
+            },
+            {
+              "end": 23,
+              "id": "213596477",
+              "start": 12,
+              "username": "kidhaibara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907803471493149030",
+        "in_reply_to_user_id": "2553530658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907767333223018503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hastin_moe @kidhaibara 确实，再添点就可以卖奥巴om3了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2553530658",
+        "conversation_id": "1907661614440182169",
+        "created_at": "2025-04-03T12:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T13:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907767333223018503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "213596477",
+              "start": 0,
+              "username": "kidhaibara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907767333223018503",
+        "in_reply_to_user_id": "213596477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907766941592515043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kidhaibara 😂z52 入门级诚意还是可以的 就是价格还是不太美丽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "机体主轴承止推面对主轴承轴线的垂直度允差为0.05mm。",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 141,
+          "like_count": 7426,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 686
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-08T00:22:43.000Z",
+        "description": "Lonely Cat with the heart of the world.🐱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hastin_moe",
+                "end": 23,
+                "expanded_url": "https://t.me/Hastin_moe",
+                "start": 0,
+                "url": "https://t.co/13YEHFpeTO"
+              }
+            ]
+          }
+        },
+        "id": "2553530658",
+        "location": "Anywhere you want",
+        "name": "ハスティン/Cat Photographer.",
+        "pinned_tweet_id": "1879063172344324589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901194601484156928/6EXiPkHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 5534,
+          "like_count": 59706,
+          "listed_count": 9,
+          "media_count": 1336,
+          "tweet_count": 24329
+        },
+        "url": "https://t.co/13YEHFpeTO",
+        "username": "Hastin_moe",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-09T09:42:38.000Z",
+        "description": "Coder | ACGN | SW-3219-3011-4925。\nゴミコードを書いていながら、人生を無駄にしていて本当にすみません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kaedea",
+                "end": 23,
+                "expanded_url": "https://github.com/kaedea",
+                "start": 0,
+                "url": "https://t.co/DywlYAGyGd"
+              }
+            ]
+          }
+        },
+        "id": "213596477",
+        "location": "Teochew",
+        "name": "Kaede 君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890277279080824832/eHb7TOrx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 511,
+          "like_count": 16203,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/DywlYAGyGd",
+        "username": "kidhaibara",
+        "verified": false
+      }
+    ]
+  }
+}

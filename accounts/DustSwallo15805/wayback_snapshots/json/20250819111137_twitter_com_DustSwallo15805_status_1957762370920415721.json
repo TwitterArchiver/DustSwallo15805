@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957762359247925255"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957762370920415721",
+    "created_at": "2025-08-19T11:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T12:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957762370920415721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EsDpSn0rxI",
+          "end": 33,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1957762370920415721/photo/1",
+          "media_key": "3_1957762359247925255",
+          "start": 10,
+          "url": "https://t.co/EsDpSn0rxI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957762370920415721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这玩意竟然55¥🤯 https://t.co/EsDpSn0rxI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957762359247925255",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytefjmacAcEKDW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957762359247925255"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957762370920415721",
+        "created_at": "2025-08-19T11:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957762370920415721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EsDpSn0rxI",
+              "end": 33,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1957762370920415721/photo/1",
+              "media_key": "3_1957762359247925255",
+              "start": 10,
+              "url": "https://t.co/EsDpSn0rxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957762370920415721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意竟然55¥🤯 https://t.co/EsDpSn0rxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 362,
+          "like_count": 28504,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 1819
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

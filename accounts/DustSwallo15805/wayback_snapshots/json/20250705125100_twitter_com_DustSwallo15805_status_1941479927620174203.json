@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941373808163815426",
+        "3_1941373809254096896"
+      ],
+      "media_source_tweet_id": [
+        "1941373811863204228",
+        "1941373811863204228"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1941479927620174203",
+    "created_at": "2025-07-05T12:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T13:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941479927620174203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "953841228327596033",
+          "start": 3,
+          "username": "HXD3D0138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y0gGOMJkqg",
+          "end": 60,
+          "expanded_url": "https://x.com/HXD3D0138/status/1941373811863204228/photo/1",
+          "media_key": "3_1941373808163815426",
+          "start": 37,
+          "url": "https://t.co/y0gGOMJkqg"
+        },
+        {
+          "display_url": "pic.x.com/y0gGOMJkqg",
+          "end": 60,
+          "expanded_url": "https://x.com/HXD3D0138/status/1941373811863204228/photo/1",
+          "media_key": "3_1941373809254096896",
+          "start": 37,
+          "url": "https://t.co/y0gGOMJkqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941479927620174203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941373811863204228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HXD3D0138: ？都要热晕了紧急避险砸你个窗户怎么了\n搞笑 https://t.co/y0gGOMJkqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1941373808163815426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvElMVPaAAIc-0b.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1941373809254096896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvElMZTWYAAQQMT.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941373808163815426",
+            "3_1941373809254096896"
+          ],
+          "media_source_tweet_id": [
+            "1941373811863204228",
+            "1941373811863204228"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1941479927620174203",
+        "created_at": "2025-07-05T12:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T13:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941479927620174203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "953841228327596033",
+              "start": 3,
+              "username": "HXD3D0138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0gGOMJkqg",
+              "end": 60,
+              "expanded_url": "https://x.com/HXD3D0138/status/1941373811863204228/photo/1",
+              "media_key": "3_1941373808163815426",
+              "start": 37,
+              "url": "https://t.co/y0gGOMJkqg"
+            },
+            {
+              "display_url": "pic.x.com/y0gGOMJkqg",
+              "end": 60,
+              "expanded_url": "https://x.com/HXD3D0138/status/1941373811863204228/photo/1",
+              "media_key": "3_1941373809254096896",
+              "start": 37,
+              "url": "https://t.co/y0gGOMJkqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941479927620174203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941373811863204228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HXD3D0138: ？都要热晕了紧急避险砸你个窗户怎么了\n搞笑 https://t.co/y0gGOMJkqg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941373808163815426",
+            "3_1941373809254096896"
+          ]
+        },
+        "author_id": "953841228327596033",
+        "conversation_id": "1941373811863204228",
+        "created_at": "2025-07-05T05:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941373811863204228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0gGOMJkqg",
+              "end": 45,
+              "expanded_url": "https://x.com/HXD3D0138/status/1941373811863204228/photo/1",
+              "media_key": "3_1941373808163815426",
+              "start": 22,
+              "url": "https://t.co/y0gGOMJkqg"
+            },
+            {
+              "display_url": "pic.x.com/y0gGOMJkqg",
+              "end": 45,
+              "expanded_url": "https://x.com/HXD3D0138/status/1941373811863204228/photo/1",
+              "media_key": "3_1941373809254096896",
+              "start": 22,
+              "url": "https://t.co/y0gGOMJkqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941373811863204228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25477,
+          "like_count": 304,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "？都要热晕了紧急避险砸你个窗户怎么了\n搞笑 https://t.co/y0gGOMJkqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 229,
+          "like_count": 16537,
+          "listed_count": 0,
+          "media_count": 301,
+          "tweet_count": 1228
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-18T04:07:25.000Z",
+        "description": "🚆/海外鉄/バス/飛行機/ニコン/バンドリ/学マス/ブルアカ/艦これ　佐世保鎮守府/War Thunder/ウマ娘\n無言フォロー失礼します",
+        "id": "953841228327596033",
+        "location": "東京都 板橋区",
+        "name": "HXD3D0138",
+        "pinned_tweet_id": "1939106545251549349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865297088134971392/lDq_fTZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1378,
+          "like_count": 82368,
+          "listed_count": 10,
+          "media_count": 4407,
+          "tweet_count": 12840
+        },
+        "username": "HXD3D0138",
+        "verified": false
+      }
+    ]
+  }
+}

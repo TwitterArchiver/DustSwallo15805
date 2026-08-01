@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1885328125875404800"
+      ],
+      "media_source_tweet_id": [
+        "1885328133156745549"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1885507563334300139",
+    "created_at": "2025-02-01T01:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T02:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885507563334300139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "763209899253784580",
+          "start": 3,
+          "username": "Sasha_cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TmecrmBVu8",
+          "end": 69,
+          "expanded_url": "https://x.com/Sasha_cosplay/status/1885328133156745549/photo/1",
+          "media_key": "3_1885328125875404800",
+          "start": 46,
+          "url": "https://t.co/TmecrmBVu8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885507563334300139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16432
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885328133156745549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sasha_cosplay: ブルアカ詳しい友達に正しいブルアカの遊び方教わってる https://t.co/TmecrmBVu8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1885328125875404800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GioH8QvbQAAP8qo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885328125875404800"
+          ],
+          "media_source_tweet_id": [
+            "1885328133156745549"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1885507563334300139",
+        "created_at": "2025-02-01T01:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T02:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885507563334300139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "763209899253784580",
+              "start": 3,
+              "username": "Sasha_cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmecrmBVu8",
+              "end": 69,
+              "expanded_url": "https://x.com/Sasha_cosplay/status/1885328133156745549/photo/1",
+              "media_key": "3_1885328125875404800",
+              "start": 46,
+              "url": "https://t.co/TmecrmBVu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885507563334300139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16432
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885328133156745549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sasha_cosplay: ブルアカ詳しい友達に正しいブルアカの遊び方教わってる https://t.co/TmecrmBVu8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885328125875404800"
+          ]
+        },
+        "author_id": "763209899253784580",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          }
+        ],
+        "conversation_id": "1885328133156745549",
+        "created_at": "2025-01-31T14:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T15:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885328133156745549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmecrmBVu8",
+              "end": 50,
+              "expanded_url": "https://x.com/Sasha_cosplay/status/1885328133156745549/photo/1",
+              "media_key": "3_1885328125875404800",
+              "start": 27,
+              "url": "https://t.co/TmecrmBVu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885328133156745549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6011,
+          "impression_count": 3044111,
+          "like_count": 113540,
+          "quote_count": 445,
+          "reply_count": 249,
+          "retweet_count": 16432
+        },
+        "reply_settings": "everyone",
+        "text": "ブルアカ詳しい友達に正しいブルアカの遊び方教わってる https://t.co/TmecrmBVu8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，涉及方面很多却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 99,
+          "like_count": 5182,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 554
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-10T03:06:34.000Z",
+        "description": "日本語は英語より得意です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "burgerking.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.burgerking.co.jp/",
+                "start": 0,
+                "url": "https://t.co/RMnpykN8ig"
+              }
+            ]
+          }
+        },
+        "id": "763209899253784580",
+        "location": "スリーコインズの柔軟剤の香りが好き",
+        "name": "アレキサンダー",
+        "pinned_tweet_id": "1840333190742810745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884617022287613952/HH7z-4-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14929,
+          "following_count": 1074,
+          "like_count": 72621,
+          "listed_count": 132,
+          "media_count": 1666,
+          "tweet_count": 70568
+        },
+        "url": "https://t.co/RMnpykN8ig",
+        "username": "Sasha_cosplay",
+        "verified": true
+      }
+    ]
+  }
+}

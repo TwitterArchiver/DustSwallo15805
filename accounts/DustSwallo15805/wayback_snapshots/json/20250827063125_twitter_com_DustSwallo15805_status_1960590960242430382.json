@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960312439414906880"
+      ],
+      "media_source_tweet_id": [
+        "1960312466161991937"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960590960242430382",
+    "created_at": "2025-08-27T06:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T07:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960590960242430382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429405137198452736",
+          "start": 3,
+          "username": "Oriyuki2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/31fLYbkLns",
+          "end": 40,
+          "expanded_url": "https://x.com/Oriyuki2022/status/1960312466161991937/photo/1",
+          "media_key": "3_1960312439414906880",
+          "start": 17,
+          "url": "https://t.co/31fLYbkLns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960590960242430382",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960312466161991937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oriyuki2022: https://t.co/31fLYbkLns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1960312439414906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRtxwga4AAjaer.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960312439414906880"
+          ],
+          "media_source_tweet_id": [
+            "1960312466161991937"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960590960242430382",
+        "created_at": "2025-08-27T06:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960590960242430382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429405137198452736",
+              "start": 3,
+              "username": "Oriyuki2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/31fLYbkLns",
+              "end": 40,
+              "expanded_url": "https://x.com/Oriyuki2022/status/1960312466161991937/photo/1",
+              "media_key": "3_1960312439414906880",
+              "start": 17,
+              "url": "https://t.co/31fLYbkLns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960590960242430382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960312466161991937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oriyuki2022: https://t.co/31fLYbkLns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960312439414906880"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1960312466161991937",
+        "created_at": "2025-08-26T12:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960312466161991937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31fLYbkLns",
+              "end": 23,
+              "expanded_url": "https://x.com/Oriyuki2022/status/1960312466161991937/photo/1",
+              "media_key": "3_1960312439414906880",
+              "start": 0,
+              "url": "https://t.co/31fLYbkLns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960312466161991937",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/31fLYbkLns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 415,
+          "like_count": 31918,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 2034
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "MtF🏳️‍⚧️/🍥/Trans-les/ΟΣΙΝΤ當下手🔎/15嵗/Terminally ill patient🩹/Savant syndrome🥹/📔OIer/学生是 @tankua629 /有效载荷21克/「アリスはほんとうに. 白ウサギを殺していない？」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tankua629"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaiMaiHdd_Hub",
+                "end": 23,
+                "expanded_url": "https://t.me/MaiMaiHdd_Hub",
+                "start": 0,
+                "url": "https://t.co/6lsHDhV7wo"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "Central Region, Singapore",
+        "name": "Οριγιούκι Σουζουμίγια",
+        "pinned_tweet_id": "1960273330650406969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956272549048016905/n-jvfymc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8748,
+          "following_count": 99,
+          "like_count": 122160,
+          "listed_count": 37,
+          "media_count": 3251,
+          "tweet_count": 19058
+        },
+        "url": "https://t.co/6lsHDhV7wo",
+        "username": "Oriyuki2022",
+        "verified": true
+      }
+    ]
+  }
+}

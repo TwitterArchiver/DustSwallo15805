@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074103421834268672"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2074103430822695022",
+    "created_at": "2026-07-06T12:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074103430822695022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjqnuTOUWj",
+          "end": 37,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2074103430822695022/photo/1",
+          "media_key": "3_2074103421834268672",
+          "start": 14,
+          "url": "https://t.co/KjqnuTOUWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074103430822695022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "悲报：\n副卡被家里人停了😭 https://t.co/KjqnuTOUWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2074103421834268672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiyErXakAAMZzJ.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074103421834268672"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2074103430822695022",
+        "created_at": "2026-07-06T12:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074103430822695022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjqnuTOUWj",
+              "end": 37,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2074103430822695022/photo/1",
+              "media_key": "3_2074103421834268672",
+              "start": 14,
+              "url": "https://t.co/KjqnuTOUWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074103430822695022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲报：\n副卡被家里人停了😭 https://t.co/KjqnuTOUWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 844,
+          "like_count": 83065,
+          "listed_count": 4,
+          "media_count": 712,
+          "tweet_count": 4210
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

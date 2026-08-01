@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1987190915795194136",
+    "created_at": "2025-11-09T05:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T06:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987393170200838363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590847456824029184",
+          "start": 0,
+          "username": "RHK_MIKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987393170200838363",
+    "in_reply_to_user_id": "1590847456824029184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987190915795194136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RHK_MIKU 生日快乐喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1987190915795194136].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1987190915795194136",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1987190915795194136"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1987190915795194136",
+        "created_at": "2025-11-09T05:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987393170200838363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590847456824029184",
+              "start": 0,
+              "username": "RHK_MIKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987393170200838363",
+        "in_reply_to_user_id": "1590847456824029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987190915795194136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RHK_MIKU 生日快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1986988676354875520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 534,
+          "like_count": 51195,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 2836
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-10T23:22:55.000Z",
+        "description": "一个乐子人罢了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/renhaiking39",
+                "end": 23,
+                "expanded_url": "https://ngl.link/renhaiking39",
+                "start": 0,
+                "url": "https://t.co/l1yJeHTkrM"
+              }
+            ]
+          }
+        },
+        "id": "1590847456824029184",
+        "location": "杀玛人民共和国",
+        "name": "刃海KING39",
+        "pinned_tweet_id": "1749825584115622168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900124916470734850/NNhqAP1M_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 2925,
+          "like_count": 159993,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/l1yJeHTkrM",
+        "username": "RHK_MIKU",
+        "verified": false
+      }
+    ]
+  }
+}

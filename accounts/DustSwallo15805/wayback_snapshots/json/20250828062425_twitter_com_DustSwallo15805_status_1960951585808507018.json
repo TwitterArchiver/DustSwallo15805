@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960920081669689760",
+    "created_at": "2025-08-28T06:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T07:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960951585808507018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518613067050807296",
+          "start": 0,
+          "username": "Zerstoorer23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960951585808507018",
+    "in_reply_to_user_id": "1518613067050807296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960920081669689760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23 厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_1960920078142332930",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaWa_Ka4AIQCn0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960920081669689760",
+        "created_at": "2025-08-28T06:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T07:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960951585808507018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518613067050807296",
+              "start": 0,
+              "username": "Zerstoorer23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960951585808507018",
+        "in_reply_to_user_id": "1518613067050807296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960920081669689760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23 厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960920078142332930"
+          ]
+        },
+        "author_id": "1518613067050807296",
+        "conversation_id": "1960920081669689760",
+        "created_at": "2025-08-28T04:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960920081669689760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgbwV5f2kA",
+              "end": 32,
+              "expanded_url": "https://x.com/Zerstoorer23/status/1960920081669689760/photo/1",
+              "media_key": "3_1960920078142332930",
+              "start": 9,
+              "url": "https://t.co/rgbwV5f2kA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960920081669689760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暑假收获结算🐱🧳 https://t.co/rgbwV5f2kA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 418,
+          "like_count": 32304,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 2058
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T15:29:14.000Z",
+        "description": "中国人🇨🇳/高中生🏫/17yo/高三📚\n\n中文🇨🇳/EN🇬🇧\n\nACGN爱好者 似乎也没什么特别的，建议不要关注\n次人格（内阁）@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          }
+        },
+        "id": "1518613067050807296",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23⚓️",
+        "pinned_tweet_id": "1860680705518494086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936804607268638720/dhYGVFz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2070,
+          "following_count": 1869,
+          "like_count": 89680,
+          "listed_count": 7,
+          "media_count": 5843,
+          "tweet_count": 17295
+        },
+        "username": "Zerstoorer23",
+        "verified": false
+      }
+    ]
+  }
+}

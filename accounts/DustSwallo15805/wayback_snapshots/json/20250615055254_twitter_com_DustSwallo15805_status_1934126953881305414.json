@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934126897908334592",
+        "3_1934126897920880640"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1934126953881305414",
+    "created_at": "2025-06-15T05:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T06:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934126953881305414"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 0,
+          "tag": "SwallowingDust的进步时间"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AIeXNowWEL",
+          "end": 55,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1934126953881305414/photo/1",
+          "media_key": "3_1934126897908334592",
+          "start": 32,
+          "url": "https://t.co/AIeXNowWEL"
+        },
+        {
+          "display_url": "pic.x.com/AIeXNowWEL",
+          "end": 55,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1934126953881305414/photo/1",
+          "media_key": "3_1934126897920880640",
+          "start": 32,
+          "url": "https://t.co/AIeXNowWEL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934126953881305414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#SwallowingDust的进步时间 \n济南局（crjn） https://t.co/AIeXNowWEL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934126897908334592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtdmKoxawAAGkre.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934126897920880640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtdmKo0aMAAkFZQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934126897908334592",
+            "3_1934126897920880640"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1934126953881305414",
+        "created_at": "2025-06-15T05:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934126953881305414"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "SwallowingDust的进步时间"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIeXNowWEL",
+              "end": 55,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1934126953881305414/photo/1",
+              "media_key": "3_1934126897908334592",
+              "start": 32,
+              "url": "https://t.co/AIeXNowWEL"
+            },
+            {
+              "display_url": "pic.x.com/AIeXNowWEL",
+              "end": 55,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1934126953881305414/photo/1",
+              "media_key": "3_1934126897920880640",
+              "start": 32,
+              "url": "https://t.co/AIeXNowWEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934126953881305414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#SwallowingDust的进步时间 \n济南局（crjn） https://t.co/AIeXNowWEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与制服，什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 188,
+          "like_count": 12192,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 973
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

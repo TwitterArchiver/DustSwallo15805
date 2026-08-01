@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2054795736513183862",
+    "created_at": "2026-05-14T05:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054795736513183862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1834999622953316352",
+          "start": 3,
+          "username": "Shinexingxing"
+        },
+        {
+          "end": 31,
+          "id": "1574516663935901696",
+          "start": 19,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054795736513183862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054510810463138233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shinexingxing: @wangjupaian 普京和特朗普还是太精明了 ，今晚一块到中国，明天可以享受疯狂星期四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2054795736513183862",
+        "created_at": "2026-05-14T05:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054795736513183862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1834999622953316352",
+              "start": 3,
+              "username": "Shinexingxing"
+            },
+            {
+              "end": 31,
+              "id": "1574516663935901696",
+              "start": 19,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054795736513183862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054510810463138233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shinexingxing: @wangjupaian 普京和特朗普还是太精明了 ，今晚一块到中国，明天可以享受疯狂星期四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834999622953316352",
+        "conversation_id": "2054481961415311788",
+        "created_at": "2026-05-13T10:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054510810463138233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054510810463138233",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 111714,
+          "like_count": 1298,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054481961415311788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 普京和特朗普还是太精明了 ，今晚一块到中国，明天可以享受疯狂星期四"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 760,
+          "like_count": 76682,
+          "listed_count": 3,
+          "media_count": 682,
+          "tweet_count": 3995
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-14T16:56:27.000Z",
+        "description": "",
+        "id": "1834999622953316352",
+        "name": "小星星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904531566120030208/hVDuPotH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 53,
+          "like_count": 1038,
+          "listed_count": 3,
+          "media_count": 311,
+          "tweet_count": 3077
+        },
+        "username": "Shinexingxing",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2054387750342987942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134457,
+          "following_count": 308,
+          "like_count": 289,
+          "listed_count": 392,
+          "media_count": 6841,
+          "tweet_count": 7563
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

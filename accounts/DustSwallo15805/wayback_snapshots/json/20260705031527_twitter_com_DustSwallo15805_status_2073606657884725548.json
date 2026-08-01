@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073278578167267328"
+      ],
+      "media_source_tweet_id": [
+        "2073278595795935697"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073606657884725548",
+    "created_at": "2026-07-05T03:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073606657884725548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811957965752070144",
+          "start": 3,
+          "username": "asobbbri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bExlCuvB50",
+          "end": 37,
+          "expanded_url": "https://x.com/asobbbri/status/2073278595795935697/photo/1",
+          "media_key": "16_2073278578167267328",
+          "start": 14,
+          "url": "https://t.co/bExlCuvB50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073606657884725548",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073278595795935697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asobbbri: https://t.co/bExlCuvB50"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "16_2073278578167267328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMXD4dQWQAAwUCu.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMXD4dQWQAAwUCu.mp4"
+          }
+        ],
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073278578167267328"
+          ],
+          "media_source_tweet_id": [
+            "2073278595795935697"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073606657884725548",
+        "created_at": "2026-07-05T03:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073606657884725548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811957965752070144",
+              "start": 3,
+              "username": "asobbbri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bExlCuvB50",
+              "end": 37,
+              "expanded_url": "https://x.com/asobbbri/status/2073278595795935697/photo/1",
+              "media_key": "16_2073278578167267328",
+              "start": 14,
+              "url": "https://t.co/bExlCuvB50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073606657884725548",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073278595795935697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asobbbri: https://t.co/bExlCuvB50"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073278578167267328"
+          ]
+        },
+        "author_id": "1811957965752070144",
+        "conversation_id": "2073278595795935697",
+        "created_at": "2026-07-04T05:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073278595795935697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bExlCuvB50",
+              "end": 23,
+              "expanded_url": "https://x.com/asobbbri/status/2073278595795935697/photo/1",
+              "media_key": "16_2073278578167267328",
+              "start": 0,
+              "url": "https://t.co/bExlCuvB50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073278595795935697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 14687,
+          "like_count": 1484,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bExlCuvB50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 833,
+          "like_count": 82416,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 4181
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-13T02:57:40.000Z",
+        "description": "23 | chuunibunny | esp/eng / mdni",
+        "id": "1811957965752070144",
+        "location": "any pronouns | fujo/shi 🇦🇷",
+        "name": "bri 💢",
+        "pinned_tweet_id": "2031513744283513069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032371748654493696/gbofODwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 332,
+          "like_count": 101108,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 6627
+        },
+        "url": "",
+        "username": "asobbbri",
+        "verified": false
+      }
+    ]
+  }
+}

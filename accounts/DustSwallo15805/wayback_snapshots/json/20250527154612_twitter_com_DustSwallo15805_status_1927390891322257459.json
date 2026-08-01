@@ -1,0 +1,688 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926934486907838464"
+      ],
+      "media_source_tweet_id": [
+        "1926935442844156021"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1927390891322257459",
+    "created_at": "2025-05-27T15:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927390891322257459"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "常磐線 南柏～北小金",
+          "probability": 0.2514,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "イラスト"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "鉄道"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1029193857089425408",
+          "start": 3,
+          "username": "Kanaji2310"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zkb9w5n0HS",
+          "end": 86,
+          "expanded_url": "https://x.com/Kanaji2310/status/1926935442844156021/photo/1",
+          "media_key": "3_1926934486907838464",
+          "start": 63,
+          "url": "https://t.co/zkb9w5n0HS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927390891322257459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926935442844156021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kanaji2310: 常磐線 南柏～北小金を走る、EF81 302牽引のゆうづる号を描きました\n#イラスト　#鉄道 https://t.co/zkb9w5n0HS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1926934486907838464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3YtN2XYAAUq3B.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926934486907838464"
+          ],
+          "media_source_tweet_id": [
+            "1926935442844156021"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1927390891322257459",
+        "created_at": "2025-05-27T15:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927390891322257459"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "常磐線 南柏～北小金",
+              "probability": 0.2514,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "イラスト"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "鉄道"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1029193857089425408",
+              "start": 3,
+              "username": "Kanaji2310"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkb9w5n0HS",
+              "end": 86,
+              "expanded_url": "https://x.com/Kanaji2310/status/1926935442844156021/photo/1",
+              "media_key": "3_1926934486907838464",
+              "start": 63,
+              "url": "https://t.co/zkb9w5n0HS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927390891322257459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926935442844156021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kanaji2310: 常磐線 南柏～北小金を走る、EF81 302牽引のゆうづる号を描きました\n#イラスト　#鉄道 https://t.co/zkb9w5n0HS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926934486907838464"
+          ]
+        },
+        "author_id": "1029193857089425408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1926935442844156021",
+        "created_at": "2025-05-26T09:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T10:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926935442844156021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "常磐線 南柏～北小金",
+              "probability": 0.168,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "イラスト"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "鉄道"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkb9w5n0HS",
+              "end": 70,
+              "expanded_url": "https://x.com/Kanaji2310/status/1926935442844156021/photo/1",
+              "media_key": "3_1926934486907838464",
+              "start": 47,
+              "url": "https://t.co/zkb9w5n0HS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926935442844156021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 25750,
+          "like_count": 809,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 161
+        },
+        "reply_settings": "everyone",
+        "text": "常磐線 南柏～北小金を走る、EF81 302牽引のゆうづる号を描きました\n#イラスト　#鉄道 https://t.co/zkb9w5n0HS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 181,
+          "like_count": 10980,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 855
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-14T02:31:51.000Z",
+        "description": "国鉄型電車が好き\n鉄道擬人化シリーズ「国鉄ガール」描いています\n国鉄ガール HP→ https://t.co/6IG8HKdaWD\n通販→https://t.co/FRvZ2AMCPm\n原作者 京都さん→＠kts_0226",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "kts_0226"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "1606445810.jimdofree.com",
+                "end": 65,
+                "expanded_url": "https://1606445810.jimdofree.com/",
+                "start": 42,
+                "url": "https://t.co/6IG8HKdaWD"
+              },
+              {
+                "display_url": "jnrts.booth.pm",
+                "end": 92,
+                "expanded_url": "https://jnrts.booth.pm/",
+                "start": 69,
+                "url": "https://t.co/FRvZ2AMCPm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17343445",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/17343445",
+                "start": 0,
+                "url": "https://t.co/sd8OtpJFkr"
+              }
+            ]
+          }
+        },
+        "id": "1029193857089425408",
+        "location": "ご連絡は　cake@dune.ocn.ne.jp へ",
+        "name": "け〜き🍰",
+        "pinned_tweet_id": "1869870125010305350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852670342965448704/P-QcBcAF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 810,
+          "like_count": 13823,
+          "listed_count": 35,
+          "media_count": 1013,
+          "tweet_count": 9313
+        },
+        "url": "https://t.co/sd8OtpJFkr",
+        "username": "Kanaji2310",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984587946495000580",
+        "3_1984587946511777797",
+        "3_1984587946482356224"
+      ],
+      "media_source_tweet_id": [
+        "1984587960780779573",
+        "1984587960780779573",
+        "1984587960780779573"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985128428924998101",
+    "created_at": "2025-11-02T23:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T00:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985128428924998101"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "中国",
+          "probability": 0.9202,
+          "start": 21,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1938074934586314755",
+          "start": 3,
+          "username": "Doraemon1919810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnxIsr72OJ",
+          "end": 96,
+          "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+          "media_key": "3_1984587946495000580",
+          "start": 73,
+          "url": "https://t.co/vnxIsr72OJ"
+        },
+        {
+          "display_url": "pic.x.com/vnxIsr72OJ",
+          "end": 96,
+          "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+          "media_key": "3_1984587946511777797",
+          "start": 73,
+          "url": "https://t.co/vnxIsr72OJ"
+        },
+        {
+          "display_url": "pic.x.com/vnxIsr72OJ",
+          "end": 96,
+          "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+          "media_key": "3_1984587946482356224",
+          "start": 73,
+          "url": "https://t.co/vnxIsr72OJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985128428924998101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5299
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984587960780779573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Doraemon1919810: 中国で一番お金持ちの淫夢厨\n\n1145.14万元（約2.5億円）で「sodayo」という会社を登録した https://t.co/vnxIsr72OJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984587946495000580",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qsOPhbQAQ0Edz.jpg",
+        "width": 474
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1984587946511777797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qsOPlbQAUBw6s.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1984587946482356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qsOPeaUAAumq7.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984587946495000580",
+            "3_1984587946511777797",
+            "3_1984587946482356224"
+          ],
+          "media_source_tweet_id": [
+            "1984587960780779573",
+            "1984587960780779573",
+            "1984587960780779573"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985128428924998101",
+        "created_at": "2025-11-02T23:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T00:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985128428924998101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中国",
+              "probability": 0.9202,
+              "start": 21,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1938074934586314755",
+              "start": 3,
+              "username": "Doraemon1919810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnxIsr72OJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+              "media_key": "3_1984587946495000580",
+              "start": 73,
+              "url": "https://t.co/vnxIsr72OJ"
+            },
+            {
+              "display_url": "pic.x.com/vnxIsr72OJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+              "media_key": "3_1984587946511777797",
+              "start": 73,
+              "url": "https://t.co/vnxIsr72OJ"
+            },
+            {
+              "display_url": "pic.x.com/vnxIsr72OJ",
+              "end": 96,
+              "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+              "media_key": "3_1984587946482356224",
+              "start": 73,
+              "url": "https://t.co/vnxIsr72OJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985128428924998101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5299
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984587960780779573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Doraemon1919810: 中国で一番お金持ちの淫夢厨\n\n1145.14万元（約2.5億円）で「sodayo」という会社を登録した https://t.co/vnxIsr72OJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984587946495000580",
+            "3_1984587946511777797",
+            "3_1984587946482356224"
+          ]
+        },
+        "author_id": "1938074934586314755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984587960780779573",
+        "created_at": "2025-11-01T11:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984587960780779573"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9288,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnxIsr72OJ",
+              "end": 75,
+              "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+              "media_key": "3_1984587946495000580",
+              "start": 52,
+              "url": "https://t.co/vnxIsr72OJ"
+            },
+            {
+              "display_url": "pic.x.com/vnxIsr72OJ",
+              "end": 75,
+              "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+              "media_key": "3_1984587946511777797",
+              "start": 52,
+              "url": "https://t.co/vnxIsr72OJ"
+            },
+            {
+              "display_url": "pic.x.com/vnxIsr72OJ",
+              "end": 75,
+              "expanded_url": "https://x.com/Doraemon1919810/status/1984587960780779573/photo/1",
+              "media_key": "3_1984587946482356224",
+              "start": 52,
+              "url": "https://t.co/vnxIsr72OJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984587960780779573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3564,
+          "impression_count": 2448552,
+          "like_count": 33865,
+          "quote_count": 383,
+          "reply_count": 148,
+          "retweet_count": 5299
+        },
+        "reply_settings": "everyone",
+        "text": "中国で一番お金持ちの淫夢厨\n\n1145.14万元（約2.5億円）で「sodayo」という会社を登録した https://t.co/vnxIsr72OJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "男的｜坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 524,
+          "like_count": 49624,
+          "listed_count": 2,
+          "media_count": 514,
+          "tweet_count": 2790
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T03:20:55.000Z",
+        "description": "元のtwitterは凍結された ！！！中国淫夢厨、日本兄貴好き！Bilibili淫夢運搬備用@Doraemon364364_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "Doraemon364364_"
+              }
+            ]
+          }
+        },
+        "id": "1938074934586314755",
+        "name": "铜锣卫门",
+        "pinned_tweet_id": "1978701614736183463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976259156001865728/wwxYg8lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 408,
+          "like_count": 571,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 747
+        },
+        "username": "Doraemon1919810",
+        "verified": false
+      }
+    ]
+  }
+}

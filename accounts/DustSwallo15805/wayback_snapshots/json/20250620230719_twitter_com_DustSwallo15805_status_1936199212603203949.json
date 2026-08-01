@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935718960340553728"
+      ],
+      "media_source_tweet_id": [
+        "1935718972881813601"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1936199212603203949",
+    "created_at": "2025-06-20T23:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T00:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936199212603203949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1612069262344192000",
+          "start": 3,
+          "username": "Kokky_rhythm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DkRlAXzyjS",
+          "end": 63,
+          "expanded_url": "https://x.com/Kokky_rhythm/status/1935718972881813601/photo/1",
+          "media_key": "3_1935718960340553728",
+          "start": 40,
+          "url": "https://t.co/DkRlAXzyjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936199212603203949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935718972881813601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kokky_rhythm: まって、やばいwwwwwwwwwwwwww https://t.co/DkRlAXzyjS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2447,
+        "media_key": "3_1935718960340553728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0OI3gWUAAyQds.jpg",
+        "width": 3262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935718960340553728"
+          ],
+          "media_source_tweet_id": [
+            "1935718972881813601"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1936199212603203949",
+        "created_at": "2025-06-20T23:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T00:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936199212603203949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1612069262344192000",
+              "start": 3,
+              "username": "Kokky_rhythm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DkRlAXzyjS",
+              "end": 63,
+              "expanded_url": "https://x.com/Kokky_rhythm/status/1935718972881813601/photo/1",
+              "media_key": "3_1935718960340553728",
+              "start": 40,
+              "url": "https://t.co/DkRlAXzyjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936199212603203949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935718972881813601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kokky_rhythm: まって、やばいwwwwwwwwwwwwww https://t.co/DkRlAXzyjS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935718960340553728"
+          ]
+        },
+        "author_id": "1612069262344192000",
+        "conversation_id": "1935718972881813601",
+        "created_at": "2025-06-19T15:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935718972881813601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DkRlAXzyjS",
+              "end": 45,
+              "expanded_url": "https://x.com/Kokky_rhythm/status/1935718972881813601/photo/1",
+              "media_key": "3_1935718960340553728",
+              "start": 22,
+              "url": "https://t.co/DkRlAXzyjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935718972881813601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 126213,
+          "like_count": 4342,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "まって、やばいwwwwwwwwwwwwww https://t.co/DkRlAXzyjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 200,
+          "like_count": 13358,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1049
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-08T12:50:50.000Z",
+        "description": "rhythm game player | Phigros conquered | 拡張プロフィール見て",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Kokky-rhythm",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Kokky-rhythm",
+                "start": 0,
+                "url": "https://t.co/w68ZyvMUt6"
+              }
+            ]
+          }
+        },
+        "id": "1612069262344192000",
+        "location": "愛知 ♂ JP/EN OK 🍜🔋タメ◎",
+        "name": "K☺︎kky 🍜🔋",
+        "pinned_tweet_id": "1872925134463651884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774814305067937792/Hmr0_uKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 1856,
+          "like_count": 166197,
+          "listed_count": 19,
+          "media_count": 5795,
+          "tweet_count": 43372
+        },
+        "url": "https://t.co/w68ZyvMUt6",
+        "username": "Kokky_rhythm",
+        "verified": true
+      }
+    ]
+  }
+}

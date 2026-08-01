@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933157663451361280",
+        "3_1933157663451357185"
+      ],
+      "media_source_tweet_id": [
+        "1933157673920569717",
+        "1933157673920569717"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933458328556036249",
+    "created_at": "2025-06-13T09:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T10:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933458328556036249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1156981009763540992",
+          "start": 3,
+          "username": "AuraWithCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEMYanWMEi",
+          "end": 40,
+          "expanded_url": "https://x.com/AuraWithCat/status/1933157673920569717/photo/1",
+          "media_key": "3_1933157663451361280",
+          "start": 17,
+          "url": "https://t.co/xEMYanWMEi"
+        },
+        {
+          "display_url": "pic.x.com/xEMYanWMEi",
+          "end": 40,
+          "expanded_url": "https://x.com/AuraWithCat/status/1933157673920569717/photo/1",
+          "media_key": "3_1933157663451357185",
+          "start": 17,
+          "url": "https://t.co/xEMYanWMEi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933458328556036249",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2250
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933157673920569717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AuraWithCat: https://t.co/xEMYanWMEi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1933157663451361280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP0pxDXsAAwvmM.jpg",
+        "width": 1054
+      },
+      {
+        "height": 720,
+        "media_key": "3_1933157663451357185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP0pxDXoAEN2Pw.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933157663451361280",
+            "3_1933157663451357185"
+          ],
+          "media_source_tweet_id": [
+            "1933157673920569717",
+            "1933157673920569717"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933458328556036249",
+        "created_at": "2025-06-13T09:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T10:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933458328556036249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1156981009763540992",
+              "start": 3,
+              "username": "AuraWithCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEMYanWMEi",
+              "end": 40,
+              "expanded_url": "https://x.com/AuraWithCat/status/1933157673920569717/photo/1",
+              "media_key": "3_1933157663451361280",
+              "start": 17,
+              "url": "https://t.co/xEMYanWMEi"
+            },
+            {
+              "display_url": "pic.x.com/xEMYanWMEi",
+              "end": 40,
+              "expanded_url": "https://x.com/AuraWithCat/status/1933157673920569717/photo/1",
+              "media_key": "3_1933157663451357185",
+              "start": 17,
+              "url": "https://t.co/xEMYanWMEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933458328556036249",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2250
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933157673920569717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AuraWithCat: https://t.co/xEMYanWMEi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933157663451361280",
+            "3_1933157663451357185"
+          ]
+        },
+        "author_id": "1156981009763540992",
+        "conversation_id": "1933157673920569717",
+        "created_at": "2025-06-12T13:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T14:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933157673920569717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEMYanWMEi",
+              "end": 23,
+              "expanded_url": "https://x.com/AuraWithCat/status/1933157673920569717/photo/1",
+              "media_key": "3_1933157663451361280",
+              "start": 0,
+              "url": "https://t.co/xEMYanWMEi"
+            },
+            {
+              "display_url": "pic.x.com/xEMYanWMEi",
+              "end": 23,
+              "expanded_url": "https://x.com/AuraWithCat/status/1933157673920569717/photo/1",
+              "media_key": "3_1933157663451357185",
+              "start": 0,
+              "url": "https://t.co/xEMYanWMEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933157673920569717",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1114,
+          "impression_count": 364615,
+          "like_count": 20710,
+          "quote_count": 41,
+          "reply_count": 17,
+          "retweet_count": 2250
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xEMYanWMEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 186,
+          "like_count": 11931,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 933
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-01T17:32:23.000Z",
+        "description": "These cats with pawerful aura|| we don't own any content || Please Dm for credit ||",
+        "id": "1156981009763540992",
+        "location": "DM for credit/removal",
+        "name": "Cats with pawerful aura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903404281807724544/b7vyyYC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436420,
+          "following_count": 2,
+          "like_count": 115,
+          "listed_count": 1054,
+          "media_count": 25518,
+          "tweet_count": 26126
+        },
+        "username": "AuraWithCat",
+        "verified": true
+      }
+    ]
+  }
+}

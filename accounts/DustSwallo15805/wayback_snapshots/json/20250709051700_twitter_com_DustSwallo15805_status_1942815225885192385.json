@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942780018137985024"
+      ],
+      "media_source_tweet_id": [
+        "1942780028091261105"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1942815225885192385",
+    "created_at": "2025-07-09T05:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T06:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942815225885192385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1159237294294880256",
+          "start": 3,
+          "username": "Gekikawa_Dbts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xd9bycMYZB",
+          "end": 55,
+          "expanded_url": "https://x.com/Gekikawa_Dbts/status/1942780028091261105/photo/1",
+          "media_key": "3_1942780018137985024",
+          "start": 32,
+          "url": "https://t.co/xd9bycMYZB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942815225885192385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942780028091261105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gekikawa_Dbts: 偶然撮影された奇跡の一枚 https://t.co/xd9bycMYZB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1645,
+        "media_key": "3_1942780018137985024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvYkIhnXcAAltnn.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942780018137985024"
+          ],
+          "media_source_tweet_id": [
+            "1942780028091261105"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1942815225885192385",
+        "created_at": "2025-07-09T05:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T06:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942815225885192385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1159237294294880256",
+              "start": 3,
+              "username": "Gekikawa_Dbts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd9bycMYZB",
+              "end": 55,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1942780028091261105/photo/1",
+              "media_key": "3_1942780018137985024",
+              "start": 32,
+              "url": "https://t.co/xd9bycMYZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942815225885192385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942780028091261105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gekikawa_Dbts: 偶然撮影された奇跡の一枚 https://t.co/xd9bycMYZB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942780018137985024"
+          ]
+        },
+        "author_id": "1159237294294880256",
+        "conversation_id": "1942780028091261105",
+        "created_at": "2025-07-09T02:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942780028091261105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd9bycMYZB",
+              "end": 36,
+              "expanded_url": "https://x.com/Gekikawa_Dbts/status/1942780028091261105/photo/1",
+              "media_key": "3_1942780018137985024",
+              "start": 13,
+              "url": "https://t.co/xd9bycMYZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942780028091261105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 87371,
+          "like_count": 3785,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "偶然撮影された奇跡の一枚 https://t.co/xd9bycMYZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 242,
+          "like_count": 17485,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 1260
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-07T22:58:03.000Z",
+        "description": "かわいい動物たちをツイートしていきます。 Cute Animals",
+        "id": "1159237294294880256",
+        "name": "激かわ動物",
+        "pinned_tweet_id": "1692137323595792449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1159237407616581632/NT-xjzPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584820,
+          "following_count": 4264,
+          "like_count": 90431,
+          "listed_count": 1584,
+          "media_count": 14768,
+          "tweet_count": 14918
+        },
+        "username": "Gekikawa_Dbts",
+        "verified": true
+      }
+    ]
+  }
+}

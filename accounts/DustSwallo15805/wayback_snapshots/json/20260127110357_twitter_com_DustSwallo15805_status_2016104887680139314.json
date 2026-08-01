@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2016103772913844243",
+    "created_at": "2026-01-27T11:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016104887680139314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016104887680139314",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016103772913844243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 羡慕去杭州玩咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2016103762004475919",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qjsJSbAA88yGE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2016103761996075008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qjsJQa0AAjanK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016103762218090498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qjsKFWgAIUGt1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016103761996021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qjsJQaAAAFY0k.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2016103772913844243",
+        "created_at": "2026-01-27T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016104887680139314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016104887680139314",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016103772913844243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 羡慕去杭州玩咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016103762004475919",
+            "3_2016103761996075008",
+            "3_2016103762218090498",
+            "3_2016103761996021760"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016103772913844243",
+        "created_at": "2026-01-27T10:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016103772913844243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WlmF3boWT2",
+              "end": 53,
+              "expanded_url": "https://x.com/DrilL019/status/2016103772913844243/photo/1",
+              "media_key": "3_2016103762004475919",
+              "start": 30,
+              "url": "https://t.co/WlmF3boWT2"
+            },
+            {
+              "display_url": "pic.x.com/WlmF3boWT2",
+              "end": 53,
+              "expanded_url": "https://x.com/DrilL019/status/2016103772913844243/photo/1",
+              "media_key": "3_2016103761996075008",
+              "start": 30,
+              "url": "https://t.co/WlmF3boWT2"
+            },
+            {
+              "display_url": "pic.x.com/WlmF3boWT2",
+              "end": 53,
+              "expanded_url": "https://x.com/DrilL019/status/2016103772913844243/photo/1",
+              "media_key": "3_2016103762218090498",
+              "start": 30,
+              "url": "https://t.co/WlmF3boWT2"
+            },
+            {
+              "display_url": "pic.x.com/WlmF3boWT2",
+              "end": 53,
+              "expanded_url": "https://x.com/DrilL019/status/2016103772913844243/photo/1",
+              "media_key": "3_2016103761996021760",
+              "start": 30,
+              "url": "https://t.co/WlmF3boWT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016103772913844243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1d ago： 我大抵好久没去杭州了\n36h later： https://t.co/WlmF3boWT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 622,
+          "like_count": 63644,
+          "listed_count": 3,
+          "media_count": 599,
+          "tweet_count": 3453
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜Student 🇨🇳 发推少 主页不再转发好看的",
+        "id": "1647229461769891842",
+        "name": "DrilL019-B",
+        "pinned_tweet_id": "2013903360320037192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 359,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1775
+        },
+        "username": "DrilL019",
+        "verified": false
+      }
+    ]
+  }
+}

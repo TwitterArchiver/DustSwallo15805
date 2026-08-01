@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970042698104229890"
+      ],
+      "media_source_tweet_id": [
+        "1970042705683370189"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1970398873198960671",
+    "created_at": "2025-09-23T08:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T09:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970398873198960671"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "大阪〇警　✕　モニタリング",
+          "probability": 0.1831,
+          "start": 18,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477976776827891718",
+          "start": 3,
+          "username": "Shoe_college"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bsrlz8N3V",
+          "end": 55,
+          "expanded_url": "https://x.com/Shoe_college/status/1970042705683370189/photo/1",
+          "media_key": "3_1970042698104229890",
+          "start": 32,
+          "url": "https://t.co/6bsrlz8N3V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970398873198960671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3630
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970042705683370189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shoe_college: 大阪〇警　✕　モニタリング https://t.co/6bsrlz8N3V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1970042698104229890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1b_ZWza0AIIPlo.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970042698104229890"
+          ],
+          "media_source_tweet_id": [
+            "1970042705683370189"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1970398873198960671",
+        "created_at": "2025-09-23T08:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T09:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970398873198960671"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "大阪〇警　✕　モニタリング",
+              "probability": 0.1831,
+              "start": 18,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477976776827891718",
+              "start": 3,
+              "username": "Shoe_college"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bsrlz8N3V",
+              "end": 55,
+              "expanded_url": "https://x.com/Shoe_college/status/1970042705683370189/photo/1",
+              "media_key": "3_1970042698104229890",
+              "start": 32,
+              "url": "https://t.co/6bsrlz8N3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970398873198960671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3630
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970042705683370189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shoe_college: 大阪〇警　✕　モニタリング https://t.co/6bsrlz8N3V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970042698104229890"
+          ]
+        },
+        "author_id": "1477976776827891718",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1970042705683370189",
+        "created_at": "2025-09-22T08:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T09:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970042705683370189"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "大阪〇警　✕　モニタリング",
+              "probability": 0.1803,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bsrlz8N3V",
+              "end": 37,
+              "expanded_url": "https://x.com/Shoe_college/status/1970042705683370189/photo/1",
+              "media_key": "3_1970042698104229890",
+              "start": 14,
+              "url": "https://t.co/6bsrlz8N3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970042705683370189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1882,
+          "impression_count": 1148697,
+          "like_count": 29108,
+          "quote_count": 40,
+          "reply_count": 21,
+          "retweet_count": 3630
+        },
+        "reply_settings": "everyone",
+        "text": "大阪〇警　✕　モニタリング https://t.co/6bsrlz8N3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜友跨顺男｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 471,
+          "like_count": 39743,
+          "listed_count": 2,
+          "media_count": 481,
+          "tweet_count": 2439
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T12:15:10.000Z",
+        "description": "illustration｜シュ〜と申します。DECO27さんのモニタリングミクばっかり描いている人です。3DCGもやっています。スマホ指描き。ご質問や各種SNS https://t.co/CTyn5yZiF5より",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/shoecollege",
+                "end": 104,
+                "expanded_url": "https://lit.link/shoecollege",
+                "start": 81,
+                "url": "https://t.co/CTyn5yZiF5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shoecollege",
+                "end": 23,
+                "expanded_url": "https://lit.link/shoecollege",
+                "start": 0,
+                "url": "https://t.co/CTyn5yZiF5"
+              }
+            ]
+          }
+        },
+        "id": "1477976776827891718",
+        "location": "2024年12月より活動開始",
+        "name": "シュ〜カレッジ",
+        "pinned_tweet_id": "1945756706375397653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947990637502193664/qFyKRi_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2178,
+          "following_count": 171,
+          "like_count": 14467,
+          "listed_count": 7,
+          "media_count": 111,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/CTyn5yZiF5",
+        "username": "Shoe_college",
+        "verified": false
+      }
+    ]
+  }
+}

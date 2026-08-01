@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951478203631149062"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1951478215761133691",
+    "created_at": "2025-08-02T03:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T04:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951478215761133691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xUMvxCPha1",
+          "end": 41,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1951478215761133691/photo/1",
+          "media_key": "3_1951478203631149062",
+          "start": 18,
+          "url": "https://t.co/xUMvxCPha1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951478215761133691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一方水土养一方人\n运城话讲给运城人 https://t.co/xUMvxCPha1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951478203631149062",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxULFjpaIAYqLKZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951478203631149062"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1951478215761133691",
+        "created_at": "2025-08-02T03:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T04:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951478215761133691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUMvxCPha1",
+              "end": 41,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1951478215761133691/photo/1",
+              "media_key": "3_1951478203631149062",
+              "start": 18,
+              "url": "https://t.co/xUMvxCPha1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951478215761133691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一方水土养一方人\n运城话讲给运城人 https://t.co/xUMvxCPha1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 318,
+          "like_count": 24041,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 1654
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

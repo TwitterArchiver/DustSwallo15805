@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1987734322808598581",
+    "created_at": "2025-11-10T05:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987750327307952637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "EmaH1ro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987750327307952637",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987734322808598581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmaH1ro 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987734295428173824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XZz2rbkAANma-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1987734322808598581",
+        "created_at": "2025-11-10T05:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987750327307952637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "EmaH1ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987750327307952637",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987734322808598581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmaH1ro 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987734295428173824"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "conversation_id": "1987734322808598581",
+        "created_at": "2025-11-10T04:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987734322808598581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NEOwctmFu",
+              "end": 33,
+              "expanded_url": "https://x.com/EmaH1ro/status/1987734322808598581/photo/1",
+              "media_key": "3_1987734295428173824",
+              "start": 10,
+              "url": "https://t.co/8NEOwctmFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987734322808598581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆照，艾之希伤本人 https://t.co/8NEOwctmFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1987725337997001193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 534,
+          "like_count": 51534,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 2854
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "努力学习日语N1、2026年高考、业余无线电C证中 | ADHD ASD 抑郁症 | 爱人:@ryq59 | 频道内容:银行卡/生活日常/加密货币 | QQ259756720 🚪88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 46,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/MSEqtjg7kR"
+              }
+            ]
+          }
+        },
+        "id": "1973748660975587328",
+        "location": "Scotland, United Kingdom",
+        "name": "艾之希伤🌸⛩️",
+        "pinned_tweet_id": "1987684536197775699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986521304879816704/ezBYGzK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 468,
+          "like_count": 2615,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/MSEqtjg7kR",
+        "username": "EmaH1ro",
+        "verified": true
+      }
+    ]
+  }
+}

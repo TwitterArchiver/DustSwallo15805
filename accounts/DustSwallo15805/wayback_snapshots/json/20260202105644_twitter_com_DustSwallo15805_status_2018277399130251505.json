@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018277393249824768"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2018267093108740541",
+    "created_at": "2026-02-02T10:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T11:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018277399130251505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iSRKFIQwaR",
+          "end": 39,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2018277399130251505/photo/1",
+          "media_key": "3_2018277393249824768",
+          "start": 16,
+          "url": "https://t.co/iSRKFIQwaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018277399130251505",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018267093108740541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 圈内贴贴咪 https://t.co/iSRKFIQwaR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2018277393249824768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJcmIrbcAA7fcs.jpg",
+        "width": 512
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2018267089744879616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJTOZIa4AAkiLc.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018277393249824768"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2018267093108740541",
+        "created_at": "2026-02-02T10:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018277399130251505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSRKFIQwaR",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2018277399130251505/photo/1",
+              "media_key": "3_2018277393249824768",
+              "start": 16,
+              "url": "https://t.co/iSRKFIQwaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018277399130251505",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018267093108740541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 圈内贴贴咪 https://t.co/iSRKFIQwaR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018267089744879616"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2018267093108740541",
+        "created_at": "2026-02-02T10:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018267093108740541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/OCcmmfTUSI"
+            },
+            {
+              "display_url": "pic.x.com/TV4cWHSBmB",
+              "end": 64,
+              "expanded_url": "https://x.com/DrilL019/status/2018267093108740541/photo/1",
+              "media_key": "3_2018267089744879616",
+              "start": 41,
+              "url": "https://t.co/TV4cWHSBmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018267093108740541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/OCcmmfTUSI https://t.co/TV4cWHSBmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 634,
+          "like_count": 64674,
+          "listed_count": 3,
+          "media_count": 617,
+          "tweet_count": 3514
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "安得此身脫拘攣 舟載諸友長周旋｜Student 🇨🇳 发推少 主页不再转发好看的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/appleseenjr",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/appleseenjr",
+                "start": 0,
+                "url": "https://t.co/jRVZQsZdEk"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "name": "DrilL019-B",
+        "pinned_tweet_id": "2013903360320037192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 385,
+          "like_count": 4803,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1898
+        },
+        "url": "https://t.co/jRVZQsZdEk",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

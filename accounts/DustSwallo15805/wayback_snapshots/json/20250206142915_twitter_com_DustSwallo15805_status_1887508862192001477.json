@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1887508385945223635",
+    "created_at": "2025-02-06T14:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T15:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887508862192001477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647216504851537920",
+          "start": 0,
+          "username": "TimChirs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887508862192001477",
+    "in_reply_to_user_id": "1647216504851537920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887508385945223635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TimChirs 玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1887508385945223635",
+        "created_at": "2025-02-06T14:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T15:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887508862192001477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647216504851537920",
+              "start": 0,
+              "username": "TimChirs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887508862192001477",
+        "in_reply_to_user_id": "1647216504851537920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887508385945223635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TimChirs 玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887508370829070336"
+          ]
+        },
+        "author_id": "1647216504851537920",
+        "conversation_id": "1887508385945223635",
+        "created_at": "2025-02-06T14:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T15:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887508385945223635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rObJzGSIXu",
+              "end": 32,
+              "expanded_url": "https://x.com/TimChirs/status/1887508385945223635/photo/1",
+              "media_key": "3_1887508370829070336",
+              "start": 9,
+              "url": "https://t.co/rObJzGSIXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887508385945223635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都干什么捏？ https://t.co/rObJzGSIXu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 115,
+          "like_count": 5904,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 598
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T12:33:24.000Z",
+        "description": "错误，简介无法显示",
+        "id": "1647216504851537920",
+        "name": "Lau.🌟",
+        "pinned_tweet_id": "1824077813097582832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883403890814484480/qxGJOFFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 1342,
+          "like_count": 19923,
+          "listed_count": 4,
+          "media_count": 788,
+          "tweet_count": 2774
+        },
+        "username": "TimChirs",
+        "verified": false
+      }
+    ]
+  }
+}

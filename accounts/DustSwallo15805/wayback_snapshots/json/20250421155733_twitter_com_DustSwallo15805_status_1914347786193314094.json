@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1914343028179030346",
+    "created_at": "2025-04-21T15:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T16:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914347786193314094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914347786193314094",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914343028179030346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonzyt 要不去医院看看🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914343020964802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpEc1b7a8AASNUk.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1914343028179030346",
+        "created_at": "2025-04-21T15:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914347786193314094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914347786193314094",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914343028179030346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt 要不去医院看看🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914343020964802560"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "1914343028179030346",
+        "created_at": "2025-04-21T15:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T16:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914343028179030346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3yiPGW3mr",
+              "end": 43,
+              "expanded_url": "https://x.com/Jasonzyt/status/1914343028179030346/photo/1",
+              "media_key": "3_1914343020964802560",
+              "start": 20,
+              "url": "https://t.co/N3yiPGW3mr"
+            },
+            {
+              "display_url": "x.com/jasonzyt/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/jasonzyt/status/1914172242306724130",
+              "start": 44,
+              "url": "https://t.co/tSeY46MbbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914343028179030346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914172242306724130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整个胳膊上全是疹子\n还有脖子胸前痒痒痒 https://t.co/N3yiPGW3mr https://t.co/tSeY46MbbG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 158,
+          "like_count": 8588,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 741
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17 y.o. Student | Otaku | Coder | OIer | Photographer | Member of @LiteLDev | Ham | ACGN/✈/🚅/🚢 lover | 🌈Crossdresser\nFriendly to EVERYONE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "LiteLDev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonz.yt/about",
+                "end": 23,
+                "expanded_url": "https://jasonz.yt/about",
+                "start": 0,
+                "url": "https://t.co/IqxpClrmeQ"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "JasonZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878308194407313408/MJZNf2sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 393,
+          "like_count": 25610,
+          "listed_count": 3,
+          "media_count": 554,
+          "tweet_count": 7096
+        },
+        "url": "https://t.co/IqxpClrmeQ",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

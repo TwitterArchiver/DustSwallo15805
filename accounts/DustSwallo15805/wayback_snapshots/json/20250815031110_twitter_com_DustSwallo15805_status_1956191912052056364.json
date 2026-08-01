@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955847498003775488"
+      ],
+      "media_source_tweet_id": [
+        "1955847545227182093"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1956191912052056364",
+    "created_at": "2025-08-15T03:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T04:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956191912052056364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1519880511052984322",
+          "start": 3,
+          "username": "Vought_F4U_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mP4xgPe312",
+          "end": 66,
+          "expanded_url": "https://x.com/Vought_F4U_/status/1955847545227182093/photo/1",
+          "media_key": "3_1955847498003775488",
+          "start": 43,
+          "url": "https://t.co/mP4xgPe312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956191912052056364",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2178
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955847545227182093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vought_F4U_: 嘘だろ…小学六年でこのクオリティの駆逐艦潮を…え？ https://t.co/mP4xgPe312"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1955847498003775488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySQ79laAAAibsP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955847498003775488"
+          ],
+          "media_source_tweet_id": [
+            "1955847545227182093"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1956191912052056364",
+        "created_at": "2025-08-15T03:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T04:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956191912052056364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1519880511052984322",
+              "start": 3,
+              "username": "Vought_F4U_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mP4xgPe312",
+              "end": 66,
+              "expanded_url": "https://x.com/Vought_F4U_/status/1955847545227182093/photo/1",
+              "media_key": "3_1955847498003775488",
+              "start": 43,
+              "url": "https://t.co/mP4xgPe312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956191912052056364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2178
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955847545227182093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vought_F4U_: 嘘だろ…小学六年でこのクオリティの駆逐艦潮を…え？ https://t.co/mP4xgPe312"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955847498003775488"
+          ]
+        },
+        "author_id": "1519880511052984322",
+        "conversation_id": "1955847545227182093",
+        "created_at": "2025-08-14T04:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955847545227182093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mP4xgPe312",
+              "end": 49,
+              "expanded_url": "https://x.com/Vought_F4U_/status/1955847545227182093/photo/1",
+              "media_key": "3_1955847498003775488",
+              "start": 26,
+              "url": "https://t.co/mP4xgPe312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955847545227182093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 598,
+          "impression_count": 363131,
+          "like_count": 13225,
+          "quote_count": 73,
+          "reply_count": 79,
+          "retweet_count": 2178
+        },
+        "reply_settings": "everyone",
+        "text": "嘘だろ…小学六年でこのクオリティの駆逐艦潮を…え？ https://t.co/mP4xgPe312"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 352,
+          "like_count": 27005,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 1781
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T03:25:58.000Z",
+        "description": "趣味でダンボール等で一〜二次大戦辺りの兵器を作るなどしてます。たまに｢動く｣やつも。今作ってるものによって名前の横の1/nが変わります。副業で提督やってます",
+        "id": "1519880511052984322",
+        "location": "静岡住み",
+        "name": "コルセア 1/48 ダンボール工作",
+        "pinned_tweet_id": "1903364823104000377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818142911114166272/t1vdO_9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3064,
+          "following_count": 636,
+          "like_count": 73381,
+          "listed_count": 26,
+          "media_count": 2241,
+          "tweet_count": 5776
+        },
+        "username": "Vought_F4U_",
+        "verified": false
+      }
+    ]
+  }
+}

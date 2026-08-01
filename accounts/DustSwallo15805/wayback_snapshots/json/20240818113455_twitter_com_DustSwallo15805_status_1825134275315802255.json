@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1825125001835753784",
+    "created_at": "2024-08-18T11:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T12:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825134275315802255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1622130005076742145",
+          "start": 0,
+          "username": "jingynng8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825134275315802255",
+    "in_reply_to_user_id": "1622130005076742145",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825125001835753784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingynng8 吊州北站🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1825125001835753784",
+        "created_at": "2024-08-18T11:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T12:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825134275315802255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1622130005076742145",
+              "start": 0,
+              "username": "jingynng8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825134275315802255",
+        "in_reply_to_user_id": "1622130005076742145",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825125001835753784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingynng8 吊州北站🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825124984161013760",
+            "3_1825124984886542336",
+            "3_1825124991731679232"
+          ]
+        },
+        "author_id": "1622130005076742145",
+        "conversation_id": "1825125001835753784",
+        "created_at": "2024-08-18T10:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T11:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825125001835753784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obh4afirw0",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jingynng8/status/1825125001835753784/photo/1",
+              "media_key": "3_1825124984161013760",
+              "start": 11,
+              "url": "https://t.co/oBh4AFIrw0"
+            },
+            {
+              "display_url": "pic.x.com/obh4afirw0",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jingynng8/status/1825125001835753784/photo/1",
+              "media_key": "3_1825124984886542336",
+              "start": 11,
+              "url": "https://t.co/oBh4AFIrw0"
+            },
+            {
+              "display_url": "pic.x.com/obh4afirw0",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jingynng8/status/1825125001835753784/photo/1",
+              "media_key": "3_1825124991731679232",
+              "start": 11,
+              "url": "https://t.co/oBh4AFIrw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825125001835753784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得出来都不想要客流 https://t.co/oBh4AFIrw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823682980088569857/XGWkoLqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 121,
+          "like_count": 4204,
+          "listed_count": 0,
+          "tweet_count": 597
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T07:09:06.000Z",
+        "description": "16岁中学生，末流普高在读，精神状态不稳定_\n想和每个人做朋友，欢迎随时来找我\n计算机硬件设计，微电子+光刻研究中…\n不会建政，是🇨🇳好公民\nMyQQ:3234892287",
+        "id": "1622130005076742145",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Iwakura-Torei🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822044262411714560/GOQ4rU2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 260,
+          "like_count": 375,
+          "listed_count": 1,
+          "tweet_count": 344
+        },
+        "username": "jingynng8",
+        "verified": false
+      }
+    ]
+  }
+}

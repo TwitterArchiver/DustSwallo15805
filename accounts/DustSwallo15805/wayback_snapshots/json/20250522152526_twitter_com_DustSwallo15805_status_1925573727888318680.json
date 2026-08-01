@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1925573727888318680",
+    "created_at": "2025-05-22T15:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T16:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925573727888318680"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "北朝鮮",
+          "probability": 0.5486,
+          "start": 25,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1072373414029971456",
+          "start": 3,
+          "username": "47news_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "　【北京共同】北朝鮮メディアは22日、同国北東部の造船所で21日に5千トン級の駆逐艦の進水式が開かれた際、 ...",
+          "display_url": "47news.jp/12613541.html?…",
+          "end": 68,
+          "expanded_url": "https://www.47news.jp/12613541.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+          "images": [
+            {
+              "height": 198,
+              "url": "https://pbs.twimg.com/news_img/1925350161322319876/d5XvtFVJ?format=png&name=orig",
+              "width": 406
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1925350161322319876/d5XvtFVJ?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 45,
+          "status": 200,
+          "title": "【速報】北朝鮮で駆逐艦の進水失敗、金正恩氏激怒",
+          "unwound_url": "https://www.47news.jp/12613541.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+          "url": "https://t.co/9OXIgd6GOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925573727888318680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5929
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925350153621578071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @47news_official: 【速報】北朝鮮で駆逐艦の進水失敗、金正恩氏激怒\nhttps://t.co/9OXIgd6GOt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1925573727888318680",
+        "created_at": "2025-05-22T15:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925573727888318680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "北朝鮮",
+              "probability": 0.5486,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1072373414029971456",
+              "start": 3,
+              "username": "47news_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "　【北京共同】北朝鮮メディアは22日、同国北東部の造船所で21日に5千トン級の駆逐艦の進水式が開かれた際、 ...",
+              "display_url": "47news.jp/12613541.html?…",
+              "end": 68,
+              "expanded_url": "https://www.47news.jp/12613541.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "images": [
+                {
+                  "height": 198,
+                  "url": "https://pbs.twimg.com/news_img/1925350161322319876/d5XvtFVJ?format=png&name=orig",
+                  "width": 406
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1925350161322319876/d5XvtFVJ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "【速報】北朝鮮で駆逐艦の進水失敗、金正恩氏激怒",
+              "unwound_url": "https://www.47news.jp/12613541.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "url": "https://t.co/9OXIgd6GOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925573727888318680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5929
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925350153621578071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @47news_official: 【速報】北朝鮮で駆逐艦の進水失敗、金正恩氏激怒\nhttps://t.co/9OXIgd6GOt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072373414029971456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1925350153621578071",
+        "created_at": "2025-05-22T00:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T01:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925350153621578071"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "北朝鮮",
+              "probability": 0.5889,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "　【北京共同】北朝鮮メディアは22日、同国北東部の造船所で21日に5千トン級の駆逐艦の進水式が開かれた際、 ...",
+              "display_url": "47news.jp/12613541.html?…",
+              "end": 47,
+              "expanded_url": "https://www.47news.jp/12613541.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "images": [
+                {
+                  "height": 198,
+                  "url": "https://pbs.twimg.com/news_img/1925350161322319876/d5XvtFVJ?format=png&name=orig",
+                  "width": 406
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1925350161322319876/d5XvtFVJ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "【速報】北朝鮮で駆逐艦の進水失敗、金正恩氏激怒",
+              "unwound_url": "https://www.47news.jp/12613541.html?utm_source=twitter&utm_medium=social&utm_campaign=api",
+              "url": "https://t.co/9OXIgd6GOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925350153621578071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2491,
+          "impression_count": 5361468,
+          "like_count": 29437,
+          "quote_count": 1469,
+          "reply_count": 498,
+          "retweet_count": 5929
+        },
+        "reply_settings": "everyone",
+        "text": "【速報】北朝鮮で駆逐艦の進水失敗、金正恩氏激怒\nhttps://t.co/9OXIgd6GOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，他妈今天热死了喵",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 181,
+          "like_count": 10718,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 847
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-11T06:12:00.000Z",
+        "description": "47NEWS(よんななニュース)の公式アカウントです。地域から国際情勢まで、全国52新聞社と共同通信の速報やニュースをお届け。特集47リポーターズ も配信中。 FBは https://t.co/RZqXrfnx2y、ウェブはhttps://t.co/wJkzP2PIbY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "facebook.com/47news",
+                "end": 107,
+                "expanded_url": "https://facebook.com/47news",
+                "start": 84,
+                "url": "https://t.co/RZqXrfnx2y"
+              },
+              {
+                "display_url": "47news.jp",
+                "end": 135,
+                "expanded_url": "http://47news.jp",
+                "start": 112,
+                "url": "https://t.co/wJkzP2PIbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "47news.jp",
+                "end": 23,
+                "expanded_url": "https://www.47news.jp/",
+                "start": 0,
+                "url": "https://t.co/zwPkXHY8bL"
+              }
+            ]
+          }
+        },
+        "id": "1072373414029971456",
+        "name": "47NEWS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072374944007364608/aaL1xS7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30162,
+          "following_count": 59,
+          "like_count": 262,
+          "listed_count": 857,
+          "media_count": 3260,
+          "tweet_count": 496953
+        },
+        "url": "https://t.co/zwPkXHY8bL",
+        "username": "47news_official",
+        "verified": true
+      }
+    ]
+  }
+}

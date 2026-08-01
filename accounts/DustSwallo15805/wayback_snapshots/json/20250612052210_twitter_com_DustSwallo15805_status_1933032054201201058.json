@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933032043514134528"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933032054201201058",
+    "created_at": "2025-06-12T05:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T06:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933032054201201058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ejcl5RdMyb",
+          "end": 39,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1933032054201201058/photo/1",
+          "media_key": "3_1933032043514134528",
+          "start": 16,
+          "url": "https://t.co/Ejcl5RdMyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933032054201201058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "达速跨越东营站，飞入油城百姓家 https://t.co/Ejcl5RdMyb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933032043514134528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtOCZuUbgAAn7xg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933032043514134528"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933032054201201058",
+        "created_at": "2025-06-12T05:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T06:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933032054201201058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ejcl5RdMyb",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1933032054201201058/photo/1",
+              "media_key": "3_1933032043514134528",
+              "start": 16,
+              "url": "https://t.co/Ejcl5RdMyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933032054201201058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "达速跨越东营站，飞入油城百姓家 https://t.co/Ejcl5RdMyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "звезда（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 185,
+          "like_count": 11743,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 902
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

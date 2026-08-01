@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1821364351334539350",
+    "created_at": "2024-08-08T01:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T02:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821364351334539350"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821364351334539350",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.数之始。人类为计数需要，首先有数目一。引申为初。常用以表示最少数量。《论语•公冶长》：“回也闻一以知十。”《孟子•梁惠王下》：“《书》曰：汤一征，白葛始。”赵岐注：“言汤初征，自葛始。”\n    2.同一；一样。如：一式两份。《淮南子•说山训》“所行则异，所归者一。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821364351334539350",
+        "created_at": "2024-08-08T01:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T02:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821364351334539350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821364351334539350",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.数之始。人类为计数需要，首先有数目一。引申为初。常用以表示最少数量。《论语•公冶长》：“回也闻一以知十。”《孟子•梁惠王下》：“《书》曰：汤一征，白葛始。”赵岐注：“言汤初征，自葛始。”\n    2.同一；一样。如：一式两份。《淮南子•说山训》“所行则异，所归者一。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 107,
+          "like_count": 3899,
+          "listed_count": 0,
+          "tweet_count": 550
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

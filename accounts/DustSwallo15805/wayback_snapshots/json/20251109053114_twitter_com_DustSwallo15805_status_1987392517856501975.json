@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1987392517856501975",
+    "created_at": "2025-11-09T05:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T06:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987392517856501975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiepaiki_meow/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/jiepaiki_meow/status/1987377673614860461",
+          "start": 49,
+          "url": "https://t.co/N59UwtAH18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987392517856501975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987377673614860461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太爽了喵！这是什么喵？点一下喵，复制了喵！太爽了喵！！这是什么喵？点一下喵，复制了喵！太爽了喵！ https://t.co/N59UwtAH18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 151,
+        "media_key": "3_1987377671630954496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SVdngbIAAaWIe.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1987392517856501975",
+        "created_at": "2025-11-09T05:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987392517856501975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiepaiki_meow/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/jiepaiki_meow/status/1987377673614860461",
+              "start": 49,
+              "url": "https://t.co/N59UwtAH18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987392517856501975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987377673614860461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太爽了喵！这是什么喵？点一下喵，复制了喵！太爽了喵！！这是什么喵？点一下喵，复制了喵！太爽了喵！ https://t.co/N59UwtAH18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987377671630954496"
+          ]
+        },
+        "author_id": "1891810325512806400",
+        "conversation_id": "1987377673614860461",
+        "created_at": "2025-11-09T04:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T05:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987377673614860461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23mouxRD3S",
+              "end": 72,
+              "expanded_url": "https://x.com/Jiepaiki_meow/status/1987377673614860461/photo/1",
+              "media_key": "3_1987377671630954496",
+              "start": 49,
+              "url": "https://t.co/23mouxRD3S"
+            },
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/Cldeop/status/1987372892129272273",
+              "start": 73,
+              "url": "https://t.co/4ewO6V0Gjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987377673614860461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987372892129272273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太爽了喵！这是什么喵？点一下喵，复制了喵！太爽了喵！！这是什么喵？点一下喵，复制了喵！太爽了喵！ https://t.co/23mouxRD3S https://t.co/4ewO6V0Gjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1986988676354875520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 534,
+          "like_count": 51190,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 2835
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-18T11:21:56.000Z",
+        "description": "/",
+        "id": "1891810325512806400",
+        "location": "幻想郷紅魔館兼幻想郷核爆実験場内蕾米莉亞斯卡蕾特寝室的床上",
+        "name": "新•截拍器🏳️‍⚧️",
+        "pinned_tweet_id": "1965420953120432621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944543738724073473/e7LDs2Qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 1781,
+          "like_count": 28916,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 2372
+        },
+        "username": "Jiepaiki_meow",
+        "verified": false
+      }
+    ]
+  }
+}

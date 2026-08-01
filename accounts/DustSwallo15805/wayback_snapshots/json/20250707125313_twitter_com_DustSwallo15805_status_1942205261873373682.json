@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1942202799737147680",
+    "created_at": "2025-07-07T12:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T13:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942205261873373682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942205261873373682",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942202799737147680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 您不是跨🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1942202799737147680",
+        "created_at": "2025-07-07T12:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942205261873373682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942205261873373682",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942202799737147680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 您不是跨🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "1942202799737147680",
+        "created_at": "2025-07-07T12:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942202799737147680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meowcatherina/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/meowcatherina/status/1942146676271296975",
+              "start": 71,
+              "url": "https://t.co/qS9hVHE63N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942202799737147680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942146676271296975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "06｜185cm 79kg｜不是🏳️‍⚧️/无证不含糖+日期｜快乐症｜丑/笨/其他｜喜欢涩涩/其他｜ 同类互fo/贴贴｜小号我才不告诉你们喵 https://t.co/qS9hVHE63N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 238,
+          "like_count": 17032,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1242
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1944,
+          "like_count": 32333,
+          "listed_count": 8,
+          "media_count": 917,
+          "tweet_count": 5516
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

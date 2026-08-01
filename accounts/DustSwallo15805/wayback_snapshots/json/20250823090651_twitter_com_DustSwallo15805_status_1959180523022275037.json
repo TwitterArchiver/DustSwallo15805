@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "1959180523022275037",
+    "created_at": "2025-08-23T09:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T10:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959180523022275037"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "China",
+          "probability": 0.9619,
+          "start": 30,
+          "type": "Place"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Shandong Pro",
+          "probability": 0.6478,
+          "start": 127,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "749959949141155840",
+          "start": 3,
+          "username": "CRRC_global"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959180523022275037",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958903486617461029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CRRC_global: Recently,🚆🚛  China's first piggyback transport trial train for highway tanker trucks successfully operated in Shandong Pro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_1957650377911808006",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyr4pYnXsAYS3w8.jpg",
+        "width": 796
+      },
+      {
+        "height": 720,
+        "media_key": "3_1957650377907527680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyr4pYmWYAAKrFT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 720,
+        "media_key": "3_1957650378725408771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyr4pbpWQAM7Kol.jpg",
+        "width": 1080
+      },
+      {
+        "height": 777,
+        "media_key": "3_1957650377920086023",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyr4pYpWAAc33Qm.jpg",
+        "width": 1267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "1959180523022275037",
+        "created_at": "2025-08-23T09:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959180523022275037"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "China",
+              "probability": 0.9619,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Shandong Pro",
+              "probability": 0.6478,
+              "start": 127,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "749959949141155840",
+              "start": 3,
+              "username": "CRRC_global"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959180523022275037",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958903486617461029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CRRC_global: Recently,🚆🚛  China's first piggyback transport trial train for highway tanker trucks successfully operated in Shandong Pro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957650377911808006",
+            "3_1957650377907527680",
+            "3_1957650378725408771",
+            "3_1957650377920086023"
+          ]
+        },
+        "author_id": "749959949141155840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1503733786613219328",
+              "name": "Logistics"
+            }
+          }
+        ],
+        "conversation_id": "1958903486617461029",
+        "created_at": "2025-08-22T14:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958903486617461029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "China",
+              "probability": 0.9722,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Shandong Province",
+              "probability": 0.9324,
+              "start": 110,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBOzoCycHi",
+              "end": 293,
+              "expanded_url": "https://x.com/CRRC_global/status/1958903486617461029/photo/1",
+              "media_key": "3_1957650377911808006",
+              "start": 270,
+              "url": "https://t.co/CBOzoCycHi"
+            },
+            {
+              "display_url": "pic.x.com/CBOzoCycHi",
+              "end": 293,
+              "expanded_url": "https://x.com/CRRC_global/status/1958903486617461029/photo/1",
+              "media_key": "3_1957650377907527680",
+              "start": 270,
+              "url": "https://t.co/CBOzoCycHi"
+            },
+            {
+              "display_url": "pic.x.com/CBOzoCycHi",
+              "end": 293,
+              "expanded_url": "https://x.com/CRRC_global/status/1958903486617461029/photo/1",
+              "media_key": "3_1957650378725408771",
+              "start": 270,
+              "url": "https://t.co/CBOzoCycHi"
+            },
+            {
+              "display_url": "pic.x.com/CBOzoCycHi",
+              "end": 293,
+              "expanded_url": "https://x.com/CRRC_global/status/1958903486617461029/photo/1",
+              "media_key": "3_1957650377920086023",
+              "start": 270,
+              "url": "https://t.co/CBOzoCycHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958903486617461029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 466,
+                "start": 461,
+                "tag": "CRRC"
+              },
+              {
+                "end": 583,
+                "start": 578,
+                "tag": "CRRC"
+              },
+              {
+                "end": 603,
+                "start": 584,
+                "tag": "RailwayDevelopment"
+              },
+              {
+                "end": 612,
+                "start": 604,
+                "tag": "railway"
+              },
+              {
+                "end": 628,
+                "start": 613,
+                "tag": "transportation"
+              }
+            ]
+          },
+          "text": "Recently,🚆🚛  China's first piggyback transport trial train for highway tanker trucks successfully operated in Shandong Province. 👏 Piggyback transport is a multimodal logistics mode in which entire road vehicles are loaded onto rail wagons, enabling efficient road–rail transfer 🚚➡️🚂. This \"truck-on-train\" approach can significantly reduce logistics costs and carbon emissions 💚. The trial train, consisting of 38 STX-series piggyback railcars co-developed by #CRRC Qiqihar and China Energy Railway Equipment Company transported 6 highway tanker trucks and 64 tank containers.\n#CRRC #RailwayDevelopment #railway #transportation"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 741,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Recently,🚆🚛  China's first piggyback transport trial train for highway tanker trucks successfully operated in Shandong Province. 👏 Piggyback transport is a multimodal logistics mode in which entire road vehicles are loaded onto rail wagons, enabling efficient road–rail https://t.co/CBOzoCycHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 388,
+          "like_count": 30312,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1908
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-04T13:36:00.000Z",
+        "description": "WORKING WITH YOU TO CONNECT THE WORLD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crrcgc.cc/en",
+                "end": 23,
+                "expanded_url": "https://www.crrcgc.cc/en",
+                "start": 0,
+                "url": "https://t.co/959LTvX1Dc"
+              }
+            ]
+          }
+        },
+        "id": "749959949141155840",
+        "location": "Worldwide",
+        "name": "CRRC Corporation Ltd.",
+        "pinned_tweet_id": "1838412481208992119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/749962868435542017/EP-0yLje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23622,
+          "following_count": 193,
+          "like_count": 3457,
+          "listed_count": 64,
+          "media_count": 2182,
+          "tweet_count": 5464
+        },
+        "url": "https://t.co/959LTvX1Dc",
+        "username": "CRRC_global",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1961795511159345343",
+    "created_at": "2025-08-30T14:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T15:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961797556859760800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961797556859760800",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961796577317843250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1961795511159345343",
+        "created_at": "2025-08-30T14:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961797556859760800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961797556859760800",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961796577317843250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "1961795511159345343",
+        "created_at": "2025-08-30T14:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961796577317843250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961796577317843250",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961796231619018826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 男孩纸是不要证明自己是男孩纸的\n哼，像泥这种速速抓起来吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 418,
+          "like_count": 33051,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 2109
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 |  热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFkZ5x"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Bernard",
+        "pinned_tweet_id": "1961379262243774913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 164,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/hxccVFkZ5x",
+        "username": "Tim_Pan_5",
+        "verified": false
+      }
+    ]
+  }
+}

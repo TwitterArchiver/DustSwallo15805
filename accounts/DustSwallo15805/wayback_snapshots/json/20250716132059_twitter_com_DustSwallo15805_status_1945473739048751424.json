@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945431620997222541",
+    "created_at": "2025-07-16T13:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T14:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945473739048751424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945473739048751424",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945455797468873187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 🥲摇得太使劲结果把片头摇进去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945431620997222541",
+        "created_at": "2025-07-16T13:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T14:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945473739048751424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945473739048751424",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945455797468873187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 🥲摇得太使劲结果把片头摇进去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833730895750283264",
+        "conversation_id": "1945431620997222541",
+        "created_at": "2025-07-16T12:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945455797468873187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945455797468873187",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945455658977099808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 还是G2好🤓5秒回片 还有片头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 271,
+          "like_count": 20006,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 1445
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "这里是小八！（男 ）暑假推油寻回中！😋 希望给所有人带来开心！｜膠片｜无敌康泰时G2吹｜宝利来｜ヨルシカの大ファンです！｜跑步｜箱根駅伝｜平时发些日常牢骚和跑步日常 不是很会说话 多多包涵 不建证！No politics 🚫 互fo会查成分！拍的照片在这里：小红书6548439184 日本語勉強の中！",
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1945307354318147634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944668098906492928/E6K96v3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 557,
+          "like_count": 53634,
+          "listed_count": 0,
+          "media_count": 1528,
+          "tweet_count": 14090
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

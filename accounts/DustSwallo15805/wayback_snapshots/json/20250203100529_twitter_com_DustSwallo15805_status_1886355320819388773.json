@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1885996738928132461",
+    "created_at": "2025-02-03T10:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T11:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886355320819388773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3072469273",
+          "start": 0,
+          "username": "Ayari_LVal"
+        },
+        {
+          "end": 20,
+          "id": "134716312",
+          "start": 12,
+          "username": "YamayaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886355320819388773",
+    "in_reply_to_user_id": "3072469273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886342823370428643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayari_LVal @YamayaT 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1885996738928132461",
+        "created_at": "2025-02-03T10:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T11:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886355320819388773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3072469273",
+              "start": 0,
+              "username": "Ayari_LVal"
+            },
+            {
+              "end": 20,
+              "id": "134716312",
+              "start": 12,
+              "username": "YamayaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886355320819388773",
+        "in_reply_to_user_id": "3072469273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886342823370428643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayari_LVal @YamayaT 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3072469273",
+        "conversation_id": "1885996738928132461",
+        "created_at": "2025-02-03T09:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T10:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886342823370428643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 25,
+              "id": "134716312",
+              "start": 17,
+              "username": "YamayaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886342823370428643",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886298499698086293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @YamayaT 要是没看到Z差点就信了你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 110,
+          "like_count": 5464,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 569
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-11T05:24:17.000Z",
+        "description": "朱焔の旋律に乗って雨上がりの虹を織れますように！\n\nイラストはあかはさんから〜 るるかちゃんとw",
+        "id": "3072469273",
+        "location": "valefor ミスト9",
+        "name": "あやりん〜！",
+        "pinned_tweet_id": "1879391348383727652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884862013169676288/MyxMsKHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 151,
+          "like_count": 8788,
+          "listed_count": 2,
+          "media_count": 1770,
+          "tweet_count": 4273
+        },
+        "username": "Ayari_LVal",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T07:12:50.000Z",
+        "description": "2002年よりライターやってます。中国IT系トレンド系紹介の連載ほか『中国のインターネット史』『移民時代の異国飯（共に星海社） https://t.co/6VFUoYFuxB 』など本数冊出版。記事は #山谷剛史記事 。Huawei,36krのTWの中の人。お仕事依頼はメール　dtgoshi@gmail.com　まで",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "山谷剛史記事"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amzn.to/3Eh5wHf",
+                "end": 87,
+                "expanded_url": "http://amzn.to/3Eh5wHf",
+                "start": 64,
+                "url": "https://t.co/6VFUoYFuxB"
+              }
+            ]
+          }
+        },
+        "id": "134716312",
+        "location": "雲南省🐘→日本",
+        "name": "山谷剛史　アジア中国ITライター＆異国飯",
+        "pinned_tweet_id": "1882573875709616622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789666743105007616/jrkOBLhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38290,
+          "following_count": 970,
+          "like_count": 29725,
+          "listed_count": 973,
+          "media_count": 51904,
+          "tweet_count": 309781
+        },
+        "username": "YamayaT",
+        "verified": true
+      }
+    ]
+  }
+}

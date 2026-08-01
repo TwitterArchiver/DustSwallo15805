@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1937247684412215296"
+      ],
+      "media_source_tweet_id": [
+        "1937247736685875409"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1938925530025459851",
+    "created_at": "2025-06-28T11:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938925530025459851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1365328795972952064",
+          "start": 3,
+          "username": "catshealdeprsn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vD9tGJckvP",
+          "end": 45,
+          "expanded_url": "https://x.com/buitengebieden/status/1937247736685875409/video/1",
+          "media_key": "13_1937247684412215296",
+          "start": 22,
+          "url": "https://t.co/vD9tGJckvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938925530025459851",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938657467900244374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @catshealdeprsn: 🤣 https://t.co/vD9tGJckvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5088,
+        "height": 1080,
+        "media_key": "13_1937247684412215296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937247684412215296/img/4e4Qk87V0pYjew0V.jpg",
+        "public_metrics": {
+          "view_count": 225616
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937247684412215296/vid/avc1/846x720/q5DuUFOf-zY5cTT0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937247684412215296/vid/avc1/422x360/lT9kR_tVz4HsmhVz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937247684412215296/pl/9lqxvQS3BjpNGWwZ.m3u8?v=bc3"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937247684412215296/vid/avc1/1270x1080/KlecEc1HHoSmOGLF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937247684412215296/vid/avc1/316x270/l8knDbEM34rAKRlt.mp4"
+          }
+        ],
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937247684412215296"
+          ],
+          "media_source_tweet_id": [
+            "1937247736685875409"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1938925530025459851",
+        "created_at": "2025-06-28T11:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938925530025459851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1365328795972952064",
+              "start": 3,
+              "username": "catshealdeprsn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vD9tGJckvP",
+              "end": 45,
+              "expanded_url": "https://x.com/buitengebieden/status/1937247736685875409/video/1",
+              "media_key": "13_1937247684412215296",
+              "start": 22,
+              "url": "https://t.co/vD9tGJckvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938925530025459851",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938657467900244374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @catshealdeprsn: 🤣 https://t.co/vD9tGJckvP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937247684412215296"
+          ],
+          "media_source_tweet_id": [
+            "1937247736685875409"
+          ]
+        },
+        "author_id": "1365328795972952064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "1938657467900244374",
+        "created_at": "2025-06-27T17:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938657467900244374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vD9tGJckvP",
+              "end": 25,
+              "expanded_url": "https://x.com/buitengebieden/status/1937247736685875409/video/1",
+              "media_key": "13_1937247684412215296",
+              "start": 2,
+              "url": "https://t.co/vD9tGJckvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938657467900244374",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 67390,
+          "like_count": 3153,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "🤣 https://t.co/vD9tGJckvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 215,
+          "like_count": 14990,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1132
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T15:52:20.000Z",
+        "description": "Best account to heal your anxiety or depression.",
+        "id": "1365328795972952064",
+        "location": "United States",
+        "name": "contents that ll heal your depression 🌻",
+        "pinned_tweet_id": "1938424544676745497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907873566638616576/fBkn1QxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107353,
+          "following_count": 36,
+          "like_count": 1238,
+          "listed_count": 2979,
+          "media_count": 10705,
+          "tweet_count": 13628
+        },
+        "username": "catshealdeprsn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934877992687423488",
+        "3_1934878005505216515",
+        "3_1934878014170648576"
+      ],
+      "media_source_tweet_id": [
+        "1934883717719187531",
+        "1934883717719187531",
+        "1934883717719187531"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934931776939676059",
+    "created_at": "2025-06-17T11:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934931776939676059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2840756743",
+          "start": 3,
+          "username": "FukuiAsobiWeb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KEAsyPYksz",
+          "end": 53,
+          "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+          "media_key": "3_1934877992687423488",
+          "start": 30,
+          "url": "https://t.co/KEAsyPYksz"
+        },
+        {
+          "display_url": "pic.x.com/KEAsyPYksz",
+          "end": 53,
+          "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+          "media_key": "3_1934878005505216515",
+          "start": 30,
+          "url": "https://t.co/KEAsyPYksz"
+        },
+        {
+          "display_url": "pic.x.com/KEAsyPYksz",
+          "end": 53,
+          "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+          "media_key": "3_1934878014170648576",
+          "start": 30,
+          "url": "https://t.co/KEAsyPYksz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934931776939676059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934883717719187531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FukuiAsobiWeb: OM-3さんとの比較 https://t.co/KEAsyPYksz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 449,
+        "media_key": "3_1934877992687423488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoRSG3a0AADGli.jpg",
+        "width": 1063
+      },
+      {
+        "height": 454,
+        "media_key": "3_1934878005505216515",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoRS2na0AMT47_.jpg",
+        "width": 1061
+      },
+      {
+        "height": 453,
+        "media_key": "3_1934878014170648576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtoRTW5a0AAAOG-.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934877992687423488",
+            "3_1934878005505216515",
+            "3_1934878014170648576"
+          ],
+          "media_source_tweet_id": [
+            "1934883717719187531",
+            "1934883717719187531",
+            "1934883717719187531"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934931776939676059",
+        "created_at": "2025-06-17T11:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934931776939676059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2840756743",
+              "start": 3,
+              "username": "FukuiAsobiWeb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KEAsyPYksz",
+              "end": 53,
+              "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+              "media_key": "3_1934877992687423488",
+              "start": 30,
+              "url": "https://t.co/KEAsyPYksz"
+            },
+            {
+              "display_url": "pic.x.com/KEAsyPYksz",
+              "end": 53,
+              "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+              "media_key": "3_1934878005505216515",
+              "start": 30,
+              "url": "https://t.co/KEAsyPYksz"
+            },
+            {
+              "display_url": "pic.x.com/KEAsyPYksz",
+              "end": 53,
+              "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+              "media_key": "3_1934878014170648576",
+              "start": 30,
+              "url": "https://t.co/KEAsyPYksz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934931776939676059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934883717719187531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FukuiAsobiWeb: OM-3さんとの比較 https://t.co/KEAsyPYksz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934877992687423488",
+            "3_1934878005505216515",
+            "3_1934878014170648576"
+          ]
+        },
+        "author_id": "2840756743",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934883717719187531",
+        "created_at": "2025-06-17T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934883717719187531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KEAsyPYksz",
+              "end": 34,
+              "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+              "media_key": "3_1934877992687423488",
+              "start": 11,
+              "url": "https://t.co/KEAsyPYksz"
+            },
+            {
+              "display_url": "pic.x.com/KEAsyPYksz",
+              "end": 34,
+              "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+              "media_key": "3_1934878005505216515",
+              "start": 11,
+              "url": "https://t.co/KEAsyPYksz"
+            },
+            {
+              "display_url": "pic.x.com/KEAsyPYksz",
+              "end": 34,
+              "expanded_url": "https://x.com/FukuiAsobiWeb/status/1934883717719187531/photo/1",
+              "media_key": "3_1934878014170648576",
+              "start": 11,
+              "url": "https://t.co/KEAsyPYksz"
+            },
+            {
+              "display_url": "x.com/FukuiAsobiWeb/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/FukuiAsobiWeb/status/1934853672292503824",
+              "start": 35,
+              "url": "https://t.co/2J6QHXtQnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934883717719187531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4651,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934853672292503824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OM-3さんとの比較 https://t.co/KEAsyPYksz https://t.co/2J6QHXtQnV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 191,
+          "like_count": 12607,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1003
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-05T03:13:48.000Z",
+        "description": "写真道楽と機材道楽を半々程度。最新情報やレビュー、セール情報など\nEnglish review blog：https://t.co/kQBcNR4Cn4\nMastodon：https://t.co/BlrJfC9hDS\nFacebook：https://t.co/maOwqzU941",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lens-edge.com",
+                "end": 76,
+                "expanded_url": "https://lens-edge.com",
+                "start": 53,
+                "url": "https://t.co/kQBcNR4Cn4"
+              },
+              {
+                "display_url": "mastodon.social/@asobinet",
+                "end": 109,
+                "expanded_url": "https://mastodon.social/@asobinet",
+                "start": 86,
+                "url": "https://t.co/BlrJfC9hDS"
+              },
+              {
+                "display_url": "facebook.com/torunara",
+                "end": 142,
+                "expanded_url": "https://www.facebook.com/torunara",
+                "start": 119,
+                "url": "https://t.co/maOwqzU941"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asobinet.com",
+                "end": 23,
+                "expanded_url": "http://asobinet.com/",
+                "start": 0,
+                "url": "https://t.co/FESgHIbfoo"
+              }
+            ]
+          }
+        },
+        "id": "2840756743",
+        "location": "日本海の近く",
+        "name": "とるなら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/965959691686764544/WLVGfwaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16449,
+          "following_count": 138,
+          "like_count": 1836,
+          "listed_count": 224,
+          "media_count": 12169,
+          "tweet_count": 34282
+        },
+        "url": "https://t.co/FESgHIbfoo",
+        "username": "FukuiAsobiWeb",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2054466214932664478",
+    "created_at": "2026-05-13T07:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054466214932664478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581226356326617088",
+          "start": 3,
+          "username": "Furina_8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054466214932664478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054426003146158226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Furina_8620: 目前中国铁路公司自己才是最拧巴的存在，一边因为市场化保留亏本普速还要自负盈亏，另一边又因为“公益性”不被允许搞第三产业。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2054466214932664478",
+        "created_at": "2026-05-13T07:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054466214932664478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581226356326617088",
+              "start": 3,
+              "username": "Furina_8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054466214932664478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054426003146158226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Furina_8620: 目前中国铁路公司自己才是最拧巴的存在，一边因为市场化保留亏本普速还要自负盈亏，另一边又因为“公益性”不被允许搞第三产业。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581226356326617088",
+        "conversation_id": "2054426003146158226",
+        "created_at": "2026-05-13T04:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054426003146158226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054426003146158226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "目前中国铁路公司自己才是最拧巴的存在，一边因为市场化保留亏本普速还要自负盈亏，另一边又因为“公益性”不被允许搞第三产业。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 756,
+          "like_count": 76523,
+          "listed_count": 3,
+          "media_count": 681,
+          "tweet_count": 3991
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "東北亞航空鐵道歷史考據員、鋼琴音樂愛好者，巴別塔建設者，文化评论员｜\n鐵道｜航空｜旅行｜虹咲｜MyGO｜AuADHD&🏳️‍⚧️",
+        "id": "1581226356326617088",
+        "location": "普瑞赛斯考察站",
+        "name": "東北亞旅行家雪菜",
+        "pinned_tweet_id": "2008049582249533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015344776296472579/zMNIS8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 328,
+          "like_count": 7800,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 1967
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

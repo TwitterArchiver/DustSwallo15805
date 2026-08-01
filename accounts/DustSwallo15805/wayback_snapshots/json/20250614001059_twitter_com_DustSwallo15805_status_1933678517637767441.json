@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1933539833051320320"
+      ],
+      "media_source_tweet_id": [
+        "1933539840512991604"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933678517637767441",
+    "created_at": "2025-06-14T00:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T01:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933678517637767441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763150487046590465",
+          "start": 3,
+          "username": "animalkyat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/969mQLmSWJ",
+          "end": 53,
+          "expanded_url": "https://x.com/Buzziririgong/status/1933539840512991604/video/1",
+          "media_key": "13_1933539833051320320",
+          "start": 30,
+          "url": "https://t.co/969mQLmSWJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933678517637767441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1494
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933542694242181325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animalkyat: ドローンで届けられた猫見て https://t.co/969mQLmSWJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8042,
+        "height": 576,
+        "media_key": "13_1933539833051320320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933539833051320320/img/obpbblVMz0bg2p2H.jpg",
+        "public_metrics": {
+          "view_count": 203470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933539833051320320/vid/avc1/478x270/Xd7jNooCavOr16WP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933539833051320320/vid/avc1/636x360/9eJj7ADbyuCCxd9B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933539833051320320/vid/avc1/1020x576/0sNLDKo4LuS-p-Cn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933539833051320320/pl/YegchHZUZwwMOo8l.m3u8"
+          }
+        ],
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933539833051320320"
+          ],
+          "media_source_tweet_id": [
+            "1933539840512991604"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933678517637767441",
+        "created_at": "2025-06-14T00:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T01:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933678517637767441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763150487046590465",
+              "start": 3,
+              "username": "animalkyat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/969mQLmSWJ",
+              "end": 53,
+              "expanded_url": "https://x.com/Buzziririgong/status/1933539840512991604/video/1",
+              "media_key": "13_1933539833051320320",
+              "start": 30,
+              "url": "https://t.co/969mQLmSWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933678517637767441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1494
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933542694242181325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animalkyat: ドローンで届けられた猫見て https://t.co/969mQLmSWJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933539833051320320"
+          ],
+          "media_source_tweet_id": [
+            "1933539840512991604"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933542694242181325",
+        "created_at": "2025-06-13T15:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933542694242181325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/969mQLmSWJ",
+              "end": 37,
+              "expanded_url": "https://x.com/Buzziririgong/status/1933539840512991604/video/1",
+              "media_key": "13_1933539833051320320",
+              "start": 14,
+              "url": "https://t.co/969mQLmSWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933542694242181325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1222,
+          "impression_count": 414010,
+          "like_count": 20806,
+          "quote_count": 39,
+          "reply_count": 25,
+          "retweet_count": 1494
+        },
+        "reply_settings": "everyone",
+        "text": "ドローンで届けられた猫見て https://t.co/969mQLmSWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与制服，什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 186,
+          "like_count": 12016,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 948
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦦🦥🐿️🦜🐈🐓🦔🐕🐇サブ垢@animebot50  ネタ提供や削除依頼、お仕事などは@sizuezeusまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "animebot50"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "sizuezeus"
+              }
+            ]
+          }
+        },
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "pinned_tweet_id": "1920292436300947459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165860,
+          "following_count": 111,
+          "like_count": 441,
+          "listed_count": 412,
+          "media_count": 2476,
+          "tweet_count": 2864
+        },
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

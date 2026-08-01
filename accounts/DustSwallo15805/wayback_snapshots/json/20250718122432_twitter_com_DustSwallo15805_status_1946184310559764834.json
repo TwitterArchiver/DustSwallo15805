@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1946142983054856649",
+    "created_at": "2025-07-18T12:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946184310559764834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        },
+        {
+          "end": 21,
+          "id": "1929251297976528896",
+          "start": 10,
+          "username": "sleepy3302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946184310559764834",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946182954042216850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 @sleepy3302 那就也来体验一下z100吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1946142983054856649",
+        "created_at": "2025-07-18T12:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946184310559764834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            },
+            {
+              "end": 21,
+              "id": "1929251297976528896",
+              "start": 10,
+              "username": "sleepy3302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946184310559764834",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946182954042216850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 @sleepy3302 那就也来体验一下z100吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921426104763682816",
+        "conversation_id": "1946142983054856649",
+        "created_at": "2025-07-18T12:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946182954042216850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929251297976528896",
+              "start": 0,
+              "username": "sleepy3302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946182954042216850",
+        "in_reply_to_user_id": "1929251297976528896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946142983054856649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepy3302 这是在干什么。？\n我明天还能走吗。？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、常礼什么都沾点但什么都不精😇",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 290,
+          "like_count": 20948,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 1521
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "这里是Hiner/15y准男高🌈/三次看黄男🚫/互关来找我玩",
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1941704554388804094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 724,
+          "like_count": 22784,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 3871
+        },
+        "username": "hiner233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T18:59:03.000Z",
+        "description": "如果可以的话！可以叫我困困！/ 音游吃 正太控 福瑞控 可冲小窗 🌈 / xp很杂所以会看三次元黄推‼️不全是‼️踩雷请务必告知 / 他们都说要做一个有礼貌的精神病 / 对的兄弟对的什么都会发一点 我会是别人评论区底下的蜂子。/ 我是句号大王。我说我说。/ 闺咪@hikarimazu / CN EN👌 JP🖥️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "hikarimazu"
+              }
+            ]
+          }
+        },
+        "id": "1929251297976528896",
+        "location": "scattered in pieces.",
+        "name": "Sleepy3302。🔜广州",
+        "pinned_tweet_id": "1940796582313840971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929251856162975744/b8AZ-PQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 195,
+          "like_count": 6572,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1410
+        },
+        "username": "sleepy3302",
+        "verified": false
+      }
+    ]
+  }
+}

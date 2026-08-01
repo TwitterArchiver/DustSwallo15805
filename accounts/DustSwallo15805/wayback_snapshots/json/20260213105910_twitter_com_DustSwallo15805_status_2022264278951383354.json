@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022264270491402241"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2022264278951383354",
+    "created_at": "2026-02-13T10:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022264278951383354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzG5amF6XY",
+          "end": 44,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2022264278951383354/photo/1",
+          "media_key": "3_2022264270491402241",
+          "start": 21,
+          "url": "https://t.co/kzG5amF6XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022264278951383354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“起开我是邮电部干线运输局的你无权安检” https://t.co/kzG5amF6XY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022264270491402241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCGo7yawAEPnkk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022264270491402241"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2022264278951383354",
+        "created_at": "2026-02-13T10:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022264278951383354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzG5amF6XY",
+              "end": 44,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2022264278951383354/photo/1",
+              "media_key": "3_2022264270491402241",
+              "start": 21,
+              "url": "https://t.co/kzG5amF6XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022264278951383354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“起开我是邮电部干线运输局的你无权安检” https://t.co/kzG5amF6XY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 643,
+          "like_count": 65996,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 3565
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

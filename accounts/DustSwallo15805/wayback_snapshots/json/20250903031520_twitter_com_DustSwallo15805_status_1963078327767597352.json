@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962925401539510272"
+      ],
+      "media_source_tweet_id": [
+        "1962925555252396513"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1963078327767597352",
+    "created_at": "2025-09-03T03:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T04:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963078327767597352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1457253375934746624",
+          "start": 3,
+          "username": "chaoyinsukandao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3QD2NktfM",
+          "end": 62,
+          "expanded_url": "https://x.com/chaoyinsukandao/status/1962925555252396513/photo/1",
+          "media_key": "3_1962925401539510272",
+          "start": 39,
+          "url": "https://t.co/r3QD2NktfM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963078327767597352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962925555252396513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaoyinsukandao: 对了，今年好像没出现武警地面装备。 https://t.co/r3QD2NktfM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_1962925401539510272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz22QK9agAAKHdZ.jpg",
+        "width": 877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962925401539510272"
+          ],
+          "media_source_tweet_id": [
+            "1962925555252396513"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1963078327767597352",
+        "created_at": "2025-09-03T03:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963078327767597352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1457253375934746624",
+              "start": 3,
+              "username": "chaoyinsukandao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3QD2NktfM",
+              "end": 62,
+              "expanded_url": "https://x.com/chaoyinsukandao/status/1962925555252396513/photo/1",
+              "media_key": "3_1962925401539510272",
+              "start": 39,
+              "url": "https://t.co/r3QD2NktfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963078327767597352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962925555252396513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chaoyinsukandao: 对了，今年好像没出现武警地面装备。 https://t.co/r3QD2NktfM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962925401539510272"
+          ]
+        },
+        "author_id": "1457253375934746624",
+        "conversation_id": "1962925555252396513",
+        "created_at": "2025-09-02T17:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962925555252396513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3QD2NktfM",
+              "end": 41,
+              "expanded_url": "https://x.com/chaoyinsukandao/status/1962925555252396513/photo/1",
+              "media_key": "3_1962925401539510272",
+              "start": 18,
+              "url": "https://t.co/r3QD2NktfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962925555252396513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1324,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对了，今年好像没出现武警地面装备。 https://t.co/r3QD2NktfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 427,
+          "like_count": 34149,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2160
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T07:47:43.000Z",
+        "description": "本号主要记录PLA军事历史",
+        "id": "1457253375934746624",
+        "name": "🔪飞刀🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670094181396774912/h38aO7vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 987,
+          "like_count": 207,
+          "listed_count": 30,
+          "media_count": 669,
+          "tweet_count": 943
+        },
+        "username": "chaoyinsukandao",
+        "verified": false
+      }
+    ]
+  }
+}

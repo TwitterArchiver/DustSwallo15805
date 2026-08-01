@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933008240574656512"
+      ],
+      "media_source_tweet_id": [
+        "1933008254986301579"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933459834369966154",
+    "created_at": "2025-06-13T09:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T10:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933459834369966154"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 20,
+          "tag": "愛知特有の名物だと思う物を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "961559781289771008",
+          "start": 3,
+          "username": "Kiriya_RyoNiji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rnZcRyXSIn",
+          "end": 60,
+          "expanded_url": "https://x.com/Kiriya_RyoNiji/status/1933008254986301579/photo/1",
+          "media_key": "3_1933008240574656512",
+          "start": 37,
+          "url": "https://t.co/rnZcRyXSIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933459834369966154",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933008254986301579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiriya_RyoNiji: #愛知特有の名物だと思う物を貼る https://t.co/rnZcRyXSIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1933008240574656512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtNswNda8AAGFoU.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933008240574656512"
+          ],
+          "media_source_tweet_id": [
+            "1933008254986301579"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933459834369966154",
+        "created_at": "2025-06-13T09:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T10:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933459834369966154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 20,
+              "tag": "愛知特有の名物だと思う物を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "961559781289771008",
+              "start": 3,
+              "username": "Kiriya_RyoNiji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnZcRyXSIn",
+              "end": 60,
+              "expanded_url": "https://x.com/Kiriya_RyoNiji/status/1933008254986301579/photo/1",
+              "media_key": "3_1933008240574656512",
+              "start": 37,
+              "url": "https://t.co/rnZcRyXSIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933459834369966154",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933008254986301579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiriya_RyoNiji: #愛知特有の名物だと思う物を貼る https://t.co/rnZcRyXSIn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933008240574656512"
+          ]
+        },
+        "author_id": "961559781289771008",
+        "conversation_id": "1933008254986301579",
+        "created_at": "2025-06-12T03:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T04:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933008254986301579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "愛知特有の名物だと思う物を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnZcRyXSIn",
+              "end": 40,
+              "expanded_url": "https://x.com/Kiriya_RyoNiji/status/1933008254986301579/photo/1",
+              "media_key": "3_1933008240574656512",
+              "start": 17,
+              "url": "https://t.co/rnZcRyXSIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933008254986301579",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7080,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "#愛知特有の名物だと思う物を貼る https://t.co/rnZcRyXSIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 186,
+          "like_count": 11946,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 935
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T11:18:11.000Z",
+        "description": "これから先もずっと、スネかじらせてもらうから。交通、商業施設（主にイオン琉球・サンエー）、ぼざろ（主にリョウ虹）等きらら、ブルアカ、リステがメイン。MADの宣伝とか→@KirigaokaKiriya マシュマロ→https://t.co/93nOKeeXMC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 83,
+                "username": "KirigaokaKiriya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kirie_and_kana",
+                "end": 129,
+                "expanded_url": "http://marshmallow-qa.com/kirie_and_kana",
+                "start": 106,
+                "url": "https://t.co/93nOKeeXMC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/Kiriya_RyoNiji",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/Kiriya_RyoNiji",
+                "start": 0,
+                "url": "https://t.co/caoXMlyUQd"
+              }
+            ]
+          }
+        },
+        "id": "961559781289771008",
+        "location": "沖縄県",
+        "name": "きりや(まアン)📷",
+        "pinned_tweet_id": "1930980369958092886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929554342312542208/MoPFGiM-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5342,
+          "following_count": 5106,
+          "like_count": 595201,
+          "listed_count": 105,
+          "media_count": 14271,
+          "tweet_count": 369419
+        },
+        "url": "https://t.co/caoXMlyUQd",
+        "username": "Kiriya_RyoNiji",
+        "verified": false
+      }
+    ]
+  }
+}

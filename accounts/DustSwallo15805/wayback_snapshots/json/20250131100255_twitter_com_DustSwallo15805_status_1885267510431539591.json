@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1885257732779106479",
+    "created_at": "2025-01-31T10:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T11:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885267510431539591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1848203946483159040",
+          "start": 0,
+          "username": "Jim_Mihua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885267510431539591",
+    "in_reply_to_user_id": "1848203946483159040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885267062559563795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jim_Mihua 🌿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1885257732779106479",
+        "created_at": "2025-01-31T10:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T11:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885267510431539591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1848203946483159040",
+              "start": 0,
+              "username": "Jim_Mihua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885267510431539591",
+        "in_reply_to_user_id": "1848203946483159040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885267062559563795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jim_Mihua 🌿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848203946483159040",
+        "conversation_id": "1885257732779106479",
+        "created_at": "2025-01-31T10:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T11:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885267062559563795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885267062559563795",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885257732779106479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 拌着绿猫一起吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 97,
+          "like_count": 5051,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 549
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T03:25:44.000Z",
+        "description": "🇨🇳 | 共青团团员 | 实践派 | 喵娘 | 妹子，但不约，谢谢，滚😡 | 顺女 | CN/EN | 是厂东人，可能会吃湖建人😋 | 不管你的意识形态是啥（除了极端），都可以和我聊天 | 基本不建政 | Time哥：@Time_Tim_C | 禁止使用人机和我聊天🤬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Time_Tim_C"
+              }
+            ]
+          }
+        },
+        "id": "1848203946483159040",
+        "name": "鸡米花（新春版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883842691123027969/mhjCEEGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 205,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 483
+        },
+        "username": "Jim_Mihua",
+        "verified": false
+      }
+    ]
+  }
+}

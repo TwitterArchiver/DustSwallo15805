@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2040684681474314591",
+    "created_at": "2026-04-05T14:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040793204887519513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1713251777921822721",
+          "start": 0,
+          "username": "__Jacie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040793204887519513",
+    "in_reply_to_user_id": "1713251777921822721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040684681474314591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Jacie 呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040684681474314591].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2040684681474314591",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2040684681474314591"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2040684681474314591",
+        "created_at": "2026-04-05T14:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040793204887519513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1713251777921822721",
+              "start": 0,
+              "username": "__Jacie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040793204887519513",
+        "in_reply_to_user_id": "1713251777921822721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040684681474314591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Jacie 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038058849253679104/MQ3Bq8U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 713,
+          "like_count": 72534,
+          "listed_count": 3,
+          "media_count": 670,
+          "tweet_count": 3813
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T17:54:07.000Z",
+        "description": "👀 你们这是什么群啊（低浮上）",
+        "id": "1713251777921822721",
+        "location": "public class",
+        "name": "__Jacie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860774755588243456/7J-fz0xJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 55,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "username": "__Jacie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1913538614744723713",
+    "created_at": "2025-04-19T10:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T11:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913538614744723713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1647170304844914689",
+          "start": 3,
+          "username": "DustSwallo15805"
+        },
+        {
+          "end": 32,
+          "id": "1817573438334341120",
+          "start": 21,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913538614744723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912520634716016726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DustSwallo15805: @teachaerli 考试，全都不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1913538614744723713",
+        "created_at": "2025-04-19T10:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T11:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913538614744723713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1647170304844914689",
+              "start": 3,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 32,
+              "id": "1817573438334341120",
+              "start": 21,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913538614744723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912520634716016726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DustSwallo15805: @teachaerli 考试，全都不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1912324027965927618",
+        "created_at": "2025-04-16T14:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912520634716016726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817573438334341120",
+              "start": 0,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912520634716016726",
+        "in_reply_to_user_id": "1817573438334341120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912324027965927618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teachaerli 考试，全都不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 157,
+          "like_count": 8421,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 729
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4077,
+          "following_count": 84,
+          "like_count": 41,
+          "listed_count": 10,
+          "media_count": 308,
+          "tweet_count": 331
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

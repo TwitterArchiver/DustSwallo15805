@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1958437298187768159",
+    "created_at": "2025-08-22T15:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958912151663649145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808858157852282881",
+          "start": 0,
+          "username": "sakityou24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958912151663649145",
+    "in_reply_to_user_id": "1808858157852282881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958911992779182253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakityou24 还行吧，就是天挺热的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-22T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958912151663649145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808858157852282881",
+              "start": 0,
+              "username": "sakityou24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958912151663649145",
+        "in_reply_to_user_id": "1808858157852282881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958911992779182253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakityou24 还行吧，就是天挺热的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808858157852282881",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-22T15:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958911992779182253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958911992779182253",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958437298187768159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 青岛好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 381,
+          "like_count": 29992,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1893
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T13:39:39.000Z",
+        "description": "希望能随心所欲的生活",
+        "id": "1808858157852282881",
+        "name": "admah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808858340312936448/9DZwk-9F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 4,
+          "like_count": 2543,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 572
+        },
+        "username": "sakityou24",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1821479366418976897",
+    "created_at": "2024-08-08T15:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T16:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821572979341594871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1763091205058093056",
+          "start": 0,
+          "username": "Kotone_Saber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821572979341594871",
+    "in_reply_to_user_id": "1763091205058093056",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821479366418976897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotone_Saber 🤣也许抖音可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821479366418976897",
+        "created_at": "2024-08-08T15:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T16:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821572979341594871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763091205058093056",
+              "start": 0,
+              "username": "Kotone_Saber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821572979341594871",
+        "in_reply_to_user_id": "1763091205058093056",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821479366418976897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotone_Saber 🤣也许抖音可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821474970368933888",
+            "3_1821477328725417984"
+          ]
+        },
+        "author_id": "1763091205058093056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "1821479366418976897",
+        "created_at": "2024-08-08T09:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T10:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821479366418976897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "中国",
+              "probability": 0.6868,
+              "start": 1,
+              "type": "Place"
+            },
+            {
+              "end": 27,
+              "normalized_text": "中国",
+              "probability": 0.889,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "中国",
+              "probability": 0.8345,
+              "start": 75,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/erflcs9f6x",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Kotone_Saber/status/1821479366418976897/video/1",
+              "media_key": "7_1821474970368933888",
+              "start": 138,
+              "url": "https://t.co/eRFLCS9F6X"
+            },
+            {
+              "display_url": "pic.x.com/erflcs9f6x",
+              "end": 161,
+              "expanded_url": "https://twitter.com/Kotone_Saber/status/1821479366418976897/video/1",
+              "media_key": "3_1821477328725417984",
+              "start": 138,
+              "url": "https://t.co/eRFLCS9F6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821479366418976897",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10214,
+          "like_count": 260,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "【中国の検閲】\nこの朝鮮人民軍行進のパロディ動画を、中国のビリビリ動画にUPしようとしたら、\n政府の検閲に引っかかってブロックされました🤣\n理由は、中国のサイバーセキュリティ法？に引っかかるコンテンツだそうです🫠\nホントに全ての動画を、人の目でチェックしてるんだね・・・🤣🤣 https://t.co/eRFLCS9F6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 107,
+          "like_count": 3923,
+          "listed_count": 0,
+          "tweet_count": 562
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T06:38:55.000Z",
+        "description": "YouTuberです✨️ ビートセイバーで面白いことやります😋\nファンアートも募集中です！(*^^*)\nイラスト: @bird_asami　アバター: @komado_booth",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "bird_asami"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "komado_booth"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Kotone_Saber",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Kotone_Saber",
+                "start": 0,
+                "url": "https://t.co/p1hAo7S6IH"
+              }
+            ]
+          }
+        },
+        "id": "1763091205058093056",
+        "location": "日本",
+        "name": "ことねせいばー",
+        "pinned_tweet_id": "1809503169694822523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785224844713541632/r--7T0ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3632,
+          "following_count": 70,
+          "like_count": 1194,
+          "listed_count": 15,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/p1hAo7S6IH",
+        "username": "Kotone_Saber",
+        "verified": true
+      }
+    ]
+  }
+}

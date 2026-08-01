@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927020014638403586"
+      ],
+      "media_source_tweet_id": [
+        "1927112758472122527"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1927384893241074075",
+    "created_at": "2025-05-27T15:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T16:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927384893241074075"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 105,
+          "start": 99,
+          "tag": "日本海海戦"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3827207474",
+          "start": 3,
+          "username": "JPNHistoria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MShESRPmUd",
+          "end": 129,
+          "expanded_url": "https://x.com/JPNHistoria/status/1927112758472122527/photo/1",
+          "media_key": "3_1927020014638403586",
+          "start": 106,
+          "url": "https://t.co/MShESRPmUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927384893241074075",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927112758472122527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JPNHistoria: 1905年5月27日 06:21\n発「三笠」：宛「大本営」\n\n敵艦隊見ユトノ警報ニ接シ聯合艦隊ハ直チニ出動、コレヲ撃滅セントス。\n本日天気晴朗ナレドモ浪高シ 。\n\n#日本海海戦 https://t.co/MShESRPmUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_1927020014638403586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4mfleXEAIGAK-.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927020014638403586"
+          ],
+          "media_source_tweet_id": [
+            "1927112758472122527"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1927384893241074075",
+        "created_at": "2025-05-27T15:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T16:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927384893241074075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 99,
+              "tag": "日本海海戦"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3827207474",
+              "start": 3,
+              "username": "JPNHistoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MShESRPmUd",
+              "end": 129,
+              "expanded_url": "https://x.com/JPNHistoria/status/1927112758472122527/photo/1",
+              "media_key": "3_1927020014638403586",
+              "start": 106,
+              "url": "https://t.co/MShESRPmUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927384893241074075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927112758472122527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JPNHistoria: 1905年5月27日 06:21\n発「三笠」：宛「大本営」\n\n敵艦隊見ユトノ警報ニ接シ聯合艦隊ハ直チニ出動、コレヲ撃滅セントス。\n本日天気晴朗ナレドモ浪高シ 。\n\n#日本海海戦 https://t.co/MShESRPmUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927020014638403586"
+          ]
+        },
+        "author_id": "3827207474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1927112758472122527",
+        "created_at": "2025-05-26T21:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T22:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927112758472122527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 82,
+              "tag": "日本海海戦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MShESRPmUd",
+              "end": 112,
+              "expanded_url": "https://x.com/JPNHistoria/status/1927112758472122527/photo/1",
+              "media_key": "3_1927020014638403586",
+              "start": 89,
+              "url": "https://t.co/MShESRPmUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927112758472122527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 32584,
+          "like_count": 1494,
+          "quote_count": 15,
+          "reply_count": 5,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "1905年5月27日 06:21\n発「三笠」：宛「大本営」\n\n敵艦隊見ユトノ警報ニ接シ聯合艦隊ハ直チニ出動、コレヲ撃滅セントス。\n本日天気晴朗ナレドモ浪高シ 。\n\n#日本海海戦 https://t.co/MShESRPmUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 181,
+          "like_count": 10963,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 854
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-08T16:43:30.000Z",
+        "description": "N年前の今日生起した出来事についてツイ－トしています。",
+        "id": "3827207474",
+        "name": "J.WH",
+        "pinned_tweet_id": "1875822042110427225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223066352937648128/TEzrZX9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20904,
+          "following_count": 4019,
+          "like_count": 865,
+          "listed_count": 199,
+          "media_count": 31708,
+          "tweet_count": 60561
+        },
+        "username": "JPNHistoria",
+        "verified": false
+      }
+    ]
+  }
+}

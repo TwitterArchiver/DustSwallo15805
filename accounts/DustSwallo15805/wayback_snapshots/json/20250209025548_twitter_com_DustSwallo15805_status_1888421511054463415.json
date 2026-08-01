@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1888393511936131122",
+    "created_at": "2025-02-09T02:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T03:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888421511054463415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "Anastasia195113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888421511054463415",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888393511936131122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anastasia195113 6，7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1888393511936131122",
+        "created_at": "2025-02-09T02:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T03:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888421511054463415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "Anastasia195113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888421511054463415",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888393511936131122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anastasia195113 6，7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888393504289910784"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "1888393511936131122",
+        "created_at": "2025-02-09T01:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T02:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888393511936131122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9o037NnlR",
+              "end": 27,
+              "expanded_url": "https://x.com/Anastasia195113/status/1888393511936131122/photo/1",
+              "media_key": "3_1888393504289910784",
+              "start": 4,
+              "url": "https://t.co/v9o037NnlR"
+            },
+            {
+              "display_url": "x.com/minamikaze_199…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/minamikaze_1995/status/1888272799284007237",
+              "start": 28,
+              "url": "https://t.co/FXytY4lCGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888393511936131122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888272799284007237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇】 https://t.co/v9o037NnlR https://t.co/FXytY4lCGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 122,
+          "like_count": 6131,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 615
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。",
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "1745857431090119137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662061289781460993/EDwofmWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 1105,
+          "like_count": 41189,
+          "listed_count": 5,
+          "media_count": 402,
+          "tweet_count": 14395
+        },
+        "username": "Anastasia195113",
+        "verified": false
+      }
+    ]
+  }
+}

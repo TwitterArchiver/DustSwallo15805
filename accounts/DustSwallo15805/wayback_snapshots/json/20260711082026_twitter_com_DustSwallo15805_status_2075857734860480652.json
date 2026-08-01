@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075804970671382528"
+      ],
+      "media_source_tweet_id": [
+        "2075805011981054118"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2075857734860480652",
+    "created_at": "2026-07-11T08:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075857734860480652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067447448549949440",
+          "start": 3,
+          "username": "Unk_Snow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mgtVw6dR5Y",
+          "end": 59,
+          "expanded_url": "https://x.com/Unk_Snow/status/2075805011981054118/photo/1",
+          "media_key": "3_2075804970671382528",
+          "start": 36,
+          "url": "https://t.co/mgtVw6dR5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075857734860480652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075805011981054118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Unk_Snow: 刷到这条推文就休息一下，免费领取Unk套餐 https://t.co/mgtVw6dR5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2075804970671382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM69n2vboAArjyZ.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075804970671382528"
+          ],
+          "media_source_tweet_id": [
+            "2075805011981054118"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2075857734860480652",
+        "created_at": "2026-07-11T08:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075857734860480652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067447448549949440",
+              "start": 3,
+              "username": "Unk_Snow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgtVw6dR5Y",
+              "end": 59,
+              "expanded_url": "https://x.com/Unk_Snow/status/2075805011981054118/photo/1",
+              "media_key": "3_2075804970671382528",
+              "start": 36,
+              "url": "https://t.co/mgtVw6dR5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075857734860480652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075805011981054118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Unk_Snow: 刷到这条推文就休息一下，免费领取Unk套餐 https://t.co/mgtVw6dR5Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075804970671382528"
+          ]
+        },
+        "author_id": "2067447448549949440",
+        "conversation_id": "2075805011981054118",
+        "created_at": "2026-07-11T04:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075805011981054118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgtVw6dR5Y",
+              "end": 45,
+              "expanded_url": "https://x.com/Unk_Snow/status/2075805011981054118/photo/1",
+              "media_key": "3_2075804970671382528",
+              "start": 22,
+              "url": "https://t.co/mgtVw6dR5Y"
+            },
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2075590129994051734",
+              "start": 46,
+              "url": "https://t.co/gbNN9iXUuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075805011981054118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075590129994051734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷到这条推文就休息一下，免费领取Unk套餐 https://t.co/mgtVw6dR5Y https://t.co/gbNN9iXUuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 865,
+          "like_count": 84698,
+          "listed_count": 4,
+          "media_count": 719,
+          "tweet_count": 4276
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 474,
+          "like_count": 301,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      }
+    ]
+  }
+}

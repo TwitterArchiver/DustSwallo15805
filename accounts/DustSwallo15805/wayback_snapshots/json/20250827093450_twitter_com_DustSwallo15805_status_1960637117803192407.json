@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960303211547447296"
+      ],
+      "media_source_tweet_id": [
+        "1960358825791295923"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960637117803192407",
+    "created_at": "2025-08-27T09:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T10:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960637117803192407"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Trumpet Boy",
+          "probability": 0.9664,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1874369770344067072",
+          "start": 3,
+          "username": "LostMemeArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/84iXwHFpcH",
+          "end": 63,
+          "expanded_url": "https://x.com/LostMemeArchive/status/1960358825791295923/photo/1",
+          "media_key": "3_1960303211547447296",
+          "start": 40,
+          "url": "https://t.co/84iXwHFpcH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960637117803192407",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2246
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960358825791295923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LostMemeArchive: Trumpet Boy (2018) https://t.co/84iXwHFpcH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1960303211547447296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRlYoBX0AAY0fZ.png",
+        "width": 510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960303211547447296"
+          ],
+          "media_source_tweet_id": [
+            "1960358825791295923"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960637117803192407",
+        "created_at": "2025-08-27T09:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T10:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960637117803192407"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Trumpet Boy",
+              "probability": 0.9664,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1874369770344067072",
+              "start": 3,
+              "username": "LostMemeArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84iXwHFpcH",
+              "end": 63,
+              "expanded_url": "https://x.com/LostMemeArchive/status/1960358825791295923/photo/1",
+              "media_key": "3_1960303211547447296",
+              "start": 40,
+              "url": "https://t.co/84iXwHFpcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960637117803192407",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2246
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960358825791295923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LostMemeArchive: Trumpet Boy (2018) https://t.co/84iXwHFpcH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960303211547447296"
+          ]
+        },
+        "author_id": "1874369770344067072",
+        "conversation_id": "1960358825791295923",
+        "created_at": "2025-08-26T15:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960358825791295923"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Trumpet Boy",
+              "probability": 0.9645,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84iXwHFpcH",
+              "end": 42,
+              "expanded_url": "https://x.com/LostMemeArchive/status/1960358825791295923/photo/1",
+              "media_key": "3_1960303211547447296",
+              "start": 19,
+              "url": "https://t.co/84iXwHFpcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960358825791295923",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2345,
+          "impression_count": 659491,
+          "like_count": 34870,
+          "quote_count": 88,
+          "reply_count": 74,
+          "retweet_count": 2246
+        },
+        "reply_settings": "everyone",
+        "text": "Trumpet Boy (2018) https://t.co/84iXwHFpcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 415,
+          "like_count": 32006,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 2046
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T08:19:26.000Z",
+        "description": "where memes go to die—and be reborn in your memory.",
+        "id": "1874369770344067072",
+        "name": "Lost Meme Archive",
+        "pinned_tweet_id": "1956974525783978218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914120748567785472/ffFpNobt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618973,
+          "following_count": 0,
+          "like_count": 2383,
+          "listed_count": 405,
+          "media_count": 2273,
+          "tweet_count": 2302
+        },
+        "username": "LostMemeArchive",
+        "verified": true
+      }
+    ]
+  }
+}

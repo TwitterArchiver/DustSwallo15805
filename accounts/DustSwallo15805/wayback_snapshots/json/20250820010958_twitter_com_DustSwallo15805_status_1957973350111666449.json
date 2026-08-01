@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957973339722633216"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1957973350111666449",
+    "created_at": "2025-08-20T01:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T02:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957973350111666449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GR4CfMuj6d",
+          "end": 35,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1957973350111666449/photo/1",
+          "media_key": "3_1957973339722633216",
+          "start": 12,
+          "url": "https://t.co/GR4CfMuj6d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957973350111666449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝村   即墨（mi) https://t.co/GR4CfMuj6d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957973339722633216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyweYPHaUAAOi7Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957973339722633216"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1957973350111666449",
+        "created_at": "2025-08-20T01:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T02:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957973350111666449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GR4CfMuj6d",
+              "end": 35,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1957973350111666449/photo/1",
+              "media_key": "3_1957973339722633216",
+              "start": 12,
+              "url": "https://t.co/GR4CfMuj6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957973350111666449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝村   即墨（mi) https://t.co/GR4CfMuj6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 363,
+          "like_count": 28684,
+          "listed_count": 1,
+          "media_count": 439,
+          "tweet_count": 1825
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

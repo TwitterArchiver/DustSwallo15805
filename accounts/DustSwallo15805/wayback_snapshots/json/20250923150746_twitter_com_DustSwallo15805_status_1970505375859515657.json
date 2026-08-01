@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1954935852020433378",
+    "created_at": "2025-09-23T15:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T16:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970505375859515657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1827960487512027136",
+          "start": 0,
+          "username": "BITE_YOUR_FACE"
+        },
+        {
+          "end": 27,
+          "id": "1904539885769457665",
+          "start": 16,
+          "username": "yanmin1105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970505375859515657",
+    "in_reply_to_user_id": "1827960487512027136",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954935852020433378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BITE_YOUR_FACE @yanmin1105"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20178,
+        "height": 576,
+        "media_key": "7_1954935820072439808",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1954935820072439808/pu/img/vcL1b9n11TDJla-E.jpg",
+        "public_metrics": {
+          "view_count": 1135367
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/vid/avc1/480x270/CnahhpzoFNBrY5R_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/vid/avc1/640x360/2DtNdnv5Hc0E-Tmo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/vid/avc1/1024x576/V0c3sKai1-LXLnZ1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1954935820072439808/pu/pl/R-KAnUe8TONIUbpx.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1954935852020433378",
+        "created_at": "2025-09-23T15:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970505375859515657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1827960487512027136",
+              "start": 0,
+              "username": "BITE_YOUR_FACE"
+            },
+            {
+              "end": 27,
+              "id": "1904539885769457665",
+              "start": 16,
+              "username": "yanmin1105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970505375859515657",
+        "in_reply_to_user_id": "1827960487512027136",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954935852020433378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BITE_YOUR_FACE @yanmin1105"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1954935820072439808"
+          ]
+        },
+        "author_id": "1827960487512027136",
+        "conversation_id": "1954935852020433378",
+        "created_at": "2025-08-11T16:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954935852020433378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DrdT1yoXGl",
+              "end": 23,
+              "expanded_url": "https://x.com/BITE_YOUR_FACE/status/1954935852020433378/video/1",
+              "media_key": "7_1954935820072439808",
+              "start": 0,
+              "url": "https://t.co/DrdT1yoXGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954935852020433378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13212,
+          "impression_count": 8261303,
+          "like_count": 110574,
+          "quote_count": 842,
+          "reply_count": 142,
+          "retweet_count": 22843
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DrdT1yoXGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "永远不会翻车｜友跨顺男｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1967591928444432745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 472,
+          "like_count": 39943,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 2442
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T06:45:28.000Z",
+        "description": "Im obsessively crafting a fun website builder.  WIP: https://t.co/RY0IlpZ52F\nentj\nfollow = I bite your face,\nI love chiikwa,\nnormal and well adjusted",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "foid.page/biteyourface",
+                "end": 76,
+                "expanded_url": "http://foid.page/biteyourface",
+                "start": 53,
+                "url": "https://t.co/RY0IlpZ52F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foid.page",
+                "end": 23,
+                "expanded_url": "https://www.foid.page",
+                "start": 0,
+                "url": "https://t.co/LFHylZmVSV"
+              }
+            ]
+          }
+        },
+        "id": "1827960487512027136",
+        "location": "SoCal",
+        "name": "BITE_YOUR_FACE",
+        "pinned_tweet_id": "1957136825241551347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956478496248930304/CLJbCcNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 142,
+          "like_count": 7979,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/LFHylZmVSV",
+        "username": "BITE_YOUR_FACE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T14:24:49.000Z",
+        "description": "偶尔犯点病，其他时候很好的一只小杂鱼（划掉）小药娘丨07丨MTF丨半家长党丨高二物化生丨INFP-T丨天津人丨重度焦虑&重度抑郁丨不o丨随缘互fo，只fo眼熟和xyn丨我最爱的宝宝 （老婆）@Cherry_BombY458 丨里推（负能） @xiaoyan_in丨搞黄小号（🚪68，熟人免费）@yanmin071105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "Cherry_BombY458"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "xiaoyan_in"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "yanmin071105"
+              }
+            ]
+          }
+        },
+        "id": "1904539885769457665",
+        "location": "Tianjin",
+        "name": "嫣敏🍥",
+        "pinned_tweet_id": "1964900215603011850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908766816979001344/T_x_oRHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 331,
+          "like_count": 2463,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 1116
+        },
+        "username": "yanmin1105",
+        "verified": false
+      }
+    ]
+  }
+}

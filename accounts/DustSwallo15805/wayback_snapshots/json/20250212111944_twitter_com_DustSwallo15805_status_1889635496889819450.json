@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889635482419732480"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889635496889819450",
+    "created_at": "2025-02-12T11:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T12:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889635496889819450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/te0RPLAXNg",
+          "end": 28,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1889635496889819450/photo/1",
+          "media_key": "3_1889635482419732480",
+          "start": 5,
+          "url": "https://t.co/te0RPLAXNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889635496889819450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "元宵快乐 https://t.co/te0RPLAXNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1889635482419732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlVdaSaIAAMYLM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889635482419732480"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1889635496889819450",
+        "created_at": "2025-02-12T11:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T12:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889635496889819450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/te0RPLAXNg",
+              "end": 28,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1889635496889819450/photo/1",
+              "media_key": "3_1889635482419732480",
+              "start": 5,
+              "url": "https://t.co/te0RPLAXNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889635496889819450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元宵快乐 https://t.co/te0RPLAXNg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 132,
+          "like_count": 6606,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 648
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

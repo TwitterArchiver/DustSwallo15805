@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2077761415805653429",
+    "created_at": "2026-07-16T14:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077767038039416883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077767038039416883",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077761415805653429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 那很山东了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2077761399967879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWw_B0akAAbUcR.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2077761400013996032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWw_B_aQAAZeXF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2077761399959482368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWw_ByacAA0_Mo.jpg",
+        "width": 472
+      },
+      {
+        "height": 768,
+        "media_key": "3_2077761400022450176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWw_CBbQAAqsZQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2077761415805653429",
+        "created_at": "2026-07-16T14:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077767038039416883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077767038039416883",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077761415805653429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 那很山东了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077761399967879168",
+            "3_2077761400013996032",
+            "3_2077761399959482368",
+            "3_2077761400022450176"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077761415805653429",
+        "created_at": "2026-07-16T14:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077761415805653429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pQ1HHEJZNy",
+              "end": 171,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2077761415805653429/photo/1",
+              "media_key": "3_2077761399967879168",
+              "start": 148,
+              "url": "https://t.co/pQ1HHEJZNy"
+            },
+            {
+              "display_url": "pic.x.com/pQ1HHEJZNy",
+              "end": 171,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2077761415805653429/photo/1",
+              "media_key": "3_2077761400013996032",
+              "start": 148,
+              "url": "https://t.co/pQ1HHEJZNy"
+            },
+            {
+              "display_url": "pic.x.com/pQ1HHEJZNy",
+              "end": 171,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2077761415805653429/photo/1",
+              "media_key": "3_2077761399959482368",
+              "start": 148,
+              "url": "https://t.co/pQ1HHEJZNy"
+            },
+            {
+              "display_url": "pic.x.com/pQ1HHEJZNy",
+              "end": 171,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2077761415805653429/photo/1",
+              "media_key": "3_2077761400022450176",
+              "start": 148,
+              "url": "https://t.co/pQ1HHEJZNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077761415805653429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天是一日乡土Nagi\n去商河寻根问祖了\n原本就只知道村庄名和亲戚名字\n结果通过村委会找到人了\n那人六年前走了\n但是妻儿还在\n结果真的给我们搞了一大桌好菜来\n还教我怎么认辈分\n获得了一个很帅的堂弟\n可惜是直的🥲\n\n这是我第一次深入“村”级别的地方\n没想到美团外卖直接点不了了\n想点杯奶茶都没得点\n\n有一说一体验一下山东的宗祖氛围也蛮好的\n经典被问“谈没谈女朋友”“什么时候结婚”\n以后有机会我一定要cosplay一日直男/一日父亲\n我也要体验当一天爹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是一日乡土Nagi\n去商河寻根问祖了\n原本就只知道村庄名和亲戚名字\n结果通过村委会找到人了\n那人六年前走了\n但是妻儿还在\n结果真的给我们搞了一大桌好菜来\n还教我怎么认辈分\n获得了一个很帅的堂弟\n可惜是直的🥲\n\n这是我第一次深入“村”级别的地方\n没想到美团外卖直接点不了了\n想点杯奶茶都没得点 https://t.co/pQ1HHEJZNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi｜ｂｏｃ是傻逼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 867,
+          "like_count": 86467,
+          "listed_count": 4,
+          "media_count": 730,
+          "tweet_count": 4355
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "Stansted Airport",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2076159056612585652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076291088625885184/U0VEOAw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5993,
+          "following_count": 2383,
+          "like_count": 30797,
+          "listed_count": 8,
+          "media_count": 2833,
+          "tweet_count": 26673
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false
+      }
+    ]
+  }
+}

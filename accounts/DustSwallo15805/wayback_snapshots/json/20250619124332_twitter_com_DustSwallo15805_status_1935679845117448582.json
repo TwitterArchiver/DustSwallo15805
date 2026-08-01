@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935679833620590592"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1935679845117448582",
+    "created_at": "2025-06-19T12:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935679845117448582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLJ4lWtzhr",
+          "end": 31,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1935679845117448582/photo/1",
+          "media_key": "3_1935679833620590592",
+          "start": 8,
+          "url": "https://t.co/jLJ4lWtzhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935679845117448582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在这帮孩子啊 https://t.co/jLJ4lWtzhr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 551,
+        "media_key": "3_1935679833620590592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzqjZHXsAApv3y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935679833620590592"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1935679845117448582",
+        "created_at": "2025-06-19T12:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935679845117448582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLJ4lWtzhr",
+              "end": 31,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1935679845117448582/photo/1",
+              "media_key": "3_1935679833620590592",
+              "start": 8,
+              "url": "https://t.co/jLJ4lWtzhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935679845117448582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在这帮孩子啊 https://t.co/jLJ4lWtzhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 198,
+          "like_count": 13052,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1024
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

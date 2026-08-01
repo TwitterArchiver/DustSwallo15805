@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1999929703478767692",
+    "created_at": "2025-12-14T02:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000035758623838661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 14,
+          "id": "1243945571796295681",
+          "start": 8,
+          "username": "ryq59"
+        },
+        {
+          "end": 22,
+          "id": "1973748660975587328",
+          "start": 15,
+          "username": "0xAzxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000035758623838661",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000035695893926281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI @ryq59 @0xAzxs 呜呜🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ryq59].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ryq59",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ryq59"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1999929703478767692",
+        "created_at": "2025-12-14T02:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000035758623838661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 14,
+              "id": "1243945571796295681",
+              "start": 8,
+              "username": "ryq59"
+            },
+            {
+              "end": 22,
+              "id": "1973748660975587328",
+              "start": 15,
+              "username": "0xAzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000035758623838661",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000035695893926281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI @ryq59 @0xAzxs 呜呜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "1999929703478767692",
+        "created_at": "2025-12-14T02:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000035695893926281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 23,
+              "id": "1243945571796295681",
+              "start": 17,
+              "username": "ryq59"
+            },
+            {
+              "end": 31,
+              "id": "1973748660975587328",
+              "start": 24,
+              "username": "0xAzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000035695893926281",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000035636338974752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @ryq59 @0xAzxs 于小姐好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜Подруга： @EimeiLait",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1994430557099532647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998177645369163776/eKTcdgRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 566,
+          "like_count": 58130,
+          "listed_count": 3,
+          "media_count": 545,
+          "tweet_count": 3097
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "AI/ML在读｜实习律师｜前世 @ryq59｜性别是🏳️‍⚧️Enby.（MtX）🏳️‍🌈｜里垢@TabeWang｜好姐姐 @tonghua245 @mimilinkeyi ｜管理员 @mhtqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 16,
+                "username": "ryq59"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TabeWang"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "tonghua245"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "mimilinkeyi"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "铨🍥（互fo寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 2897,
+          "like_count": 27675,
+          "listed_count": 13,
+          "media_count": 852,
+          "tweet_count": 4644
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "QQ259756720",
+        "id": "1973748660975587328",
+        "location": "Tianjin China",
+        "name": "艾之希伤",
+        "pinned_tweet_id": "1998734199587582375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997960194295492608/siYZBz0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 686,
+          "like_count": 4821,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 911
+        },
+        "username": "0xAzxs",
+        "verified": false
+      }
+    ]
+  }
+}

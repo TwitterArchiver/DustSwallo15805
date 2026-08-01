@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982991804564942855"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1982991811410059286",
+    "created_at": "2025-10-28T02:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T03:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982991811410059286"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Niuh6hhcNH",
+          "end": 28,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1982991811410059286/photo/1",
+          "media_key": "3_1982991804564942855",
+          "start": 5,
+          "url": "https://t.co/Niuh6hhcNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982991811410059286",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/Niuh6hhcNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1982991804564942855",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UAijeasAckrw_.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982991804564942855"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1982991811410059286",
+        "created_at": "2025-10-28T02:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982991811410059286"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Niuh6hhcNH",
+              "end": 28,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1982991811410059286/photo/1",
+              "media_key": "3_1982991804564942855",
+              "start": 5,
+              "url": "https://t.co/Niuh6hhcNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982991811410059286",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/Niuh6hhcNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982991789972930560/pTCBw2oI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 507,
+          "like_count": 48197,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 2744
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

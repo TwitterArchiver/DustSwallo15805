@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952318052995076096"
+      ],
+      "media_source_tweet_id": [
+        "1952318090697699655"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1952318608014778815",
+    "created_at": "2025-08-04T10:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952318608014778815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1691450942208741377",
+          "start": 3,
+          "username": "Dust08461185294"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uf4m1smZko",
+          "end": 53,
+          "expanded_url": "https://x.com/Dust08461185294/status/1952318090697699655/photo/1",
+          "media_key": "3_1952318052995076096",
+          "start": 30,
+          "url": "https://t.co/Uf4m1smZko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952318608014778815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952318090697699655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dust08461185294: 中南海邮戳集到了 https://t.co/Uf4m1smZko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1952318052995076096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxgG7OVakAA0e0V.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952318052995076096"
+          ],
+          "media_source_tweet_id": [
+            "1952318090697699655"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1952318608014778815",
+        "created_at": "2025-08-04T10:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952318608014778815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1691450942208741377",
+              "start": 3,
+              "username": "Dust08461185294"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uf4m1smZko",
+              "end": 53,
+              "expanded_url": "https://x.com/Dust08461185294/status/1952318090697699655/photo/1",
+              "media_key": "3_1952318052995076096",
+              "start": 30,
+              "url": "https://t.co/Uf4m1smZko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952318608014778815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952318090697699655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dust08461185294: 中南海邮戳集到了 https://t.co/Uf4m1smZko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952318052995076096"
+          ]
+        },
+        "author_id": "1691450942208741377",
+        "conversation_id": "1952318090697699655",
+        "created_at": "2025-08-04T10:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952318090697699655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uf4m1smZko",
+              "end": 32,
+              "expanded_url": "https://x.com/Dust08461185294/status/1952318090697699655/photo/1",
+              "media_key": "3_1952318052995076096",
+              "start": 9,
+              "url": "https://t.co/Uf4m1smZko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952318090697699655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中南海邮戳集到了 https://t.co/Uf4m1smZko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了，我还是少点不切实际的幻想吧",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 331,
+          "like_count": 24909,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 1696
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T14:05:14.000Z",
+        "description": "邮票邮戳与旅行",
+        "id": "1691450942208741377",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799586962007031808/EDI_d9kt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 68,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "username": "Dust08461185294",
+        "verified": false
+      }
+    ]
+  }
+}

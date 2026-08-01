@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1944078559275864064"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1944078676842491964",
+    "created_at": "2025-07-12T16:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T17:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944078676842491964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OkHE07SCd9",
+          "end": 23,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1944078676842491964/video/1",
+          "media_key": "13_1944078559275864064",
+          "start": 0,
+          "url": "https://t.co/OkHE07SCd9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944078676842491964",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OkHE07SCd9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57205,
+        "height": 1920,
+        "media_key": "13_1944078559275864064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1944078559275864064/img/pa5rNElMbMeYwYlE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944078559275864064/vid/avc1/320x568/DBU4UynoXW-xWRiG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944078559275864064/vid/avc1/480x852/wZHGP2xrMqIkVpS7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1944078559275864064/vid/avc1/720x1280/GRV-WUUWR-cQff19.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1944078559275864064/pl/d5Qlv0GP9RaB0jJ_.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1944078559275864064"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1944078676842491964",
+        "created_at": "2025-07-12T16:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944078676842491964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkHE07SCd9",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1944078676842491964/video/1",
+              "media_key": "13_1944078559275864064",
+              "start": 0,
+              "url": "https://t.co/OkHE07SCd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944078676842491964",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OkHE07SCd9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "砸锅卖铁也要买徕卡m7",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 252,
+          "like_count": 18655,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 1332
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1995479631688782080",
+    "created_at": "2025-12-01T14:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995494801094185441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995494801094185441",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995479631688782080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 送我😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1995479622864269312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FeJP1a8AAqFiy.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1995479631688782080",
+        "created_at": "2025-12-01T14:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995494801094185441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995494801094185441",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995479631688782080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 送我😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995479622864269312"
+          ]
+        },
+        "author_id": "1833730895750283264",
+        "conversation_id": "1995479631688782080",
+        "created_at": "2025-12-01T13:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T14:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995479631688782080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35KeUONUcS",
+              "end": 30,
+              "expanded_url": "https://x.com/32_aug/status/1995479631688782080/photo/1",
+              "media_key": "3_1995479622864269312",
+              "start": 7,
+              "url": "https://t.co/35KeUONUcS"
+            },
+            {
+              "display_url": "x.com/555emauma/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/555emauma/status/1995470472771768634",
+              "start": 31,
+              "url": "https://t.co/TQ9x9GS8Zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995479631688782080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995470472771768634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "意义不明（（ https://t.co/35KeUONUcS https://t.co/TQ9x9GS8Zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1994430557099532647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 567,
+          "like_count": 56243,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 3047
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "はちです！中国人です！希望跟大家交朋友！｜フィルム｜ContaxG2お使います｜ポーラロイド｜ヨルシカ｜跑步训练｜箱根駅伝｜日常｜リズと青い鳥 ｜No politics 🚫 互fo查成分！日本語勉強しています！無言フォロー失礼します🙇 写真はこちら@ynmori136992",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "ynmori136992"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "みぞれのオーボエ",
+        "pinned_tweet_id": "1962008654842073413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985591382241914880/dav334cB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 685,
+          "like_count": 77922,
+          "listed_count": 3,
+          "media_count": 2325,
+          "tweet_count": 22965
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

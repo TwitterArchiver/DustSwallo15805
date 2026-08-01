@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933378152115700045",
+    "created_at": "2025-06-13T04:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T05:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933378152115700045"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "日本",
+          "probability": 0.6611,
+          "start": 52,
+          "type": "Place"
+        },
+        {
+          "end": 127,
+          "normalized_text": "谷国四郎",
+          "probability": 0.5861,
+          "start": 124,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1038239766003605504",
+          "start": 3,
+          "username": "LfXAMDg4PE50i9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933378152115700045",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 551
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932658641355833563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LfXAMDg4PE50i9e: 日露戦争で散った夫の遺品を見詰める妻。凛としたその様子は当時の日本では称えられたでしょう。しかし、彼女の心は泣いています。この画像では判別できませんが、彼女の目元には僅かに涙が滲んでいるのです。\n\n画像は満谷国四郎の「軍人の妻」（190…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1932658634938535936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtIuye-aUAAJEUM.jpg",
+        "width": 707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933378152115700045",
+        "created_at": "2025-06-13T04:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933378152115700045"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "日本",
+              "probability": 0.6611,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "谷国四郎",
+              "probability": 0.5861,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1038239766003605504",
+              "start": 3,
+              "username": "LfXAMDg4PE50i9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933378152115700045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 551
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932658641355833563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LfXAMDg4PE50i9e: 日露戦争で散った夫の遺品を見詰める妻。凛としたその様子は当時の日本では称えられたでしょう。しかし、彼女の心は泣いています。この画像では判別できませんが、彼女の目元には僅かに涙が滲んでいるのです。\n\n画像は満谷国四郎の「軍人の妻」（190…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932658634938535936"
+          ]
+        },
+        "author_id": "1038239766003605504",
+        "conversation_id": "1932658641355833563",
+        "created_at": "2025-06-11T04:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T05:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932658641355833563"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "日本",
+              "probability": 0.6334,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 106,
+              "normalized_text": "谷国四郎",
+              "probability": 0.6128,
+              "start": 103,
+              "type": "Person"
+            },
+            {
+              "end": 112,
+              "normalized_text": "軍人の妻",
+              "probability": 0.4579,
+              "start": 109,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "福富太郎",
+              "probability": 0.8218,
+              "start": 125,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0pKr3DgvD",
+              "end": 165,
+              "expanded_url": "https://x.com/LfXAMDg4PE50i9e/status/1932658641355833563/photo/1",
+              "media_key": "3_1932658634938535936",
+              "start": 142,
+              "url": "https://t.co/x0pKr3DgvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932658641355833563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 336,
+          "impression_count": 104543,
+          "like_count": 4021,
+          "quote_count": 14,
+          "reply_count": 44,
+          "retweet_count": 551
+        },
+        "reply_settings": "everyone",
+        "text": "日露戦争で散った夫の遺品を見詰める妻。凛としたその様子は当時の日本では称えられたでしょう。しかし、彼女の心は泣いています。この画像では判別できませんが、彼女の目元には僅かに涙が滲んでいるのです。\n\n画像は満谷国四郎の「軍人の妻」（1904）。この絵は福富太郎が米国より買戻しました。 https://t.co/x0pKr3DgvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "звезда（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 185,
+          "like_count": 11888,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 926
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-08T01:37:04.000Z",
+        "description": "☆拙著発売中☆\n〇新刊「愛と官能の名画」（固定ポストにリンクあり）\n\n〇『昔の芸術を〈少女漫画風に〉つぶやくよ』→https://t.co/WTqLYSEGr8\n\n〇『つい人に話したくなる名画の雑学』→https://t.co/lPZ1wLbRfd　\n\nお仕事依頼はDMで！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/4046840315",
+                "end": 80,
+                "expanded_url": "https://www.amazon.co.jp/dp/4046840315",
+                "start": 57,
+                "url": "https://t.co/WTqLYSEGr8"
+              },
+              {
+                "display_url": "amzn.asia/d/aX9T0k0",
+                "end": 124,
+                "expanded_url": "http://amzn.asia/d/aX9T0k0",
+                "start": 101,
+                "url": "https://t.co/lPZ1wLbRfd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mukasiwotubuya…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mukasiwotubuyakuyo/?hl=ja",
+                "start": 0,
+                "url": "https://t.co/0JGEpAX7ib"
+              }
+            ]
+          }
+        },
+        "id": "1038239766003605504",
+        "location": "「ヤスダコーシキ」（絵画デリュージョニスト）と申します。",
+        "name": "昔の芸術をつぶやくよ",
+        "pinned_tweet_id": "1877169765980000503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1068140781636972544/Cks8Rj-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224744,
+          "following_count": 20058,
+          "like_count": 274260,
+          "listed_count": 1502,
+          "media_count": 4134,
+          "tweet_count": 92644
+        },
+        "url": "https://t.co/0JGEpAX7ib",
+        "username": "LfXAMDg4PE50i9e",
+        "verified": true
+      }
+    ]
+  }
+}

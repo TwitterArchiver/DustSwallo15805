@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1926665703890821157",
+    "created_at": "2025-05-25T15:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T16:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926665703890821157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372184630753853444",
+          "start": 3,
+          "username": "2temisinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926665703890821157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926225317439381845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2temisinin: 当你发现你可以从题干中学到新知识的时候\n这考试基本上就废了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1926665703890821157",
+        "created_at": "2025-05-25T15:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T16:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926665703890821157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372184630753853444",
+              "start": 3,
+              "username": "2temisinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926665703890821157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926225317439381845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2temisinin: 当你发现你可以从题干中学到新知识的时候\n这考试基本上就废了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "1926225317439381845",
+        "created_at": "2025-05-24T10:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T11:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926225317439381845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926225317439381845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15328,
+          "like_count": 302,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "当你发现你可以从题干中学到新知识的时候\n这考试基本上就废了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，______________",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 180,
+          "like_count": 10864,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 850
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜可以叫我鸮｜ Wuhan生科大一休学 ，业余药理学习中｜呼号BH6RQG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "氯鸮西泮",
+        "pinned_tweet_id": "1894930997873127616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 1598,
+          "like_count": 31753,
+          "listed_count": 3,
+          "media_count": 295,
+          "tweet_count": 2916
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

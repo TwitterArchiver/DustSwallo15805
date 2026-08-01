@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069289254845575168"
+      ],
+      "media_source_tweet_id": [
+        "2069289259698389473"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2069425975075770660",
+    "created_at": "2026-06-23T14:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069425975075770660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/veo2eCVbvC",
+          "end": 59,
+          "expanded_url": "https://x.com/__summer__sea__/status/2069289259698389473/photo/1",
+          "media_key": "3_2069289254845575168",
+          "start": 36,
+          "url": "https://t.co/veo2eCVbvC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069425975075770660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069289259698389473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 原来，这一切都是我的幻觉…… https://t.co/veo2eCVbvC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2069289254845575168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLeXnRyacAAbipd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069289254845575168"
+          ],
+          "media_source_tweet_id": [
+            "2069289259698389473"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2069425975075770660",
+        "created_at": "2026-06-23T14:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069425975075770660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/veo2eCVbvC",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2069289259698389473/photo/1",
+              "media_key": "3_2069289254845575168",
+              "start": 36,
+              "url": "https://t.co/veo2eCVbvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069425975075770660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069289259698389473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 原来，这一切都是我的幻觉…… https://t.co/veo2eCVbvC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069289254845575168"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2069289259698389473",
+        "created_at": "2026-06-23T05:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069289259698389473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/veo2eCVbvC",
+              "end": 38,
+              "expanded_url": "https://x.com/__summer__sea__/status/2069289259698389473/photo/1",
+              "media_key": "3_2069289254845575168",
+              "start": 15,
+              "url": "https://t.co/veo2eCVbvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069289259698389473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5752,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "原来，这一切都是我的幻觉…… https://t.co/veo2eCVbvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 788,
+          "like_count": 80339,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 4114
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜https://t.co/p1HdmUrBuO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yanshatang",
+                "end": 69,
+                "expanded_url": "http://t.me/yanshatang",
+                "start": 46,
+                "url": "https://t.co/p1HdmUrBuO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1043,
+          "like_count": 8905,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2845
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

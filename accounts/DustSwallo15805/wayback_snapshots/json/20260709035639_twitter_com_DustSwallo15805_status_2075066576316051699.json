@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074950421727068161"
+      ],
+      "media_source_tweet_id": [
+        "2074950424159834112"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2075066576316051699",
+    "created_at": "2026-07-09T03:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075066576316051699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1376172035299233795",
+          "start": 3,
+          "username": "AnimeePost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3msQI4gA0Q",
+          "end": 60,
+          "expanded_url": "https://x.com/AnimeePost/status/2074950424159834112/photo/1",
+          "media_key": "3_2074950421727068161",
+          "start": 37,
+          "url": "https://t.co/3msQI4gA0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075066576316051699",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074950424159834112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnimeePost: Worst adoption ever. https://t.co/3msQI4gA0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074950421727068161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMu0aj2WwAE2VNO.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074950421727068161"
+          ],
+          "media_source_tweet_id": [
+            "2074950424159834112"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2075066576316051699",
+        "created_at": "2026-07-09T03:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075066576316051699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1376172035299233795",
+              "start": 3,
+              "username": "AnimeePost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3msQI4gA0Q",
+              "end": 60,
+              "expanded_url": "https://x.com/AnimeePost/status/2074950424159834112/photo/1",
+              "media_key": "3_2074950421727068161",
+              "start": 37,
+              "url": "https://t.co/3msQI4gA0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075066576316051699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074950424159834112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnimeePost: Worst adoption ever. https://t.co/3msQI4gA0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074950421727068161"
+          ]
+        },
+        "author_id": "1376172035299233795",
+        "conversation_id": "2074950424159834112",
+        "created_at": "2026-07-08T20:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074950424159834112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3msQI4gA0Q",
+              "end": 44,
+              "expanded_url": "https://x.com/AnimeePost/status/2074950424159834112/photo/1",
+              "media_key": "3_2074950421727068161",
+              "start": 21,
+              "url": "https://t.co/3msQI4gA0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074950424159834112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 856,
+          "impression_count": 156267,
+          "like_count": 14787,
+          "quote_count": 18,
+          "reply_count": 40,
+          "retweet_count": 1153
+        },
+        "reply_settings": "everyone",
+        "text": "Worst adoption ever. https://t.co/3msQI4gA0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 858,
+          "like_count": 83973,
+          "listed_count": 4,
+          "media_count": 716,
+          "tweet_count": 4248
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-28T14:00:34.000Z",
+        "description": "Your daily dose of everything Anime. | fan account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jjkanime_?utm_…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jjkanime_?utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/3WCJEpEZef"
+              }
+            ]
+          }
+        },
+        "id": "1376172035299233795",
+        "location": "Shibuya ",
+        "name": "Anime Posts",
+        "pinned_tweet_id": "2066325631722242303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986791824044826624/Ymh2G2pA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816286,
+          "following_count": 21,
+          "like_count": 16531,
+          "listed_count": 582,
+          "media_count": 6985,
+          "tweet_count": 7085
+        },
+        "url": "https://t.co/3WCJEpEZef",
+        "username": "AnimeePost",
+        "verified": true
+      }
+    ]
+  }
+}

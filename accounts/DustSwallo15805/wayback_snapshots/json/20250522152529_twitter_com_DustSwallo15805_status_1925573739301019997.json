@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925373359191465987"
+      ],
+      "media_source_tweet_id": [
+        "1925373368507007030"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Korean supreme leader Kim Jong-un",
+          "id": "852770154656047104",
+          "name": "Kim Jong-un"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1925573739301019997",
+    "created_at": "2025-05-22T15:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T16:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925573739301019997"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "崔賢",
+          "probability": 0.622,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1144947012711772160",
+          "start": 3,
+          "username": "He10012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4RrNYUw1o",
+          "end": 51,
+          "expanded_url": "https://x.com/He10012/status/1925373368507007030/photo/1",
+          "media_key": "3_1925373359191465987",
+          "start": 28,
+          "url": "https://t.co/r4RrNYUw1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925573739301019997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925373368507007030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @He10012: 崔賢級2番艦進水失敗で今これ https://t.co/r4RrNYUw1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1925373359191465987",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrhM3n6boAMFaOS.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925373359191465987"
+          ],
+          "media_source_tweet_id": [
+            "1925373368507007030"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1925573739301019997",
+        "created_at": "2025-05-22T15:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925573739301019997"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "崔賢",
+              "probability": 0.622,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1144947012711772160",
+              "start": 3,
+              "username": "He10012"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4RrNYUw1o",
+              "end": 51,
+              "expanded_url": "https://x.com/He10012/status/1925373368507007030/photo/1",
+              "media_key": "3_1925373359191465987",
+              "start": 28,
+              "url": "https://t.co/r4RrNYUw1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925573739301019997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925373368507007030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @He10012: 崔賢級2番艦進水失敗で今これ https://t.co/r4RrNYUw1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925373359191465987"
+          ]
+        },
+        "author_id": "1144947012711772160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Korean supreme leader Kim Jong-un",
+              "id": "852770154656047104",
+              "name": "Kim Jong-un"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1925373368507007030",
+        "created_at": "2025-05-22T02:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925373368507007030"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "崔賢",
+              "probability": 0.6699,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4RrNYUw1o",
+              "end": 38,
+              "expanded_url": "https://x.com/He10012/status/1925373368507007030/photo/1",
+              "media_key": "3_1925373359191465987",
+              "start": 15,
+              "url": "https://t.co/r4RrNYUw1o"
+            },
+            {
+              "display_url": "x.com/47news_officia…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/47news_official/status/1925350153621578071",
+              "start": 39,
+              "url": "https://t.co/bufF8DBUzW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925373368507007030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 108974,
+          "like_count": 1653,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925350153621578071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "崔賢級2番艦進水失敗で今これ https://t.co/r4RrNYUw1o https://t.co/bufF8DBUzW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，他妈今天热死了喵",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 181,
+          "like_count": 10718,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 847
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-29T12:33:34.000Z",
+        "description": "キット化されていない現用艦艇やゲーム、アニメなどに登場する架空の艦船を1/700スケールでフルスクラッチします。",
+        "id": "1144947012711772160",
+        "name": "He100",
+        "pinned_tweet_id": "1289715160534282240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685525662239735808/RMwS51fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 474,
+          "like_count": 11625,
+          "listed_count": 17,
+          "media_count": 2041,
+          "tweet_count": 7127
+        },
+        "username": "He10012",
+        "verified": false
+      }
+    ]
+  }
+}

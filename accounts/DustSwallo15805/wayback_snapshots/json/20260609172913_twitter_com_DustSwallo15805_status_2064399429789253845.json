@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2064394883935428813",
+    "created_at": "2026-06-09T17:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064399429789253845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064399429789253845",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064394883935428813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD 羡慕ｓｎｓ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064394874611433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY0M2laAAAjZq8.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2064394883935428813",
+        "created_at": "2026-06-09T17:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064399429789253845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064399429789253845",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064394883935428813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 羡慕ｓｎｓ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064394874611433472"
+          ]
+        },
+        "author_id": "1929159802477010944",
+        "conversation_id": "2064394883935428813",
+        "created_at": "2026-06-09T17:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064394883935428813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPbilv55vb",
+              "end": 23,
+              "expanded_url": "https://x.com/1207auggnoD/status/2064394883935428813/photo/1",
+              "media_key": "3_2064394874611433472",
+              "start": 0,
+              "url": "https://t.co/TPbilv55vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064394883935428813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TPbilv55vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 779,
+          "like_count": 79256,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 4064
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "19 yo 学生desu │ 吃饭日常推 政治NO│ he/him │ 生理男泛性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site",
+                "end": 23,
+                "expanded_url": "http://dgtea.site",
+                "start": 0,
+                "url": "https://t.co/jGKac3YEAL"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL62",
+        "name": "冬瓜",
+        "pinned_tweet_id": "2064041728504631764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058282455321419776/8-rOyYVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 297,
+          "like_count": 35001,
+          "listed_count": 0,
+          "media_count": 1269,
+          "tweet_count": 5329
+        },
+        "url": "https://t.co/jGKac3YEAL",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

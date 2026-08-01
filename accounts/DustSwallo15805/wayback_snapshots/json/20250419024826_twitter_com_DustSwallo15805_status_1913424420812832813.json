@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1898364455484096512"
+      ],
+      "media_source_tweet_id": [
+        "1898364509758300568"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1913424420812832813",
+    "created_at": "2025-04-19T02:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T03:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913424420812832813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3806073433",
+          "start": 3,
+          "username": "yabaaata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/APO9pwCq3i",
+          "end": 60,
+          "expanded_url": "https://x.com/i/status/1898364509758300568/video/1",
+          "media_key": "13_1898364455484096512",
+          "start": 37,
+          "url": "https://t.co/APO9pwCq3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913424420812832813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913096149914783885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yabaaata: AI生成されたマックで働く猫が海外で話題に\n\nhttps://t.co/APO9pwCq3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61043,
+        "height": 1280,
+        "media_key": "13_1898364455484096512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898364455484096512/img/Th36GOdf1WVcdaif.jpg",
+        "public_metrics": {
+          "view_count": 14158961
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898364455484096512/vid/avc1/320x568/tbrZDxh1rTyK-4QE.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898364455484096512/vid/avc1/480x852/BAYyE3vggP88GXgb.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898364455484096512/vid/avc1/720x1280/J9Gcuex8S9Vkaw2c.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898364455484096512/pl/ikrzpveSFFw9mH3r.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898364455484096512"
+          ],
+          "media_source_tweet_id": [
+            "1898364509758300568"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913424420812832813",
+        "created_at": "2025-04-19T02:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T03:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913424420812832813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3806073433",
+              "start": 3,
+              "username": "yabaaata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APO9pwCq3i",
+              "end": 60,
+              "expanded_url": "https://x.com/i/status/1898364509758300568/video/1",
+              "media_key": "13_1898364455484096512",
+              "start": 37,
+              "url": "https://t.co/APO9pwCq3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913424420812832813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913096149914783885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yabaaata: AI生成されたマックで働く猫が海外で話題に\n\nhttps://t.co/APO9pwCq3i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898364455484096512"
+          ],
+          "media_source_tweet_id": [
+            "1898364509758300568"
+          ]
+        },
+        "author_id": "3806073433",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913096149914783885",
+        "created_at": "2025-04-18T05:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T06:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913096149914783885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APO9pwCq3i",
+              "end": 46,
+              "expanded_url": "https://x.com/i/status/1898364509758300568/video/1",
+              "media_key": "13_1898364455484096512",
+              "start": 23,
+              "url": "https://t.co/APO9pwCq3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913096149914783885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6756,
+          "impression_count": 4669299,
+          "like_count": 34321,
+          "quote_count": 924,
+          "reply_count": 375,
+          "retweet_count": 4287
+        },
+        "reply_settings": "everyone",
+        "text": "AI生成されたマックで働く猫が海外で話題に\n\nhttps://t.co/APO9pwCq3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 154,
+          "like_count": 8373,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 725
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-06T18:45:10.000Z",
+        "description": "World information🇯🇵 I hope one day we can see a more peaceful world.平和な日本に感謝🙏🥲",
+        "id": "3806073433",
+        "name": "素晴らしい世界🌎",
+        "pinned_tweet_id": "1850860060307841052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765954442145525760/Y9ntk8SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76000,
+          "following_count": 3331,
+          "like_count": 248,
+          "listed_count": 97,
+          "media_count": 198,
+          "tweet_count": 222
+        },
+        "username": "yabaaata",
+        "verified": true
+      }
+    ]
+  }
+}

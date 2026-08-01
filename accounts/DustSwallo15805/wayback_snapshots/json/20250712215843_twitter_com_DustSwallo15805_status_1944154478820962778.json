@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1944152304363659372",
+    "created_at": "2025-07-12T21:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T22:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944154478820962778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1450365861345202177",
+          "start": 0,
+          "username": "MayISeeUAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944154478820962778",
+    "in_reply_to_user_id": "1450365861345202177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944152304363659372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MayISeeUAgain 垃圾桶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1944152286789328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvsENEtXYAAz-Ip.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1944152304363659372",
+        "created_at": "2025-07-12T21:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T22:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944154478820962778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1450365861345202177",
+              "start": 0,
+              "username": "MayISeeUAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944154478820962778",
+        "in_reply_to_user_id": "1450365861345202177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944152304363659372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MayISeeUAgain 垃圾桶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944152286789328896"
+          ]
+        },
+        "author_id": "1450365861345202177",
+        "conversation_id": "1944152304363659372",
+        "created_at": "2025-07-12T21:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T22:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944152304363659372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AW8ebPn8So",
+              "end": 25,
+              "expanded_url": "https://x.com/MayISeeUAgain/status/1944152304363659372/photo/1",
+              "media_key": "3_1944152286789328896",
+              "start": 2,
+              "url": "https://t.co/AW8ebPn8So"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944152304363659372",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/AW8ebPn8So"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "砸锅卖铁也要买徕卡m7",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 253,
+          "like_count": 18764,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 1338
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T07:39:19.000Z",
+        "description": "补药时间我 (哭脸)｜查成分 / 了解我可以看置顶｜视情况回 fo｜挂个笨蛋😋@NorthLingkongRd ｜你大概已经找到了属于自己的栖身之所吧，我也许还会想你哦？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "windysummer.cloud",
+                "end": 23,
+                "expanded_url": "http://windysummer.cloud",
+                "start": 0,
+                "url": "https://t.co/AqAAX99ZWz"
+              }
+            ]
+          }
+        },
+        "id": "1450365861345202177",
+        "location": "Where Heart Belongs",
+        "name": "这是一只占位符",
+        "pinned_tweet_id": "1938522806737928237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924304236646469632/oCmYGhCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 630,
+          "like_count": 20177,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/AqAAX99ZWz",
+        "username": "MayISeeUAgain",
+        "verified": false
+      }
+    ]
+  }
+}

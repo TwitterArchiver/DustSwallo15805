@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920852027719942144"
+      ],
+      "media_source_tweet_id": [
+        "1920852233677062307"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1921234294762336697",
+    "created_at": "2025-05-10T16:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T17:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921234294762336697"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "BrainRot",
+          "probability": 0.4577,
+          "start": 26,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1288464945206538240",
+          "start": 3,
+          "username": "MrDGames000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKg9DxTota",
+          "end": 58,
+          "expanded_url": "https://x.com/MrDGames000/status/1920852233677062307/photo/1",
+          "media_key": "3_1920852027719942144",
+          "start": 35,
+          "url": "https://t.co/MKg9DxTota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921234294762336697",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 999
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920852233677062307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrDGames000: Japanese BrainRot https://t.co/MKg9DxTota"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1920852027719942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqg8vfpWAAAr_Df.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920852027719942144"
+          ],
+          "media_source_tweet_id": [
+            "1920852233677062307"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1921234294762336697",
+        "created_at": "2025-05-10T16:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T17:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921234294762336697"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "BrainRot",
+              "probability": 0.4577,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1288464945206538240",
+              "start": 3,
+              "username": "MrDGames000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKg9DxTota",
+              "end": 58,
+              "expanded_url": "https://x.com/MrDGames000/status/1920852233677062307/photo/1",
+              "media_key": "3_1920852027719942144",
+              "start": 35,
+              "url": "https://t.co/MKg9DxTota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921234294762336697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 999
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920852233677062307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrDGames000: Japanese BrainRot https://t.co/MKg9DxTota"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920852027719942144"
+          ]
+        },
+        "author_id": "1288464945206538240",
+        "conversation_id": "1920852233677062307",
+        "created_at": "2025-05-09T14:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T15:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920852233677062307"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Japanese BrainRot",
+              "probability": 0.7317,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKg9DxTota",
+              "end": 41,
+              "expanded_url": "https://x.com/MrDGames000/status/1920852233677062307/photo/1",
+              "media_key": "3_1920852027719942144",
+              "start": 18,
+              "url": "https://t.co/MKg9DxTota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920852233677062307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 867,
+          "impression_count": 637165,
+          "like_count": 11260,
+          "quote_count": 89,
+          "reply_count": 60,
+          "retweet_count": 999
+        },
+        "reply_settings": "everyone",
+        "text": "Japanese BrainRot https://t.co/MKg9DxTota"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 173,
+          "like_count": 9679,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 795
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-29T13:22:46.000Z",
+        "description": "いろんな界隈に足を突っ込む人",
+        "id": "1288464945206538240",
+        "location": "夏は暑く、冬は寒い地域",
+        "name": "Mr.D",
+        "pinned_tweet_id": "1920852233677062307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728800411254173696/aq3MVkYL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 4807,
+          "like_count": 100199,
+          "listed_count": 13,
+          "media_count": 1014,
+          "tweet_count": 87631
+        },
+        "username": "MrDGames000",
+        "verified": false
+      }
+    ]
+  }
+}

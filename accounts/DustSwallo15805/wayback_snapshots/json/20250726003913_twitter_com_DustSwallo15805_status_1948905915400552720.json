@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948905904373653504"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1948905915400552720",
+    "created_at": "2025-07-26T00:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T01:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948905915400552720"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L1PRDBtjTc",
+          "end": 37,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1948905915400552720/photo/1",
+          "media_key": "3_1948905904373653504",
+          "start": 14,
+          "url": "https://t.co/L1PRDBtjTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948905915400552720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挂津B一般不都是商业车辆吗 https://t.co/L1PRDBtjTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948905904373653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwvnmCLaYAAFMu7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948905904373653504"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1948905915400552720",
+        "created_at": "2025-07-26T00:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T01:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948905915400552720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1PRDBtjTc",
+              "end": 37,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1948905915400552720/photo/1",
+              "media_key": "3_1948905904373653504",
+              "start": 14,
+              "url": "https://t.co/L1PRDBtjTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948905915400552720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂津B一般不都是商业车辆吗 https://t.co/L1PRDBtjTc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "啊",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 308,
+          "like_count": 23081,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1577
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

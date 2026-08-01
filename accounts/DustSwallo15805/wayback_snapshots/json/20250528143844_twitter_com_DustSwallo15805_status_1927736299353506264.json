@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927410780577619968"
+      ],
+      "media_source_tweet_id": [
+        "1927410886630662303"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "1927736299353506264",
+    "created_at": "2025-05-28T14:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T15:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927736299353506264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1019931230672805889",
+          "start": 3,
+          "username": "BAIKINMEN_YTube"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bzZqjWloqS",
+          "end": 51,
+          "expanded_url": "https://x.com/BAIKINMEN_YTube/status/1927410886630662303/photo/1",
+          "media_key": "3_1927410780577619968",
+          "start": 28,
+          "url": "https://t.co/bzZqjWloqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927736299353506264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5324
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927410886630662303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BAIKINMEN_YTube: こういこと？ https://t.co/bzZqjWloqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_1927410780577619968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-J5KCWYAAMIcg.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927410780577619968"
+          ],
+          "media_source_tweet_id": [
+            "1927410886630662303"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1927736299353506264",
+        "created_at": "2025-05-28T14:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T15:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927736299353506264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1019931230672805889",
+              "start": 3,
+              "username": "BAIKINMEN_YTube"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzZqjWloqS",
+              "end": 51,
+              "expanded_url": "https://x.com/BAIKINMEN_YTube/status/1927410886630662303/photo/1",
+              "media_key": "3_1927410780577619968",
+              "start": 28,
+              "url": "https://t.co/bzZqjWloqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927736299353506264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927410886630662303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BAIKINMEN_YTube: こういこと？ https://t.co/bzZqjWloqS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927410780577619968"
+          ]
+        },
+        "author_id": "1019931230672805889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1927410886630662303",
+        "created_at": "2025-05-27T17:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T18:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927410886630662303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzZqjWloqS",
+              "end": 30,
+              "expanded_url": "https://x.com/BAIKINMEN_YTube/status/1927410886630662303/photo/1",
+              "media_key": "3_1927410780577619968",
+              "start": 7,
+              "url": "https://t.co/bzZqjWloqS"
+            },
+            {
+              "display_url": "x.com/FNN_News/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/FNN_News/status/1927305654382870879",
+              "start": 31,
+              "url": "https://t.co/iJxNJ7MYwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927410886630662303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2367,
+          "impression_count": 2444573,
+          "like_count": 38880,
+          "quote_count": 128,
+          "reply_count": 90,
+          "retweet_count": 5324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927305654382870879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こういこと？ https://t.co/bzZqjWloqS https://t.co/iJxNJ7MYwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 181,
+          "like_count": 11109,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 860
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-19T13:05:29.000Z",
+        "description": "グローバルニート Bilingual: JPN/ENG\n所属事務所：Buber\n【お問い合わせ＆仕事依頼】\nbuber_info@blueoceanmedia.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC-BVV…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC-BVV_ZlaVO970WYsY2dncw?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/zJSgcsfzqA"
+              }
+            ]
+          }
+        },
+        "id": "1019931230672805889",
+        "location": "👇登録しなさい、さもなければ...",
+        "name": "BAIKINMEN YouTube",
+        "pinned_tweet_id": "1799048657817469342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1293391935416090625/cntaXZEo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39195,
+          "following_count": 738,
+          "like_count": 23961,
+          "listed_count": 39,
+          "media_count": 574,
+          "tweet_count": 5855
+        },
+        "url": "https://t.co/zJSgcsfzqA",
+        "username": "BAIKINMEN_YTube",
+        "verified": true
+      }
+    ]
+  }
+}

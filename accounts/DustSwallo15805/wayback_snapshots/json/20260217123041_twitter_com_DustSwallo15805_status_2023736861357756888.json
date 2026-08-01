@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2023736845239275520"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2023731829996707943",
+    "created_at": "2026-02-17T12:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023736861357756888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "huluobohaotang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmbefOaa9s",
+          "end": 43,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2023736861357756888/photo/1",
+          "media_key": "16_2023736845239275520",
+          "start": 20,
+          "url": "https://t.co/FmbefOaa9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023736861357756888",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023734540364042412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huluobohaotang 好看咪 https://t.co/FmbefOaa9s"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023734540364042412].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023734540364042412",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023734540364042412"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2023736845239275520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBXB8ENbUAA5KEl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBXB8ENbUAA5KEl.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023736845239275520"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2023731829996707943",
+        "created_at": "2026-02-17T12:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023736861357756888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "huluobohaotang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmbefOaa9s",
+              "end": 43,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2023736861357756888/photo/1",
+              "media_key": "16_2023736845239275520",
+              "start": 20,
+              "url": "https://t.co/FmbefOaa9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023736861357756888",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023734540364042412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huluobohaotang 好看咪 https://t.co/FmbefOaa9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 651,
+          "like_count": 66782,
+          "listed_count": 3,
+          "media_count": 643,
+          "tweet_count": 3612
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "cat of 169🐱 05 Female PgdStu🎧🍟🍔🥤🚪1680JPY/C spl tri/EN/JP 😘🍩fobackAuto 山を伴って住み 水を宿して寝る 若い夢のような時間に乗じて、沿道の風景で生気を覚まして、今を生きて、生活を美しく潤しています",
+        "id": "1720356797758763008",
+        "location": "Coruscant",
+        "name": "FoxAndTohTorrac🧊🍔🍟🍣🤤🇸🇪",
+        "pinned_tweet_id": "1854448337673699556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980716470414848001/A15vk27L_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 4539,
+          "like_count": 28420,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 18348
+        },
+        "username": "huluobohaotang",
+        "verified": false
+      }
+    ]
+  }
+}

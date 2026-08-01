@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1959286532696580529",
+    "created_at": "2025-08-24T07:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T08:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959516576622796915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1502832672678166528",
+          "start": 0,
+          "username": "ATP_1109"
+        },
+        {
+          "end": 19,
+          "id": "1271652280438308864",
+          "start": 10,
+          "username": "Jasonzyt"
+        },
+        {
+          "end": 35,
+          "id": "1865419581206208512",
+          "start": 20,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959516576622796915",
+    "in_reply_to_user_id": "1502832672678166528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959493917348667643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATP_1109 @Jasonzyt @DDzhanshou5150 这不很常见吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1959286532696580529",
+        "created_at": "2025-08-24T07:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T08:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959516576622796915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502832672678166528",
+              "start": 0,
+              "username": "ATP_1109"
+            },
+            {
+              "end": 19,
+              "id": "1271652280438308864",
+              "start": 10,
+              "username": "Jasonzyt"
+            },
+            {
+              "end": 35,
+              "id": "1865419581206208512",
+              "start": 20,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959516576622796915",
+        "in_reply_to_user_id": "1502832672678166528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959493917348667643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATP_1109 @Jasonzyt @DDzhanshou5150 这不很常见吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502832672678166528",
+        "conversation_id": "1959286532696580529",
+        "created_at": "2025-08-24T05:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959493917348667643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            },
+            {
+              "end": 25,
+              "id": "1865419581206208512",
+              "start": 10,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959493917348667643",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959325493431505324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt @DDzhanshou5150 全幅镜头装半幅机上？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 391,
+          "like_count": 30561,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1921
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T02:23:43.000Z",
+        "description": "还要再学习一个！",
+        "id": "1502832672678166528",
+        "location": "Shandong, China",
+        "name": "Animateapot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944398910463868928/229Eq5DX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 86,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 180
+        },
+        "username": "ATP_1109",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁事学生 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 业余摄影 | DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 | ❤ Friendly to EVERYONE ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "🍭ZYT🏳️",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 614,
+          "like_count": 42608,
+          "listed_count": 5,
+          "media_count": 875,
+          "tweet_count": 10720
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jasonzyt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 5931,
+          "like_count": 20769,
+          "listed_count": 15,
+          "media_count": 3936,
+          "tweet_count": 29462
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

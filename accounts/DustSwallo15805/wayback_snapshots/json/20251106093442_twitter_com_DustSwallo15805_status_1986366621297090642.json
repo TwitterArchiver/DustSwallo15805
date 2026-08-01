@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1986234499198558528",
+    "created_at": "2025-11-06T09:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T10:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986366621297090642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958053595385065473",
+          "start": 0,
+          "username": "PlayM7_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986366621297090642",
+    "in_reply_to_user_id": "1958053595385065473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986340548932944026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayM7_ 应该没吃吧（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1986234499198558528",
+        "created_at": "2025-11-06T09:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T10:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986366621297090642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958053595385065473",
+              "start": 0,
+              "username": "PlayM7_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986366621297090642",
+        "in_reply_to_user_id": "1958053595385065473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986340548932944026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayM7_ 应该没吃吧（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958053595385065473",
+        "conversation_id": "1986234499198558528",
+        "created_at": "2025-11-06T07:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T08:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986340548932944026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986340548932944026",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986234499198558528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 a？你没吃糖嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 526,
+          "like_count": 50534,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 2812
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T06:28:57.000Z",
+        "description": "现在还暂时不知道写什么，以后会更新的🤗",
+        "id": "1958053595385065473",
+        "location": "哈尔滨",
+        "name": "PlayM7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980022242122555392/e3ghx9Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 11,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 46
+        },
+        "username": "PlayM7_",
+        "verified": false
+      }
+    ]
+  }
+}

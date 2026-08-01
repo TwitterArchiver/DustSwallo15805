@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945776075839012866",
+        "3_1945776075834839040"
+      ],
+      "media_source_tweet_id": [
+        "1945776091508932836",
+        "1945776091508932836"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206700491654094850",
+          "name": "Plastic models"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206700491654094850",
+          "name": "Plastic models"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "1945857448872661434",
+    "created_at": "2025-07-17T14:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945857448872661434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 78,
+          "tag": "アイデアの勝利だと自負してるプラモ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "138488584",
+          "start": 3,
+          "username": "WANIGUNNSOU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yal8UgVPKh",
+          "end": 120,
+          "expanded_url": "https://x.com/WANIGUNNSOU/status/1945776091508932836/photo/1",
+          "media_key": "3_1945776075839012866",
+          "start": 97,
+          "url": "https://t.co/Yal8UgVPKh"
+        },
+        {
+          "display_url": "pic.x.com/Yal8UgVPKh",
+          "end": 120,
+          "expanded_url": "https://x.com/WANIGUNNSOU/status/1945776091508932836/photo/1",
+          "media_key": "3_1945776075834839040",
+          "start": 97,
+          "url": "https://t.co/Yal8UgVPKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945857448872661434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 667
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945776091508932836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WANIGUNNSOU: アイデアというのも烏滸がましいんですが、実在する潜水艦のプラモデルに目と口を描いただけで思った以上にアレになりました。\n #アイデアの勝利だと自負してるプラモ https://t.co/Yal8UgVPKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_1945776075839012866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDJCCTWgAI74i_.jpg",
+        "width": 1716
+      },
+      {
+        "height": 1680,
+        "media_key": "3_1945776075834839040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDJCCSW0AAlBNR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945776075839012866",
+            "3_1945776075834839040"
+          ],
+          "media_source_tweet_id": [
+            "1945776091508932836",
+            "1945776091508932836"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206700491654094850",
+              "name": "Plastic models"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206700491654094850",
+              "name": "Plastic models"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "1945857448872661434",
+        "created_at": "2025-07-17T14:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945857448872661434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 78,
+              "tag": "アイデアの勝利だと自負してるプラモ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "138488584",
+              "start": 3,
+              "username": "WANIGUNNSOU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yal8UgVPKh",
+              "end": 120,
+              "expanded_url": "https://x.com/WANIGUNNSOU/status/1945776091508932836/photo/1",
+              "media_key": "3_1945776075839012866",
+              "start": 97,
+              "url": "https://t.co/Yal8UgVPKh"
+            },
+            {
+              "display_url": "pic.x.com/Yal8UgVPKh",
+              "end": 120,
+              "expanded_url": "https://x.com/WANIGUNNSOU/status/1945776091508932836/photo/1",
+              "media_key": "3_1945776075834839040",
+              "start": 97,
+              "url": "https://t.co/Yal8UgVPKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945857448872661434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 667
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945776091508932836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WANIGUNNSOU: アイデアというのも烏滸がましいんですが、実在する潜水艦のプラモデルに目と口を描いただけで思った以上にアレになりました。\n #アイデアの勝利だと自負してるプラモ https://t.co/Yal8UgVPKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945776075839012866",
+            "3_1945776075834839040"
+          ]
+        },
+        "author_id": "138488584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206700491654094850",
+              "name": "Plastic models"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206700491654094850",
+              "name": "Plastic models"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "1945776091508932836",
+        "created_at": "2025-07-17T09:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945776091508932836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 61,
+              "tag": "アイデアの勝利だと自負してるプラモ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yal8UgVPKh",
+              "end": 103,
+              "expanded_url": "https://x.com/WANIGUNNSOU/status/1945776091508932836/photo/1",
+              "media_key": "3_1945776075839012866",
+              "start": 80,
+              "url": "https://t.co/Yal8UgVPKh"
+            },
+            {
+              "display_url": "pic.x.com/Yal8UgVPKh",
+              "end": 103,
+              "expanded_url": "https://x.com/WANIGUNNSOU/status/1945776091508932836/photo/1",
+              "media_key": "3_1945776075834839040",
+              "start": 80,
+              "url": "https://t.co/Yal8UgVPKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945776091508932836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 48321,
+          "like_count": 2756,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 667
+        },
+        "reply_settings": "everyone",
+        "text": "アイデアというのも烏滸がましいんですが、実在する潜水艦のプラモデルに目と口を描いただけで思った以上にアレになりました。\n #アイデアの勝利だと自負してるプラモ https://t.co/Yal8UgVPKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 276,
+          "like_count": 20335,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 1466
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-29T17:51:32.000Z",
+        "description": "インターネットコスプレマン。#タクティカル火付盗賊改 と平安京航空自衛隊（ @HeianJASDF)。ミリタリーと人外系キャラと物を作る事、最近はゼンゼロとHH/HBが好きです。 あとジークアクスを観てください。よろしくお願いします。 動画など→ https://t.co/uFvN8Lck1s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 14,
+                "tag": "タクティカル火付盗賊改"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "HeianJASDF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@wanigunnsou57…",
+                "end": 147,
+                "expanded_url": "https://youtube.com/@wanigunnsou5782",
+                "start": 124,
+                "url": "https://t.co/uFvN8Lck1s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/CMAOeOth2MA/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/CMAOeOth2MA/?igshid=3puqv3jsla4u",
+                "start": 0,
+                "url": "https://t.co/mm5q8Ab2P0"
+              }
+            ]
+          }
+        },
+        "id": "138488584",
+        "name": "鰐軍壮",
+        "pinned_tweet_id": "1943988069444505617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886983009137790976/3m37gKnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44537,
+          "following_count": 1884,
+          "like_count": 45923,
+          "listed_count": 472,
+          "media_count": 8979,
+          "tweet_count": 60260
+        },
+        "url": "https://t.co/mm5q8Ab2P0",
+        "username": "WANIGUNNSOU",
+        "verified": true
+      }
+    ]
+  }
+}

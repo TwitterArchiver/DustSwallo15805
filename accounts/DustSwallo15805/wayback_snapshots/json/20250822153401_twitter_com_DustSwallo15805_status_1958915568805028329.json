@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1958437298187768159",
+    "created_at": "2025-08-22T15:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958915568805028329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842435741026004992",
+          "start": 0,
+          "username": "BlueDream2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958915568805028329",
+    "in_reply_to_user_id": "1842435741026004992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958915254508769413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueDream2333 韶关东站"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-22T15:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958915568805028329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842435741026004992",
+              "start": 0,
+              "username": "BlueDream2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958915568805028329",
+        "in_reply_to_user_id": "1842435741026004992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958915254508769413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueDream2333 韶关东站"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842435741026004992",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-22T15:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958915254508769413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958915254508769413",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958437298187768159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 求红票位置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 381,
+          "like_count": 30010,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1895
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T05:24:56.000Z",
+        "description": "一つは中国から来た🇨🇳の抹茶味グリーン猫,成都に長く現れたそして,中国英語を常用し、日本語と韓国語で交流する、展示された原稿にはすべて著作権がある,やめてください,推止于推，请勿内传外网！⚠️里推@bluedream1222（添加q好友3577133846/3790095712留言通过）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "bluedream1222"
+              }
+            ]
+          }
+        },
+        "id": "1842435741026004992",
+        "location": "SiChuan",
+        "name": "BlueDream",
+        "pinned_tweet_id": "1933123812918493242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847350951830519808/4lPyeCUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 107,
+          "like_count": 1595,
+          "listed_count": 6,
+          "media_count": 84,
+          "tweet_count": 443
+        },
+        "username": "BlueDream2333",
+        "verified": false
+      }
+    ]
+  }
+}

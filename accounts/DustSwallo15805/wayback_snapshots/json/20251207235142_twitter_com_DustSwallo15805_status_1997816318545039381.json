@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997282524956147712"
+      ],
+      "media_source_tweet_id": [
+        "1997283129179160673"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1997816318545039381",
+    "created_at": "2025-12-07T23:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T00:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997816318545039381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "14463502",
+          "start": 3,
+          "username": "cdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yM4S0R8lGx",
+          "end": 34,
+          "expanded_url": "https://x.com/cdoll/status/1997283129179160673/photo/1",
+          "media_key": "3_1997282524956147712",
+          "start": 11,
+          "url": "https://t.co/yM4S0R8lGx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997816318545039381",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27746
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997283129179160673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cdoll: https://t.co/yM4S0R8lGx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_1997282524956147712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fF39gbQAAO4iW.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997282524956147712"
+          ],
+          "media_source_tweet_id": [
+            "1997283129179160673"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1997816318545039381",
+        "created_at": "2025-12-07T23:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T00:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997816318545039381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "14463502",
+              "start": 3,
+              "username": "cdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yM4S0R8lGx",
+              "end": 34,
+              "expanded_url": "https://x.com/cdoll/status/1997283129179160673/photo/1",
+              "media_key": "3_1997282524956147712",
+              "start": 11,
+              "url": "https://t.co/yM4S0R8lGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997816318545039381",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27746
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997283129179160673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cdoll: https://t.co/yM4S0R8lGx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997282524956147712"
+          ]
+        },
+        "author_id": "14463502",
+        "conversation_id": "1997283129179160673",
+        "created_at": "2025-12-06T12:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997283129179160673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yM4S0R8lGx",
+              "end": 23,
+              "expanded_url": "https://x.com/cdoll/status/1997283129179160673/photo/1",
+              "media_key": "3_1997282524956147712",
+              "start": 0,
+              "url": "https://t.co/yM4S0R8lGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997283129179160673",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3708,
+          "impression_count": 2215292,
+          "like_count": 160159,
+          "quote_count": 625,
+          "reply_count": 249,
+          "retweet_count": 27746
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yM4S0R8lGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1994430557099532647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 565,
+          "like_count": 57200,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 3072
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-21T16:06:27.000Z",
+        "description": "",
+        "id": "14463502",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268502665621505/XFJCOb4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49469,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 123,
+          "media_count": 2793,
+          "tweet_count": 2859
+        },
+        "username": "cdoll",
+        "verified": true
+      }
+    ]
+  }
+}

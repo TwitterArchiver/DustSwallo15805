@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1959302634164380084",
+    "created_at": "2025-08-25T10:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T11:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959929363014820080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722960034102190080",
+          "start": 0,
+          "username": "Leafishadow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959929363014820080",
+    "in_reply_to_user_id": "1722960034102190080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959302634164380084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leafishadow 给自己寄明信片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1959302634164380084",
+        "created_at": "2025-08-25T10:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959929363014820080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722960034102190080",
+              "start": 0,
+              "username": "Leafishadow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959929363014820080",
+        "in_reply_to_user_id": "1722960034102190080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959302634164380084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leafishadow 给自己寄明信片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722960034102190080",
+        "conversation_id": "1959302634164380084",
+        "created_at": "2025-08-23T17:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959302634164380084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959302634164380084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11476,
+          "like_count": 60,
+          "quote_count": 6,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然有点好奇大家旅行的侧重点是什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 393,
+          "like_count": 31006,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1942
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T12:51:05.000Z",
+        "description": "自留地",
+        "id": "1722960034102190080",
+        "name": "小红薯693154782",
+        "pinned_tweet_id": "1959302634164380084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959107604262920192/dewu2JEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 357,
+          "like_count": 17192,
+          "listed_count": 9,
+          "media_count": 421,
+          "tweet_count": 13963
+        },
+        "username": "Leafishadow",
+        "verified": false
+      }
+    ]
+  }
+}

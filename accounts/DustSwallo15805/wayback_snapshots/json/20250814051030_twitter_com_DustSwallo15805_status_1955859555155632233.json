@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1955859391196094983",
+    "created_at": "2025-08-14T05:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T06:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955859555155632233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955859555155632233",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955859391196094983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 承认你是xyn了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955859375165464578",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySbvTda4AIgJom.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955859375140323328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySbvTXbQAADzMy.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1955859391196094983",
+        "created_at": "2025-08-14T05:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955859555155632233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955859555155632233",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955859391196094983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 承认你是xyn了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955859375165464578",
+            "3_1955859375140323328"
+          ]
+        },
+        "author_id": "1252463831185371136",
+        "conversation_id": "1955859391196094983",
+        "created_at": "2025-08-14T05:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955859391196094983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZqBiMsvxr",
+              "end": 38,
+              "expanded_url": "https://x.com/Dadadajie01/status/1955859391196094983/photo/1",
+              "media_key": "3_1955859375165464578",
+              "start": 15,
+              "url": "https://t.co/PZqBiMsvxr"
+            },
+            {
+              "display_url": "pic.x.com/PZqBiMsvxr",
+              "end": 38,
+              "expanded_url": "https://x.com/Dadadajie01/status/1955859391196094983/photo/1",
+              "media_key": "3_1955859375140323328",
+              "start": 15,
+              "url": "https://t.co/PZqBiMsvxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955859391196094983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺直男画个神秘旗帜也很正常吧 https://t.co/PZqBiMsvxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 353,
+          "like_count": 26789,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 1769
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 1988,
+          "like_count": 34210,
+          "listed_count": 8,
+          "media_count": 994,
+          "tweet_count": 5938
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

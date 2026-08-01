@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1884898325855658113",
+    "created_at": "2025-01-30T13:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T14:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884962048628711722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1754438123508146176",
+          "start": 0,
+          "username": "BeihaiZhang2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884962048628711722",
+    "in_reply_to_user_id": "1754438123508146176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884898325855658113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeihaiZhang2007 节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1884898325855658113",
+        "created_at": "2025-01-30T13:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T14:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884962048628711722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1754438123508146176",
+              "start": 0,
+              "username": "BeihaiZhang2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884962048628711722",
+        "in_reply_to_user_id": "1754438123508146176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884898325855658113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeihaiZhang2007 节哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754438123508146176",
+        "conversation_id": "1884898325855658113",
+        "created_at": "2025-01-30T09:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T10:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884898325855658113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884898325855658113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 943,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的\n我爷爷怎么等都不等我一下\n...\n就走了\n为什么\n为什么\n为什么\n为什么\n我他妈的连跟他最后一面都实现不了！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 112,
+          "like_count": 4964,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 541
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T09:33:55.000Z",
+        "description": "全斗焕（韩语：전두환，英语：Chun Doo-hwan，1931年3月6日—2021年11月23日），号日海（일해），韩国军人、政治人物，韩国第5任（第11、12届）总统",
+        "id": "1754438123508146176",
+        "location": "一心会（ヘボン星人民革命委员会）",
+        "name": "全斗焕 콴두환 Quan Doohuan",
+        "pinned_tweet_id": "1878500360899154048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869762876212150272/injZWuhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 253,
+          "like_count": 1597,
+          "listed_count": 2,
+          "media_count": 623,
+          "tweet_count": 4251
+        },
+        "username": "BeihaiZhang2007",
+        "verified": false
+      }
+    ]
+  }
+}

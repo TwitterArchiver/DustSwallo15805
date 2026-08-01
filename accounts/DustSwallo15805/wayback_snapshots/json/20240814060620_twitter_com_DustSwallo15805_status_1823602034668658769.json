@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1821365800470552903",
+    "created_at": "2024-08-14T06:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T07:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823602034668658769"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1823602034668658769",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821857197422469344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一山      即“一宁”。\n一川      ◎一条河。《汉书•沟洫志》：“独一川兼受数河之任，虽高增堤防，终不能泄。”◎犹一片。司空图 力疾山下吴村看杏花》诗：“春来渐觉一川明，马上繁花作阵迎。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821365800470552903",
+        "created_at": "2024-08-14T06:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T07:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823602034668658769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823602034668658769",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821857197422469344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一山      即“一宁”。\n一川      ◎一条河。《汉书•沟洫志》：“独一川兼受数河之任，虽高增堤防，终不能泄。”◎犹一片。司空图 力疾山下吴村看杏花》诗：“春来渐觉一川明，马上繁花作阵迎。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821365800470552903",
+        "created_at": "2024-08-09T10:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T11:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821857197422469344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821857197422469344",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821729647064961287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一口。 ◎一人之口。《韩非子•孤愤》：“以一口与一国争，其数不胜也。”◎犹众口一辞。《韩非子•孤愤》：“朋党比周，相与一口，惑主败法，以乱士民。”◎一人。《后汉书虞诩传》：“自此二十余年，家门不增一口。”一孔。《晋书，元帝纪》：“遂为二植，共一口，以贮酒焉。”◎表数量。如：剑一口；咬一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 116,
+          "like_count": 4056,
+          "listed_count": 0,
+          "tweet_count": 576
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

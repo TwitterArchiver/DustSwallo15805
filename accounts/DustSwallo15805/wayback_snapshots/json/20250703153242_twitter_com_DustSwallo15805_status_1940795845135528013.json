@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1940795845135528013",
+    "created_at": "2025-07-03T15:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T16:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940795845135528013"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "東京",
+          "probability": 0.4783,
+          "start": 14,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "description": "俺ら東京さ行ぐだ 原版是【原版多版本】吉几三-俺們去東京的第1集视频，该合集共计8集，视频收藏或关注UP主，及时了解更多相关视频内容。",
+          "display_url": "b23.tv/FPCrXEH",
+          "end": 40,
+          "expanded_url": "https://b23.tv/FPCrXEH",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/1940795849321467914/FrP_6sge?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/1940795849321467914/FrP_6sge?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "俺ら東京さ行ぐだ 原版_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1Hx411N721/?buvid=Y445A3490682AE4945B88F85175763EB05E1&from_spmid=united.player-video-detail.0.0&is_story_h5=false&mid=TgSQKpYkfGH%2ByUJpjs4OoX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone_i&share_plat=ios&share_session_id=F9A69C9F-F6A3-4E69-8DA5-EE36FC2EA2D8&share_source=TWITTER&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1751556756&unique_k=FPCrXEH&up_id=2114361",
+          "url": "https://t.co/0CYQwmDMNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940795845135528013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【原版多版本】吉几三-俺們去東京 https://t.co/0CYQwmDMNU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1940795845135528013",
+        "created_at": "2025-07-03T15:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940795845135528013"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "東京",
+              "probability": 0.4783,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "俺ら東京さ行ぐだ 原版是【原版多版本】吉几三-俺們去東京的第1集视频，该合集共计8集，视频收藏或关注UP主，及时了解更多相关视频内容。",
+              "display_url": "b23.tv/FPCrXEH",
+              "end": 40,
+              "expanded_url": "https://b23.tv/FPCrXEH",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1940795849321467914/FrP_6sge?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1940795849321467914/FrP_6sge?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "俺ら東京さ行ぐだ 原版_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Hx411N721/?buvid=Y445A3490682AE4945B88F85175763EB05E1&from_spmid=united.player-video-detail.0.0&is_story_h5=false&mid=TgSQKpYkfGH%2ByUJpjs4OoX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone_i&share_plat=ios&share_session_id=F9A69C9F-F6A3-4E69-8DA5-EE36FC2EA2D8&share_source=TWITTER&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1751556756&unique_k=FPCrXEH&up_id=2114361",
+              "url": "https://t.co/0CYQwmDMNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940795845135528013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【原版多版本】吉几三-俺們去東京 https://t.co/0CYQwmDMNU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 225,
+          "like_count": 16213,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1204
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

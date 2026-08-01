@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1939838530349670405",
+    "created_at": "2025-07-01T12:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T13:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940021014731304977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514545830493044736",
+          "start": 0,
+          "username": "Miwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940021014731304977",
+    "in_reply_to_user_id": "1514545830493044736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940020903209058571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miwu0721 没这么轻松"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1939838530349670405",
+        "created_at": "2025-07-01T12:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940021014731304977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514545830493044736",
+              "start": 0,
+              "username": "Miwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940021014731304977",
+        "in_reply_to_user_id": "1514545830493044736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940020903209058571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miwu0721 没这么轻松"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514545830493044736",
+        "conversation_id": "1939838530349670405",
+        "created_at": "2025-07-01T12:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T13:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940020903209058571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940020903209058571",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940020670278377813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 看完这集家里进黄河水了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 223,
+          "like_count": 15738,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 1165
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)、bilibili：ミウ同学、\n碧蓝航线/星露谷物语/Minecraft/战雷/CS2玩家、全推最尊重菠萝油的主播、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします\n涩涩小号：@Miuu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Miuu0721"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "name": "ミウ",
+        "pinned_tweet_id": "1936139846424379807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833574711269498880/Q0twsHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 413,
+          "like_count": 40939,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 2169
+        },
+        "username": "Miwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

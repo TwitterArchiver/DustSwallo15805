@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1924480848608551303",
+    "created_at": "2025-05-19T15:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T16:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924480848608551303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421301972007849986",
+          "start": 3,
+          "username": "pbpp10521715"
+        },
+        {
+          "end": 29,
+          "id": "1567847595162091522",
+          "start": 18,
+          "username": "Jiankui_He"
+        },
+        {
+          "end": 39,
+          "id": "259310145",
+          "start": 30,
+          "username": "bukiMXGA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924480848608551303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924105916976365579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pbpp10521715: @Jiankui_He @bukiMXGA 什么时候造出猫耳futa男娘什么时候放你走"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1924480848608551303",
+        "created_at": "2025-05-19T15:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T16:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924480848608551303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421301972007849986",
+              "start": 3,
+              "username": "pbpp10521715"
+            },
+            {
+              "end": 29,
+              "id": "1567847595162091522",
+              "start": 18,
+              "username": "Jiankui_He"
+            },
+            {
+              "end": 39,
+              "id": "259310145",
+              "start": 30,
+              "username": "bukiMXGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924480848608551303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924105916976365579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pbpp10521715: @Jiankui_He @bukiMXGA 什么时候造出猫耳futa男娘什么时候放你走"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "1924098257170702377",
+        "created_at": "2025-05-18T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924105916976365579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1567847595162091522",
+              "start": 0,
+              "username": "Jiankui_He"
+            },
+            {
+              "end": 21,
+              "id": "259310145",
+              "start": 12,
+              "username": "bukiMXGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924105916976365579",
+        "in_reply_to_user_id": "1567847595162091522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 95490,
+          "like_count": 1084,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924098257170702377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiankui_He @bukiMXGA 什么时候造出猫耳futa男娘什么时候放你走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 181,
+          "like_count": 10487,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 838
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "流淌着世俗的欲望，门槛🚪：爱",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪喵喵",
+        "pinned_tweet_id": "1916098403014217841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919482865001336832/L-iyDwrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13358,
+          "following_count": 537,
+          "like_count": 21304,
+          "listed_count": 27,
+          "media_count": 700,
+          "tweet_count": 7366
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T12:09:56.000Z",
+        "description": "Gene Editing Pioneer.\n3 years in prison.",
+        "id": "1567847595162091522",
+        "location": "Beijing, China",
+        "name": "Jiankui He",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832081770487115776/UCUf8wdC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130447,
+          "following_count": 2,
+          "like_count": 90,
+          "listed_count": 281,
+          "media_count": 180,
+          "tweet_count": 361
+        },
+        "username": "Jiankui_He",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-01T16:09:14.000Z",
+        "description": "Do you want to allow meoware.exe from an unknown publisher to make changes to this computer?\n@fhoshino@mastodon.ktachibana.party",
+        "id": "259310145",
+        "location": "Olympus Mons, Mars",
+        "name": "Fubuki Hoshino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540387200432766977/5j8E8NkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 3814,
+          "like_count": 0,
+          "listed_count": 13,
+          "media_count": 23,
+          "tweet_count": 453
+        },
+        "username": "bukiMXGA",
+        "verified": false
+      }
+    ]
+  }
+}

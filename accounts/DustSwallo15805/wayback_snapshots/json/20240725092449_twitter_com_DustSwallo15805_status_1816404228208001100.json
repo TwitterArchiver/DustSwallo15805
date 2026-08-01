@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1816385668752486822",
+    "created_at": "2024-07-25T09:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T10:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816404228208001100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1222199363847327744",
+          "start": 0,
+          "username": "Mikuma1936"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816404228208001100",
+    "in_reply_to_user_id": "1222199363847327744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816385668752486822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikuma1936 但这车看起来像尼桑碧莲啊🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1816385668752486822",
+        "created_at": "2024-07-25T09:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T10:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816404228208001100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222199363847327744",
+              "start": 0,
+              "username": "Mikuma1936"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816404228208001100",
+        "in_reply_to_user_id": "1222199363847327744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816385668752486822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikuma1936 但这车看起来像尼桑碧莲啊🤔"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816385657822142469",
+            "3_1816385658308681733",
+            "3_1816385658539421696",
+            "3_1816385660024152068"
+          ]
+        },
+        "author_id": "1222199363847327744",
+        "conversation_id": "1816385668752486822",
+        "created_at": "2024-07-25T08:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T09:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816385668752486822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/i0hsXG0EyH",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Mikuma1936/status/1816385668752486822/photo/1",
+              "media_key": "3_1816385657822142469",
+              "start": 30,
+              "url": "https://t.co/i0hsXG0EyH"
+            },
+            {
+              "display_url": "pic.twitter.com/i0hsXG0EyH",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Mikuma1936/status/1816385668752486822/photo/1",
+              "media_key": "3_1816385658308681733",
+              "start": 30,
+              "url": "https://t.co/i0hsXG0EyH"
+            },
+            {
+              "display_url": "pic.twitter.com/i0hsXG0EyH",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Mikuma1936/status/1816385668752486822/photo/1",
+              "media_key": "3_1816385658539421696",
+              "start": 30,
+              "url": "https://t.co/i0hsXG0EyH"
+            },
+            {
+              "display_url": "pic.twitter.com/i0hsXG0EyH",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Mikuma1936/status/1816385668752486822/photo/1",
+              "media_key": "3_1816385660024152068",
+              "start": 30,
+              "url": "https://t.co/i0hsXG0EyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816385668752486822",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我坐上沙特的考斯特的那一瞬间，我就已经开始怀念起国内来了 https://t.co/i0hsXG0EyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "AD钙奶",
+        "id": "1647170304844914689",
+        "location": "山东",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 100,
+          "like_count": 3650,
+          "listed_count": 0,
+          "tweet_count": 539
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T16:46:59.000Z",
+        "description": "别看了，就是卖易北凝胶的那个",
+        "id": "1222199363847327744",
+        "location": "木衛三·Ganymede",
+        "name": "🍥Mikuma⚓三隈-ELBEMETALL易北金属🏳️‍⚧️(破产重组中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792915151596732416/gqkmbRRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3396,
+          "following_count": 1010,
+          "like_count": 79160,
+          "listed_count": 7,
+          "tweet_count": 9308
+        },
+        "username": "Mikuma1936",
+        "verified": false
+      }
+    ]
+  }
+}

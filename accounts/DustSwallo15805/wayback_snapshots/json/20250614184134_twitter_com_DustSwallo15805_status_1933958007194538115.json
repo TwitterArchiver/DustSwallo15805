@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933957996876640256"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933921029908505081",
+    "created_at": "2025-06-14T18:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T19:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933958007194538115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1502290571833995266",
+          "start": 0,
+          "username": "3askura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WMAFZeVurA",
+          "end": 38,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1933958007194538115/photo/1",
+          "media_key": "3_1933957996876640256",
+          "start": 15,
+          "url": "https://t.co/WMAFZeVurA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933958007194538115",
+    "in_reply_to_user_id": "1502290571833995266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933921029908505081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3askura 那我得试试 https://t.co/WMAFZeVurA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1933957996876640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtbMjTZbsAA2txJ.jpg",
+        "width": 768
+      },
+      {
+        "height": 1244,
+        "media_key": "3_1933921027274510336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtaq7Y5bEAApSji.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933957996876640256"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933921029908505081",
+        "created_at": "2025-06-14T18:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T19:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933958007194538115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1502290571833995266",
+              "start": 0,
+              "username": "3askura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMAFZeVurA",
+              "end": 38,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1933958007194538115/photo/1",
+              "media_key": "3_1933957996876640256",
+              "start": 15,
+              "url": "https://t.co/WMAFZeVurA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933958007194538115",
+        "in_reply_to_user_id": "1502290571833995266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933921029908505081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3askura 那我得试试 https://t.co/WMAFZeVurA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933921027274510336"
+          ]
+        },
+        "author_id": "1502290571833995266",
+        "conversation_id": "1933921029908505081",
+        "created_at": "2025-06-14T16:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933921029908505081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmMwz1vZ8S",
+              "end": 34,
+              "expanded_url": "https://x.com/3askura/status/1933921029908505081/photo/1",
+              "media_key": "3_1933921027274510336",
+              "start": 11,
+              "url": "https://t.co/XmMwz1vZ8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933921029908505081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是抢到卧铺了姐妹们 https://t.co/XmMwz1vZ8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与制服，什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 187,
+          "like_count": 12124,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 963
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T14:29:28.000Z",
+        "description": "les/Hatsune Miku\n老婆大人💕 @shana_yowaino/\n教主 @aspishiguro/\n笨蛋鸦鸦姐姐 @yanyan2567/\n二号姐姐 @zzzkonstrky/\n三号姐姐 @Luo_yiyu/\n五号妹妹 @Zero_158_Kana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "shana_yowaino"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aspishiguro"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "yanyan2567"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "zzzkonstrky"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "Luo_yiyu"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaskuraMiku",
+                "end": 23,
+                "expanded_url": "http://t.me/SaskuraMiku",
+                "start": 0,
+                "url": "https://t.co/ZuTqpGwx8H"
+              }
+            ]
+          }
+        },
+        "id": "1502290571833995266",
+        "location": "蝴蝶姐姐的怀里",
+        "name": "₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "1899841111612690630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885755697448837120/swM5XmvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 235,
+          "like_count": 16062,
+          "listed_count": 1,
+          "media_count": 2559,
+          "tweet_count": 7886
+        },
+        "url": "https://t.co/ZuTqpGwx8H",
+        "username": "3askura",
+        "verified": false
+      }
+    ]
+  }
+}

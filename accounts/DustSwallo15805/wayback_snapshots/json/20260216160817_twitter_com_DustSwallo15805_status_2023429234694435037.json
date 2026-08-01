@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023355025251348482"
+      ],
+      "media_source_tweet_id": [
+        "2023355035183448265"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2023429234694435037",
+    "created_at": "2026-02-16T16:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023429234694435037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1227160453253455872",
+          "start": 3,
+          "username": "L0vetodream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bZQizpoqJ1",
+          "end": 65,
+          "expanded_url": "https://x.com/L0vetodream/status/2023355035183448265/video/1",
+          "media_key": "13_2023355025251348482",
+          "start": 42,
+          "url": "https://t.co/bZQizpoqJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023429234694435037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023355035183448265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L0vetodream: 我有祝你们大家 春节玉快 阖家欢落  万事如意😎 https://t.co/bZQizpoqJ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8500,
+        "height": 480,
+        "media_key": "13_2023355025251348482",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023355025251348482/img/SLqV1t-_V57ZvKa3.jpg",
+        "public_metrics": {
+          "view_count": 6440
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023355025251348482/vid/avc1/320x320/VdRFispd-MKNux9w.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023355025251348482/vid/avc1/480x480/GSZXBZ8vDFD_qQha.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023355025251348482/pl/K_v-qtZ5rSW9d4AQ.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023355025251348482"
+          ],
+          "media_source_tweet_id": [
+            "2023355035183448265"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023429234694435037",
+        "created_at": "2026-02-16T16:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023429234694435037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1227160453253455872",
+              "start": 3,
+              "username": "L0vetodream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZQizpoqJ1",
+              "end": 65,
+              "expanded_url": "https://x.com/L0vetodream/status/2023355035183448265/video/1",
+              "media_key": "13_2023355025251348482",
+              "start": 42,
+              "url": "https://t.co/bZQizpoqJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023429234694435037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023355035183448265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L0vetodream: 我有祝你们大家 春节玉快 阖家欢落  万事如意😎 https://t.co/bZQizpoqJ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023355025251348482"
+          ]
+        },
+        "author_id": "1227160453253455872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2023355035183448265",
+        "created_at": "2026-02-16T11:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023355035183448265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZQizpoqJ1",
+              "end": 48,
+              "expanded_url": "https://x.com/L0vetodream/status/2023355035183448265/video/1",
+              "media_key": "13_2023355025251348482",
+              "start": 25,
+              "url": "https://t.co/bZQizpoqJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023355035183448265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 21381,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我有祝你们大家 春节玉快 阖家欢落  万事如意😎 https://t.co/bZQizpoqJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 648,
+          "like_count": 66555,
+          "listed_count": 3,
+          "media_count": 639,
+          "tweet_count": 3599
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T09:20:34.000Z",
+        "description": "Apple产品爱好者 收藏者 分享自己的科技数码产品 （只分享产品 不聊政治 聊政治的 种族歧视的 全部会被拉黑）",
+        "id": "1227160453253455872",
+        "location": "like my dream",
+        "name": "有没有搞措",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1284920026865123329/qHlPFH1b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39539,
+          "following_count": 850,
+          "like_count": 13736,
+          "listed_count": 408,
+          "media_count": 2404,
+          "tweet_count": 5843
+        },
+        "username": "L0vetodream",
+        "verified": true
+      }
+    ]
+  }
+}

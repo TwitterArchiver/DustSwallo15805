@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954175702213021696"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1954129333376950450",
+    "created_at": "2025-08-09T13:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T14:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954175711570182406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "953841228327596033",
+          "start": 0,
+          "username": "HXD3D0138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U47iP3aom8",
+          "end": 39,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1954175711570182406/photo/1",
+          "media_key": "3_1954175702213021696",
+          "start": 16,
+          "url": "https://t.co/U47iP3aom8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954175711570182406",
+    "in_reply_to_user_id": "953841228327596033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954129333376950450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HXD3D0138 好吃吗喵 https://t.co/U47iP3aom8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_1954175702213021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx6gco8bUAAmgS3.jpg",
+        "width": 487
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1954129319464456192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx52Qzva0AAZI52.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954175702213021696"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1954129333376950450",
+        "created_at": "2025-08-09T13:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T14:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954175711570182406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "953841228327596033",
+              "start": 0,
+              "username": "HXD3D0138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U47iP3aom8",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1954175711570182406/photo/1",
+              "media_key": "3_1954175702213021696",
+              "start": 16,
+              "url": "https://t.co/U47iP3aom8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954175711570182406",
+        "in_reply_to_user_id": "953841228327596033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954129333376950450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HXD3D0138 好吃吗喵 https://t.co/U47iP3aom8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954129319464456192"
+          ]
+        },
+        "author_id": "953841228327596033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Atlanta",
+              "id": "908360693363105792",
+              "name": "Atlanta"
+            }
+          }
+        ],
+        "conversation_id": "1954129333376950450",
+        "created_at": "2025-08-09T10:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T11:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954129333376950450"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ohno",
+              "probability": 0.3536,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRhao9z7Z7",
+              "end": 28,
+              "expanded_url": "https://x.com/HXD3D0138/status/1954129333376950450/photo/1",
+              "media_key": "3_1954129319464456192",
+              "start": 5,
+              "url": "https://t.co/uRhao9z7Z7"
+            },
+            {
+              "display_url": "x.com/HXD3D0138/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/HXD3D0138/status/1954126232242581808",
+              "start": 29,
+              "url": "https://t.co/amVMldJgG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954129333376950450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954126232242581808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ohno https://t.co/uRhao9z7Z7 https://t.co/amVMldJgG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了，我还是少点不切实际的幻想吧",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 344,
+          "like_count": 25762,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1725
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-18T04:07:25.000Z",
+        "description": "🚆/海外鉄/バス/飛行機/ニコン/バンドリ/学マス/ブルアカ/艦これ　佐世保鎮守府/War Thunder/ウマ娘\n無言フォロー失礼します",
+        "id": "953841228327596033",
+        "location": "東京都 板橋区",
+        "name": "HXD3D0138",
+        "pinned_tweet_id": "1939106545251549349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865297088134971392/lDq_fTZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 1390,
+          "like_count": 85057,
+          "listed_count": 10,
+          "media_count": 4538,
+          "tweet_count": 13218
+        },
+        "username": "HXD3D0138",
+        "verified": false
+      }
+    ]
+  }
+}

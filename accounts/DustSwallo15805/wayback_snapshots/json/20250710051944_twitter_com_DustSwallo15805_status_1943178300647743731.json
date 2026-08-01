@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1943177383202467907",
+    "created_at": "2025-07-10T05:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T06:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943178300647743731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383329877588250628",
+          "start": 0,
+          "username": "donggua7021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943178300647743731",
+    "in_reply_to_user_id": "1383329877588250628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943177383202467907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donggua7021 又自己给自己开盒了（乐）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1943177383202467907",
+        "created_at": "2025-07-10T05:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943178300647743731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383329877588250628",
+              "start": 0,
+              "username": "donggua7021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943178300647743731",
+        "in_reply_to_user_id": "1383329877588250628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943177383202467907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donggua7021 又自己给自己开盒了（乐）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383329877588250628",
+        "conversation_id": "1943177383202467907",
+        "created_at": "2025-07-10T05:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943177383202467907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943177383202467907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现那堆卡上有姓名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 243,
+          "like_count": 17831,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1278
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T08:02:07.000Z",
+        "description": "你的骑手正在攻击你的外卖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "https://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/OXlj9a8j8S"
+              }
+            ]
+          }
+        },
+        "id": "1383329877588250628",
+        "location": "OL63",
+        "name": "冬瓜控释片",
+        "pinned_tweet_id": "1928876379573006581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941137138726141952/-lLiurkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 879,
+          "like_count": 31363,
+          "listed_count": 2,
+          "media_count": 1854,
+          "tweet_count": 11208
+        },
+        "url": "https://t.co/OXlj9a8j8S",
+        "username": "donggua7021",
+        "verified": false
+      }
+    ]
+  }
+}

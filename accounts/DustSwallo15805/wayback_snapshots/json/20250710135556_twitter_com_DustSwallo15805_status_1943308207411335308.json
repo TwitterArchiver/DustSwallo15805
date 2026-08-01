@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943308173353345025"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1943304154300190902",
+    "created_at": "2025-07-10T13:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T14:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943308207411335308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "2temisinin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GFla2BrYoc",
+          "end": 41,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1943308207411335308/photo/1",
+          "media_key": "3_1943308173353345025",
+          "start": 18,
+          "url": "https://t.co/GFla2BrYoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943308207411335308",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943304154300190902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2temisinin 艹，真的是 https://t.co/GFla2BrYoc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943308173353345025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgEfNHW4AE5QSh.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943304145194057728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvgA0vDWAAAMYV8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943308173353345025"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1943304154300190902",
+        "created_at": "2025-07-10T13:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943308207411335308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "2temisinin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFla2BrYoc",
+              "end": 41,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1943308207411335308/photo/1",
+              "media_key": "3_1943308173353345025",
+              "start": 18,
+              "url": "https://t.co/GFla2BrYoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943308207411335308",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943304154300190902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2temisinin 艹，真的是 https://t.co/GFla2BrYoc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943304145194057728"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "1943304154300190902",
+        "created_at": "2025-07-10T13:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T14:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943304154300190902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOsEyhoZQ4",
+              "end": 25,
+              "expanded_url": "https://x.com/2temisinin/status/1943304154300190902/photo/1",
+              "media_key": "3_1943304145194057728",
+              "start": 2,
+              "url": "https://t.co/BOsEyhoZQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943304154300190902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/BOsEyhoZQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 245,
+          "like_count": 18016,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 1289
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜鸮｜HAM BH6RQG｜Nikon｜Bioscience｜Aerospace｜Idealism",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "绿鸮西泮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 1658,
+          "like_count": 33567,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 3147
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955990284279668738"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1955981202332291447",
+    "created_at": "2025-08-14T13:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955990296560591020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "848780438776709120",
+          "start": 0,
+          "username": "ciguoe_che"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qHRkv0IJCI",
+          "end": 42,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1955990296560591020/photo/1",
+          "media_key": "3_1955990284279668738",
+          "start": 19,
+          "url": "https://t.co/qHRkv0IJCI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955990296560591020",
+    "in_reply_to_user_id": "848780438776709120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955981202332291447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciguoe_che 竟然还有满铁 https://t.co/qHRkv0IJCI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_1955990284279668738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUSzN6a4AIKf1M.jpg",
+        "width": 445
+      },
+      {
+        "height": 1244,
+        "media_key": "3_1955981153074384896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUKfthbkAAxfDF.jpg",
+        "width": 1990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955990284279668738"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1955981202332291447",
+        "created_at": "2025-08-14T13:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955990296560591020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "848780438776709120",
+              "start": 0,
+              "username": "ciguoe_che"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHRkv0IJCI",
+              "end": 42,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1955990296560591020/photo/1",
+              "media_key": "3_1955990284279668738",
+              "start": 19,
+              "url": "https://t.co/qHRkv0IJCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955990296560591020",
+        "in_reply_to_user_id": "848780438776709120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955981202332291447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciguoe_che 竟然还有满铁 https://t.co/qHRkv0IJCI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955981153074384896"
+          ]
+        },
+        "author_id": "848780438776709120",
+        "conversation_id": "1955981202332291447",
+        "created_at": "2025-08-14T13:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955981202332291447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQGkUPahd4",
+              "end": 32,
+              "expanded_url": "https://x.com/ciguoe_che/status/1955981202332291447/photo/1",
+              "media_key": "3_1955981153074384896",
+              "start": 9,
+              "url": "https://t.co/IQGkUPahd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955981202332291447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草，还有赛博贡品 https://t.co/IQGkUPahd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 352,
+          "like_count": 26947,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 1778
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-03T06:13:20.000Z",
+        "description": "，繁忙。觅食记录/\nkig→@buriburiaji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "buriburiaji"
+              }
+            ]
+          }
+        },
+        "id": "848780438776709120",
+        "name": "e-hC",
+        "pinned_tweet_id": "1537793606236241920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953866088967811075/hN2j4eHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 2860,
+          "like_count": 15825,
+          "listed_count": 3,
+          "media_count": 965,
+          "tweet_count": 2437
+        },
+        "username": "ciguoe_che",
+        "verified": false
+      }
+    ]
+  }
+}

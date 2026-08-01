@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964480332557930499"
+      ],
+      "media_source_tweet_id": [
+        "1964481841572032711"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1964842396556128585",
+    "created_at": "2025-09-08T00:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T01:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964842396556128585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3194764428",
+          "start": 3,
+          "username": "azu351_photo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yBtuOkqxDy",
+          "end": 76,
+          "expanded_url": "https://x.com/azu351_photo/status/1964481841572032711/photo/1",
+          "media_key": "3_1964480332557930499",
+          "start": 53,
+          "url": "https://t.co/yBtuOkqxDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964842396556128585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 795
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964481841572032711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azu351_photo: 撮り鉄が皆既月食を撮った結果がこちら\n\n赤く見える月が怪しくも美しい https://t.co/yBtuOkqxDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 836,
+        "media_key": "3_1964480332557930499",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0M8dEZbUAMqc_S.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964480332557930499"
+          ],
+          "media_source_tweet_id": [
+            "1964481841572032711"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1964842396556128585",
+        "created_at": "2025-09-08T00:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T01:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964842396556128585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3194764428",
+              "start": 3,
+              "username": "azu351_photo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBtuOkqxDy",
+              "end": 76,
+              "expanded_url": "https://x.com/azu351_photo/status/1964481841572032711/photo/1",
+              "media_key": "3_1964480332557930499",
+              "start": 53,
+              "url": "https://t.co/yBtuOkqxDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964842396556128585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 795
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964481841572032711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azu351_photo: 撮り鉄が皆既月食を撮った結果がこちら\n\n赤く見える月が怪しくも美しい https://t.co/yBtuOkqxDy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964480332557930499"
+          ]
+        },
+        "author_id": "3194764428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1964481841572032711",
+        "created_at": "2025-09-07T00:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T01:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964481841572032711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBtuOkqxDy",
+              "end": 58,
+              "expanded_url": "https://x.com/azu351_photo/status/1964481841572032711/photo/1",
+              "media_key": "3_1964480332557930499",
+              "start": 35,
+              "url": "https://t.co/yBtuOkqxDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964481841572032711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 225291,
+          "like_count": 6677,
+          "quote_count": 23,
+          "reply_count": 20,
+          "retweet_count": 795
+        },
+        "reply_settings": "everyone",
+        "text": "撮り鉄が皆既月食を撮った結果がこちら\n\n赤く見える月が怪しくも美しい https://t.co/yBtuOkqxDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|欢迎找我交换明信片喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1964711873150095716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 437,
+          "like_count": 35428,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 2232
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-14T01:19:29.000Z",
+        "description": "すてきな鉄道写真を撮ります（・＿＿＿＿＿・）\n\n鉄道写真家 * photographer * 夢は写真集の出版\n使用機材：NikonD780/D500\n\nお仕事依頼やご相談等はDMをお気軽に\n\n※画像転載（無許可）には使用料が発生します。\n※スマホの待受画面等、個人的な範囲でのご使用であればOKです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/azu351_photo/",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/azu351_photo/",
+                "start": 0,
+                "url": "https://t.co/dSeMdYN1I3"
+              }
+            ]
+          }
+        },
+        "id": "3194764428",
+        "location": "おコメの国、新潟",
+        "name": "こけだま写真館",
+        "pinned_tweet_id": "1036244361237868545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/609491642257555456/pBhatO0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63456,
+          "following_count": 40810,
+          "like_count": 27000,
+          "listed_count": 475,
+          "media_count": 1795,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/dSeMdYN1I3",
+        "username": "azu351_photo",
+        "verified": true
+      }
+    ]
+  }
+}

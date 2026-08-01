@@ -1,0 +1,357 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1816339808769409219",
+    "created_at": "2024-07-25T05:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T06:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816339808769409219"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 84,
+          "normalized_text": "GALLERIA RM5C-R35",
+          "probability": 0.4053,
+          "start": 68,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "827422106702843904",
+          "start": 3,
+          "username": "GALLERIA_GM"
+        },
+        {
+          "end": 126,
+          "id": "2183594916",
+          "start": 117,
+          "username": "amsrntk3"
+        },
+        {
+          "end": 139,
+          "id": "827422106702843904",
+          "start": 127,
+          "username": "GALLERIA_GM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816339808769409219",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15773
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815929897942147247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GALLERIA_GM: 🎊GALLERIA × Nachoneko🎊\nスポンサー記念キャンペーン！\n\n／\n抽選で1名様に\nGALLERIA RM5C-R35 プレゼント❗🎁\n＼\n\n▼応募方法\n①コラボ３アカウントをフォロー\n@amsrntk3\n@GALLERIA_GM…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1816339808769409219",
+        "created_at": "2024-07-25T05:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T06:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816339808769409219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": "GALLERIA RM5C-R35",
+              "probability": 0.4053,
+              "start": 68,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "827422106702843904",
+              "start": 3,
+              "username": "GALLERIA_GM"
+            },
+            {
+              "end": 126,
+              "id": "2183594916",
+              "start": 117,
+              "username": "amsrntk3"
+            },
+            {
+              "end": 139,
+              "id": "827422106702843904",
+              "start": 127,
+              "username": "GALLERIA_GM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816339808769409219",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15773
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815929897942147247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GALLERIA_GM: 🎊GALLERIA × Nachoneko🎊\nスポンサー記念キャンペーン！\n\n／\n抽選で1名様に\nGALLERIA RM5C-R35 プレゼント❗🎁\n＼\n\n▼応募方法\n①コラボ３アカウントをフォロー\n@amsrntk3\n@GALLERIA_GM…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815668363869540352"
+          ]
+        },
+        "author_id": "827422106702843904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815929897942147247",
+        "created_at": "2024-07-24T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815929897942147247"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "GALLERIA RM5C-R35",
+              "probability": 0.3718,
+              "start": 51,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 109,
+              "id": "2183594916",
+              "start": 100,
+              "username": "amsrntk3"
+            },
+            {
+              "end": 122,
+              "id": "827422106702843904",
+              "start": 110,
+              "username": "GALLERIA_GM"
+            },
+            {
+              "end": 135,
+              "id": "63707410",
+              "start": 123,
+              "username": "dospara_web"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XqDnHoONYv",
+              "end": 185,
+              "expanded_url": "https://twitter.com/GALLERIA_GM/status/1815929897942147247/photo/1",
+              "media_key": "3_1815668363869540352",
+              "start": 162,
+              "url": "https://t.co/XqDnHoONYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815929897942147247",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 342441,
+          "like_count": 14949,
+          "quote_count": 53,
+          "reply_count": 247,
+          "retweet_count": 15773
+        },
+        "reply_settings": "everyone",
+        "text": "🎊GALLERIA × Nachoneko🎊\nスポンサー記念キャンペーン！\n\n／\n抽選で1名様に\nGALLERIA RM5C-R35 プレゼント❗🎁\n＼\n\n▼応募方法\n①コラボ３アカウントをフォロー\n@amsrntk3\n@GALLERIA_GM\n@dospara_web\n\n②この投稿をリポスト+いいね！\n8/7(水)まで https://t.co/XqDnHoONYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "AD钙奶",
+        "id": "1647170304844914689",
+        "location": "山东",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 100,
+          "like_count": 3648,
+          "listed_count": 0,
+          "tweet_count": 538
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-03T07:42:57.000Z",
+        "description": "どこまでも高性能を追求するハイスペック ゲーミングPC「GALLERIA」に関する製品/キャンペーン/イベント情報をお伝えしております。 本アカウントでは個別対応を行っておりませんので、お問合せはサポートまでお願いいたします。\nガレリア公式Twitch：https://t.co/iIH711tYvT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/galleria_gm",
+                "end": 150,
+                "expanded_url": "http://twitch.tv/galleria_gm",
+                "start": 127,
+                "url": "https://t.co/iIH711tYvT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "galleria.net",
+                "end": 23,
+                "expanded_url": "https://galleria.net/",
+                "start": 0,
+                "url": "https://t.co/lXwijvFbHS"
+              }
+            ]
+          }
+        },
+        "id": "827422106702843904",
+        "location": "日本 東京",
+        "name": "ガレリア公式🖥️",
+        "pinned_tweet_id": "1810494133250969702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606119375450562561/3G9PNlew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606777,
+          "following_count": 1367,
+          "like_count": 29540,
+          "listed_count": 997,
+          "tweet_count": 18210
+        },
+        "url": "https://t.co/lXwijvFbHS",
+        "username": "GALLERIA_GM",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-09T04:46:00.000Z",
+        "description": "illustrator｜#Nachonyano (iroiro) #Nyaacho (art)｜💙 GOODS https://t.co/Ub4aOVJfcr ｜ https://t.co/OpxXBqzkwL | sub @nyachodayo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 12,
+                "tag": "Nachonyano"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "Nyaacho"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "nyachodayo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nanyanostore.com",
+                "end": 79,
+                "expanded_url": "http://nanyanostore.com",
+                "start": 56,
+                "url": "https://t.co/Ub4aOVJfcr"
+              },
+              {
+                "display_url": "twitch.tv/nacho_dayo",
+                "end": 105,
+                "expanded_url": "http://twitch.tv/nacho_dayo",
+                "start": 82,
+                "url": "https://t.co/OpxXBqzkwL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amashiro.com",
+                "end": 23,
+                "expanded_url": "http://amashiro.com",
+                "start": 0,
+                "url": "https://t.co/TIdkXkycsX"
+              }
+            ]
+          }
+        },
+        "id": "2183594916",
+        "name": "甘城なつき/Nachoneko💤",
+        "pinned_tweet_id": "1816277660286451954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1404929851815915522/Z1df-mSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581209,
+          "following_count": 1389,
+          "like_count": 20715,
+          "listed_count": 3196,
+          "tweet_count": 11706
+        },
+        "url": "https://t.co/TIdkXkycsX",
+        "username": "amsrntk3",
+        "verified": true
+      }
+    ]
+  }
+}

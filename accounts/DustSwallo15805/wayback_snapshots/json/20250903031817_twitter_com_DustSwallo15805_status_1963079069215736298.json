@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963076318003920898"
+      ],
+      "media_source_tweet_id": [
+        "1963076326212173872"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963079069215736298",
+    "created_at": "2025-09-03T03:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T04:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963079069215736298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pq7IORvJiq",
+          "end": 35,
+          "expanded_url": "https://x.com/Cldeop/status/1963076326212173872/photo/1",
+          "media_key": "3_1963076318003920898",
+          "start": 12,
+          "url": "https://t.co/pq7IORvJiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963079069215736298",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963076326212173872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: https://t.co/pq7IORvJiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1746,
+        "media_key": "3_1963076318003920898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4_gqmbAAIJYqD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963076318003920898"
+          ],
+          "media_source_tweet_id": [
+            "1963076326212173872"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963079069215736298",
+        "created_at": "2025-09-03T03:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963079069215736298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pq7IORvJiq",
+              "end": 35,
+              "expanded_url": "https://x.com/Cldeop/status/1963076326212173872/photo/1",
+              "media_key": "3_1963076318003920898",
+              "start": 12,
+              "url": "https://t.co/pq7IORvJiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963079069215736298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963076326212173872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: https://t.co/pq7IORvJiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963076318003920898"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963076326212173872",
+        "created_at": "2025-09-03T03:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963076326212173872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pq7IORvJiq",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/1963076326212173872/photo/1",
+              "media_key": "3_1963076318003920898",
+              "start": 0,
+              "url": "https://t.co/pq7IORvJiq"
+            },
+            {
+              "display_url": "x.com/glunekikca/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/glunekikca/status/1963075494351667370",
+              "start": 24,
+              "url": "https://t.co/Ks8Tlx7KnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963076326212173872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1482,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963075494351667370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/pq7IORvJiq https://t.co/Ks8Tlx7KnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 427,
+          "like_count": 34150,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2161
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76966,
+          "following_count": 622,
+          "like_count": 30286,
+          "listed_count": 245,
+          "media_count": 11922,
+          "tweet_count": 16827
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

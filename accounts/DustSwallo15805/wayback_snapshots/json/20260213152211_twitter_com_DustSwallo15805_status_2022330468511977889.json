@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2022280842966409216"
+      ],
+      "media_source_tweet_id": [
+        "2022280864269316526"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2022330468511977889",
+    "created_at": "2026-02-13T15:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022330468511977889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3326305791",
+          "start": 3,
+          "username": "CuteCatsMagic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgKBRIXjBv",
+          "end": 42,
+          "expanded_url": "https://x.com/CuteCatsMagic/status/2022280864269316526/video/1",
+          "media_key": "7_2022280842966409216",
+          "start": 19,
+          "url": "https://t.co/JgKBRIXjBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022330468511977889",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022280864269316526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteCatsMagic: https://t.co/JgKBRIXjBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10727,
+        "height": 1280,
+        "media_key": "7_2022280842966409216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022280842966409216/pu/img/e33NAe34MOVp1C7W.jpg",
+        "public_metrics": {
+          "view_count": 5701
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022280842966409216/pu/vid/avc1/320x568/5HTQEU1YF5zHuLGp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022280842966409216/pu/vid/avc1/480x852/gIhzOWbc3F0_JMcg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022280842966409216/pu/vid/avc1/720x1280/XHRjT4d7v3JHHGeF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022280842966409216/pu/pl/2vOzn3tOCx1NBv8i.m3u8?v=258"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022280842966409216"
+          ],
+          "media_source_tweet_id": [
+            "2022280864269316526"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2022330468511977889",
+        "created_at": "2026-02-13T15:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330468511977889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3326305791",
+              "start": 3,
+              "username": "CuteCatsMagic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgKBRIXjBv",
+              "end": 42,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2022280864269316526/video/1",
+              "media_key": "7_2022280842966409216",
+              "start": 19,
+              "url": "https://t.co/JgKBRIXjBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330468511977889",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022280864269316526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteCatsMagic: https://t.co/JgKBRIXjBv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022280842966409216"
+          ]
+        },
+        "author_id": "3326305791",
+        "conversation_id": "2022280864269316526",
+        "created_at": "2026-02-13T12:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022280864269316526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgKBRIXjBv",
+              "end": 23,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2022280864269316526/video/1",
+              "media_key": "7_2022280842966409216",
+              "start": 0,
+              "url": "https://t.co/JgKBRIXjBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022280864269316526",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 23983,
+          "like_count": 1213,
+          "quote_count": 26,
+          "reply_count": 10,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JgKBRIXjBv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 643,
+          "like_count": 66010,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 3574
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-15T06:25:54.000Z",
+        "description": "Follow me to watch the best cat videos.If you like my content, you can subscribe to my page for more 🐈",
+        "id": "3326305791",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "2022016825048150515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801704006932123648/-ngn25vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73547,
+          "following_count": 13106,
+          "like_count": 85757,
+          "listed_count": 185,
+          "media_count": 7899,
+          "tweet_count": 46849
+        },
+        "username": "CuteCatsMagic",
+        "verified": true
+      }
+    ]
+  }
+}

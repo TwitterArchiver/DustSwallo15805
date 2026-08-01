@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022428441006792704"
+      ],
+      "media_source_tweet_id": [
+        "2022428635924406600"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2022580240976089225",
+    "created_at": "2026-02-14T07:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022580240976089225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778989851226071040",
+          "start": 3,
+          "username": "HXD3C0679"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2XkdisNCh",
+          "end": 63,
+          "expanded_url": "https://x.com/HXD3C0679/status/2022428635924406600/photo/1",
+          "media_key": "3_2022428441006792704",
+          "start": 40,
+          "url": "https://t.co/U2XkdisNCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022580240976089225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022428635924406600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HXD3C0679: 去找你的兄弟姐妹吧，记得常来我的梦里看看，再见了 https://t.co/U2XkdisNCh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2305,
+        "media_key": "3_2022428441006792704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBEb86nbYAAcip9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022428441006792704"
+          ],
+          "media_source_tweet_id": [
+            "2022428635924406600"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2022580240976089225",
+        "created_at": "2026-02-14T07:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022580240976089225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778989851226071040",
+              "start": 3,
+              "username": "HXD3C0679"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2XkdisNCh",
+              "end": 63,
+              "expanded_url": "https://x.com/HXD3C0679/status/2022428635924406600/photo/1",
+              "media_key": "3_2022428441006792704",
+              "start": 40,
+              "url": "https://t.co/U2XkdisNCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022580240976089225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022428635924406600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HXD3C0679: 去找你的兄弟姐妹吧，记得常来我的梦里看看，再见了 https://t.co/U2XkdisNCh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022428441006792704"
+          ]
+        },
+        "author_id": "1778989851226071040",
+        "conversation_id": "2022428635924406600",
+        "created_at": "2026-02-13T21:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T22:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022428635924406600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2XkdisNCh",
+              "end": 48,
+              "expanded_url": "https://x.com/HXD3C0679/status/2022428635924406600/photo/1",
+              "media_key": "3_2022428441006792704",
+              "start": 25,
+              "url": "https://t.co/U2XkdisNCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022428635924406600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1710,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "去找你的兄弟姐妹吧，记得常来我的梦里看看，再见了 https://t.co/U2XkdisNCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 644,
+          "like_count": 66118,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 3584
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25、 Lexus ES300h饲养员&VOLVO S90临时支配使用🤑\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 261,
+          "like_count": 6075,
+          "listed_count": 2,
+          "media_count": 1670,
+          "tweet_count": 4922
+        },
+        "username": "HXD3C0679",
+        "verified": false
+      }
+    ]
+  }
+}

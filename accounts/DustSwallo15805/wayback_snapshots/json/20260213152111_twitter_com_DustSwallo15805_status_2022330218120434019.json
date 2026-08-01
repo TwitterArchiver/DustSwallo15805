@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022262452386410496"
+      ],
+      "media_source_tweet_id": [
+        "2022282103639933150"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2022330218120434019",
+    "created_at": "2026-02-13T15:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022330218120434019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "7176332",
+          "start": 3,
+          "username": "Miaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTIuzETqnS",
+          "end": 33,
+          "expanded_url": "https://x.com/Miaw/status/2022282103639933150/video/1",
+          "media_key": "13_2022262452386410496",
+          "start": 10,
+          "url": "https://t.co/DTIuzETqnS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022330218120434019",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022282103639933150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miaw: https://t.co/DTIuzETqnS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10472,
+        "height": 798,
+        "media_key": "13_2022262452386410496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022262452386410496/img/jahG0KCusqCa9T9J.jpg",
+        "public_metrics": {
+          "view_count": 13975
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022262452386410496/vid/avc1/320x354/9Bh3LcGUrH90a8ZU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022262452386410496/vid/avc1/480x532/zfO-Rn3wPue_OP67.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022262452386410496/vid/avc1/718x798/OEPmAKtxiTTKYBve.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022262452386410496/pl/-stvIiM92oVZmizO.m3u8?tag=16"
+          }
+        ],
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022262452386410496"
+          ],
+          "media_source_tweet_id": [
+            "2022282103639933150"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2022330218120434019",
+        "created_at": "2026-02-13T15:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022330218120434019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "7176332",
+              "start": 3,
+              "username": "Miaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTIuzETqnS",
+              "end": 33,
+              "expanded_url": "https://x.com/Miaw/status/2022282103639933150/video/1",
+              "media_key": "13_2022262452386410496",
+              "start": 10,
+              "url": "https://t.co/DTIuzETqnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022330218120434019",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022282103639933150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miaw: https://t.co/DTIuzETqnS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022262452386410496"
+          ]
+        },
+        "author_id": "7176332",
+        "conversation_id": "2022282103639933150",
+        "created_at": "2026-02-13T12:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022282103639933150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTIuzETqnS",
+              "end": 23,
+              "expanded_url": "https://x.com/Miaw/status/2022282103639933150/video/1",
+              "media_key": "13_2022262452386410496",
+              "start": 0,
+              "url": "https://t.co/DTIuzETqnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022282103639933150",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 60702,
+          "like_count": 1459,
+          "quote_count": 61,
+          "reply_count": 7,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DTIuzETqnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 643,
+          "like_count": 66009,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 3572
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-30T20:38:23.000Z",
+        "description": "",
+        "id": "7176332",
+        "location": "🐾",
+        "name": "Miaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801765217132826624/DvbJoKM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94751,
+          "following_count": 0,
+          "like_count": 57,
+          "listed_count": 246,
+          "media_count": 2035,
+          "tweet_count": 2061
+        },
+        "username": "Miaw",
+        "verified": true
+      }
+    ]
+  }
+}

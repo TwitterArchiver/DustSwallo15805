@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1910771959220363266"
+      ],
+      "media_source_tweet_id": [
+        "1910772132994592815"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1934847573166313497",
+    "created_at": "2025-06-17T05:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T06:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934847573166313497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1085338453665996800",
+          "start": 3,
+          "username": "MasayukiTsuda2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rc9zmfK6RE",
+          "end": 85,
+          "expanded_url": "https://x.com/sandiegozoo/status/1910772132994592815/video/1",
+          "media_key": "13_1910771959220363266",
+          "start": 62,
+          "url": "https://t.co/rc9zmfK6RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934847573166313497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2910
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934502322140520489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @MasayukiTsuda2: ネズミなどの小型のげっ歯類を捕食するクロアシネコが切り株の穴から顔を覗かせたところ\nhttps://t.co/rc9zmfK6RE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16566,
+        "height": 1920,
+        "media_key": "13_1910771959220363266",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1910771959220363266/img/WGZqr1ryKQPtD8wd.jpg",
+        "public_metrics": {
+          "view_count": 358280
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910771959220363266/vid/avc1/320x568/syxFrjLLEzwGZ8tA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910771959220363266/vid/avc1/480x852/rFcpNdnyD6kKbjqj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1910771959220363266/vid/avc1/720x1280/A0vo6ZKObd0gAwUC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1910771959220363266/pl/y4bNtLD_TYMygfWq.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910771959220363266"
+          ],
+          "media_source_tweet_id": [
+            "1910772132994592815"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1934847573166313497",
+        "created_at": "2025-06-17T05:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T06:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934847573166313497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1085338453665996800",
+              "start": 3,
+              "username": "MasayukiTsuda2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rc9zmfK6RE",
+              "end": 85,
+              "expanded_url": "https://x.com/sandiegozoo/status/1910772132994592815/video/1",
+              "media_key": "13_1910771959220363266",
+              "start": 62,
+              "url": "https://t.co/rc9zmfK6RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934847573166313497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2910
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934502322140520489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @MasayukiTsuda2: ネズミなどの小型のげっ歯類を捕食するクロアシネコが切り株の穴から顔を覗かせたところ\nhttps://t.co/rc9zmfK6RE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1910771959220363266"
+          ],
+          "media_source_tweet_id": [
+            "1910772132994592815"
+          ]
+        },
+        "author_id": "1085338453665996800",
+        "conversation_id": "1934502322140520489",
+        "created_at": "2025-06-16T06:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T07:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934502322140520489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rc9zmfK6RE",
+              "end": 65,
+              "expanded_url": "https://x.com/sandiegozoo/status/1910772132994592815/video/1",
+              "media_key": "13_1910771959220363266",
+              "start": 42,
+              "url": "https://t.co/rc9zmfK6RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934502322140520489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2033,
+          "impression_count": 782003,
+          "like_count": 27906,
+          "quote_count": 80,
+          "reply_count": 0,
+          "retweet_count": 2910
+        },
+        "reply_settings": "verified",
+        "text": "ネズミなどの小型のげっ歯類を捕食するクロアシネコが切り株の穴から顔を覗かせたところ\nhttps://t.co/rc9zmfK6RE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 189,
+          "like_count": 12535,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 997
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-16T00:50:26.000Z",
+        "description": "津田雅之。比較文学研究者。『批評家クルティウスのヨーロッパ精神』。共著に、 Pluralité des cultures 、Roman mystique、La Grande Guerre vue de Méditerranée 、Littératures et arts du vide など。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osaka-u.academia.edu/MasayukiTsuda",
+                "end": 23,
+                "expanded_url": "https://osaka-u.academia.edu/MasayukiTsuda",
+                "start": 0,
+                "url": "https://t.co/cbPgV1KkFJ"
+              }
+            ]
+          }
+        },
+        "id": "1085338453665996800",
+        "location": "Osaka",
+        "name": "Masayuki Tsuda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113795,
+          "following_count": 1475,
+          "like_count": 27973,
+          "listed_count": 984,
+          "media_count": 3620,
+          "tweet_count": 5332
+        },
+        "url": "https://t.co/cbPgV1KkFJ",
+        "username": "MasayukiTsuda2",
+        "verified": true
+      }
+    ]
+  }
+}

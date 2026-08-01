@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940997503974871040"
+      ],
+      "media_source_tweet_id": [
+        "1940997537152094232"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1941434588481585582",
+    "created_at": "2025-07-05T09:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T10:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941434588481585582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "995300254508437505",
+          "start": 3,
+          "username": "Taka_tyn56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkvD0h4zhx",
+          "end": 52,
+          "expanded_url": "https://x.com/Taka_tyn56/status/1940997537152094232/photo/1",
+          "media_key": "3_1940997503974871040",
+          "start": 29,
+          "url": "https://t.co/KkvD0h4zhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941434588481585582",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5807
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940997537152094232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Taka_tyn56: 群馬県民Peopleは草 https://t.co/KkvD0h4zhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940997503974871040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_O8i5XkAAHbyR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940997503974871040"
+          ],
+          "media_source_tweet_id": [
+            "1940997537152094232"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1941434588481585582",
+        "created_at": "2025-07-05T09:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T10:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941434588481585582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "995300254508437505",
+              "start": 3,
+              "username": "Taka_tyn56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkvD0h4zhx",
+              "end": 52,
+              "expanded_url": "https://x.com/Taka_tyn56/status/1940997537152094232/photo/1",
+              "media_key": "3_1940997503974871040",
+              "start": 29,
+              "url": "https://t.co/KkvD0h4zhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941434588481585582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5807
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940997537152094232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Taka_tyn56: 群馬県民Peopleは草 https://t.co/KkvD0h4zhx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940997503974871040"
+          ]
+        },
+        "author_id": "995300254508437505",
+        "conversation_id": "1940997537152094232",
+        "created_at": "2025-07-04T04:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T05:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940997537152094232"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "群馬県民",
+              "probability": 0.4067,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkvD0h4zhx",
+              "end": 36,
+              "expanded_url": "https://x.com/Taka_tyn56/status/1940997537152094232/photo/1",
+              "media_key": "3_1940997503974871040",
+              "start": 13,
+              "url": "https://t.co/KkvD0h4zhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940997537152094232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2552,
+          "impression_count": 4034641,
+          "like_count": 58896,
+          "quote_count": 215,
+          "reply_count": 83,
+          "retweet_count": 5807
+        },
+        "reply_settings": "everyone",
+        "text": "群馬県民Peopleは草 https://t.co/KkvD0h4zhx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 228,
+          "like_count": 16480,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 1219
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-12T13:50:47.000Z",
+        "description": "無言フォロー失礼します！しーちゃん推し、こかげちゃん推し/VMレヴォーグ乗り",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/takatyan0506?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/takatyan0506?igsh=M29sY3phd3kwdDI%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/Hbj2tj3pV4"
+              }
+            ]
+          }
+        },
+        "id": "995300254508437505",
+        "location": "福岡",
+        "name": "た̆̈か̆̈ち̆̈ゃ̆̈🫧",
+        "pinned_tweet_id": "1918473308661792870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809668857742921728/qRgwYDiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3821,
+          "following_count": 4365,
+          "like_count": 54475,
+          "listed_count": 34,
+          "media_count": 2096,
+          "tweet_count": 21541
+        },
+        "url": "https://t.co/Hbj2tj3pV4",
+        "username": "Taka_tyn56",
+        "verified": false
+      }
+    ]
+  }
+}

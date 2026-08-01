@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961839101826506752"
+      ],
+      "media_source_tweet_id": [
+        "1961839110777409915"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1962102696384901502",
+    "created_at": "2025-08-31T10:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T11:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962102696384901502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1334438173376532480",
+          "start": 3,
+          "username": "JoyfullCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bDP4vJ19aX",
+          "end": 39,
+          "expanded_url": "https://x.com/JoyfullCat/status/1961839110777409915/photo/1",
+          "media_key": "3_1961839101826506752",
+          "start": 16,
+          "url": "https://t.co/bDP4vJ19aX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962102696384901502",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961839110777409915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JoyfullCat: https://t.co/bDP4vJ19aX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1961839101826506752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GznaRNLXIAAnaoW.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961839101826506752"
+          ],
+          "media_source_tweet_id": [
+            "1961839110777409915"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1962102696384901502",
+        "created_at": "2025-08-31T10:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T11:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962102696384901502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1334438173376532480",
+              "start": 3,
+              "username": "JoyfullCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDP4vJ19aX",
+              "end": 39,
+              "expanded_url": "https://x.com/JoyfullCat/status/1961839110777409915/photo/1",
+              "media_key": "3_1961839101826506752",
+              "start": 16,
+              "url": "https://t.co/bDP4vJ19aX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962102696384901502",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961839110777409915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JoyfullCat: https://t.co/bDP4vJ19aX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961839101826506752"
+          ]
+        },
+        "author_id": "1334438173376532480",
+        "conversation_id": "1961839110777409915",
+        "created_at": "2025-08-30T17:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T18:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961839110777409915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDP4vJ19aX",
+              "end": 23,
+              "expanded_url": "https://x.com/JoyfullCat/status/1961839110777409915/photo/1",
+              "media_key": "3_1961839101826506752",
+              "start": 0,
+              "url": "https://t.co/bDP4vJ19aX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961839110777409915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 26397,
+          "like_count": 1483,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bDP4vJ19aX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 419,
+          "like_count": 33357,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2130
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-03T10:04:09.000Z",
+        "description": "Meow moments captured! 📷 🐈Your\ndaily dose of cat videos || Dm for Credit.",
+        "id": "1334438173376532480",
+        "location": "🇺🇸",
+        "name": "Cats for Happiness.",
+        "pinned_tweet_id": "1961589579439640668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903751324476522496/eL3IW7xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370422,
+          "following_count": 5,
+          "like_count": 261,
+          "listed_count": 1551,
+          "media_count": 4818,
+          "tweet_count": 4984
+        },
+        "username": "JoyfullCat",
+        "verified": true
+      }
+    ]
+  }
+}

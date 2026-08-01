@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1936259243168223426",
+    "created_at": "2025-06-21T10:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T11:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936375739156484325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771872732206202880",
+          "start": 0,
+          "username": "ache6823"
+        },
+        {
+          "end": 23,
+          "id": "1753581477705777152",
+          "start": 10,
+          "username": "PoloCoconut2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936375739156484325",
+    "in_reply_to_user_id": "1771872732206202880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936368995520880913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ache6823 @PoloCoconut2 不知道为什么我碰见的不少人偏保守😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1936259243168223426",
+        "created_at": "2025-06-21T10:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936375739156484325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771872732206202880",
+              "start": 0,
+              "username": "ache6823"
+            },
+            {
+              "end": 23,
+              "id": "1753581477705777152",
+              "start": 10,
+              "username": "PoloCoconut2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936375739156484325",
+        "in_reply_to_user_id": "1771872732206202880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936368995520880913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ache6823 @PoloCoconut2 不知道为什么我碰见的不少人偏保守😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771872732206202880",
+        "conversation_id": "1936259243168223426",
+        "created_at": "2025-06-21T10:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936368995520880913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 30,
+              "id": "1753581477705777152",
+              "start": 17,
+              "username": "PoloCoconut2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936368995520880913",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936305794812985571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @PoloCoconut2 挺准的，我老家亲戚也一半一半，毕竟有不少从商的，现在这环境私底下其实都骂那个男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 201,
+          "like_count": 13452,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1054
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T12:12:41.000Z",
+        "description": "hi",
+        "id": "1771872732206202880",
+        "location": "JP-東京都ー新宿区",
+        "name": "ache",
+        "pinned_tweet_id": "1898893901639176388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920173017755496452/R-WuU4KK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 177
+        },
+        "username": "ache6823",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T00:49:48.000Z",
+        "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/可爱猫猫\n大号@PoloCoconut永封 三代目：@PoloCoconut3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "PoloCoconut"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "PoloCoconut3"
+              }
+            ]
+          }
+        },
+        "id": "1753581477705777152",
+        "name": "PoloCoconut 二代目",
+        "pinned_tweet_id": "1904737269728379088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901421541348585472/7_3z3M5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1027,
+          "like_count": 4738,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 1673
+        },
+        "username": "PoloCoconut2",
+        "verified": false
+      }
+    ]
+  }
+}

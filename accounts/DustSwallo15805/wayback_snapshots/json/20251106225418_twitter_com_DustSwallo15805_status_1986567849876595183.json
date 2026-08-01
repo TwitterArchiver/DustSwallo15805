@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986275076434763778"
+      ],
+      "media_source_tweet_id": [
+        "1986275083477000472"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1986567849876595183",
+    "created_at": "2025-11-06T22:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T23:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986567849876595183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SIJPAOy9Ci",
+          "end": 40,
+          "expanded_url": "https://x.com/hgds0/status/1986275083477000472/photo/1",
+          "media_key": "3_1986275076434763778",
+          "start": 17,
+          "url": "https://t.co/SIJPAOy9Ci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986567849876595183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986275083477000472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 我还活着吗 https://t.co/SIJPAOy9Ci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 901,
+        "media_key": "3_1986275076434763778",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5CqqIUbIAIslsX.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986275076434763778"
+          ],
+          "media_source_tweet_id": [
+            "1986275083477000472"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1986567849876595183",
+        "created_at": "2025-11-06T22:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T23:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986567849876595183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIJPAOy9Ci",
+              "end": 40,
+              "expanded_url": "https://x.com/hgds0/status/1986275083477000472/photo/1",
+              "media_key": "3_1986275076434763778",
+              "start": 17,
+              "url": "https://t.co/SIJPAOy9Ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986567849876595183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986275083477000472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 我还活着吗 https://t.co/SIJPAOy9Ci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986275076434763778"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1986275083477000472",
+        "created_at": "2025-11-06T03:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986275083477000472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIJPAOy9Ci",
+              "end": 29,
+              "expanded_url": "https://x.com/hgds0/status/1986275083477000472/photo/1",
+              "media_key": "3_1986275076434763778",
+              "start": 6,
+              "url": "https://t.co/SIJPAOy9Ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986275083477000472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 38110,
+          "like_count": 612,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我还活着吗 https://t.co/SIJPAOy9Ci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 528,
+          "like_count": 50648,
+          "listed_count": 2,
+          "media_count": 517,
+          "tweet_count": 2813
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1984176913771061659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93598,
+          "following_count": 2754,
+          "like_count": 43219,
+          "listed_count": 126,
+          "media_count": 2979,
+          "tweet_count": 7289
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

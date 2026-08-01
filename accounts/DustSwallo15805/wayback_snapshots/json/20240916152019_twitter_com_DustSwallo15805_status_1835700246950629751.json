@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1835682845131743596",
+    "created_at": "2024-09-16T15:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T16:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835700246950629751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "848523479238418432",
+          "start": 0,
+          "username": "c0r1eone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835700246950629751",
+    "in_reply_to_user_id": "848523479238418432",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835682845131743596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c0r1eone 不咬了一口吞😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1835682845131743596",
+        "created_at": "2024-09-16T15:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T16:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835700246950629751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "848523479238418432",
+              "start": 0,
+              "username": "c0r1eone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835700246950629751",
+        "in_reply_to_user_id": "848523479238418432",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835682845131743596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c0r1eone 不咬了一口吞😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835682838055886849"
+          ]
+        },
+        "author_id": "848523479238418432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1835682845131743596",
+        "created_at": "2024-09-16T14:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T15:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835682845131743596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylar0tfgf1",
+              "end": 30,
+              "expanded_url": "https://twitter.com/c0r1eone/status/1835682845131743596/photo/1",
+              "media_key": "3_1835682838055886849",
+              "start": 7,
+              "url": "https://t.co/YLAR0tFGf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835682845131743596",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃还是不吃？ https://t.co/YLAR0tFGf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823682980088569857/XGWkoLqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 118,
+          "like_count": 4229,
+          "listed_count": 0,
+          "tweet_count": 601
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T13:12:17.000Z",
+        "description": "生活已经够累了 点进这里希望你能开心一点",
+        "id": "848523479238418432",
+        "location": "宝宝巴士",
+        "name": "江壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815845544734162944/LtCMI2Za_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 500,
+          "like_count": 8408,
+          "listed_count": 15,
+          "tweet_count": 7079
+        },
+        "username": "c0r1eone",
+        "verified": true
+      }
+    ]
+  }
+}

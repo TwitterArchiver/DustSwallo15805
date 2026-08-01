@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960567553283260494",
+    "created_at": "2025-08-27T04:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960567742626718107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888105599642300416",
+          "start": 0,
+          "username": "Yunthought57441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960567742626718107",
+    "in_reply_to_user_id": "1888105599642300416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960567553283260494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunthought57441 很正经，问就是叫习惯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960567553283260494",
+        "created_at": "2025-08-27T04:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960567742626718107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888105599642300416",
+              "start": 0,
+              "username": "Yunthought57441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960567742626718107",
+        "in_reply_to_user_id": "1888105599642300416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960567553283260494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunthought57441 很正经，问就是叫习惯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888105599642300416",
+        "conversation_id": "1960567553283260494",
+        "created_at": "2025-08-27T04:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960567553283260494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/GEACPS1940629/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/GEACPS1940629/status/1960551044074606713",
+              "start": 17,
+              "url": "https://t.co/CrxrpmVP8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960567553283260494",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960551044074606713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 https://t.co/CrxrpmVP8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 414,
+          "like_count": 31872,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 2031
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T06:00:42.000Z",
+        "description": "计算机/编程/学生/科技/友跨🍥 \n备考CSP-J中\nyunthought57441@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yunthought.rth1.xyz",
+                "end": 23,
+                "expanded_url": "https://yunthought.rth1.xyz/",
+                "start": 0,
+                "url": "https://t.co/puycrpdcwZ"
+              }
+            ]
+          }
+        },
+        "id": "1888105599642300416",
+        "location": "DongYing,ShanDong,PRC",
+        "name": "耘想",
+        "pinned_tweet_id": "1959659020136190134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919064652870205440/cvuiP0no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 189,
+          "like_count": 1085,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/puycrpdcwZ",
+        "username": "Yunthought57441",
+        "verified": false
+      }
+    ]
+  }
+}

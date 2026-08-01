@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1966768966610612685",
+    "created_at": "2025-09-13T12:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T13:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966848552392659037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 32,
+          "id": "1690570637499154432",
+          "start": 23,
+          "username": "saonanaa"
+        },
+        {
+          "end": 44,
+          "id": "1893280336534216706",
+          "start": 33,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966848552392659037",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966848344216760579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 @B_cat38324 @saonanaa @mtnyan8964 我是男的😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1966768966610612685",
+        "created_at": "2025-09-13T12:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966848552392659037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 32,
+              "id": "1690570637499154432",
+              "start": 23,
+              "username": "saonanaa"
+            },
+            {
+              "end": 44,
+              "id": "1893280336534216706",
+              "start": 33,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966848552392659037",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966848344216760579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 @B_cat38324 @saonanaa @mtnyan8964 我是男的😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "1966768966610612685",
+        "created_at": "2025-09-13T12:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T13:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966848344216760579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 21,
+              "id": "1690570637499154432",
+              "start": 12,
+              "username": "saonanaa"
+            },
+            {
+              "end": 38,
+              "id": "1647170304844914689",
+              "start": 22,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 50,
+              "id": "1893280336534216706",
+              "start": 39,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966848344216760579",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966768966610612685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 @saonanaa @DustSwallo15805 @mtnyan8964"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1942947223589044408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 445,
+          "like_count": 37067,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 2319
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 | 热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFlwV5"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "潘老师不是盘老师 （Dr. Bernard）",
+        "pinned_tweet_id": "1962165553478721988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 199,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/hxccVFlwV5",
+        "username": "Tim_Pan_5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19930,
+          "following_count": 194,
+          "like_count": 618,
+          "listed_count": 70,
+          "media_count": 90,
+          "tweet_count": 19656
+        },
+        "username": "B_cat38324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 不翻车 & 不是男娘从未女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959236243205804032/-RNaW-TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6009,
+          "following_count": 412,
+          "like_count": 32433,
+          "listed_count": 17,
+          "media_count": 1921,
+          "tweet_count": 17518
+        },
+        "username": "saonanaa",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "喵呜~",
+        "id": "1893280336534216706",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1966012698916704443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 716,
+          "like_count": 4439,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1016
+        },
+        "username": "mtnyan8964",
+        "verified": true
+      }
+    ]
+  }
+}

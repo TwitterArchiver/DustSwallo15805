@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1959592710865920261",
+    "created_at": "2025-08-24T12:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T13:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959594223478661137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "708700717",
+          "start": 0,
+          "username": "GuajavaDuo"
+        },
+        {
+          "end": 24,
+          "id": "1929159802477010944",
+          "start": 12,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959594223478661137",
+    "in_reply_to_user_id": "708700717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959592710865920261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuajavaDuo @1207auggnoD 泥是预制菜吗🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1959592710865920261",
+        "created_at": "2025-08-24T12:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959594223478661137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            },
+            {
+              "end": 24,
+              "id": "1929159802477010944",
+              "start": 12,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959594223478661137",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959592710865920261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo @1207auggnoD 泥是预制菜吗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708700717",
+        "conversation_id": "1959592710865920261",
+        "created_at": "2025-08-24T12:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959592710865920261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959592710865920261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么预制冬瓜菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 393,
+          "like_count": 30683,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 1924
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-21T09:28:17.000Z",
+        "description": "何小灯家政服务中心主理人，何小灯将不竭尽全力为您服务",
+        "id": "708700717",
+        "location": "長安東路三十三巷",
+        "name": "何何猫猫",
+        "pinned_tweet_id": "1955566711715017103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946582960691388417/Ty5xBbAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7955,
+          "following_count": 1548,
+          "like_count": 7431,
+          "listed_count": 58,
+          "media_count": 22136,
+          "tweet_count": 345875
+        },
+        "username": "GuajavaDuo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "一句话介绍我自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVKX2z"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "冬瓜瓜东",
+        "pinned_tweet_id": "1957852332743618655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958141619838046210/iDR1pLRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 169,
+          "like_count": 4186,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 1122
+        },
+        "url": "https://t.co/KeoonVKX2z",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

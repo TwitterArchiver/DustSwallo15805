@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1932414699259457621",
+    "created_at": "2025-06-10T12:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T13:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932420114596639175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932420114596639175",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932414699259457621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 加油喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1932414288343506945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQjo-aoAEjPxk.jpg",
+        "width": 1280
+      },
+      {
+        "height": 659,
+        "media_key": "3_1932414535362846720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQyBMaoAAa7JF.jpg",
+        "width": 905
+      },
+      {
+        "height": 858,
+        "media_key": "3_1932414649561227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQ4qnboAAD_ms.jpg",
+        "width": 1088
+      },
+      {
+        "height": 514,
+        "media_key": "3_1932414672126541825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFQ5-rbAAEBig0.png",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1932414699259457621",
+        "created_at": "2025-06-10T12:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932420114596639175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932420114596639175",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932414699259457621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932414288343506945",
+            "3_1932414535362846720",
+            "3_1932414649561227264",
+            "3_1932414672126541825"
+          ]
+        },
+        "author_id": "1545736499597307904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1932414699259457621",
+        "created_at": "2025-06-10T12:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932414699259457621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IO6SY9XJCZ",
+              "end": 104,
+              "expanded_url": "https://x.com/Andy1782010/status/1932414699259457621/photo/1",
+              "media_key": "3_1932414288343506945",
+              "start": 81,
+              "url": "https://t.co/IO6SY9XJCZ"
+            },
+            {
+              "display_url": "pic.x.com/IO6SY9XJCZ",
+              "end": 104,
+              "expanded_url": "https://x.com/Andy1782010/status/1932414699259457621/photo/1",
+              "media_key": "3_1932414535362846720",
+              "start": 81,
+              "url": "https://t.co/IO6SY9XJCZ"
+            },
+            {
+              "display_url": "pic.x.com/IO6SY9XJCZ",
+              "end": 104,
+              "expanded_url": "https://x.com/Andy1782010/status/1932414699259457621/photo/1",
+              "media_key": "3_1932414649561227264",
+              "start": 81,
+              "url": "https://t.co/IO6SY9XJCZ"
+            },
+            {
+              "display_url": "pic.x.com/IO6SY9XJCZ",
+              "end": 104,
+              "expanded_url": "https://x.com/Andy1782010/status/1932414699259457621/photo/1",
+              "media_key": "3_1932414672126541825",
+              "start": 81,
+              "url": "https://t.co/IO6SY9XJCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932414699259457621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是最后一天在初中学校上学啦\n接下来3天是在家自习\n周六日，就要中考了喵！\n\n图1：今日份午饭\n图2：班主任用班费买的KFC\n图3：今天作业\n图4：中考前安排 https://t.co/IO6SY9XJCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "皇国兴废，在此一战",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 186,
+          "like_count": 11578,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 890
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n（🚪9.9元 同类免费\n猫猫@AGeSang2008\ncrush @guo_lao32576\n杂鱼@mhtqwq\n妈咪@zzzChumo\n里推@Andy1782025\n距2025年上海市初中学业水平考试还有4天（2025.6.14-15）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYSRr"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（中考加油）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 4000,
+          "like_count": 11246,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/G9B0EMYSRr",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933926191888765093",
+    "created_at": "2025-06-14T19:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T20:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933968394539454969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1319035821031260160",
+          "start": 0,
+          "username": "OrbitalCat_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933968394539454969",
+    "in_reply_to_user_id": "1319035821031260160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933968239245312254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrbitalCat_ 当代张宗昌（确信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933926191888765093",
+        "created_at": "2025-06-14T19:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933968394539454969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1319035821031260160",
+              "start": 0,
+              "username": "OrbitalCat_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933968394539454969",
+        "in_reply_to_user_id": "1319035821031260160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933968239245312254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrbitalCat_ 当代张宗昌（确信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319035821031260160",
+        "conversation_id": "1933926191888765093",
+        "created_at": "2025-06-14T19:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933968239245312254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933968239245312254",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933926191888765093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 大明湖里有荷花。荷花上面有蛤蟆，一戳一蹦跶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与制服，什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 187,
+          "like_count": 12135,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 964
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-21T22:00:27.000Z",
+        "description": "航空航天/轨道交通爱好者\nAn enthusiast of spaceflight,aviation and railway.\n备用账号@Locatmotive",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Locatmotive"
+              }
+            ]
+          }
+        },
+        "id": "1319035821031260160",
+        "location": "太阳系-地球 Solar System-Earth",
+        "name": "aksp酱",
+        "pinned_tweet_id": "1864454416788803661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528332917641838592/HtmnQwh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 565,
+          "like_count": 50618,
+          "listed_count": 13,
+          "media_count": 1193,
+          "tweet_count": 6572
+        },
+        "username": "OrbitalCat_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1950805221023604854",
+    "created_at": "2025-07-31T10:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T11:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950862861246337525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1499103632255455233",
+          "start": 0,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950862861246337525",
+    "in_reply_to_user_id": "1499103632255455233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950805221023604854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKIYAMAYUGUMO 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1950805214153633792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKnAaebcAAclgx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1950805221023604854",
+        "created_at": "2025-07-31T10:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950862861246337525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1499103632255455233",
+              "start": 0,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950862861246337525",
+        "in_reply_to_user_id": "1499103632255455233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950805221023604854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKIYAMAYUGUMO 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950805214153633792"
+          ]
+        },
+        "author_id": "1499103632255455233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "1950805221023604854",
+        "created_at": "2025-07-31T06:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950805221023604854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcF8WoaWfl",
+              "end": 39,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/1950805221023604854/photo/1",
+              "media_key": "3_1950805214153633792",
+              "start": 16,
+              "url": "https://t.co/HcF8WoaWfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950805221023604854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人的第一张AMEX，好漂亮 https://t.co/HcF8WoaWfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 314,
+          "like_count": 23416,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 1609
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "觀測",
+        "id": "1499103632255455233",
+        "location": "夕云艺术研究社",
+        "name": "秋瀬夕云",
+        "pinned_tweet_id": "1949794942718717959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910250028981182464/FntzR3MU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 663,
+          "like_count": 12452,
+          "listed_count": 1,
+          "media_count": 879,
+          "tweet_count": 3415
+        },
+        "username": "AKIYAMAYUGUMO",
+        "verified": false
+      }
+    ]
+  }
+}

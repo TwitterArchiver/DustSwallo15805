@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937366021989707776"
+      ],
+      "media_source_tweet_id": [
+        "1937366025668034771"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1937465186803417436",
+    "created_at": "2025-06-24T10:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T11:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937465186803417436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oHyeifHYHd",
+          "end": 37,
+          "expanded_url": "https://x.com/knd_8964/status/1937366025668034771/photo/1",
+          "media_key": "3_1937366021989707776",
+          "start": 14,
+          "url": "https://t.co/oHyeifHYHd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937465186803417436",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937366025668034771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_8964: https://t.co/oHyeifHYHd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1937366021989707776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuLoIeSbsAApmfE.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937366021989707776"
+          ],
+          "media_source_tweet_id": [
+            "1937366025668034771"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1937465186803417436",
+        "created_at": "2025-06-24T10:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937465186803417436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "knd_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHyeifHYHd",
+              "end": 37,
+              "expanded_url": "https://x.com/knd_8964/status/1937366025668034771/photo/1",
+              "media_key": "3_1937366021989707776",
+              "start": 14,
+              "url": "https://t.co/oHyeifHYHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937465186803417436",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937366025668034771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knd_8964: https://t.co/oHyeifHYHd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937366021989707776"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1937366025668034771",
+        "created_at": "2025-06-24T04:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T05:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937366025668034771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHyeifHYHd",
+              "end": 23,
+              "expanded_url": "https://x.com/knd_8964/status/1937366025668034771/photo/1",
+              "media_key": "3_1937366021989707776",
+              "start": 0,
+              "url": "https://t.co/oHyeifHYHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937366025668034771",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1220,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oHyeifHYHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 207,
+          "like_count": 14008,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 1088
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 4307,
+          "like_count": 76147,
+          "listed_count": 11,
+          "media_count": 3849,
+          "tweet_count": 10805
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

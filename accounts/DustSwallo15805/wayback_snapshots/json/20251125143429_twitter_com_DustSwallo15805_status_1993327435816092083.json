@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1993324322212208821",
+    "created_at": "2025-11-25T14:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993327435816092083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944737915671924736",
+          "start": 0,
+          "username": "yufun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993327435816092083",
+    "in_reply_to_user_id": "1944737915671924736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993324322212208821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufun114514 咪咪咪咪咪咪咪咪咪咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1993324322212208821",
+        "created_at": "2025-11-25T14:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993327435816092083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944737915671924736",
+              "start": 0,
+              "username": "yufun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993327435816092083",
+        "in_reply_to_user_id": "1944737915671924736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993324322212208821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufun114514 咪咪咪咪咪咪咪咪咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944737915671924736",
+        "conversation_id": "1993324322212208821",
+        "created_at": "2025-11-25T14:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993324322212208821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993324322212208821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵喵喵喵喵喵喵喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜@Dust08461185294",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "username": "Dust08461185294"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1993105554513051953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 565,
+          "like_count": 55134,
+          "listed_count": 3,
+          "media_count": 539,
+          "tweet_count": 2994
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T12:37:17.000Z",
+        "description": "业余无线电爱好者BI4JER（持有b类操作证）|\n玩vrc |\n 会一点py和c#和c++ |\n一个很普通的11年的初中生 |\n平时喜欢捣鼓各种东西 | 不讨论涉政话题",
+        "id": "1944737915671924736",
+        "location": "山↑东↓ 济南 历城三中",
+        "name": "yufun",
+        "pinned_tweet_id": "1986990519793426456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984275603655462912/2HsGBikn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 135,
+          "like_count": 2966,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 867
+        },
+        "username": "yufun114514",
+        "verified": false
+      }
+    ]
+  }
+}

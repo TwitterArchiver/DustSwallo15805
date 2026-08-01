@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1917778564063322341",
+    "created_at": "2025-05-01T05:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T06:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917812164171293102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        },
+        {
+          "end": 23,
+          "id": "1360522586317348865",
+          "start": 12,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917812164171293102",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917812031748727254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 @nanami_mua 这就很不好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1917778564063322341",
+        "created_at": "2025-05-01T05:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917812164171293102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            },
+            {
+              "end": 23,
+              "id": "1360522586317348865",
+              "start": 12,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917812164171293102",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917812031748727254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 @nanami_mua 这就很不好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596652915959078913",
+        "conversation_id": "1917778564063322341",
+        "created_at": "2025-05-01T05:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917812031748727254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 28,
+              "id": "1360522586317348865",
+              "start": 17,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917812031748727254",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917787470428827889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @nanami_mua 全球趋势吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 165,
+          "like_count": 9084,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 756
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "@nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "nanami_mua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanami99230",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanami99230",
+                "start": 0,
+                "url": "https://t.co/X8pmKTdZQA"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "name": "七海～四悸～🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905276702319943680/VEHSyuLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 414,
+          "like_count": 21056,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 2915
+        },
+        "url": "https://t.co/X8pmKTdZQA",
+        "username": "nanami5513",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "是七海的猫奴~/infj/05年/ MtX/无证🍥25.1.11/健全?/最最喜欢的/最最爱的/独占的/要一直陪帆的/对象/可爱猫猫 @nanami5513",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "nanami5513"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "1903412823079993502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883155190695755776/h78s62n0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 482,
+          "like_count": 53402,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 3704
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

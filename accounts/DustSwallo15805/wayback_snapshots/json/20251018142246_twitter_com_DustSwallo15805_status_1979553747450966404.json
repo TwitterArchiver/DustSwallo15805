@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979454844004868096"
+      ],
+      "media_source_tweet_id": [
+        "1979454853559783571"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1979553747450966404",
+    "created_at": "2025-10-18T14:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T15:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979553747450966404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "JDE_Alva"
+        },
+        {
+          "end": 26,
+          "id": "72631996",
+          "start": 18,
+          "username": "IRSnews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rbgVu2fZ0",
+          "end": 113,
+          "expanded_url": "https://x.com/JDE_Alva/status/1979454853559783571/photo/1",
+          "media_key": "3_1979454844004868096",
+          "start": 90,
+          "url": "https://t.co/6rbgVu2fZ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979553747450966404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979454853559783571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDE_Alva: 好消息 @IRSnews 有信了\n坏消息 是CP567\n\n如果用X收益和W8BEN看样子是不行的（毕竟人家真说了要1040）\n好吧 看来我要重新申请了 https://t.co/6rbgVu2fZ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979454844004868096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hvsWnWIAApmEk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979454844004868096"
+          ],
+          "media_source_tweet_id": [
+            "1979454853559783571"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1979553747450966404",
+        "created_at": "2025-10-18T14:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T15:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979553747450966404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "JDE_Alva"
+            },
+            {
+              "end": 26,
+              "id": "72631996",
+              "start": 18,
+              "username": "IRSnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rbgVu2fZ0",
+              "end": 113,
+              "expanded_url": "https://x.com/JDE_Alva/status/1979454853559783571/photo/1",
+              "media_key": "3_1979454844004868096",
+              "start": 90,
+              "url": "https://t.co/6rbgVu2fZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979553747450966404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979454853559783571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDE_Alva: 好消息 @IRSnews 有信了\n坏消息 是CP567\n\n如果用X收益和W8BEN看样子是不行的（毕竟人家真说了要1040）\n好吧 看来我要重新申请了 https://t.co/6rbgVu2fZ0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979454844004868096"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "1979454853559783571",
+        "created_at": "2025-10-18T07:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979454853559783571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "72631996",
+              "start": 4,
+              "username": "IRSnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rbgVu2fZ0",
+              "end": 99,
+              "expanded_url": "https://x.com/JDE_Alva/status/1979454853559783571/photo/1",
+              "media_key": "3_1979454844004868096",
+              "start": 76,
+              "url": "https://t.co/6rbgVu2fZ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979454853559783571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 843,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好消息 @IRSnews 有信了\n坏消息 是CP567\n\n如果用X收益和W8BEN看样子是不行的（毕竟人家真说了要1040）\n好吧 看来我要重新申请了 https://t.co/6rbgVu2fZ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 501,
+          "like_count": 46105,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 2695
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Coach.｜我有一瓢酒 可以慰风尘｜Inherited from @ryq59｜Enby.｜#Worlds2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 47,
+                "tag": "Worlds2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 34,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3g8T"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥（互fo寻回中）",
+        "pinned_tweet_id": "1975487873429459064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 2197,
+          "like_count": 22147,
+          "listed_count": 11,
+          "media_count": 491,
+          "tweet_count": 3471
+        },
+        "url": "https://t.co/HOju3R3g8T",
+        "username": "JDE_Alva",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-08T18:49:28.000Z",
+        "description": "Helping you understand and meet your tax responsibilities. \nIRS doesn't collect comments on this site. \nPrivacy Policy:  https://t.co/pEkPKwvDQs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "irs.gov/privacy",
+                "end": 144,
+                "expanded_url": "http://irs.gov/privacy",
+                "start": 121,
+                "url": "https://t.co/pEkPKwvDQs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irs.gov",
+                "end": 23,
+                "expanded_url": "http://www.irs.gov",
+                "start": 0,
+                "url": "https://t.co/STS2L0tJqt"
+              }
+            ]
+          }
+        },
+        "id": "72631996",
+        "location": "Washington, D.C.",
+        "name": "IRSnews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242144051887046663/RDrH6N78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306253,
+          "following_count": 42,
+          "like_count": 4086,
+          "listed_count": 2400,
+          "media_count": 51647,
+          "tweet_count": 82500
+        },
+        "url": "https://t.co/STS2L0tJqt",
+        "username": "IRSnews",
+        "verified": true
+      }
+    ]
+  }
+}

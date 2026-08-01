@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1948909633063817673",
+    "created_at": "2025-07-26T00:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T01:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948909633063817673"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 80,
+          "normalized_text": "日本",
+          "probability": 0.6632,
+          "start": 79,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "124319036",
+          "start": 3,
+          "username": "azirusi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948909633063817673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948593747568329201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azirusi: タイトル：April 7, 1945.\nサイズ：272×1328×204 mm\n素材：新聞(1940年8月8日〜1945年4月７日、日本)\n制作年：2025\n\nモチーフは大日本帝国海軍が建造した史上最大の「戦艦」であり、時代の流れとその運命から、戦後あ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_1948593729482477568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrLrEFbUAAL16o.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1948593729465712646",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrLrEBbgAY7QhS.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1333,
+        "media_key": "3_1948593729511849984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrLrEMbgAAsNgn.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1948593729478201344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrLrEEaEAAeasB.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1948909633063817673",
+        "created_at": "2025-07-26T00:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T01:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948909633063817673"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "日本",
+              "probability": 0.6632,
+              "start": 79,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "124319036",
+              "start": 3,
+              "username": "azirusi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948909633063817673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948593747568329201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azirusi: タイトル：April 7, 1945.\nサイズ：272×1328×204 mm\n素材：新聞(1940年8月8日〜1945年4月７日、日本)\n制作年：2025\n\nモチーフは大日本帝国海軍が建造した史上最大の「戦艦」であり、時代の流れとその運命から、戦後あ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948593729482477568",
+            "3_1948593729465712646",
+            "3_1948593729511849984",
+            "3_1948593729478201344"
+          ]
+        },
+        "author_id": "124319036",
+        "conversation_id": "1948593747568329201",
+        "created_at": "2025-07-25T03:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948593747568329201"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 67,
+              "normalized_text": "日本",
+              "probability": 0.6561,
+              "start": 66,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "大日本帝国海軍",
+              "probability": 0.406,
+              "start": 85,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqiUP5D5SM",
+              "end": 187,
+              "expanded_url": "https://x.com/azirusi/status/1948593747568329201/photo/1",
+              "media_key": "3_1948593729482477568",
+              "start": 164,
+              "url": "https://t.co/XqiUP5D5SM"
+            },
+            {
+              "display_url": "pic.x.com/XqiUP5D5SM",
+              "end": 187,
+              "expanded_url": "https://x.com/azirusi/status/1948593747568329201/photo/1",
+              "media_key": "3_1948593729465712646",
+              "start": 164,
+              "url": "https://t.co/XqiUP5D5SM"
+            },
+            {
+              "display_url": "pic.x.com/XqiUP5D5SM",
+              "end": 187,
+              "expanded_url": "https://x.com/azirusi/status/1948593747568329201/photo/1",
+              "media_key": "3_1948593729511849984",
+              "start": 164,
+              "url": "https://t.co/XqiUP5D5SM"
+            },
+            {
+              "display_url": "pic.x.com/XqiUP5D5SM",
+              "end": 187,
+              "expanded_url": "https://x.com/azirusi/status/1948593747568329201/photo/1",
+              "media_key": "3_1948593729478201344",
+              "start": 164,
+              "url": "https://t.co/XqiUP5D5SM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948593747568329201",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4986,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "タイトル：April 7, 1945.\nサイズ：272×1328×204 mm\n素材：新聞(1940年8月8日〜1945年4月７日、日本)\n制作年：2025\n\nモチーフは大日本帝国海軍が建造した史上最大の「戦艦」であり、時代の流れとその運命から、戦後ある種の「神格化」されてしまった兵器でもある、戦艦「大和」をモチーフに制作。 https://t.co/XqiUP5D5SM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "啊",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 308,
+          "like_count": 23100,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1580
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T00:58:36.000Z",
+        "description": "現代美術家、色々作ってます。 #制作マン で制作過程見れます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "制作マン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/atsushi_adachi…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/atsushi_adachi_art?utm_source=qr_code",
+                "start": 0,
+                "url": "https://t.co/IV1xb3hs4j"
+              }
+            ]
+          }
+        },
+        "id": "124319036",
+        "location": "太陽系",
+        "name": "Atsushi Adachi",
+        "pinned_tweet_id": "1939519918980137439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/993058706152505346/t3dbaQk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 532,
+          "like_count": 284111,
+          "listed_count": 136,
+          "media_count": 28305,
+          "tweet_count": 147176
+        },
+        "url": "https://t.co/IV1xb3hs4j",
+        "username": "azirusi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1946943055552196791",
+    "created_at": "2025-07-20T14:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T15:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946944740869722336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946944740869722336",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946943055552196791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonzyt 手机外放真的很要命😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51836,
+        "height": 1280,
+        "media_key": "13_1946942938938048512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946942938938048512/img/N_nuiKGklGGS9gPi.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946942938938048512/vid/avc1/320x694/SSyJ90gwGM5_pKK-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946942938938048512/vid/avc1/480x1040/ykXdjpy8mq0BVKKo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946942938938048512/vid/avc1/590x1280/UNrF6M5PACE7CqWm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946942938938048512/pl/il7aDLteuwFHv3hc.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1946943055552196791",
+        "created_at": "2025-07-20T14:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946944740869722336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946944740869722336",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946943055552196791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt 手机外放真的很要命😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946942938938048512"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "1946943055552196791",
+        "created_at": "2025-07-20T14:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T15:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946943055552196791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npwqW7uI9J",
+              "end": 131,
+              "expanded_url": "https://x.com/Jasonzyt/status/1946943055552196791/video/1",
+              "media_key": "13_1946942938938048512",
+              "start": 108,
+              "url": "https://t.co/npwqW7uI9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946943055552196791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强烈建议锅贴普及静音车厢\n最起码也要把小灯分到一个车厢，取消饭点的推广广播\n\n眯20分钟被后排小灯踢椅子踢醒了，抱着手机外放刷视频，脚翘在我座位后面的小桌板上踹😅😅😅\n我觉得这是基本的出门在外的礼仪吧，小灯没人教吗 https://t.co/npwqW7uI9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、常礼什么都沾点但什么都不精😇",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 295,
+          "like_count": 21662,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 1539
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁事学生 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 业余摄影 | 交通迷 ✈🚅🚢 | Ham(考A中) | Formerly @levimc_org | 愿望是大家都能天天开心 ❤ Friendly to EVERYONE ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonz.yt/about",
+                "end": 23,
+                "expanded_url": "https://jasonz.yt/about",
+                "start": 0,
+                "url": "https://t.co/IqxpClrmeQ"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "JasonZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878308194407313408/MJZNf2sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 551,
+          "like_count": 36725,
+          "listed_count": 4,
+          "media_count": 761,
+          "tweet_count": 9520
+        },
+        "url": "https://t.co/IqxpClrmeQ",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

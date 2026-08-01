@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2077420064035487944",
+    "created_at": "2026-07-15T15:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077420064035487944"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dustswallo1580…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/dustswallo15805/status/2077081538030977427",
+          "start": 13,
+          "url": "https://t.co/THOyllntL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077420064035487944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077081538030977427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么\n为什么这样对我… https://t.co/THOyllntL4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2077420064035487944",
+        "created_at": "2026-07-15T15:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077420064035487944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dustswallo1580…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/dustswallo15805/status/2077081538030977427",
+              "start": 13,
+              "url": "https://t.co/THOyllntL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077420064035487944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077081538030977427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么\n为什么这样对我… https://t.co/THOyllntL4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2077081538030977427",
+        "created_at": "2026-07-14T17:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077081538030977427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077081538030977427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对\n你们都有美好未来\n我什么也没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi｜ｂｏｃ是傻逼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 868,
+          "like_count": 86206,
+          "listed_count": 4,
+          "media_count": 729,
+          "tweet_count": 4339
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

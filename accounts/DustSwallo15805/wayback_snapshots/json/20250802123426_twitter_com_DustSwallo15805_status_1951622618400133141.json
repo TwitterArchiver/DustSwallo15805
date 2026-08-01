@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1951621645485134042",
+    "created_at": "2025-08-02T12:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T13:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951622618400133141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951622618400133141",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951621645485134042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 富哥🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1951621638929485824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWNilxbkAAHEjv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1951621645485134042",
+        "created_at": "2025-08-02T12:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951622618400133141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951622618400133141",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951621645485134042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 富哥🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951621638929485824"
+          ]
+        },
+        "author_id": "1833730895750283264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1951621645485134042",
+        "created_at": "2025-08-02T12:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951621645485134042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKikyIRpYN",
+              "end": 33,
+              "expanded_url": "https://x.com/32_aug/status/1951621645485134042/photo/1",
+              "media_key": "3_1951621638929485824",
+              "start": 10,
+              "url": "https://t.co/dKikyIRpYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951621645485134042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不拍没说不能买啊🤓 https://t.co/dKikyIRpYN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 320,
+          "like_count": 24285,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 1668
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "这里是小八！（男 ）暑假推油寻回中！😋 希望给所有人带来开心！｜膠片｜ContaxG2お使います｜宝利来｜ヨルシカの大ファンです！｜跑步｜箱根駅伝｜平时发些日常牢骚和跑步日常 不是很会说话 多多包涵 不建证！No politics 🚫 互fo会查成分！拍的照片在这里：小红书6548439184 日本語勉強の中！",
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1945307354318147634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949002301282381824/5W7M3_cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 566,
+          "like_count": 57286,
+          "listed_count": 3,
+          "media_count": 1682,
+          "tweet_count": 15378
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

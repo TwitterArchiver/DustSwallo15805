@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948619076412342275"
+      ],
+      "media_source_tweet_id": [
+        "1948619083106451902"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "1948908077916586340",
+    "created_at": "2025-07-26T00:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T01:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948908077916586340"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "日本橋高島屋",
+          "probability": 0.6396,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "124319036",
+          "start": 3,
+          "username": "azirusi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GozzstaS78",
+          "end": 55,
+          "expanded_url": "https://x.com/azirusi/status/1948619083106451902/photo/1",
+          "media_key": "3_1948619076412342275",
+          "start": 32,
+          "url": "https://t.co/GozzstaS78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948908077916586340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948619083106451902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azirusi: 19時半まで日本橋高島屋在廊中です。 https://t.co/GozzstaS78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948619076412342275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwriucwbgAMgyVj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948619076412342275"
+          ],
+          "media_source_tweet_id": [
+            "1948619083106451902"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1948908077916586340",
+        "created_at": "2025-07-26T00:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T01:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948908077916586340"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "日本橋高島屋",
+              "probability": 0.6396,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "124319036",
+              "start": 3,
+              "username": "azirusi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GozzstaS78",
+              "end": 55,
+              "expanded_url": "https://x.com/azirusi/status/1948619083106451902/photo/1",
+              "media_key": "3_1948619076412342275",
+              "start": 32,
+              "url": "https://t.co/GozzstaS78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948908077916586340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948619083106451902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azirusi: 19時半まで日本橋高島屋在廊中です。 https://t.co/GozzstaS78"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948619076412342275"
+          ]
+        },
+        "author_id": "124319036",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "1948619083106451902",
+        "created_at": "2025-07-25T05:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948619083106451902"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "日本橋高島屋",
+              "probability": 0.5957,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GozzstaS78",
+              "end": 42,
+              "expanded_url": "https://x.com/azirusi/status/1948619083106451902/photo/1",
+              "media_key": "3_1948619076412342275",
+              "start": 19,
+              "url": "https://t.co/GozzstaS78"
+            },
+            {
+              "display_url": "x.com/azirusi/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/azirusi/status/1939519918980137439",
+              "start": 43,
+              "url": "https://t.co/oSeKTm9i36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948619083106451902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2515,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939519918980137439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "19時半まで日本橋高島屋在廊中です。 https://t.co/GozzstaS78 https://t.co/oSeKTm9i36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "啊",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 308,
+          "like_count": 23089,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1579
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T00:58:36.000Z",
+        "description": "現代美術家、色々作ってます。 #制作マン で制作過程見れます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "制作マン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/atsushi_adachi…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/atsushi_adachi_art?utm_source=qr_code",
+                "start": 0,
+                "url": "https://t.co/IV1xb3hs4j"
+              }
+            ]
+          }
+        },
+        "id": "124319036",
+        "location": "太陽系",
+        "name": "Atsushi Adachi",
+        "pinned_tweet_id": "1939519918980137439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/993058706152505346/t3dbaQk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 532,
+          "like_count": 284111,
+          "listed_count": 136,
+          "media_count": 28305,
+          "tweet_count": 147176
+        },
+        "url": "https://t.co/IV1xb3hs4j",
+        "username": "azirusi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944510411929231360"
+      ],
+      "media_source_tweet_id": [
+        "1944510419915481442"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1944563368305860893",
+    "created_at": "2025-07-14T01:03:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T02:03:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944563368305860893"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "伊能忠勝",
+          "probability": 0.9451,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1569617042998988800",
+          "start": 3,
+          "username": "hajimekakeru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uRt8u2izY5",
+          "end": 64,
+          "expanded_url": "https://x.com/hajimekakeru/status/1944510419915481442/photo/1",
+          "media_key": "3_1944510411929231360",
+          "start": 41,
+          "url": "https://t.co/uRt8u2izY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944563368305860893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944510419915481442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hajimekakeru: 伊能忠勝「みかんの皮で日本地図作ったったw」 https://t.co/uRt8u2izY5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1944510411929231360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxJ6s0XIAAijxn.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944510411929231360"
+          ],
+          "media_source_tweet_id": [
+            "1944510419915481442"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1944563368305860893",
+        "created_at": "2025-07-14T01:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T02:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944563368305860893"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "伊能忠勝",
+              "probability": 0.9451,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1569617042998988800",
+              "start": 3,
+              "username": "hajimekakeru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRt8u2izY5",
+              "end": 64,
+              "expanded_url": "https://x.com/hajimekakeru/status/1944510419915481442/photo/1",
+              "media_key": "3_1944510411929231360",
+              "start": 41,
+              "url": "https://t.co/uRt8u2izY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944563368305860893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944510419915481442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hajimekakeru: 伊能忠勝「みかんの皮で日本地図作ったったw」 https://t.co/uRt8u2izY5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944510411929231360"
+          ]
+        },
+        "author_id": "1569617042998988800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1944510419915481442",
+        "created_at": "2025-07-13T21:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T22:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944510419915481442"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "伊能忠勝",
+              "probability": 0.9309,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRt8u2izY5",
+              "end": 46,
+              "expanded_url": "https://x.com/hajimekakeru/status/1944510419915481442/photo/1",
+              "media_key": "3_1944510411929231360",
+              "start": 23,
+              "url": "https://t.co/uRt8u2izY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944510419915481442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 201004,
+          "like_count": 5231,
+          "quote_count": 33,
+          "reply_count": 39,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "伊能忠勝「みかんの皮で日本地図作ったったw」 https://t.co/uRt8u2izY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "太君窝是良民啊太君",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 258,
+          "like_count": 19087,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 1370
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T09:20:58.000Z",
+        "description": "歌い手です。ファンマーク→👍 尊敬してる人@tokidoki77 日常垢@xavierutage ツイートは基本ネタです。拾い画をツイートしています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "tokidoki77"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "xavierutage"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@kakeruutaite",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@kakeruutaite",
+                "start": 0,
+                "url": "https://t.co/6bHvuYGELu"
+              }
+            ]
+          }
+        },
+        "id": "1569617042998988800",
+        "name": "駆ける👍",
+        "pinned_tweet_id": "1679370318656438272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601952229560582145/NHO46gVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58539,
+          "following_count": 49585,
+          "like_count": 51008,
+          "listed_count": 126,
+          "media_count": 1767,
+          "tweet_count": 4904
+        },
+        "url": "https://t.co/6bHvuYGELu",
+        "username": "hajimekakeru",
+        "verified": true
+      }
+    ]
+  }
+}

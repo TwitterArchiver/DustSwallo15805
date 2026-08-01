@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016570275735752704"
+      ],
+      "media_source_tweet_id": [
+        "2016570277774131452"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2016858746098765991",
+    "created_at": "2026-01-29T12:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016858746098765991"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "Visa",
+          "probability": 0.4867,
+          "start": 29,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "309285803",
+          "start": 3,
+          "username": "VisaNews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Bcv8e36BE",
+          "end": 58,
+          "expanded_url": "https://x.com/VisaNews/status/2016570277774131452/photo/1",
+          "media_key": "3_2016570275735752704",
+          "start": 35,
+          "url": "https://t.co/2Bcv8e36BE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016858746098765991",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016570277774131452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VisaNews: Statement from Visa: https://t.co/2Bcv8e36BE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "3_2016570275735752704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xL-0XXUAA33cI.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016570275735752704"
+          ],
+          "media_source_tweet_id": [
+            "2016570277774131452"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2016858746098765991",
+        "created_at": "2026-01-29T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016858746098765991"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Visa",
+              "probability": 0.4867,
+              "start": 29,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "309285803",
+              "start": 3,
+              "username": "VisaNews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Bcv8e36BE",
+              "end": 58,
+              "expanded_url": "https://x.com/VisaNews/status/2016570277774131452/photo/1",
+              "media_key": "3_2016570275735752704",
+              "start": 35,
+              "url": "https://t.co/2Bcv8e36BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016858746098765991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016570277774131452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VisaNews: Statement from Visa: https://t.co/2Bcv8e36BE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016570275735752704"
+          ]
+        },
+        "author_id": "309285803",
+        "conversation_id": "2016570277774131452",
+        "created_at": "2026-01-28T17:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016570277774131452"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Visa",
+              "probability": 0.4303,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Bcv8e36BE",
+              "end": 44,
+              "expanded_url": "https://x.com/VisaNews/status/2016570277774131452/photo/1",
+              "media_key": "3_2016570275735752704",
+              "start": 21,
+              "url": "https://t.co/2Bcv8e36BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016570277774131452",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2107,
+          "impression_count": 7216659,
+          "like_count": 9413,
+          "quote_count": 2047,
+          "reply_count": 1561,
+          "retweet_count": 1266
+        },
+        "reply_settings": "everyone",
+        "text": "Statement from Visa: https://t.co/2Bcv8e36BE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 625,
+          "like_count": 63928,
+          "listed_count": 3,
+          "media_count": 599,
+          "tweet_count": 3464
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-01T20:59:22.000Z",
+        "description": "@Visa is a global payments technology company that connects consumers, businesses, institutions, and governments to fast, secure, and reliable digital currency.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "Visa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usa.visa.com",
+                "end": 23,
+                "expanded_url": "https://usa.visa.com/",
+                "start": 0,
+                "url": "https://t.co/UMxApZxBCE"
+              }
+            ]
+          }
+        },
+        "id": "309285803",
+        "location": "San Francisco, CA",
+        "name": "VisaNews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940860907971616768/HZWK7c9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120847,
+          "following_count": 2956,
+          "like_count": 1742,
+          "listed_count": 932,
+          "media_count": 2632,
+          "tweet_count": 7077
+        },
+        "url": "https://t.co/UMxApZxBCE",
+        "username": "VisaNews",
+        "verified": true
+      }
+    ]
+  }
+}

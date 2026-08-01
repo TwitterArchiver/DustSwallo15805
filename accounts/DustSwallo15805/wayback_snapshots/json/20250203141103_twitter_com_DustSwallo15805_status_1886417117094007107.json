@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1886416157592387774",
+    "created_at": "2025-02-03T14:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T15:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886417117094007107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383329877588250628",
+          "start": 0,
+          "username": "donggua7021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886417117094007107",
+    "in_reply_to_user_id": "1383329877588250628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886416157592387774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@donggua7021 礼崩乐坏😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1886416157592387774",
+        "created_at": "2025-02-03T14:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886417117094007107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383329877588250628",
+              "start": 0,
+              "username": "donggua7021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886417117094007107",
+        "in_reply_to_user_id": "1383329877588250628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886416157592387774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@donggua7021 礼崩乐坏😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886416152437596160"
+          ]
+        },
+        "author_id": "1383329877588250628",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1886416157592387774",
+        "created_at": "2025-02-03T14:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T15:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886416157592387774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4psqFZ85kt",
+              "end": 28,
+              "expanded_url": "https://x.com/donggua7021/status/1886416157592387774/photo/1",
+              "media_key": "3_1886416152437596160",
+              "start": 5,
+              "url": "https://t.co/4psqFZ85kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886416157592387774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你要干嘛 https://t.co/4psqFZ85kt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 108,
+          "like_count": 5513,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 574
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T08:02:07.000Z",
+        "description": "倚南窗以寄傲，审容膝之易安｜ 更多戳链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "https://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/7HEmI9i6yo"
+              }
+            ]
+          }
+        },
+        "id": "1383329877588250628",
+        "location": "OL63",
+        "name": "枸橼酸冬瓜",
+        "pinned_tweet_id": "1885956706532053221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881483587280945154/oesymrdH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 694,
+          "like_count": 14698,
+          "listed_count": 1,
+          "media_count": 650,
+          "tweet_count": 5957
+        },
+        "url": "https://t.co/7HEmI9i6yo",
+        "username": "donggua7021",
+        "verified": false
+      }
+    ]
+  }
+}

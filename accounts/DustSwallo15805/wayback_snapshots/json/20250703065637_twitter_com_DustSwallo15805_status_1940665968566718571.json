@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1940664646895370422",
+    "created_at": "2025-07-03T06:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T07:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940665968566718571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388780143154393097",
+          "start": 0,
+          "username": "Mejiro_Kazesaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940665968566718571",
+    "in_reply_to_user_id": "1388780143154393097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940664646895370422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mejiro_Kazesaki 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940664618759618561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu6gME1WAAE8Ja4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1940664646895370422",
+        "created_at": "2025-07-03T06:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T07:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940665968566718571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1388780143154393097",
+              "start": 0,
+              "username": "Mejiro_Kazesaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940665968566718571",
+        "in_reply_to_user_id": "1388780143154393097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940664646895370422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mejiro_Kazesaki 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940664618759618561"
+          ]
+        },
+        "author_id": "1388780143154393097",
+        "conversation_id": "1940664646895370422",
+        "created_at": "2025-07-03T06:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T07:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940664646895370422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeYYEnrc41",
+              "end": 84,
+              "expanded_url": "https://x.com/Mejiro_Kazesaki/status/1940664646895370422/photo/1",
+              "media_key": "3_1940664618759618561",
+              "start": 61,
+              "url": "https://t.co/EeYYEnrc41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940664646895370422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东站开通的时候我在学校\n终于赶上最后一天我来盖了邮戳\n第一次盖戳什么都没有 以为像盖纪念章一样 还好正好遇上了一群爱好者 https://t.co/EeYYEnrc41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 224,
+          "like_count": 16085,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1193
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T08:59:37.000Z",
+        "description": "避难账号@MejiroKazesaki\n                                              平成二十年生•中国重慶の鉄オタ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "MejiroKazesaki"
+              }
+            ]
+          }
+        },
+        "id": "1388780143154393097",
+        "location": "重慶市",
+        "name": "目白風咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913639097727438848/A4h2fbO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 342,
+          "like_count": 11540,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 1210
+        },
+        "username": "Mejiro_Kazesaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935314028743770113",
+        "3_1935314028810862592",
+        "3_1935314028907139073",
+        "3_1935314028768985088"
+      ],
+      "media_source_tweet_id": [
+        "1935314045646819485",
+        "1935314045646819485",
+        "1935314045646819485",
+        "1935314045646819485"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1935605929728512455",
+    "created_at": "2025-06-19T07:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T08:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935605929728512455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827581589024600069",
+          "start": 3,
+          "username": "nahahama4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TSZOKI4SA2",
+          "end": 53,
+          "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+          "media_key": "3_1935314028743770113",
+          "start": 30,
+          "url": "https://t.co/TSZOKI4SA2"
+        },
+        {
+          "display_url": "pic.x.com/TSZOKI4SA2",
+          "end": 53,
+          "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+          "media_key": "3_1935314028810862592",
+          "start": 30,
+          "url": "https://t.co/TSZOKI4SA2"
+        },
+        {
+          "display_url": "pic.x.com/TSZOKI4SA2",
+          "end": 53,
+          "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+          "media_key": "3_1935314028907139073",
+          "start": 30,
+          "url": "https://t.co/TSZOKI4SA2"
+        },
+        {
+          "display_url": "pic.x.com/TSZOKI4SA2",
+          "end": 53,
+          "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+          "media_key": "3_1935314028768985088",
+          "start": 30,
+          "url": "https://t.co/TSZOKI4SA2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935605929728512455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935314045646819485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nahahama4: さようなら185系C1編成💐 https://t.co/TSZOKI4SA2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2404,
+        "media_key": "3_1935314028743770113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtud2vwaQAE8oFY.jpg",
+        "width": 3606
+      },
+      {
+        "height": 2730,
+        "media_key": "3_1935314028810862592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtud2wAaAAAORiV.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_1935314028907139073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtud2wXXEAE-6kZ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_1935314028768985088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtud2v2bAAAKHt0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935314028743770113",
+            "3_1935314028810862592",
+            "3_1935314028907139073",
+            "3_1935314028768985088"
+          ],
+          "media_source_tweet_id": [
+            "1935314045646819485",
+            "1935314045646819485",
+            "1935314045646819485",
+            "1935314045646819485"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1935605929728512455",
+        "created_at": "2025-06-19T07:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935605929728512455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827581589024600069",
+              "start": 3,
+              "username": "nahahama4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 53,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028743770113",
+              "start": 30,
+              "url": "https://t.co/TSZOKI4SA2"
+            },
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 53,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028810862592",
+              "start": 30,
+              "url": "https://t.co/TSZOKI4SA2"
+            },
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 53,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028907139073",
+              "start": 30,
+              "url": "https://t.co/TSZOKI4SA2"
+            },
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 53,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028768985088",
+              "start": 30,
+              "url": "https://t.co/TSZOKI4SA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935605929728512455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935314045646819485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nahahama4: さようなら185系C1編成💐 https://t.co/TSZOKI4SA2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935314028743770113",
+            "3_1935314028810862592",
+            "3_1935314028907139073",
+            "3_1935314028768985088"
+          ]
+        },
+        "author_id": "1827581589024600069",
+        "conversation_id": "1935314045646819485",
+        "created_at": "2025-06-18T12:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935314045646819485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 38,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028743770113",
+              "start": 15,
+              "url": "https://t.co/TSZOKI4SA2"
+            },
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 38,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028810862592",
+              "start": 15,
+              "url": "https://t.co/TSZOKI4SA2"
+            },
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 38,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028907139073",
+              "start": 15,
+              "url": "https://t.co/TSZOKI4SA2"
+            },
+            {
+              "display_url": "pic.x.com/TSZOKI4SA2",
+              "end": 38,
+              "expanded_url": "https://x.com/nahahama4/status/1935314045646819485/photo/1",
+              "media_key": "3_1935314028768985088",
+              "start": 15,
+              "url": "https://t.co/TSZOKI4SA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935314045646819485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8172,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "さようなら185系C1編成💐 https://t.co/TSZOKI4SA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 197,
+          "like_count": 12960,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1014
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T05:39:53.000Z",
+        "description": "鶴見線/南武支線/南武線/鶴見・川崎を通る珍しい電車と貨物など・・・",
+        "id": "1827581589024600069",
+        "name": "浜4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879096250324426752/KovYUUr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 582,
+          "like_count": 6688,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 772
+        },
+        "username": "nahahama4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1963091021421543559",
+    "created_at": "2025-09-03T08:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963158474709516752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "sxshuishuimao"
+        },
+        {
+          "end": 25,
+          "id": "1856699710981251072",
+          "start": 15,
+          "username": "Tim_Pan_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963158474709516752",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963091021421543559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxshuishuimao @Tim_Pan_5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14419,
+        "height": 1280,
+        "media_key": "13_1963090864290304000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963090864290304000/img/duAYYJ7EuugJN8uj.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963090864290304000/vid/avc1/320x568/ipGL13Tw5u2hp7f8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963090864290304000/vid/avc1/480x852/C9M8a0WJzfbANG8b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963090864290304000/vid/avc1/720x1280/-t7ZqUFEOyL1s8rK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963090864290304000/pl/abo-8DjD8VKbj6vY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1963091021421543559",
+        "created_at": "2025-09-03T08:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963158474709516752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "sxshuishuimao"
+            },
+            {
+              "end": 25,
+              "id": "1856699710981251072",
+              "start": 15,
+              "username": "Tim_Pan_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963158474709516752",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963091021421543559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao @Tim_Pan_5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963090864290304000"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1963091021421543559",
+        "created_at": "2025-09-03T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963091021421543559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpmDAgYMLI",
+              "end": 23,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1963091021421543559/video/1",
+              "media_key": "13_1963090864290304000",
+              "start": 0,
+              "url": "https://t.co/qpmDAgYMLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963091021421543559",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qpmDAgYMLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 428,
+          "like_count": 34284,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2173
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INFP-t ｜处女｜素食主義者｜永远14｜是豪貓不o不圓不割不死｜对象❤️@mengqing5735和@saoweve｜残缺b滚｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "saoweve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕",
+        "pinned_tweet_id": "1962814382087504264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959236072082419712/dE8k523Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 1027,
+          "like_count": 224,
+          "listed_count": 6,
+          "media_count": 1732,
+          "tweet_count": 9171
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "sxshuishuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 | 热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFlwV5"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "潘老师不是盘老师 （Dr. Bernard）",
+        "pinned_tweet_id": "1962165553478721988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 183,
+          "like_count": 948,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/hxccVFlwV5",
+        "username": "Tim_Pan_5",
+        "verified": false
+      }
+    ]
+  }
+}

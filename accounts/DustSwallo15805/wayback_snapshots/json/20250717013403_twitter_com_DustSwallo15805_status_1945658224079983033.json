@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945405375072891212",
+    "created_at": "2025-07-17T01:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T02:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945658224079983033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1757581189869887488",
+          "start": 0,
+          "username": "gnyu36643"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945658224079983033",
+    "in_reply_to_user_id": "1757581189869887488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945652920323862681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gnyu36643 没仔细看多打了一个字🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945405375072891212",
+        "created_at": "2025-07-17T01:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945658224079983033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1757581189869887488",
+              "start": 0,
+              "username": "gnyu36643"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945658224079983033",
+        "in_reply_to_user_id": "1757581189869887488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945652920323862681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gnyu36643 没仔细看多打了一个字🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757581189869887488",
+        "conversation_id": "1945405375072891212",
+        "created_at": "2025-07-17T01:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945652920323862681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945652920323862681",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945405375072891212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 推文文可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 273,
+          "like_count": 20050,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 1449
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T01:43:27.000Z",
+        "description": "来自中国🇨🇳/日语学习ing/喜欢听华语歌🎶/偶尔键政/欢迎互fo😉/愿世界和平🕊",
+        "id": "1757581189869887488",
+        "location": "西南官话 川黔片 成渝小片",
+        "name": "甘悦🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866707491687632897/90BzBPuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 576,
+          "like_count": 18099,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2425
+        },
+        "username": "gnyu36643",
+        "verified": false
+      }
+    ]
+  }
+}

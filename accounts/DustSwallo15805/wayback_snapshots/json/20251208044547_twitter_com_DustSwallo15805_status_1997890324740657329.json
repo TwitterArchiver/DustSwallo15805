@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997861689568661504"
+      ],
+      "media_source_tweet_id": [
+        "1997861695465939157"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997890324740657329",
+    "created_at": "2025-12-08T04:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T05:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997890324740657329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1687854338860072961",
+          "start": 3,
+          "username": "Kalopsiazza"
+        },
+        {
+          "end": 26,
+          "id": "1542365048747614208",
+          "start": 17,
+          "username": "ee_soo13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KxP5Aox2Ea",
+          "end": 64,
+          "expanded_url": "https://x.com/Kalopsiazza/status/1997861695465939157/photo/1",
+          "media_key": "3_1997861689568661504",
+          "start": 41,
+          "url": "https://t.co/KxP5Aox2Ea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997890324740657329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997861695465939157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kalopsiazza: @ee_soo13 对于2025年高考生来说（ https://t.co/KxP5Aox2Ea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1997861689568661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nUnx0aEAAg8Nm.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997861689568661504"
+          ],
+          "media_source_tweet_id": [
+            "1997861695465939157"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997890324740657329",
+        "created_at": "2025-12-08T04:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997890324740657329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1687854338860072961",
+              "start": 3,
+              "username": "Kalopsiazza"
+            },
+            {
+              "end": 26,
+              "id": "1542365048747614208",
+              "start": 17,
+              "username": "ee_soo13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxP5Aox2Ea",
+              "end": 64,
+              "expanded_url": "https://x.com/Kalopsiazza/status/1997861695465939157/photo/1",
+              "media_key": "3_1997861689568661504",
+              "start": 41,
+              "url": "https://t.co/KxP5Aox2Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997890324740657329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997861695465939157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kalopsiazza: @ee_soo13 对于2025年高考生来说（ https://t.co/KxP5Aox2Ea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997861689568661504"
+          ]
+        },
+        "author_id": "1687854338860072961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997548881358602320",
+        "created_at": "2025-12-08T02:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T03:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997861695465939157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1542365048747614208",
+              "start": 0,
+              "username": "ee_soo13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxP5Aox2Ea",
+              "end": 47,
+              "expanded_url": "https://x.com/Kalopsiazza/status/1997861695465939157/photo/1",
+              "media_key": "3_1997861689568661504",
+              "start": 24,
+              "url": "https://t.co/KxP5Aox2Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997861695465939157",
+        "in_reply_to_user_id": "1542365048747614208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997548881358602320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ee_soo13 对于2025年高考生来说（ https://t.co/KxP5Aox2Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1994430557099532647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 565,
+          "like_count": 57251,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 3074
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T15:53:39.000Z",
+        "description": "🌐 Currently grinding on Earth (v2025) / Primary Objective: Survive + Locate Tacos / Side Hustle: Documenting glitches in the simulation",
+        "id": "1687854338860072961",
+        "location": "1314m from you",
+        "name": "Kalopsia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996974613478449152/29JDw66J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 90,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 29
+        },
+        "username": "Kalopsiazza",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T04:31:08.000Z",
+        "description": "🍀｜也许日常@all4everu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "all4everu"
+              }
+            ]
+          }
+        },
+        "id": "1542365048747614208",
+        "name": "小eeee",
+        "pinned_tweet_id": "1735608553401102421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676431001894141952/7HZEdb8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39322,
+          "following_count": 166,
+          "like_count": 2515,
+          "listed_count": 92,
+          "media_count": 53,
+          "tweet_count": 2283
+        },
+        "username": "ee_soo13",
+        "verified": false
+      }
+    ]
+  }
+}

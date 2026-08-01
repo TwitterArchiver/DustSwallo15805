@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069119582275854336"
+      ],
+      "media_source_tweet_id": [
+        "2069119587808075835"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2069425774231470376",
+    "created_at": "2026-06-23T14:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069425774231470376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1713217852017410048",
+          "start": 3,
+          "username": "Tanaka_Destroy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oo0sCLVGsU",
+          "end": 62,
+          "expanded_url": "https://x.com/Tanaka_Destroy/status/2069119587808075835/photo/1",
+          "media_key": "3_2069119582275854336",
+          "start": 39,
+          "url": "https://t.co/Oo0sCLVGsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069425774231470376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069119587808075835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tanaka_Destroy: 日本人なのに部屋これでガチで終わった https://t.co/Oo0sCLVGsU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069119582275854336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb9TCNbYAA9KMY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069119582275854336"
+          ],
+          "media_source_tweet_id": [
+            "2069119587808075835"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2069425774231470376",
+        "created_at": "2026-06-23T14:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069425774231470376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1713217852017410048",
+              "start": 3,
+              "username": "Tanaka_Destroy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oo0sCLVGsU",
+              "end": 62,
+              "expanded_url": "https://x.com/Tanaka_Destroy/status/2069119587808075835/photo/1",
+              "media_key": "3_2069119582275854336",
+              "start": 39,
+              "url": "https://t.co/Oo0sCLVGsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069425774231470376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069119587808075835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tanaka_Destroy: 日本人なのに部屋これでガチで終わった https://t.co/Oo0sCLVGsU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069119582275854336"
+          ]
+        },
+        "author_id": "1713217852017410048",
+        "conversation_id": "2069119587808075835",
+        "created_at": "2026-06-22T18:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069119587808075835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oo0sCLVGsU",
+              "end": 42,
+              "expanded_url": "https://x.com/Tanaka_Destroy/status/2069119587808075835/photo/1",
+              "media_key": "3_2069119582275854336",
+              "start": 19,
+              "url": "https://t.co/Oo0sCLVGsU"
+            },
+            {
+              "display_url": "x.com/ysd0118/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/ysd0118/status/2068953812988293410",
+              "start": 43,
+              "url": "https://t.co/hP6jTaNkEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069119587808075835",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 117181,
+          "like_count": 1565,
+          "quote_count": 7,
+          "reply_count": 29,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068953812988293410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本人なのに部屋これでガチで終わった https://t.co/Oo0sCLVGsU https://t.co/hP6jTaNkEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 788,
+          "like_count": 80335,
+          "listed_count": 4,
+          "media_count": 704,
+          "tweet_count": 4113
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T15:39:13.000Z",
+        "description": "田中デストロイです CIAと吉岡摩耶とsyamuと麻生周一と香川県と神谷宗幣を動かした男 \n歴史と政治(思想強め)と替え歌と声真似をやってます\nドラクエとアズレンが好き\n最近は遷台後の中華民国❂とマイムジに興味あり\n好きな食べ物はうどんと餃子 FA→ #田中デストロイファンアート祭",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 126,
+                "tag": "田中デストロイファンアート祭"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@TanakaDestroy…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@TanakaDestroy?si=m9Nim-9lYoJ-W3bA",
+                "start": 0,
+                "url": "https://t.co/9qrLe69u5I"
+              }
+            ]
+          }
+        },
+        "id": "1713217852017410048",
+        "location": "東京",
+        "name": "田中デストロイ",
+        "pinned_tweet_id": "2034595665385517517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063618817620885505/chADTZg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8421,
+          "following_count": 7941,
+          "like_count": 142100,
+          "listed_count": 14,
+          "media_count": 731,
+          "tweet_count": 40741
+        },
+        "url": "https://t.co/9qrLe69u5I",
+        "username": "Tanaka_Destroy",
+        "verified": false
+      }
+    ]
+  }
+}

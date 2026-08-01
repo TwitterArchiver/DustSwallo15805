@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      }
+    ],
+    "conversation_id": "1934866869674233888",
+    "created_at": "2025-06-17T06:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T07:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934866869674233888"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "OM SYSTEM OM-5 Mark II",
+          "probability": 0.7047,
+          "start": 48,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "108214592",
+          "start": 3,
+          "username": "omsystem_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934866869674233888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934853667896926615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omsystem_jp: ✨新製品情報🎉\n \nアウトドアの“感動”を思いのままに。\n「OM SYSTEM OM-5 Mark II」発売！！\n \nどこにでも持って行ける優れた機動性を備え、アウトドア体験の楽しさをより一層広げる一眼カメラです⛰️🥾📸\n\n発売予定：2025…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "1934866869674233888",
+        "created_at": "2025-06-17T06:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934866869674233888"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "OM SYSTEM OM-5 Mark II",
+              "probability": 0.7047,
+              "start": 48,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "108214592",
+              "start": 3,
+              "username": "omsystem_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934866869674233888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934853667896926615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omsystem_jp: ✨新製品情報🎉\n \nアウトドアの“感動”を思いのままに。\n「OM SYSTEM OM-5 Mark II」発売！！\n \nどこにでも持って行ける優れた機動性を備え、アウトドア体験の楽しさをより一層広げる一眼カメラです⛰️🥾📸\n\n発売予定：2025…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "108214592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          }
+        ],
+        "conversation_id": "1934853667896926615",
+        "created_at": "2025-06-17T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934853667896926615"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "OM SYSTEM OM-5 Mark II",
+              "probability": 0.6924,
+              "start": 31,
+              "type": "Product"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 130,
+              "tag": "OMSYSTEM"
+            },
+            {
+              "end": 150,
+              "start": 140,
+              "tag": "om5markii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934853667896926615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7179,
+          "like_count": 185,
+          "quote_count": 26,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "✨新製品情報🎉\n \nアウトドアの“感動”を思いのままに。\n「OM SYSTEM OM-5 Mark II」発売！！\n \nどこにでも持って行ける優れた機動性を備え、アウトドア体験の楽しさをより一層広げる一眼カメラです⛰️🥾📸\n\n発売予定：2025年7月下旬\n \n#OMSYSTEM #om5markii\n⏬詳細は画像をタップ🔗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 190,
+          "like_count": 12554,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 999
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-25T06:27:16.000Z",
+        "description": "OM SYSTEM公式アカウント\n新着記事やお得な情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.omsystem.com/index.html",
+                "end": 23,
+                "expanded_url": "https://jp.omsystem.com/index.html",
+                "start": 0,
+                "url": "https://t.co/FXWfLPQpA8"
+              }
+            ]
+          }
+        },
+        "id": "108214592",
+        "name": "OM SYSTEM JP",
+        "pinned_tweet_id": "1917473997308227603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736630550025351168/J75Yg0p1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46052,
+          "following_count": 20,
+          "like_count": 4447,
+          "listed_count": 696,
+          "media_count": 1618,
+          "tweet_count": 5022
+        },
+        "url": "https://t.co/FXWfLPQpA8",
+        "username": "omsystem_jp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960302280869073241",
+    "created_at": "2025-08-26T11:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T12:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960302280869073241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1647170304844914689",
+          "start": 3,
+          "username": "DustSwallo15805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960302280869073241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950044890429038927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DustSwallo15805: 天天跟药娘混活该翻车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960302280869073241",
+        "created_at": "2025-08-26T11:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960302280869073241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1647170304844914689",
+              "start": 3,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960302280869073241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950044890429038927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DustSwallo15805: 天天跟药娘混活该翻车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1950044890429038927",
+        "created_at": "2025-07-29T04:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T05:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950044890429038927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jasonzyt/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Jasonzyt/status/1950032581199577264",
+              "start": 11,
+              "url": "https://t.co/apEFong8qo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950044890429038927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 360,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950032581199577264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天天跟药娘混活该翻车 https://t.co/apEFong8qo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 409,
+          "like_count": 31505,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 1979
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

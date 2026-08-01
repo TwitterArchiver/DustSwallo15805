@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1903400230680465558",
+    "created_at": "2025-03-22T10:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T11:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903400230680465558"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "中央政治委員会",
+          "probability": 0.5331,
+          "start": 67,
+          "type": "Organization"
+        },
+        {
+          "end": 99,
+          "normalized_text": "ニクソン訪中",
+          "probability": 0.4394,
+          "start": 94,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1768979871324389376",
+          "start": 3,
+          "username": "fictitious1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903400230680465558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902843611982729298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fictitious1966: 王道征\n\n中華人民共和国主席。1919年生まれ。国共内戦で軍功をあげ序列を上げた。1972年、中央政治委員会にて「尼克松?好!來!」と発言したことでニクソン訪中が決まった。その後この功績が評価され1978~1983年に国家主席を務めたが後…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1818,
+        "media_key": "3_1902843608614703105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmhCLiqaEAEDgmF.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1903400230680465558",
+        "created_at": "2025-03-22T10:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T11:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903400230680465558"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "中央政治委員会",
+              "probability": 0.5331,
+              "start": 67,
+              "type": "Organization"
+            },
+            {
+              "end": 99,
+              "normalized_text": "ニクソン訪中",
+              "probability": 0.4395,
+              "start": 94,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1768979871324389376",
+              "start": 3,
+              "username": "fictitious1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903400230680465558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902843611982729298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fictitious1966: 王道征\n\n中華人民共和国主席。1919年生まれ。国共内戦で軍功をあげ序列を上げた。1972年、中央政治委員会にて「尼克松?好!來!」と発言したことでニクソン訪中が決まった。その後この功績が評価され1978~1983年に国家主席を務めたが後…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902843608614703105"
+          ]
+        },
+        "author_id": "1768979871324389376",
+        "conversation_id": "1902843611982729298",
+        "created_at": "2025-03-20T22:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T23:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902843611982729298"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "中央政治委員会",
+              "probability": 0.543,
+              "start": 47,
+              "type": "Organization"
+            },
+            {
+              "end": 79,
+              "normalized_text": "ニクソン訪中",
+              "probability": 0.4057,
+              "start": 74,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPRQqd7DGk",
+              "end": 174,
+              "expanded_url": "https://x.com/fictitious1966/status/1902843611982729298/photo/1",
+              "media_key": "3_1902843608614703105",
+              "start": 151,
+              "url": "https://t.co/IPRQqd7DGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902843611982729298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 47825,
+          "like_count": 1005,
+          "quote_count": 16,
+          "reply_count": 43,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "王道征\n\n中華人民共和国主席。1919年生まれ。国共内戦で軍功をあげ序列を上げた。1972年、中央政治委員会にて「尼克松?好!來!」と発言したことでニクソン訪中が決まった。その後この功績が評価され1978~1983年に国家主席を務めたが後に失脚。晩年はトレーニングに明け暮れたという。2009年に死去 https://t.co/IPRQqd7DGk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 139,
+          "like_count": 7185,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 675
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T12:37:45.000Z",
+        "description": "⚠このアカウントの投稿内容は全て架空です⚠⚠淫夢関連の投稿が8割を占めています⚠架空の偉人、歴史人物、出来事等について紹介するbotです。架空偉人bot @fictitious1933 は凍結されました。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 77,
+                "username": "fictitious1933"
+              }
+            ]
+          }
+        },
+        "id": "1768979871324389376",
+        "location": "リッスンブール(亡命政府)",
+        "name": "架空偉人bot:Re",
+        "pinned_tweet_id": "1895953172788887652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896964419571396608/L-7KbUo6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6471,
+          "following_count": 1054,
+          "like_count": 814,
+          "listed_count": 12,
+          "media_count": 44,
+          "tweet_count": 102
+        },
+        "username": "fictitious1966",
+        "verified": false
+      }
+    ]
+  }
+}

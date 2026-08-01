@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943567112494018561"
+      ],
+      "media_source_tweet_id": [
+        "1943567118517309793"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1943875247112962243",
+    "created_at": "2025-07-12T03:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T04:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943875247112962243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "242588305",
+          "start": 3,
+          "username": "Takehiro_Wei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fe9JVgNNvX",
+          "end": 69,
+          "expanded_url": "https://x.com/Takehiro_Wei/status/1943567118517309793/photo/1",
+          "media_key": "3_1943567112494018561",
+          "start": 46,
+          "url": "https://t.co/Fe9JVgNNvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943875247112962243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943567118517309793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takehiro_Wei: 實彈射擊全數命中賴總統wwwwwww\n台獨金身wwww https://t.co/Fe9JVgNNvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_1943567112494018561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvjv_clWcAEiE4U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943567112494018561"
+          ],
+          "media_source_tweet_id": [
+            "1943567118517309793"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1943875247112962243",
+        "created_at": "2025-07-12T03:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T04:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943875247112962243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "242588305",
+              "start": 3,
+              "username": "Takehiro_Wei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fe9JVgNNvX",
+              "end": 69,
+              "expanded_url": "https://x.com/Takehiro_Wei/status/1943567118517309793/photo/1",
+              "media_key": "3_1943567112494018561",
+              "start": 46,
+              "url": "https://t.co/Fe9JVgNNvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943875247112962243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943567118517309793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takehiro_Wei: 實彈射擊全數命中賴總統wwwwwww\n台獨金身wwww https://t.co/Fe9JVgNNvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943567112494018561"
+          ]
+        },
+        "author_id": "242588305",
+        "conversation_id": "1943567118517309793",
+        "created_at": "2025-07-11T07:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943567118517309793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fe9JVgNNvX",
+              "end": 51,
+              "expanded_url": "https://x.com/Takehiro_Wei/status/1943567118517309793/photo/1",
+              "media_key": "3_1943567112494018561",
+              "start": 28,
+              "url": "https://t.co/Fe9JVgNNvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943567118517309793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 130132,
+          "like_count": 1577,
+          "quote_count": 31,
+          "reply_count": 52,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "實彈射擊全數命中賴總統wwwwwww\n台獨金身wwww https://t.co/Fe9JVgNNvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 252,
+          "like_count": 18502,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 1325
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-25T03:43:12.000Z",
+        "description": "程式開發就像下山一樣，\r\n你可以選擇從階梯穩健踏實地往下步行，\r\n也許會有點麻煩也慢了一些；\r\n或是你也可以選擇從懸崖毅然決然地縱身一跳，\r\n則會非常輕鬆也快了很多...............\r\n不過死得也滿快的就是。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "plurk.com/nonoway72/invi…",
+                "end": 23,
+                "expanded_url": "http://www.plurk.com/nonoway72/invite",
+                "start": 0,
+                "url": "https://t.co/tg4w22vzpU"
+              }
+            ]
+          }
+        },
+        "id": "242588305",
+        "location": "Taiwan",
+        "name": "Takehiro🌈威",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1225195615/7432981-big2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 1686,
+          "like_count": 39543,
+          "listed_count": 7,
+          "media_count": 12993,
+          "tweet_count": 50011
+        },
+        "url": "https://t.co/tg4w22vzpU",
+        "username": "Takehiro_Wei",
+        "verified": false
+      }
+    ]
+  }
+}

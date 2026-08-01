@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1889717890427002932",
+    "created_at": "2025-02-12T21:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T22:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889795645478936706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877035470615638016",
+          "start": 0,
+          "username": "pNcYSzDUsc75787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889795645478936706",
+    "in_reply_to_user_id": "1877035470615638016",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889717890427002932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pNcYSzDUsc75787 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1889717890427002932",
+        "created_at": "2025-02-12T21:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T22:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889795645478936706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877035470615638016",
+              "start": 0,
+              "username": "pNcYSzDUsc75787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889795645478936706",
+        "in_reply_to_user_id": "1877035470615638016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889717890427002932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pNcYSzDUsc75787 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889717886211727361"
+          ]
+        },
+        "author_id": "1877035470615638016",
+        "conversation_id": "1889717890427002932",
+        "created_at": "2025-02-12T16:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T17:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889717890427002932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6YUFTrc7f",
+              "end": 32,
+              "expanded_url": "https://x.com/pNcYSzDUsc75787/status/1889717890427002932/photo/1",
+              "media_key": "3_1889717886211727361",
+              "start": 9,
+              "url": "https://t.co/u6YUFTrc7f"
+            },
+            {
+              "display_url": "x.com/Allknowbody2/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Allknowbody2/status/1889700996479094827",
+              "start": 33,
+              "url": "https://t.co/GvlWOOHk7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889717890427002932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 661,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889700996479094827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给你的头像打分🥰 https://t.co/u6YUFTrc7f https://t.co/GvlWOOHk7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 132,
+          "like_count": 6645,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 651
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Plus Ultra | 原账号@pNcYSzDUsc75790 @pNcYSzDUsc81146 @pNcYSzDUsc81147 备用账号@pNcYSzDUsc75789",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "pNcYSzDUsc75790"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "pNcYSzDUsc81146"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "pNcYSzDUsc81147"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "pNcYSzDUsc75789"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Gevona，Italia ",
+        "name": "Luka Megurine 03（推友巡回）",
+        "pinned_tweet_id": "1887931719803973849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877038166823391232/JmLQOUUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1982,
+          "like_count": 678,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 554
+        },
+        "username": "pNcYSzDUsc75787",
+        "verified": false
+      }
+    ]
+  }
+}

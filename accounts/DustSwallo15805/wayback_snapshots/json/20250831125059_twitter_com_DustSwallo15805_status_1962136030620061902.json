@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962102248642895873"
+      ],
+      "media_source_tweet_id": [
+        "1962102257698426903"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1962136030620061902",
+    "created_at": "2025-08-31T12:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T13:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962136030620061902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1550831653182140416",
+          "start": 3,
+          "username": "ula_niwa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wmoQVEzC7R",
+          "end": 46,
+          "expanded_url": "https://x.com/ula_niwa/status/1962102257698426903/photo/1",
+          "media_key": "3_1962102248642895873",
+          "start": 23,
+          "url": "https://t.co/wmoQVEzC7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962136030620061902",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 810
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962102257698426903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ula_niwa: 今日の中高生これ https://t.co/wmoQVEzC7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1962102248642895873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrJmXda4AEUwvk.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962102248642895873"
+          ],
+          "media_source_tweet_id": [
+            "1962102257698426903"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1962136030620061902",
+        "created_at": "2025-08-31T12:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T13:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962136030620061902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1550831653182140416",
+              "start": 3,
+              "username": "ula_niwa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmoQVEzC7R",
+              "end": 46,
+              "expanded_url": "https://x.com/ula_niwa/status/1962102257698426903/photo/1",
+              "media_key": "3_1962102248642895873",
+              "start": 23,
+              "url": "https://t.co/wmoQVEzC7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962136030620061902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 810
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962102257698426903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ula_niwa: 今日の中高生これ https://t.co/wmoQVEzC7R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962102248642895873"
+          ]
+        },
+        "author_id": "1550831653182140416",
+        "conversation_id": "1962102257698426903",
+        "created_at": "2025-08-31T10:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T11:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962102257698426903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmoQVEzC7R",
+              "end": 32,
+              "expanded_url": "https://x.com/ula_niwa/status/1962102257698426903/photo/1",
+              "media_key": "3_1962102248642895873",
+              "start": 9,
+              "url": "https://t.co/wmoQVEzC7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962102257698426903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 79809,
+          "like_count": 4115,
+          "quote_count": 66,
+          "reply_count": 72,
+          "retweet_count": 810
+        },
+        "reply_settings": "everyone",
+        "text": "今日の中高生これ https://t.co/wmoQVEzC7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 420,
+          "like_count": 33408,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 2131
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T13:17:58.000Z",
+        "description": "人生エンジョイ勢です\n軍事/プラモ/ブルアカとか",
+        "id": "1550831653182140416",
+        "location": "カルパチアの岩山の中",
+        "name": "うらにわ",
+        "pinned_tweet_id": "1827621165885456623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774018334016872448/2XRcxq1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1446,
+          "following_count": 1265,
+          "like_count": 125919,
+          "listed_count": 8,
+          "media_count": 2368,
+          "tweet_count": 26719
+        },
+        "username": "ula_niwa",
+        "verified": false
+      }
+    ]
+  }
+}

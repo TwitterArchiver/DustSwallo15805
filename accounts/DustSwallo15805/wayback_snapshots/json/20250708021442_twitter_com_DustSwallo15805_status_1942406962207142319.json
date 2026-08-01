@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Yutaka Takenouchi (竹野内豊)",
+          "id": "1040696818823127040",
+          "name": "Yutaka Takenouchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Yutaka Takenouchi (竹野内豊)",
+          "id": "1040696818823127040",
+          "name": "Yutaka Takenouchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Yutaka Takenouchi (竹野内豊)",
+          "id": "1040696818823127040",
+          "name": "Yutaka Takenouchi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714559518150656",
+          "name": "Japanese actors"
+        }
+      }
+    ],
+    "conversation_id": "1942406962207142319",
+    "created_at": "2025-07-08T02:14:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T03:14:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942406962207142319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1855810015757770752",
+          "start": 3,
+          "username": "yukikazemovie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942406962207142319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 488
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938486910961455469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukikazemovie: ― 生きて帰る\n　　　　生きて還す―\n \n━━━━━━━━━━━━━━━━━━━━\n \n　映画『雪風 YUKIKAZE』\n　 　 　本予告解禁\n \n━━━━━━━━━━━━━━━━━━━━\n主演 竹野内豊\n主題歌 Uru「手紙」\n8月15日…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Yutaka Takenouchi (竹野内豊)",
+              "id": "1040696818823127040",
+              "name": "Yutaka Takenouchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Yutaka Takenouchi (竹野内豊)",
+              "id": "1040696818823127040",
+              "name": "Yutaka Takenouchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yutaka Takenouchi (竹野内豊)",
+              "id": "1040696818823127040",
+              "name": "Yutaka Takenouchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1942406962207142319",
+        "created_at": "2025-07-08T02:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T03:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942406962207142319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1855810015757770752",
+              "start": 3,
+              "username": "yukikazemovie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942406962207142319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 488
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938486910961455469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukikazemovie: ― 生きて帰る\n　　　　生きて還す―\n \n━━━━━━━━━━━━━━━━━━━━\n \n　映画『雪風 YUKIKAZE』\n　 　 　本予告解禁\n \n━━━━━━━━━━━━━━━━━━━━\n主演 竹野内豊\n主題歌 Uru「手紙」\n8月15日…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855810015757770752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Yutaka Takenouchi (竹野内豊)",
+              "id": "1040696818823127040",
+              "name": "Yutaka Takenouchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Yutaka Takenouchi (竹野内豊)",
+              "id": "1040696818823127040",
+              "name": "Yutaka Takenouchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Yutaka Takenouchi (竹野内豊)",
+              "id": "1040696818823127040",
+              "name": "Yutaka Takenouchi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1938486910961455469",
+        "created_at": "2025-06-27T06:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T07:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938486910961455469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938486910961455469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 342,
+          "impression_count": 5440835,
+          "like_count": 3633,
+          "quote_count": 96,
+          "reply_count": 36,
+          "retweet_count": 488
+        },
+        "reply_settings": "everyone",
+        "text": "― 生きて帰る\n　　　　生きて還す―\n \n━━━━━━━━━━━━━━━━━━━━\n \n　映画『雪風 YUKIKAZE』\n　 　 　本予告解禁\n \n━━━━━━━━━━━━━━━━━━━━\n主演 竹野内豊\n主題歌 Uru「手紙」\n8月15日(金) 全国公開🎬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 238,
+          "like_count": 17128,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 1245
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T03:09:44.000Z",
+        "description": "映画『雪風 YUKIKAZE』\n多くの仲間を救い続けた艦、「雪風」の史実に基づく物語\n主演 #竹野内豊\n#玉木宏 #奥平大兼 #當真あみ #田中麗奈 #中井貴一\n主題歌「手紙」#Uru\n𝟴月𝟭𝟱日(金) 全国公開🎬 #雪風YUKIKAZE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "竹野内豊"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "玉木宏"
+              },
+              {
+                "end": 62,
+                "start": 57,
+                "tag": "奥平大兼"
+              },
+              {
+                "end": 68,
+                "start": 63,
+                "tag": "當真あみ"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "tag": "田中麗奈"
+              },
+              {
+                "end": 80,
+                "start": 75,
+                "tag": "中井貴一"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "Uru"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "tag": "雪風YUKIKAZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukikaze-movie.jp",
+                "end": 23,
+                "expanded_url": "https://www.yukikaze-movie.jp/",
+                "start": 0,
+                "url": "https://t.co/vRwRFkhgMN"
+              }
+            ]
+          }
+        },
+        "id": "1855810015757770752",
+        "name": "映画『雪風 YUKIKAZE』公式",
+        "pinned_tweet_id": "1937631824164925550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901393078843494400/EhlJ8KNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13768,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 54,
+          "media_count": 55,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/vRwRFkhgMN",
+        "username": "yukikazemovie",
+        "verified": true
+      }
+    ]
+  }
+}

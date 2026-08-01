@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2052342974667989369",
+    "created_at": "2026-05-08T02:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052577957571604926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankshiki73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052577957571604926",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052342974667989369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@frankshiki73 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2052342974667989369",
+        "created_at": "2026-05-08T02:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052577957571604926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankshiki73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052577957571604926",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052342974667989369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@frankshiki73 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2052342974667989369",
+        "created_at": "2026-05-07T11:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052342974667989369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052342974667989369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 748,
+          "like_count": 76153,
+          "listed_count": 3,
+          "media_count": 680,
+          "tweet_count": 3976
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "坐标HNCS / 社恐 /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋🍥 碎碎念@franksuisuinian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "franksuisuinian"
+              }
+            ]
+          }
+        },
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592617823862784/tRNWUTh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 159,
+          "like_count": 1714,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 998
+        },
+        "username": "frankshiki73",
+        "verified": true
+      }
+    ]
+  }
+}

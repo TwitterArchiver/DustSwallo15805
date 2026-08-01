@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935727520046833664"
+      ],
+      "media_source_tweet_id": [
+        "1935727537327616167"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1935812791769944410",
+    "created_at": "2025-06-19T21:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T22:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935812791769944410"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "でんしゃの4こま"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3241065985",
+          "start": 3,
+          "username": "mishi33169739"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YPDaMWGrrt",
+          "end": 65,
+          "expanded_url": "https://x.com/mishi33169739/status/1935727537327616167/photo/1",
+          "media_key": "3_1935727520046833664",
+          "start": 42,
+          "url": "https://t.co/YPDaMWGrrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935812791769944410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935727537327616167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mishi33169739: 4こま「君が見た40年」\n#でんしゃの4こま https://t.co/YPDaMWGrrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1935727520046833664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0V7G5W4AAhJyg.jpg",
+        "width": 1799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935727520046833664"
+          ],
+          "media_source_tweet_id": [
+            "1935727537327616167"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1935812791769944410",
+        "created_at": "2025-06-19T21:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T22:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935812791769944410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "でんしゃの4こま"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3241065985",
+              "start": 3,
+              "username": "mishi33169739"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPDaMWGrrt",
+              "end": 65,
+              "expanded_url": "https://x.com/mishi33169739/status/1935727537327616167/photo/1",
+              "media_key": "3_1935727520046833664",
+              "start": 42,
+              "url": "https://t.co/YPDaMWGrrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935812791769944410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935727537327616167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mishi33169739: 4こま「君が見た40年」\n#でんしゃの4こま https://t.co/YPDaMWGrrt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935727520046833664"
+          ]
+        },
+        "author_id": "3241065985",
+        "conversation_id": "1935727537327616167",
+        "created_at": "2025-06-19T15:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935727537327616167"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "君が見た40年",
+              "probability": 0.6622,
+              "start": 4,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "でんしゃの4こま"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YPDaMWGrrt",
+              "end": 46,
+              "expanded_url": "https://x.com/mishi33169739/status/1935727537327616167/photo/1",
+              "media_key": "3_1935727520046833664",
+              "start": 23,
+              "url": "https://t.co/YPDaMWGrrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935727537327616167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 22882,
+          "like_count": 1122,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "4こま「君が見た40年」\n#でんしゃの4こま https://t.co/YPDaMWGrrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵   失败彻底失败",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 193,
+          "like_count": 13125,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1030
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-10T05:15:06.000Z",
+        "description": "ぐそくむしです。KDS卒 イラストレーション 漫画 模型  #でんしゃの4こま #でんしゃとひと #普通の鉄道研究部 https://t.co/Fu2pSJHgTH 委託中→https://t.co/ja1rrg6KLe",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 30,
+                "tag": "でんしゃの4こま"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "でんしゃとひと"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "tag": "普通の鉄道研究部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41959436",
+                "end": 82,
+                "expanded_url": "http://pixiv.net/users/41959436",
+                "start": 59,
+                "url": "https://t.co/Fu2pSJHgTH"
+              },
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 110,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=111127",
+                "start": 87,
+                "url": "https://t.co/ja1rrg6KLe"
+              }
+            ]
+          }
+        },
+        "id": "3241065985",
+        "location": "ファミレス店員",
+        "name": "武ぐし/ぐそくむし@C106 2日目 東ス20a",
+        "pinned_tweet_id": "1875091516437516427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632948466598187008/H70_xp10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16108,
+          "following_count": 832,
+          "like_count": 13261,
+          "listed_count": 121,
+          "media_count": 7510,
+          "tweet_count": 24931
+        },
+        "username": "mishi33169739",
+        "verified": true
+      }
+    ]
+  }
+}

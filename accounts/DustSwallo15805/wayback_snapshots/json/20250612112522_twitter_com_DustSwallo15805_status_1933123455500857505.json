@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933123455500857505",
+    "created_at": "2025-06-12T11:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T12:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933123455500857505"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Air India",
+          "probability": 0.6927,
+          "start": 30,
+          "type": "Organization"
+        },
+        {
+          "end": 106,
+          "normalized_text": "Ahmedabad",
+          "probability": 0.9496,
+          "start": 98,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1626294277",
+          "start": 3,
+          "username": "spectatorindex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933123455500857505",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1313
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933084736664310072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spectatorindex: BREAKING: Air India flight with at least 133 people on board has crashed near Ahmedabad"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933123455500857505",
+        "created_at": "2025-06-12T11:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T12:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933123455500857505"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Air India",
+              "probability": 0.6927,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Ahmedabad",
+              "probability": 0.9496,
+              "start": 98,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1626294277",
+              "start": 3,
+              "username": "spectatorindex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933123455500857505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1313
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933084736664310072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spectatorindex: BREAKING: Air India flight with at least 133 people on board has crashed near Ahmedabad"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626294277",
+        "conversation_id": "1933084736664310072",
+        "created_at": "2025-06-12T08:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:46:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933083578570768563",
+          "1933084736664310072"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Air India",
+              "probability": 0.8025,
+              "start": 10,
+              "type": "Organization"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Ahmedabad",
+              "probability": 0.9541,
+              "start": 78,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933084736664310072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 709834,
+          "like_count": 7099,
+          "quote_count": 284,
+          "reply_count": 265,
+          "retweet_count": 1313
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Air India flight with at least 133 people on board has crashed near Ahmedabad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "звезда（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 185,
+          "like_count": 11778,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 916
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-27T20:42:27.000Z",
+        "description": "News, media and data from around the globe. Covering politics, economics, science, tech and sport.",
+        "id": "1626294277",
+        "location": "Global",
+        "name": "The Spectator Index",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1145865652533547008/XBahoZmX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2981101,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 17376,
+          "media_count": 2231,
+          "tweet_count": 32480
+        },
+        "username": "spectatorindex",
+        "verified": true
+      }
+    ]
+  }
+}

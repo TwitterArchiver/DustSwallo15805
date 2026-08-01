@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960539646431256579"
+      ],
+      "media_source_tweet_id": [
+        "1960539649111417004"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960604480954884329",
+    "created_at": "2025-08-27T07:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T08:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960604480954884329"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "wplacelive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "953841228327596033",
+          "start": 3,
+          "username": "HXD3D0138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WeUT69BiN0",
+          "end": 53,
+          "expanded_url": "https://x.com/HXD3D0138/status/1960539649111417004/photo/1",
+          "media_key": "3_1960539646431256579",
+          "start": 30,
+          "url": "https://t.co/WeUT69BiN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960604480954884329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960539649111417004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HXD3D0138: ？草\n#wplacelive https://t.co/WeUT69BiN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_1960539646431256579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzU8a8ma4AMh_is.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960539646431256579"
+          ],
+          "media_source_tweet_id": [
+            "1960539649111417004"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960604480954884329",
+        "created_at": "2025-08-27T07:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960604480954884329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "wplacelive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "953841228327596033",
+              "start": 3,
+              "username": "HXD3D0138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeUT69BiN0",
+              "end": 53,
+              "expanded_url": "https://x.com/HXD3D0138/status/1960539649111417004/photo/1",
+              "media_key": "3_1960539646431256579",
+              "start": 30,
+              "url": "https://t.co/WeUT69BiN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960604480954884329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960539649111417004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HXD3D0138: ？草\n#wplacelive https://t.co/WeUT69BiN0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960539646431256579"
+          ]
+        },
+        "author_id": "953841228327596033",
+        "conversation_id": "1960539649111417004",
+        "created_at": "2025-08-27T03:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T04:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960539649111417004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 3,
+              "tag": "wplacelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeUT69BiN0",
+              "end": 38,
+              "expanded_url": "https://x.com/HXD3D0138/status/1960539649111417004/photo/1",
+              "media_key": "3_1960539646431256579",
+              "start": 15,
+              "url": "https://t.co/WeUT69BiN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960539649111417004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "？草\n#wplacelive https://t.co/WeUT69BiN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 415,
+          "like_count": 31932,
+          "listed_count": 2,
+          "media_count": 451,
+          "tweet_count": 2036
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-18T04:07:25.000Z",
+        "description": "🚆/海外鉄/バス/飛行機/ニコン/バンドリ/学マス/ブルアカ/艦これ　佐世保鎮守府/War Thunder/ウマ娘\n無言フォロー失礼します",
+        "id": "953841228327596033",
+        "location": "東京都 板橋区",
+        "name": "HXD3D0138",
+        "pinned_tweet_id": "1939106545251549349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865297088134971392/lDq_fTZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 1423,
+          "like_count": 86756,
+          "listed_count": 10,
+          "media_count": 4630,
+          "tweet_count": 13532
+        },
+        "username": "HXD3D0138",
+        "verified": false
+      }
+    ]
+  }
+}

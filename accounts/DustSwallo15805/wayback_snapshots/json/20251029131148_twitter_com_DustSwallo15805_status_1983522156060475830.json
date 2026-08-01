@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1983383443598913896",
+    "created_at": "2025-10-29T13:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983522156060475830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817959860249706497",
+          "start": 0,
+          "username": "jnchn115125"
+        },
+        {
+          "end": 25,
+          "id": "1252463831185371136",
+          "start": 13,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983522156060475830",
+    "in_reply_to_user_id": "1817959860249706497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983509299101053184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnchn115125 @Dadadajie01 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1983383443598913896",
+        "created_at": "2025-10-29T13:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983522156060475830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817959860249706497",
+              "start": 0,
+              "username": "jnchn115125"
+            },
+            {
+              "end": 25,
+              "id": "1252463831185371136",
+              "start": 13,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983522156060475830",
+        "in_reply_to_user_id": "1817959860249706497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983509299101053184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnchn115125 @Dadadajie01 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817959860249706497",
+        "conversation_id": "1983383443598913896",
+        "created_at": "2025-10-29T12:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983509299101053184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983509299101053184",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983473431820804134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 我关注了许多装扮像人类女性的人类男性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 510,
+          "like_count": 48713,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 2754
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T16:26:38.000Z",
+        "description": "特此声明：此账号在网络上所有的攻击性和冒犯性语言文字均非本人发布，是我家猫发的，它四个爪子，打字比我快",
+        "id": "1817959860249706497",
+        "location": "赫尔·沙雷姆兹罗特",
+        "name": "Ayanami",
+        "pinned_tweet_id": "1920898780892704824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977225422187511809/QpevCBAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 614,
+          "like_count": 775,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 1929
+        },
+        "username": "jnchn115125",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 2070,
+          "like_count": 36198,
+          "listed_count": 9,
+          "media_count": 1111,
+          "tweet_count": 6404
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

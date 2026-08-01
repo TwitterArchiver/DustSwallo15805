@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886298491762475008"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1885996738928132461",
+    "created_at": "2025-02-03T06:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T07:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886298499698086293"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "China",
+          "probability": 0.9029,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "134716312",
+          "start": 0,
+          "username": "YamayaT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gAhugPl5h5",
+          "end": 72,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1886298499698086293/photo/1",
+          "media_key": "3_1886298491762475008",
+          "start": 49,
+          "url": "https://t.co/gAhugPl5h5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886298499698086293",
+    "in_reply_to_user_id": "134716312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885996738928132461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YamayaT This is true China railway high speed 🤣 https://t.co/gAhugPl5h5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_1886298491762475008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi16e_XbgAAJmS-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886298491762475008"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1885996738928132461",
+        "created_at": "2025-02-03T06:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T07:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886298499698086293"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "China",
+              "probability": 0.9029,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "134716312",
+              "start": 0,
+              "username": "YamayaT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAhugPl5h5",
+              "end": 72,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1886298499698086293/photo/1",
+              "media_key": "3_1886298491762475008",
+              "start": 49,
+              "url": "https://t.co/gAhugPl5h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886298499698086293",
+        "in_reply_to_user_id": "134716312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885996738928132461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YamayaT This is true China railway high speed 🤣 https://t.co/gAhugPl5h5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885996736453197824"
+          ]
+        },
+        "author_id": "134716312",
+        "conversation_id": "1885996738928132461",
+        "created_at": "2025-02-02T10:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885996738928132461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8835,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puHMB5gbNi",
+              "end": 38,
+              "expanded_url": "https://x.com/YamayaT/status/1885996738928132461/photo/1",
+              "media_key": "3_1885996736453197824",
+              "start": 15,
+              "url": "https://t.co/puHMB5gbNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885996738928132461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 46745,
+          "like_count": 467,
+          "quote_count": 14,
+          "reply_count": 31,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "中国だからね　しょうがないね https://t.co/puHMB5gbNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 111,
+          "like_count": 5439,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 565
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-19T07:12:50.000Z",
+        "description": "2002年よりライターやってます。中国IT系トレンド系紹介の連載ほか『中国のインターネット史』『移民時代の異国飯（共に星海社） https://t.co/6VFUoYFuxB 』など本数冊出版。記事は #山谷剛史記事 。Huawei,36krのTWの中の人。お仕事依頼はメール　dtgoshi@gmail.com　まで",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 101,
+                "tag": "山谷剛史記事"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amzn.to/3Eh5wHf",
+                "end": 87,
+                "expanded_url": "http://amzn.to/3Eh5wHf",
+                "start": 64,
+                "url": "https://t.co/6VFUoYFuxB"
+              }
+            ]
+          }
+        },
+        "id": "134716312",
+        "location": "雲南省🐘→日本",
+        "name": "山谷剛史　アジア中国ITライター＆異国飯",
+        "pinned_tweet_id": "1882573875709616622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789666743105007616/jrkOBLhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38288,
+          "following_count": 970,
+          "like_count": 29720,
+          "listed_count": 971,
+          "media_count": 51902,
+          "tweet_count": 309776
+        },
+        "username": "YamayaT",
+        "verified": true
+      }
+    ]
+  }
+}

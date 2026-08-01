@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948673753787105288"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1948673766101569905",
+    "created_at": "2025-07-25T09:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T10:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948673766101569905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oEzqYXihIb",
+          "end": 23,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1948673766101569905/photo/1",
+          "media_key": "3_1948673753787105288",
+          "start": 0,
+          "url": "https://t.co/oEzqYXihIb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948673766101569905",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/oEzqYXihIb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948673753787105288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwsUdF2bgAg_eKm.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948673753787105288"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1948673766101569905",
+        "created_at": "2025-07-25T09:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948673766101569905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEzqYXihIb",
+              "end": 23,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1948673766101569905/photo/1",
+              "media_key": "3_1948673753787105288",
+              "start": 0,
+              "url": "https://t.co/oEzqYXihIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948673766101569905",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oEzqYXihIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "啊",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 309,
+          "like_count": 22919,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 1570
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

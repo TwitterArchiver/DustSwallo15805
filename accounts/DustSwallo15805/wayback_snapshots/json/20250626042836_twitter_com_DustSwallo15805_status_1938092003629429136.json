@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937860315779350528",
+        "3_1937860315754246144",
+        "3_1937860315812921344",
+        "3_1937860315775180800"
+      ],
+      "media_source_tweet_id": [
+        "1937860338650845238",
+        "1937860338650845238",
+        "1937860338650845238",
+        "1937860338650845238"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1938092003629429136",
+    "created_at": "2025-06-26T04:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T05:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938092003629429136"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 43,
+          "tag": "制作マン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "124319036",
+          "start": 3,
+          "username": "azirusi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ENrv75Zpkr",
+          "end": 72,
+          "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+          "media_key": "3_1937860315779350528",
+          "start": 49,
+          "url": "https://t.co/ENrv75Zpkr"
+        },
+        {
+          "display_url": "pic.x.com/ENrv75Zpkr",
+          "end": 72,
+          "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+          "media_key": "3_1937860315754246144",
+          "start": 49,
+          "url": "https://t.co/ENrv75Zpkr"
+        },
+        {
+          "display_url": "pic.x.com/ENrv75Zpkr",
+          "end": 72,
+          "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+          "media_key": "3_1937860315812921344",
+          "start": 49,
+          "url": "https://t.co/ENrv75Zpkr"
+        },
+        {
+          "display_url": "pic.x.com/ENrv75Zpkr",
+          "end": 72,
+          "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+          "media_key": "3_1937860315775180800",
+          "start": 49,
+          "url": "https://t.co/ENrv75Zpkr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938092003629429136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937860338650845238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @azirusi: 終わらせた(終わらせた)\n撮影がクッソ大変だが、頑張ろう…\n#制作マン https://t.co/ENrv75Zpkr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2813,
+        "media_key": "3_1937860315779350528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSpsKJawAAd0ik.jpg",
+        "width": 3699
+      },
+      {
+        "height": 2857,
+        "media_key": "3_1937860315754246144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSpsKDbsAAxaLR.jpg",
+        "width": 4025
+      },
+      {
+        "height": 3843,
+        "media_key": "3_1937860315812921344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSpsKRbAAAVGvo.jpg",
+        "width": 1931
+      },
+      {
+        "height": 3660,
+        "media_key": "3_1937860315775180800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuSpsKIbIAAX_8s.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937860315779350528",
+            "3_1937860315754246144",
+            "3_1937860315812921344",
+            "3_1937860315775180800"
+          ],
+          "media_source_tweet_id": [
+            "1937860338650845238",
+            "1937860338650845238",
+            "1937860338650845238",
+            "1937860338650845238"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1938092003629429136",
+        "created_at": "2025-06-26T04:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T05:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938092003629429136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 43,
+              "tag": "制作マン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "124319036",
+              "start": 3,
+              "username": "azirusi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 72,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315779350528",
+              "start": 49,
+              "url": "https://t.co/ENrv75Zpkr"
+            },
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 72,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315754246144",
+              "start": 49,
+              "url": "https://t.co/ENrv75Zpkr"
+            },
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 72,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315812921344",
+              "start": 49,
+              "url": "https://t.co/ENrv75Zpkr"
+            },
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 72,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315775180800",
+              "start": 49,
+              "url": "https://t.co/ENrv75Zpkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938092003629429136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937860338650845238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @azirusi: 終わらせた(終わらせた)\n撮影がクッソ大変だが、頑張ろう…\n#制作マン https://t.co/ENrv75Zpkr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937860315779350528",
+            "3_1937860315754246144",
+            "3_1937860315812921344",
+            "3_1937860315775180800"
+          ]
+        },
+        "author_id": "124319036",
+        "conversation_id": "1937860338650845238",
+        "created_at": "2025-06-25T13:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T14:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937860338650845238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "制作マン"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 59,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315779350528",
+              "start": 36,
+              "url": "https://t.co/ENrv75Zpkr"
+            },
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 59,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315754246144",
+              "start": 36,
+              "url": "https://t.co/ENrv75Zpkr"
+            },
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 59,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315812921344",
+              "start": 36,
+              "url": "https://t.co/ENrv75Zpkr"
+            },
+            {
+              "display_url": "pic.x.com/ENrv75Zpkr",
+              "end": 59,
+              "expanded_url": "https://x.com/azirusi/status/1937860338650845238/photo/1",
+              "media_key": "3_1937860315775180800",
+              "start": 36,
+              "url": "https://t.co/ENrv75Zpkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937860338650845238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 876,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "終わらせた(終わらせた)\n撮影がクッソ大変だが、頑張ろう…\n#制作マン https://t.co/ENrv75Zpkr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 213,
+          "like_count": 14425,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1114
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-19T00:58:36.000Z",
+        "description": "現代美術家、色々作ってます。 #制作マン で制作過程見れます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "制作マン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/atsushi_adachi…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/atsushi_adachi_art?utm_source=qr_code",
+                "start": 0,
+                "url": "https://t.co/IV1xb3hs4j"
+              }
+            ]
+          }
+        },
+        "id": "124319036",
+        "location": "太陽系",
+        "name": "Atsushi Adachi",
+        "pinned_tweet_id": "1929373247583514781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/993058706152505346/t3dbaQk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 526,
+          "like_count": 281412,
+          "listed_count": 137,
+          "media_count": 28226,
+          "tweet_count": 146698
+        },
+        "url": "https://t.co/IV1xb3hs4j",
+        "username": "azirusi",
+        "verified": false
+      }
+    ]
+  }
+}

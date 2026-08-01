@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1992204138759979247",
+    "created_at": "2025-11-22T12:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992204844959252563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809914523714998272",
+          "start": 0,
+          "username": "yusphotograph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992204844959252563",
+    "in_reply_to_user_id": "1809914523714998272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992204138759979247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusphotograph “手指口呼”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1533,
+        "media_key": "3_1992204135119368192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6W7GxHasAAkiAi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1992204138759979247",
+        "created_at": "2025-11-22T12:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992204844959252563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809914523714998272",
+              "start": 0,
+              "username": "yusphotograph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992204844959252563",
+        "in_reply_to_user_id": "1809914523714998272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992204138759979247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusphotograph “手指口呼”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992204135119368192"
+          ]
+        },
+        "author_id": "1809914523714998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992204138759979247",
+        "created_at": "2025-11-22T12:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992204138759979247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQXicjY7Ec",
+              "end": 33,
+              "expanded_url": "https://x.com/yusphotograph/status/1992204138759979247/photo/1",
+              "media_key": "3_1992204135119368192",
+              "start": 10,
+              "url": "https://t.co/iQXicjY7Ec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992204138759979247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出発進行..(X) https://t.co/iQXicjY7Ec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜2025，11｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1987725337997001193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 559,
+          "like_count": 54452,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 2967
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T11:37:24.000Z",
+        "description": "写真って、時代が変わっても変わることのない愛情表現なんだ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yusphotograph",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yusphotograph",
+                "start": 0,
+                "url": "https://t.co/PJ49UFoDXP"
+              }
+            ]
+          }
+        },
+        "id": "1809914523714998272",
+        "name": "Hikari毓",
+        "pinned_tweet_id": "1948057067820101700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837483826282369024/TgO6f12e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 199,
+          "like_count": 2848,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/PJ49UFoDXP",
+        "username": "yusphotograph",
+        "verified": false
+      }
+    ]
+  }
+}

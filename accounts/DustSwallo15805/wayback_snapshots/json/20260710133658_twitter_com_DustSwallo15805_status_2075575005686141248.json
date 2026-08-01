@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2075575005686141248",
+    "created_at": "2026-07-10T13:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075575005686141248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "895416682537140224",
+          "start": 3,
+          "username": "HiJUDEofficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075575005686141248",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 243
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075453413622775914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiJUDEofficial: I watched the \"Chainsmoker Cat\" anime and really like it! It gave me a lot of laugh and stuff and I decided to drew tha…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3507,
+        "media_key": "3_2075452219344969728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM18zBpaYAAJDCj.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2075575005686141248",
+        "created_at": "2026-07-10T13:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075575005686141248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "895416682537140224",
+              "start": 3,
+              "username": "HiJUDEofficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075575005686141248",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 243
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075453413622775914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiJUDEofficial: I watched the \"Chainsmoker Cat\" anime and really like it! It gave me a lot of laugh and stuff and I decided to drew tha…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075452219344969728"
+          ]
+        },
+        "author_id": "895416682537140224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418275363914862596",
+              "name": "Patreon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418275363914862596",
+              "name": "Patreon"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2075453413622775914",
+        "created_at": "2026-07-10T05:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075453413622775914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 285,
+              "start": 270,
+              "tag": "chainsmokercat"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Get more from Robert Arts on Patreon. Become a member for just $1/month. hello ! i'm Robert but you can call me Papa Rob and I love making comics, I'm…",
+              "display_url": "patreon.com/c/RobertArts777",
+              "end": 212,
+              "expanded_url": "https://patreon.com/c/RobertArts777",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2074897849708322817/Ea4Ke8AQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074897849708322817/Ea4Ke8AQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 189,
+              "status": 200,
+              "title": "Get more from Robert Arts on Patreon",
+              "unwound_url": "https://www.patreon.com/RobertArts777",
+              "url": "https://t.co/6FH9Rdwdxk"
+            },
+            {
+              "display_url": "pic.x.com/fffHegn4QC",
+              "end": 309,
+              "expanded_url": "https://x.com/HiJUDEofficial/status/2075453413622775914/photo/1",
+              "media_key": "3_2075452219344969728",
+              "start": 286,
+              "url": "https://t.co/fffHegn4QC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075453413622775914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 279,
+                "start": 264,
+                "tag": "chainsmokercat"
+              },
+              {
+                "end": 285,
+                "start": 280,
+                "tag": "ヤニねこ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/c/RobertArts777",
+                "end": 212,
+                "expanded_url": "https://patreon.com/c/RobertArts777",
+                "start": 189,
+                "url": "https://t.co/FGIuZcwUdf"
+              }
+            ]
+          },
+          "text": "I watched the \"Chainsmoker Cat\" anime and really like it! It gave me a lot of laugh and stuff and I decided to drew that car (UwU)\n   \nI also post another stuff of this piece on Patreon :  https://t.co/FGIuZcwUdf   \n\nI wish u all a nice summer, nyaaaaa~~~ (˶>⩊<˶)\n#chainsmokercat #ヤニねこ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 24352,
+          "like_count": 2016,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 243
+        },
+        "reply_settings": "everyone",
+        "text": "I watched the \"Chainsmoker Cat\" anime and really like it! It gave me a lot of laugh and stuff and I decided to drew that car (UwU)\n   \nI also post another stuff of this piece on Patreon :  https://t.co/6FH9Rdwdxk   \n\nI wish u all a nice summer, nyaaaaa~~~ (˶&gt;⩊&lt;˶)\n#chainsmokercat https://t.co/fffHegn4QC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 864,
+          "like_count": 84584,
+          "listed_count": 4,
+          "media_count": 718,
+          "tweet_count": 4269
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-09T22:49:07.000Z",
+        "description": "I'm an artist and a comic artist.\nPaypal : 1994robertarts@gmail.com\nPatreon :https://t.co/8W3Ukb3KUl\nCommission : always open",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/RobertArts777",
+                "end": 100,
+                "expanded_url": "http://patreon.com/RobertArts777",
+                "start": 77,
+                "url": "https://t.co/8W3Ukb3KUl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.facebook.com/hijudeofficial/",
+                "end": 23,
+                "expanded_url": "https://web.facebook.com/hijudeofficial/",
+                "start": 0,
+                "url": "https://t.co/ZLQ2eDJJu1"
+              }
+            ]
+          }
+        },
+        "id": "895416682537140224",
+        "name": "Hi JUDE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750427904373387264/80Hiv3N9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11400,
+          "following_count": 108,
+          "like_count": 1996,
+          "listed_count": 34,
+          "media_count": 944,
+          "tweet_count": 2819
+        },
+        "url": "https://t.co/ZLQ2eDJJu1",
+        "username": "HiJUDEofficial",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1952266131261264297",
+    "created_at": "2025-08-04T07:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T08:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952268139405922561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372036072524238850",
+          "start": 0,
+          "username": "XiayuOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952268139405922561",
+    "in_reply_to_user_id": "1372036072524238850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952267726120243629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiayuOfficial 好吧，有可能我以前坐的25g都太破太旧了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1952266131261264297",
+        "created_at": "2025-08-04T07:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T08:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952268139405922561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372036072524238850",
+              "start": 0,
+              "username": "XiayuOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952268139405922561",
+        "in_reply_to_user_id": "1372036072524238850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952267726120243629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiayuOfficial 好吧，有可能我以前坐的25g都太破太旧了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372036072524238850",
+        "conversation_id": "1952266131261264297",
+        "created_at": "2025-08-04T07:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T08:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952267726120243629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952267726120243629",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952266131261264297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 25g的yw有插头好久了吧（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 330,
+          "like_count": 24825,
+          "listed_count": 1,
+          "media_count": 412,
+          "tweet_count": 1687
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T04:04:34.000Z",
+        "description": "新交通 新世界\n常驻**的大交通文化爱好者\n一名不知名底层小博主",
+        "id": "1372036072524238850",
+        "location": "IP归属地：厦门高崎国际机场（XMN）",
+        "name": "猫猫羽",
+        "pinned_tweet_id": "1656643961149325312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651518353499107330/m9fn4eXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 433,
+          "like_count": 8127,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 3813
+        },
+        "username": "XiayuOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

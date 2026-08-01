@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907460174148997121"
+      ],
+      "media_source_tweet_id": [
+        "1907460392240230787"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1908152280123351474",
+    "created_at": "2025-04-04T13:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T14:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908152280123351474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3271704924",
+          "start": 3,
+          "username": "hoiruka_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVOz07wt8W",
+          "end": 87,
+          "expanded_url": "https://x.com/hoiruka_oekaki/status/1907460392240230787/photo/1",
+          "media_key": "3_1907460174148997121",
+          "start": 64,
+          "url": "https://t.co/aVOz07wt8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908152280123351474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907460392240230787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoiruka_oekaki: カシオペアスイートに乗るシーザリオとスぺちゃんです\nカシオペアも引退近いんですね・・・ https://t.co/aVOz07wt8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1158,
+        "media_key": "3_1907460174148997121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnio7BdbEAE2dnc.jpg",
+        "width": 1727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907460174148997121"
+          ],
+          "media_source_tweet_id": [
+            "1907460392240230787"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908152280123351474",
+        "created_at": "2025-04-04T13:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908152280123351474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3271704924",
+              "start": 3,
+              "username": "hoiruka_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVOz07wt8W",
+              "end": 87,
+              "expanded_url": "https://x.com/hoiruka_oekaki/status/1907460392240230787/photo/1",
+              "media_key": "3_1907460174148997121",
+              "start": 64,
+              "url": "https://t.co/aVOz07wt8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908152280123351474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907460392240230787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoiruka_oekaki: カシオペアスイートに乗るシーザリオとスぺちゃんです\nカシオペアも引退近いんですね・・・ https://t.co/aVOz07wt8W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907460174148997121"
+          ]
+        },
+        "author_id": "3271704924",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907460392240230787",
+        "created_at": "2025-04-02T15:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T16:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907460392240230787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVOz07wt8W",
+              "end": 67,
+              "expanded_url": "https://x.com/hoiruka_oekaki/status/1907460392240230787/photo/1",
+              "media_key": "3_1907460174148997121",
+              "start": 44,
+              "url": "https://t.co/aVOz07wt8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907460392240230787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 45484,
+          "like_count": 1589,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "カシオペアスイートに乗るシーザリオとスぺちゃんです\nカシオペアも引退近いんですね・・・ https://t.co/aVOz07wt8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "机体主轴承止推面对主轴承轴线的垂直度允差为0.05mm。",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 143,
+          "like_count": 7502,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 689
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-08T10:08:11.000Z",
+        "description": "どうもほしです。旅イラスト＆水中写真活動中 #水中 #絵描きさんと繋がりたい 水中写真集等こちら→ https://t.co/p1j8ZjhnDy ご依頼お問い合わせはDMで※※無断転載禁止 スケブはじめましたhttps://t.co/nk7tMs4fmW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "水中"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "tag": "絵描きさんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hoiruka.booth.pm",
+                "end": 73,
+                "expanded_url": "http://hoiruka.booth.pm",
+                "start": 50,
+                "url": "https://t.co/p1j8ZjhnDy"
+              },
+              {
+                "display_url": "skeb.jp/@hoiruka_oekaki",
+                "end": 128,
+                "expanded_url": "https://skeb.jp/@hoiruka_oekaki",
+                "start": 105,
+                "url": "https://t.co/nk7tMs4fmW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/irukairukairuka",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/irukairukairuka",
+                "start": 0,
+                "url": "https://t.co/D8QD362q1Z"
+              }
+            ]
+          }
+        },
+        "id": "3271704924",
+        "name": "ほし（旅イラスト＆水中写真）",
+        "pinned_tweet_id": "1480519457076551685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753394943740272640/BER9zomv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9925,
+          "following_count": 3060,
+          "like_count": 58412,
+          "listed_count": 83,
+          "media_count": 7737,
+          "tweet_count": 38884
+        },
+        "url": "https://t.co/D8QD362q1Z",
+        "username": "hoiruka_oekaki",
+        "verified": false
+      }
+    ]
+  }
+}

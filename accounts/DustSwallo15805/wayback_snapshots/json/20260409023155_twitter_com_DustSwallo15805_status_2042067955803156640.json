@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2042014835572162906",
+    "created_at": "2026-04-09T02:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042067955803156640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        },
+        {
+          "end": 19,
+          "id": "1774477637534281728",
+          "start": 8,
+          "username": "GeimoGeimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042067955803156640",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042027839646789920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug @GeimoGeimo 不愧是小八🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2042014835572162906",
+        "created_at": "2026-04-09T02:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042067955803156640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            },
+            {
+              "end": 19,
+              "id": "1774477637534281728",
+              "start": 8,
+              "username": "GeimoGeimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042067955803156640",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042027839646789920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug @GeimoGeimo 不愧是小八🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833730895750283264",
+        "conversation_id": "2042014835572162906",
+        "created_at": "2026-04-08T23:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042027839646789920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774477637534281728",
+              "start": 0,
+              "username": "GeimoGeimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042027839646789920",
+        "in_reply_to_user_id": "1774477637534281728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042014835572162906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeimoGeimo 结婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038058849253679104/MQ3Bq8U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 714,
+          "like_count": 73102,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 3846
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "Never stop moving forward. |film|リズと青い鳥| Occasionally a runner|🚫Politics English 中文 日本語勉強中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hachiiii.com",
+                "end": 23,
+                "expanded_url": "https://hachiiii.com/",
+                "start": 0,
+                "url": "https://t.co/1yA5Cwm3tQ"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "みぞれのオーボエ",
+        "pinned_tweet_id": "2029107409613144121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035637458704928768/DsXAhWzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 778,
+          "like_count": 94500,
+          "listed_count": 3,
+          "media_count": 2800,
+          "tweet_count": 28156
+        },
+        "url": "https://t.co/1yA5Cwm3tQ",
+        "username": "32_aug",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T16:43:52.000Z",
+        "description": "♂/臭打游戏的，随缘更新照片/偶尔发点画/将我的匿名信箱链接，弃置于此https://t.co/4ENHs7LoWv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h0risans",
+                "end": 58,
+                "expanded_url": "https://ngl.link/h0risans",
+                "start": 35,
+                "url": "https://t.co/4ENHs7LoWv"
+              }
+            ]
+          }
+        },
+        "id": "1774477637534281728",
+        "location": "在东百读研",
+        "name": "Geimo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004756239209951232/hqctl2-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 422,
+          "like_count": 12001,
+          "listed_count": 12,
+          "media_count": 53,
+          "tweet_count": 2056
+        },
+        "username": "GeimoGeimo",
+        "verified": false
+      }
+    ]
+  }
+}

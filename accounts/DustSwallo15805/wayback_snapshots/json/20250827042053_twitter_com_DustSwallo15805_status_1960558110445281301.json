@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960558083517886464"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960342354189238663",
+    "created_at": "2025-08-27T04:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960558110445281301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929964027960233984",
+          "start": 0,
+          "username": "HXD3D_8028"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGyFdMbezE",
+          "end": 35,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1960558110445281301/photo/1",
+          "media_key": "3_1960558083517886464",
+          "start": 12,
+          "url": "https://t.co/KGyFdMbezE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960558110445281301",
+    "in_reply_to_user_id": "1929964027960233984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960342354189238663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@HXD3D_8028 https://t.co/KGyFdMbezE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1960558083517886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVNMIGasAA_8c-.jpg",
+        "width": 768
+      },
+      {
+        "height": 2560,
+        "media_key": "3_1960342287470481408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSI7JLa0AANT3L.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960342294319730689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSI7isaEAEG5nq.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2560,
+        "media_key": "3_1960342304897851392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSI8KGbYAAPZOF.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2560,
+        "media_key": "3_1960342315861790720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzSI8y8b0AA_cwi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960558083517886464"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960342354189238663",
+        "created_at": "2025-08-27T04:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960558110445281301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929964027960233984",
+              "start": 0,
+              "username": "HXD3D_8028"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGyFdMbezE",
+              "end": 35,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1960558110445281301/photo/1",
+              "media_key": "3_1960558083517886464",
+              "start": 12,
+              "url": "https://t.co/KGyFdMbezE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960558110445281301",
+        "in_reply_to_user_id": "1929964027960233984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960342354189238663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@HXD3D_8028 https://t.co/KGyFdMbezE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960342287470481408",
+            "3_1960342294319730689",
+            "3_1960342304897851392",
+            "3_1960342315861790720"
+          ]
+        },
+        "author_id": "1929964027960233984",
+        "conversation_id": "1960342354189238663",
+        "created_at": "2025-08-26T14:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960342354189238663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "凛师傅的新疆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qg3LCVkhYA",
+              "end": 40,
+              "expanded_url": "https://x.com/HXD3D_8028/status/1960342354189238663/photo/1",
+              "media_key": "3_1960342287470481408",
+              "start": 17,
+              "url": "https://t.co/Qg3LCVkhYA"
+            },
+            {
+              "display_url": "pic.x.com/Qg3LCVkhYA",
+              "end": 40,
+              "expanded_url": "https://x.com/HXD3D_8028/status/1960342354189238663/photo/1",
+              "media_key": "3_1960342294319730689",
+              "start": 17,
+              "url": "https://t.co/Qg3LCVkhYA"
+            },
+            {
+              "display_url": "pic.x.com/Qg3LCVkhYA",
+              "end": 40,
+              "expanded_url": "https://x.com/HXD3D_8028/status/1960342354189238663/photo/1",
+              "media_key": "3_1960342304897851392",
+              "start": 17,
+              "url": "https://t.co/Qg3LCVkhYA"
+            },
+            {
+              "display_url": "pic.x.com/Qg3LCVkhYA",
+              "end": 40,
+              "expanded_url": "https://x.com/HXD3D_8028/status/1960342354189238663/photo/1",
+              "media_key": "3_1960342315861790720",
+              "start": 17,
+              "url": "https://t.co/Qg3LCVkhYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960342354189238663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "#凛师傅的新疆\n克拉玛依\n魔鬼城 https://t.co/Qg3LCVkhYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 414,
+          "like_count": 31834,
+          "listed_count": 2,
+          "media_count": 450,
+          "tweet_count": 2017
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T18:11:02.000Z",
+        "description": "平和版芝麻凛厂长，专注于过日子，岁月静好万岁🙏🏼\n\n在这里你会看到\n⭕各种摄影作品\n⭕日常生活的点点滴滴\n⭕高品质二次元内容品鉴\n⭕各种话题的理性友好讨论\n\n在这里不允许出现\n❌吵架谩骂\n❌无理取闹\n❌造谣抹黑\n\n互相尊重，和平共处，三观不合请取关，给脸不要直接拉黑🔨\n\n私人会所：@EvilCatShimaRin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 141,
+                "username": "EvilCatShimaRin"
+              }
+            ]
+          }
+        },
+        "id": "1929964027960233984",
+        "location": "站长办公室",
+        "name": "🛠你滴#Biantai#凛站长🚂",
+        "pinned_tweet_id": "1934299833361412466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958595718765277184/1kTjfRsf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 1186,
+          "like_count": 19474,
+          "listed_count": 5,
+          "media_count": 3186,
+          "tweet_count": 16572
+        },
+        "username": "HXD3D_8028",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1907369908369031528",
+    "created_at": "2025-04-02T14:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T15:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907434232714293595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898501715579830272",
+          "start": 0,
+          "username": "DaoZhong38596"
+        },
+        {
+          "end": 22,
+          "id": "1829134418050699264",
+          "start": 15,
+          "username": "sehsbz"
+        },
+        {
+          "end": 36,
+          "id": "1627140243412639744",
+          "start": 23,
+          "username": "Smartest2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907434232714293595",
+    "in_reply_to_user_id": "1898501715579830272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907424015100383393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DaoZhong38596 @sehsbz @Smartest2077 这酒怎么样，听我给你吹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1907369908369031528",
+        "created_at": "2025-04-02T14:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T15:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907434232714293595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898501715579830272",
+              "start": 0,
+              "username": "DaoZhong38596"
+            },
+            {
+              "end": 22,
+              "id": "1829134418050699264",
+              "start": 15,
+              "username": "sehsbz"
+            },
+            {
+              "end": 36,
+              "id": "1627140243412639744",
+              "start": 23,
+              "username": "Smartest2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907434232714293595",
+        "in_reply_to_user_id": "1898501715579830272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907424015100383393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DaoZhong38596 @sehsbz @Smartest2077 这酒怎么样，听我给你吹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898501715579830272",
+        "conversation_id": "1907369908369031528",
+        "created_at": "2025-04-02T13:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T14:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907424015100383393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1829134418050699264",
+              "start": 0,
+              "username": "sehsbz"
+            },
+            {
+              "end": 21,
+              "id": "1627140243412639744",
+              "start": 8,
+              "username": "Smartest2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907424015100383393",
+        "in_reply_to_user_id": "1829134418050699264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907402729292800316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sehsbz @Smartest2077 一百八一杯🤓👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "机体主轴承止推面对主轴承轴线的垂直度允差为0.05mm。",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 139,
+          "like_count": 7373,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 682
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T22:31:16.000Z",
+        "description": "又活过了窒息的一天",
+        "id": "1898501715579830272",
+        "name": "哇偶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898509128731082752/FZmxbS1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 82,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 98
+        },
+        "username": "DaoZhong38596",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T12:30:15.000Z",
+        "description": "",
+        "id": "1829134418050699264",
+        "name": "又要看熊猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829144371062812672/UVE2O_tC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 69
+        },
+        "username": "sehsbz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T02:57:28.000Z",
+        "description": "千粉大号 @Smartest8964 被人才🐜🐲封禁，寻回推油中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Smartest8964"
+              }
+            ]
+          }
+        },
+        "id": "1627140243412639744",
+        "name": "𝕿𝕽𝖀𝕿𝕳",
+        "pinned_tweet_id": "1906920003993256368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905821132827303936/P20zdPqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 180,
+          "like_count": 1222,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 557
+        },
+        "username": "Smartest2077",
+        "verified": false
+      }
+    ]
+  }
+}

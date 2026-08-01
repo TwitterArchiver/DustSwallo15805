@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945822446881579102",
+    "created_at": "2025-07-18T02:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T03:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946033170211799368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1098053029503344640",
+          "start": 0,
+          "username": "ugly_spoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946033170211799368",
+    "in_reply_to_user_id": "1098053029503344640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946033076498243595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ugly_spoon 不知道偷的网图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945822446881579102",
+        "created_at": "2025-07-18T02:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T03:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946033170211799368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1098053029503344640",
+              "start": 0,
+              "username": "ugly_spoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946033170211799368",
+        "in_reply_to_user_id": "1098053029503344640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946033076498243595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ugly_spoon 不知道偷的网图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1098053029503344640",
+        "conversation_id": "1945822446881579102",
+        "created_at": "2025-07-18T02:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T03:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946033076498243595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946033076498243595",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945822446881579102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 这是立党？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 280,
+          "like_count": 20587,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 1480
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-20T02:53:37.000Z",
+        "description": "在纽约 透过纷扰看世界/既发事实 也讲观点/只辩论 不拉黑/键政还是要键的 万一键着键着就建政了呢 /New York City resident, international citizen/US News&more/China Observer/NBA Fan/youtube&Substack @uglyspoon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "uglyspoon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC2X3Y…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UC2X3YOOEyp7UIbPM9j9yHCA?si=X1hbDvtqHf78nn5Q",
+                "start": 0,
+                "url": "https://t.co/IzmiWaaWgs"
+              }
+            ]
+          }
+        },
+        "id": "1098053029503344640",
+        "location": "New York, NY",
+        "name": "丑勺子UglySpoon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859360832599064577/SlkOEoQA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 2344,
+          "like_count": 138446,
+          "listed_count": 10,
+          "media_count": 1303,
+          "tweet_count": 12265
+        },
+        "url": "https://t.co/IzmiWaaWgs",
+        "username": "ugly_spoon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1997307267969163470",
+    "created_at": "2025-12-06T14:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997307585616355747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906348217115295744",
+          "start": 0,
+          "username": "LaitusCorrupt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997307585616355747",
+    "in_reply_to_user_id": "1906348217115295744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997307267969163470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaitusCorrupt 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 882,
+        "media_key": "3_1997307256271261696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7fcXg1b0AAOpxo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1997307267969163470",
+        "created_at": "2025-12-06T14:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997307585616355747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906348217115295744",
+              "start": 0,
+              "username": "LaitusCorrupt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997307585616355747",
+        "in_reply_to_user_id": "1906348217115295744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997307267969163470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaitusCorrupt 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997307256271261696"
+          ]
+        },
+        "author_id": "1906348217115295744",
+        "conversation_id": "1997307267969163470",
+        "created_at": "2025-12-06T14:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997307267969163470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ih1ip7hF3o",
+              "end": 25,
+              "expanded_url": "https://x.com/LaitusCorrupt/status/1997307267969163470/photo/1",
+              "media_key": "3_1997307256271261696",
+              "start": 2,
+              "url": "https://t.co/Ih1ip7hF3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997307267969163470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/Ih1ip7hF3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1994430557099532647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 567,
+          "like_count": 57014,
+          "listed_count": 3,
+          "media_count": 544,
+          "tweet_count": 3068
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T14:10:35.000Z",
+        "description": "LAITVS CORRVPTVS. Laitus ex ruina.｜Vita noua?",
+        "id": "1906348217115295744",
+        "location": "Terrum",
+        "name": "Laitus Corruptus",
+        "pinned_tweet_id": "1989192002769154123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906350161376468992/03DOkAzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 20,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 64
+        },
+        "username": "LaitusCorrupt",
+        "verified": false
+      }
+    ]
+  }
+}

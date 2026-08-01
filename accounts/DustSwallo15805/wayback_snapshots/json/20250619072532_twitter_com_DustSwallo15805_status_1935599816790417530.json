@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1935356035386196192",
+    "created_at": "2025-06-19T07:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T08:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935599816790417530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2920725218",
+          "start": 0,
+          "username": "Nishina_Hinata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935599816790417530",
+    "in_reply_to_user_id": "2920725218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935356035386196192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nishina_Hinata 问一下185系真的都报废了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935354921030926336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvDC_ZaQAAnUv2.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 41225,
+        "height": 720,
+        "media_key": "13_1935354921173270530",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935354921173270530/img/YJUuWXQdWiy_s_kv.jpg",
+        "public_metrics": {
+          "view_count": 324
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935354921173270530/vid/avc1/480x270/XssW1l54b6DSdtTQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935354921173270530/vid/avc1/640x360/3cUMDJ1SY4ekNe5V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935354921173270530/vid/avc1/1280x720/tRFMFMqczTWp4qyM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935354921173270530/pl/59qdyUkKj722Qpdc.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1935356035386196192",
+        "created_at": "2025-06-19T07:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T08:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935599816790417530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2920725218",
+              "start": 0,
+              "username": "Nishina_Hinata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935599816790417530",
+        "in_reply_to_user_id": "2920725218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935356035386196192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nishina_Hinata 问一下185系真的都报废了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935354921030926336",
+            "13_1935354921173270530"
+          ]
+        },
+        "author_id": "2920725218",
+        "conversation_id": "1935356035386196192",
+        "created_at": "2025-06-18T15:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935356035386196192"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "185系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0UW8hV1et",
+              "end": 88,
+              "expanded_url": "https://x.com/Nishina_Hinata/status/1935356035386196192/video/1",
+              "media_key": "3_1935354921030926336",
+              "start": 65,
+              "url": "https://t.co/W0UW8hV1et"
+            },
+            {
+              "display_url": "pic.x.com/W0UW8hV1et",
+              "end": 88,
+              "expanded_url": "https://x.com/Nishina_Hinata/status/1935356035386196192/video/1",
+              "media_key": "13_1935354921173270530",
+              "start": 65,
+              "url": "https://t.co/W0UW8hV1et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935356035386196192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1073,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不儿\n你们怎么都来我家门口拍185啊\n一出门给我吓一跳，警察都来了\n算了我也凑个热闹拍一下\n\n大车怪好的还把远光关了\n#185系 https://t.co/W0UW8hV1et"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 197,
+          "like_count": 12942,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1012
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-06T14:42:30.000Z",
+        "description": "愛美/ Poppin'Party/ Aircraft spotting/ Cinematography",
+        "id": "2920725218",
+        "location": "沙洲枫岸无来客  草绿花开山鸟鸣",
+        "name": "Anemoi🌾",
+        "pinned_tweet_id": "1815838073814704237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1242703806497873920/VEIUWE4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 1083,
+          "like_count": 9589,
+          "listed_count": 10,
+          "media_count": 2278,
+          "tweet_count": 11694
+        },
+        "username": "Nishina_Hinata",
+        "verified": false
+      }
+    ]
+  }
+}

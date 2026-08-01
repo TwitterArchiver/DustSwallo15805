@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2051237481258098885",
+    "created_at": "2026-05-04T09:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051237481258098885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/frankshiki73/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/frankshiki73/status/2051142552322261032",
+          "start": 17,
+          "url": "https://t.co/mHYEP29hzn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051237481258098885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051142552322261032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "二十一世纪最大的难题：玩完吃什么 https://t.co/mHYEP29hzn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2051237481258098885",
+        "created_at": "2026-05-04T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051237481258098885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/frankshiki73/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/frankshiki73/status/2051142552322261032",
+              "start": 17,
+              "url": "https://t.co/mHYEP29hzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051237481258098885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051142552322261032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二十一世纪最大的难题：玩完吃什么 https://t.co/mHYEP29hzn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2051142552322261032",
+        "created_at": "2026-05-04T03:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051142552322261032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jaciezyt/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/jaciezyt/status/2051137368309268842",
+              "start": 15,
+              "url": "https://t.co/s6xTuyByKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051142552322261032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051137368309268842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "二十一世纪最大的难题：去哪玩 https://t.co/s6xTuyByKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 740,
+          "like_count": 75831,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 3969
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "坐标HNCS / 社恐 /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋🍥 碎碎念@franksuisuinian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "franksuisuinian"
+              }
+            ]
+          }
+        },
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592617823862784/tRNWUTh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 152,
+          "like_count": 1616,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 954
+        },
+        "username": "frankshiki73",
+        "verified": true
+      }
+    ]
+  }
+}

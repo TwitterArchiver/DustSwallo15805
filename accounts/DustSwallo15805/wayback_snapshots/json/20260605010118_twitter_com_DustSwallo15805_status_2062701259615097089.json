@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062037712266215424"
+      ],
+      "media_source_tweet_id": [
+        "2062037721850224851"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062701259615097089",
+    "created_at": "2026-06-05T01:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062701259615097089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692075579850563584",
+          "start": 3,
+          "username": "10Lystra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IBPb7Ak6VE",
+          "end": 52,
+          "expanded_url": "https://x.com/10Lystra/status/2062037721850224851/photo/1",
+          "media_key": "3_2062037712266215424",
+          "start": 29,
+          "url": "https://t.co/IBPb7Ak6VE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062701259615097089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062037721850224851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10Lystra: 当你试图在墙内发骄傲月帖子： https://t.co/IBPb7Ak6VE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2062037712266215424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3UX8kWQAAFiMv.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062037712266215424"
+          ],
+          "media_source_tweet_id": [
+            "2062037721850224851"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062701259615097089",
+        "created_at": "2026-06-05T01:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062701259615097089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692075579850563584",
+              "start": 3,
+              "username": "10Lystra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBPb7Ak6VE",
+              "end": 52,
+              "expanded_url": "https://x.com/10Lystra/status/2062037721850224851/photo/1",
+              "media_key": "3_2062037712266215424",
+              "start": 29,
+              "url": "https://t.co/IBPb7Ak6VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062701259615097089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062037721850224851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10Lystra: 当你试图在墙内发骄傲月帖子： https://t.co/IBPb7Ak6VE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062037712266215424"
+          ]
+        },
+        "author_id": "1692075579850563584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062037721850224851",
+        "created_at": "2026-06-03T05:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062037721850224851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBPb7Ak6VE",
+              "end": 38,
+              "expanded_url": "https://x.com/10Lystra/status/2062037721850224851/photo/1",
+              "media_key": "3_2062037712266215424",
+              "start": 15,
+              "url": "https://t.co/IBPb7Ak6VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062037721850224851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9111,
+          "like_count": 352,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "当你试图在墙内发骄傲月帖子： https://t.co/IBPb7Ak6VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 770,
+          "like_count": 79230,
+          "listed_count": 3,
+          "media_count": 691,
+          "tweet_count": 4045
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "lover @dandelion6238 \n主人@strf_9040c\n玖璋/Lystra she/her omni 06生 hrt2024.10.04\n「我是最无情的脱了罪的诗，用下坠击碎兴风作浪的现实」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "strf_9040c"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "sigma高原",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1017,
+          "like_count": 2558,
+          "listed_count": 5,
+          "media_count": 325,
+          "tweet_count": 8359
+        },
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

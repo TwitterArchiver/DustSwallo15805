@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1958159028946895039",
+    "created_at": "2025-08-20T13:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T14:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958161429942751498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "829974198021877761",
+          "start": 0,
+          "username": "WSGM233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958161429942751498",
+    "in_reply_to_user_id": "829974198021877761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958159028946895039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WSGM233 朝手机壳哈气"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958159026023534592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyzHQmfbkAABKmn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1958159028946895039",
+        "created_at": "2025-08-20T13:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958161429942751498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "829974198021877761",
+              "start": 0,
+              "username": "WSGM233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958161429942751498",
+        "in_reply_to_user_id": "829974198021877761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958159028946895039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WSGM233 朝手机壳哈气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958159026023534592"
+          ]
+        },
+        "author_id": "829974198021877761",
+        "conversation_id": "1958159028946895039",
+        "created_at": "2025-08-20T13:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T14:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958159028946895039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVoCzoauMh",
+              "end": 40,
+              "expanded_url": "https://x.com/WSGM233/status/1958159028946895039/photo/1",
+              "media_key": "3_1958159026023534592",
+              "start": 17,
+              "url": "https://t.co/QVoCzoauMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958159028946895039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发只有在刚洗完的时候是顺滑的😭 https://t.co/QVoCzoauMh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 367,
+          "like_count": 28969,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 1836
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T08:44:03.000Z",
+        "description": "",
+        "id": "829974198021877761",
+        "name": "W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904582029318250498/8PSTVA5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 1029,
+          "like_count": 811,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 359
+        },
+        "username": "WSGM233",
+        "verified": false
+      }
+    ]
+  }
+}

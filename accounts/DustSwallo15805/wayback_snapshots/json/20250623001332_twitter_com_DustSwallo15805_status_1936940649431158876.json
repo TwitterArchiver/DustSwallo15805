@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936626717214281728"
+      ],
+      "media_source_tweet_id": [
+        "1936626922831913138"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1936940649431158876",
+    "created_at": "2025-06-23T00:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T01:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936940649431158876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3120489008",
+          "start": 3,
+          "username": "hokkaido_tetudo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GnNF0Whnpb",
+          "end": 80,
+          "expanded_url": "https://x.com/hokkaido_tetudo/status/1936626922831913138/photo/1",
+          "media_key": "3_1936626717214281728",
+          "start": 57,
+          "url": "https://t.co/GnNF0Whnpb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936940649431158876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936626922831913138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hokkaido_tetudo: 今また「北の復刻 40(ヨンマル)リクエスト」やるとしたらどれがいい？ https://t.co/GnNF0Whnpb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1936626717214281728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuBHvRYWkAATxsu.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936626717214281728"
+          ],
+          "media_source_tweet_id": [
+            "1936626922831913138"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1936940649431158876",
+        "created_at": "2025-06-23T00:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T01:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936940649431158876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3120489008",
+              "start": 3,
+              "username": "hokkaido_tetudo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnNF0Whnpb",
+              "end": 80,
+              "expanded_url": "https://x.com/hokkaido_tetudo/status/1936626922831913138/photo/1",
+              "media_key": "3_1936626717214281728",
+              "start": 57,
+              "url": "https://t.co/GnNF0Whnpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936940649431158876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936626922831913138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hokkaido_tetudo: 今また「北の復刻 40(ヨンマル)リクエスト」やるとしたらどれがいい？ https://t.co/GnNF0Whnpb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936626717214281728"
+          ]
+        },
+        "author_id": "3120489008",
+        "conversation_id": "1936626922831913138",
+        "created_at": "2025-06-22T03:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T04:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936626922831913138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnNF0Whnpb",
+              "end": 59,
+              "expanded_url": "https://x.com/hokkaido_tetudo/status/1936626922831913138/photo/1",
+              "media_key": "3_1936626717214281728",
+              "start": 36,
+              "url": "https://t.co/GnNF0Whnpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936626922831913138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 152615,
+          "like_count": 1152,
+          "quote_count": 51,
+          "reply_count": 92,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "今また「北の復刻 40(ヨンマル)リクエスト」やるとしたらどれがいい？ https://t.co/GnNF0Whnpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 205,
+          "like_count": 13715,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1064
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-31T14:34:51.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hokkaido_tetud…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hokkaido_tetudo_jyohokyoku/?hl=ja",
+                "start": 0,
+                "url": "https://t.co/2WuQczpN9h"
+              }
+            ]
+          }
+        },
+        "id": "3120489008",
+        "location": "北海道 札幌市",
+        "name": "北海道の鉄道情報局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/852543741453680640/mFHoo-41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13243,
+          "following_count": 47,
+          "like_count": 4104,
+          "listed_count": 146,
+          "media_count": 4687,
+          "tweet_count": 8777
+        },
+        "url": "https://t.co/2WuQczpN9h",
+        "username": "hokkaido_tetudo",
+        "verified": false
+      }
+    ]
+  }
+}

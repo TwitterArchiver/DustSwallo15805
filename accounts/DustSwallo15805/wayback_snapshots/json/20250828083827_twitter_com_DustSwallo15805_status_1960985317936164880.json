@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960985295991791616"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960985317936164880",
+    "created_at": "2025-08-28T08:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960985317936164880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aH91A4PE0q",
+          "end": 35,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1960985317936164880/photo/1",
+          "media_key": "3_1960985295991791616",
+          "start": 12,
+          "url": "https://t.co/aH91A4PE0q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960985317936164880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在希望这不是真的😧 https://t.co/aH91A4PE0q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_1960985295991791616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbRvKla4AAExE8.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960985295991791616"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960985317936164880",
+        "created_at": "2025-08-28T08:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960985317936164880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aH91A4PE0q",
+              "end": 35,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1960985317936164880/photo/1",
+              "media_key": "3_1960985295991791616",
+              "start": 12,
+              "url": "https://t.co/aH91A4PE0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960985317936164880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在希望这不是真的😧 https://t.co/aH91A4PE0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 418,
+          "like_count": 32340,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 2060
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

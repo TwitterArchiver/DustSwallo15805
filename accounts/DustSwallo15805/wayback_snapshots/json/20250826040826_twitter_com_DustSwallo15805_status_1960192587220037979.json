@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960036813600669907",
+    "created_at": "2025-08-26T04:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T05:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960192587220037979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_44"
+        },
+        {
+          "end": 25,
+          "id": "1688215989970968576",
+          "start": 12,
+          "username": "mizuki_liang"
+        },
+        {
+          "end": 41,
+          "id": "1565981667746914304",
+          "start": 26,
+          "username": "Chinese_114514"
+        },
+        {
+          "end": 53,
+          "id": "1857802986837172224",
+          "start": 42,
+          "username": "LingRuoovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960192587220037979",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960143964167962810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_44 @mizuki_liang @Chinese_114514 @LingRuoovo 权！威！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960143956987265024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPUiyjawAATIzs.jpg",
+        "width": 178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960143956911730689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzPUiyRaMAEGKN_.jpg",
+        "width": 206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960036813600669907",
+        "created_at": "2025-08-26T04:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960192587220037979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_44"
+            },
+            {
+              "end": 25,
+              "id": "1688215989970968576",
+              "start": 12,
+              "username": "mizuki_liang"
+            },
+            {
+              "end": 41,
+              "id": "1565981667746914304",
+              "start": 26,
+              "username": "Chinese_114514"
+            },
+            {
+              "end": 53,
+              "id": "1857802986837172224",
+              "start": 42,
+              "username": "LingRuoovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960192587220037979",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960143964167962810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_44 @mizuki_liang @Chinese_114514 @LingRuoovo 权！威！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960143956987265024",
+            "3_1960143956911730689"
+          ]
+        },
+        "author_id": "1856699710981251072",
+        "conversation_id": "1960036813600669907",
+        "created_at": "2025-08-26T00:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T01:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960143964167962810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1688215989970968576",
+              "start": 0,
+              "username": "mizuki_liang"
+            },
+            {
+              "end": 29,
+              "id": "1565981667746914304",
+              "start": 14,
+              "username": "Chinese_114514"
+            },
+            {
+              "end": 46,
+              "id": "1647170304844914689",
+              "start": 30,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 58,
+              "id": "1857802986837172224",
+              "start": 47,
+              "username": "LingRuoovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/34b5qJ04St",
+              "end": 110,
+              "expanded_url": "https://x.com/Tim_Pan_44/status/1960143964167962810/photo/1",
+              "media_key": "3_1960143956987265024",
+              "start": 87,
+              "url": "https://t.co/34b5qJ04St"
+            },
+            {
+              "display_url": "pic.x.com/34b5qJ04St",
+              "end": 110,
+              "expanded_url": "https://x.com/Tim_Pan_44/status/1960143964167962810/photo/1",
+              "media_key": "3_1960143956911730689",
+              "start": 87,
+              "url": "https://t.co/34b5qJ04St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960143964167962810",
+        "in_reply_to_user_id": "1688215989970968576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960036813600669907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuki_liang @Chinese_114514 @DustSwallo15805 @LingRuoovo 这个头像不知道有多权威，我私信里10个有9个是这种的（ https://t.co/34b5qJ04St"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 404,
+          "like_count": 31344,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 1965
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 |  热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFkZ5x"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Bernard",
+        "pinned_tweet_id": "1959689442345848900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 151,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/hxccVFkZ5x",
+        "username": "Tim_Pan_44",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T15:50:37.000Z",
+        "description": "wmc | mtf🏳️‍⚧️ | 喜欢折腾(但是有时候也懒得折腾) | 喜欢发日常 | 极度缺乏安全感 | 欢迎互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liangowo",
+                "end": 23,
+                "expanded_url": "https://t.me/liangowo",
+                "start": 0,
+                "url": "https://t.co/6xL3ldqhNJ"
+              }
+            ]
+          }
+        },
+        "id": "1688215989970968576",
+        "location": "舞萌国",
+        "name": "凉老师不是娘老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955251749461344256/SXfHqMH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 668,
+          "like_count": 2782,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/6xL3ldqhNJ",
+        "username": "mizuki_liang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jilaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/jilaoshi",
+                "start": 0,
+                "url": "https://t.co/ENIsNAGnjp"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️寄老师不是姬老师🍥",
+        "pinned_tweet_id": "1945543638341357716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 918,
+          "like_count": 46045,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 4977
+        },
+        "url": "https://t.co/ENIsNAGnjp",
+        "username": "Chinese_114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌若，你也可以叫我凌老师哦！\n抖m/Enfp-T/左倾自由主义/08\n笨蛋芙芙@JadezKayoko\n没事就刷推，高强度在线粉红不论大小看到一律block",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "JadezKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "未来的未来",
+        "name": "凌老师不是您老师🍥",
+        "pinned_tweet_id": "1955547661492506719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945059470653923328/zA_eLM9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 378,
+          "like_count": 2289,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1158
+        },
+        "username": "LingRuoovo",
+        "verified": false
+      }
+    ]
+  }
+}

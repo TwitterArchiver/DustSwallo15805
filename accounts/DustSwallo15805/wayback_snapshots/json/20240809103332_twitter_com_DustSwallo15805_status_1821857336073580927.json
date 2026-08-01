@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1821365800470552903",
+    "created_at": "2024-08-09T10:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T11:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821857336073580927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821857336073580927",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821729647064961287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。◎表示说话确定不移。鲁迅《且介亭杂文•忆韦素园君》：“小峰一口答应了。◎满口。如：不口京白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821365800470552903",
+        "created_at": "2024-08-09T10:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T11:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821857336073580927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821857336073580927",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821729647064961287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。◎表示说话确定不移。鲁迅《且介亭杂文•忆韦素园君》：“小峰一口答应了。◎满口。如：不口京白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821365800470552903",
+        "created_at": "2024-08-09T02:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T03:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821729647064961287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821729647064961287",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821729544405184547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一寸     ◎十分为一寸，引申为微量。《汉书•贾谊传》：“一寸之地，一人之众，天子亡所利焉。”◎指心。古人谓心为方寸之地，故名。苏轼《次韵答王巩》：“十年尘土窟，一寸冰雪清。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 109,
+          "like_count": 3960,
+          "listed_count": 0,
+          "tweet_count": 569
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937799804350078976"
+      ],
+      "media_source_tweet_id": [
+        "1937799810586951708"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1937846887522181380",
+    "created_at": "2025-06-25T12:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T13:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937846887522181380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286612579314315265",
+          "start": 3,
+          "username": "20ajB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dLwGBUglRh",
+          "end": 44,
+          "expanded_url": "https://x.com/20ajB/status/1937799810586951708/photo/1",
+          "media_key": "3_1937799804350078976",
+          "start": 21,
+          "url": "https://t.co/dLwGBUglRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937846887522181380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937799810586951708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @20ajB: 事已至此，就这样吧 https://t.co/dLwGBUglRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1937799804350078976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRyp7gboAAAoJO.jpg",
+        "width": 1347
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937799804350078976"
+          ],
+          "media_source_tweet_id": [
+            "1937799810586951708"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1937846887522181380",
+        "created_at": "2025-06-25T12:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T13:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937846887522181380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286612579314315265",
+              "start": 3,
+              "username": "20ajB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLwGBUglRh",
+              "end": 44,
+              "expanded_url": "https://x.com/20ajB/status/1937799810586951708/photo/1",
+              "media_key": "3_1937799804350078976",
+              "start": 21,
+              "url": "https://t.co/dLwGBUglRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937846887522181380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937799810586951708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @20ajB: 事已至此，就这样吧 https://t.co/dLwGBUglRh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937799804350078976"
+          ]
+        },
+        "author_id": "1286612579314315265",
+        "conversation_id": "1937799810586951708",
+        "created_at": "2025-06-25T09:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T10:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937799810586951708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLwGBUglRh",
+              "end": 33,
+              "expanded_url": "https://x.com/20ajB/status/1937799810586951708/photo/1",
+              "media_key": "3_1937799804350078976",
+              "start": 10,
+              "url": "https://t.co/dLwGBUglRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937799810586951708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1348,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "事已至此，就这样吧 https://t.co/dLwGBUglRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 210,
+          "like_count": 14261,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1107
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T10:42:09.000Z",
+        "description": "为RFS/XP 制作涂装和机场，偶尔做点2D涂装 UTC+10/+9/+8  〔حورمحب أمين〕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/527044682?spm_…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/527044682?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/1jHHT9VWSM"
+              }
+            ]
+          }
+        },
+        "id": "1286612579314315265",
+        "location": "仙舟 罗浮",
+        "name": "B-20AJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916360599728230403/2SKPncb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 128,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1634
+        },
+        "url": "https://t.co/1jHHT9VWSM",
+        "username": "20ajB",
+        "verified": false
+      }
+    ]
+  }
+}

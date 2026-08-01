@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1884869913548034103",
+    "created_at": "2025-01-30T07:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T08:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884873363736399918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1213287267181027328",
+          "start": 0,
+          "username": "dahaoSho8931919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884873363736399918",
+    "in_reply_to_user_id": "1213287267181027328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884873163185738126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dahaoSho8931919 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1884869913548034103",
+        "created_at": "2025-01-30T07:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884873363736399918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1213287267181027328",
+              "start": 0,
+              "username": "dahaoSho8931919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884873363736399918",
+        "in_reply_to_user_id": "1213287267181027328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884873163185738126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dahaoSho8931919 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213287267181027328",
+        "conversation_id": "1884869913548034103",
+        "created_at": "2025-01-30T07:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884873163185738126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884873163185738126",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884872145358201240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 菜心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 109,
+          "like_count": 4909,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 536
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T02:33:32.000Z",
+        "description": "参考@Sho1919893 大号（复活失败中...）\n小小号：@ShoBeiYong 防止失联",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Sho1919893"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ShoBeiYong"
+              }
+            ]
+          }
+        },
+        "id": "1213287267181027328",
+        "location": "下北沢　野獣邸",
+        "name": "Sho魈✟ ❂☭ 饮冰室主人🇨🇳🇨🇦 绝赞复活中",
+        "pinned_tweet_id": "1841910058424410470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879771616516935680/5MHxrPEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1991,
+          "following_count": 248,
+          "like_count": 7496,
+          "listed_count": 12,
+          "media_count": 919,
+          "tweet_count": 6138
+        },
+        "username": "dahaoSho8931919",
+        "verified": false
+      }
+    ]
+  }
+}

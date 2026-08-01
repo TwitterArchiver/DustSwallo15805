@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2074120019160813590",
+    "created_at": "2026-07-06T15:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074149501049454999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818812853471920131",
+          "start": 0,
+          "username": "chen989524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074149501049454999",
+    "in_reply_to_user_id": "1818812853471920131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074120019160813590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen989524 泥是女的👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2173,
+        "media_key": "3_2074120010600153088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjBKRVaAAAQ6Q4.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1825,
+        "media_key": "3_2074120010809905152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjBKSHakAAsXt1.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2074120019160813590",
+        "created_at": "2026-07-06T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074149501049454999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818812853471920131",
+              "start": 0,
+              "username": "chen989524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074149501049454999",
+        "in_reply_to_user_id": "1818812853471920131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074120019160813590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen989524 泥是女的👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074120010600153088",
+            "3_2074120010809905152"
+          ]
+        },
+        "author_id": "1818812853471920131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074120019160813590",
+        "created_at": "2026-07-06T13:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074120019160813590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x46wljssCw",
+              "end": 32,
+              "expanded_url": "https://x.com/chen989524/status/2074120019160813590/photo/1",
+              "media_key": "3_2074120010600153088",
+              "start": 9,
+              "url": "https://t.co/x46wljssCw"
+            },
+            {
+              "display_url": "pic.x.com/x46wljssCw",
+              "end": 32,
+              "expanded_url": "https://x.com/chen989524/status/2074120019160813590/photo/1",
+              "media_key": "3_2074120010809905152",
+              "start": 9,
+              "url": "https://t.co/x46wljssCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074120019160813590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被人约炮了（？） https://t.co/x46wljssCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 845,
+          "like_count": 83102,
+          "listed_count": 4,
+          "media_count": 714,
+          "tweet_count": 4214
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-01T00:56:02.000Z",
+        "description": "何意味/mtf/出厂日期2006.8.24/hrt2025.11.18\n/2026.2.12小证/182 67kg/自恨/家长党/焦虑抑郁中/苦逼大学生/已出柜/重女/泛性恋/\n全世界最好的姐姐 @shengge1212 @sisgsn4/\n全世界最乖最可爱的老婆&小猫@voidedzero0///可以叫我达不溜&香香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "shengge1212"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "sisgsn4"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "voidedzero0"
+              }
+            ]
+          }
+        },
+        "id": "1818812853471920131",
+        "location": "月球",
+        "name": "达不溜w🏳️‍⚧️",
+        "pinned_tweet_id": "2026204583073288503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818813109576122368/u-iNi3CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 86,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "chen989524",
+        "verified": false
+      }
+    ]
+  }
+}

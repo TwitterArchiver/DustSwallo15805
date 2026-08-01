@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1938871297628610698",
+    "created_at": "2025-06-28T08:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T09:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938871297628610698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854018358183899136",
+          "start": 3,
+          "username": "MlDisxian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938871297628610698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938796801487970487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MlDisxian: 支持国家取消文科专业，顺便枪毙所有文科生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1938871297628610698",
+        "created_at": "2025-06-28T08:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938871297628610698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854018358183899136",
+              "start": 3,
+              "username": "MlDisxian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938871297628610698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938796801487970487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MlDisxian: 支持国家取消文科专业，顺便枪毙所有文科生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854018358183899136",
+        "conversation_id": "1938796801487970487",
+        "created_at": "2025-06-28T03:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T04:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938796801487970487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938796801487970487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2630,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "支持国家取消文科专业，顺便枪毙所有文科生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 216,
+          "like_count": 14944,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1128
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T04:30:05.000Z",
+        "description": "火鸡面王洪文主义/偶尔画画但画画很一般/大字报持续创作中/左派主席",
+        "id": "1854018358183899136",
+        "location": "Hong Kong",
+        "name": "草原上的虹雯妹子",
+        "pinned_tweet_id": "1902590522910298160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936444643819896832/tqsb0PWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 284,
+          "like_count": 6503,
+          "listed_count": 2,
+          "media_count": 827,
+          "tweet_count": 5567
+        },
+        "username": "MlDisxian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073409298194198528",
+        "3_2073409298319978496",
+        "3_2073409298206765056"
+      ],
+      "media_source_tweet_id": [
+        "2073409544538198517",
+        "2073409544538198517",
+        "2073409544538198517"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2073703925698707603",
+    "created_at": "2026-07-05T09:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073703925698707603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "710735509",
+          "start": 3,
+          "username": "116teruduki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXDb9iSrcg",
+          "end": 71,
+          "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+          "media_key": "3_2073409298194198528",
+          "start": 48,
+          "url": "https://t.co/TXDb9iSrcg"
+        },
+        {
+          "display_url": "pic.x.com/TXDb9iSrcg",
+          "end": 71,
+          "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+          "media_key": "3_2073409298319978496",
+          "start": 48,
+          "url": "https://t.co/TXDb9iSrcg"
+        },
+        {
+          "display_url": "pic.x.com/TXDb9iSrcg",
+          "end": 71,
+          "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+          "media_key": "3_2073409298206765056",
+          "start": 48,
+          "url": "https://t.co/TXDb9iSrcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073703925698707603",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073409544538198517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @116teruduki: ヤニ猫のこれ\n箱明けて銀紙取っちゃうあたり\nちがうんだよなあ https://t.co/TXDb9iSrcg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2073409298194198528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY6xXTbcAAKeMS.jpg",
+        "width": 1037
+      },
+      {
+        "height": 561,
+        "media_key": "3_2073409298319978496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY6xXxasAAaHod.jpg",
+        "width": 953
+      },
+      {
+        "height": 541,
+        "media_key": "3_2073409298206765056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY6xXWbMAAuxAG.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073409298194198528",
+            "3_2073409298319978496",
+            "3_2073409298206765056"
+          ],
+          "media_source_tweet_id": [
+            "2073409544538198517",
+            "2073409544538198517",
+            "2073409544538198517"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2073703925698707603",
+        "created_at": "2026-07-05T09:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073703925698707603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "710735509",
+              "start": 3,
+              "username": "116teruduki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXDb9iSrcg",
+              "end": 71,
+              "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+              "media_key": "3_2073409298194198528",
+              "start": 48,
+              "url": "https://t.co/TXDb9iSrcg"
+            },
+            {
+              "display_url": "pic.x.com/TXDb9iSrcg",
+              "end": 71,
+              "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+              "media_key": "3_2073409298319978496",
+              "start": 48,
+              "url": "https://t.co/TXDb9iSrcg"
+            },
+            {
+              "display_url": "pic.x.com/TXDb9iSrcg",
+              "end": 71,
+              "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+              "media_key": "3_2073409298206765056",
+              "start": 48,
+              "url": "https://t.co/TXDb9iSrcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073703925698707603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073409544538198517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @116teruduki: ヤニ猫のこれ\n箱明けて銀紙取っちゃうあたり\nちがうんだよなあ https://t.co/TXDb9iSrcg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073409298194198528",
+            "3_2073409298319978496",
+            "3_2073409298206765056"
+          ]
+        },
+        "author_id": "710735509",
+        "conversation_id": "2073409544538198517",
+        "created_at": "2026-07-04T14:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073409544538198517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXDb9iSrcg",
+              "end": 54,
+              "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+              "media_key": "3_2073409298194198528",
+              "start": 31,
+              "url": "https://t.co/TXDb9iSrcg"
+            },
+            {
+              "display_url": "pic.x.com/TXDb9iSrcg",
+              "end": 54,
+              "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+              "media_key": "3_2073409298319978496",
+              "start": 31,
+              "url": "https://t.co/TXDb9iSrcg"
+            },
+            {
+              "display_url": "pic.x.com/TXDb9iSrcg",
+              "end": 54,
+              "expanded_url": "https://x.com/116teruduki/status/2073409544538198517/photo/1",
+              "media_key": "3_2073409298206765056",
+              "start": 31,
+              "url": "https://t.co/TXDb9iSrcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073409544538198517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 2721920,
+          "like_count": 5444,
+          "quote_count": 573,
+          "reply_count": 210,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "ヤニ猫のこれ\n箱明けて銀紙取っちゃうあたり\nちがうんだよなあ https://t.co/TXDb9iSrcg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 835,
+          "like_count": 82606,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 4191
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-22T14:01:38.000Z",
+        "description": "昭和に取り憑かれたオタク\nウマ娘 ゼンゼロ スタレ ブルアカ",
+        "id": "710735509",
+        "location": "館山砲術学校",
+        "name": "いーぐる",
+        "pinned_tweet_id": "1635632578463141890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071922218221617152/Dw-AEHXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 975,
+          "like_count": 60208,
+          "listed_count": 60,
+          "media_count": 14185,
+          "tweet_count": 236122
+        },
+        "url": "",
+        "username": "116teruduki",
+        "verified": true
+      }
+    ]
+  }
+}

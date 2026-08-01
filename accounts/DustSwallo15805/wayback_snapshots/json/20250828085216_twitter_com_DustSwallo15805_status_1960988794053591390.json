@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960988794053591390",
+    "created_at": "2025-08-28T08:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960988794053591390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bushi_8964/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bushi_8964/status/1960977167027986741",
+          "start": 6,
+          "url": "https://t.co/UEFEGL7ACF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960988794053591390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960977167027986741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我强烈抗议 https://t.co/UEFEGL7ACF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960988794053591390",
+        "created_at": "2025-08-28T08:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960988794053591390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bushi_8964/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bushi_8964/status/1960977167027986741",
+              "start": 6,
+              "url": "https://t.co/UEFEGL7ACF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960988794053591390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960977167027986741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我强烈抗议 https://t.co/UEFEGL7ACF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804154448215969795",
+        "conversation_id": "1960977167027986741",
+        "created_at": "2025-08-28T08:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960977167027986741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1647170304844914689",
+              "start": 4,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960977167027986741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有预感@DustSwallo15805将会翻车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 418,
+          "like_count": 32343,
+          "listed_count": 2,
+          "media_count": 455,
+          "tweet_count": 2061
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜🏳️‍⚧️mtf/x｜最爱的@Tim_Pan_44｜好朋友@mizuki_bot ｜姐姐 @Moningmeng｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Tim_Pan_44"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵",
+        "pinned_tweet_id": "1941798200882680157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959127037077331970/ub2Xab4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1156,
+          "like_count": 8323,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 3141
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": true
+      }
+    ]
+  }
+}

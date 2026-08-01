@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1884564931150000339",
+    "created_at": "2025-01-30T07:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T08:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884872384043536389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "GotouSugi_Kh"
+        },
+        {
+          "end": 21,
+          "id": "1613079089879076864",
+          "start": 14,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884872384043536389",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884606801578279362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotouSugi_Kh @Cldeop 大数学家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1884564931150000339",
+        "created_at": "2025-01-30T07:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884872384043536389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "GotouSugi_Kh"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884872384043536389",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884606801578279362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh @Cldeop 大数学家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752528596718211072",
+        "conversation_id": "1884564931150000339",
+        "created_at": "2025-01-29T14:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884606801578279362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884606801578279362",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3181,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884564931150000339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 77+33=110=6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 109,
+          "like_count": 4905,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 534
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09/初三/原神/崩鐵/納西妲流螢厨/虫豸/五学/遠視壬/漢英西日柬語/精神高棉人🇰🇭/可愛的 @Raiden_1927 @Frost_SZH @Mualani_Ch @linjiyewei @miku_suki393939 @CharmingFurina/@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Frost_SZH"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Mualani_Ch"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 145,
+                "start": 129,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genshin.hoyoverse.com/ja",
+                "end": 23,
+                "expanded_url": "http://genshin.hoyoverse.com/ja",
+                "start": 0,
+                "url": "https://t.co/Jkbfkb52VK"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "青瓦台，大韓民國🇰🇷",
+        "name": "⛩️🇰🇵後藤 스기🇰🇭🌸",
+        "pinned_tweet_id": "1867934348114354377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1639,
+          "like_count": 21259,
+          "listed_count": 3,
+          "media_count": 757,
+          "tweet_count": 10647
+        },
+        "url": "https://t.co/Jkbfkb52VK",
+        "username": "GotouSugi_Kh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1874123551281991887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53469,
+          "following_count": 543,
+          "like_count": 24306,
+          "listed_count": 183,
+          "media_count": 7380,
+          "tweet_count": 10565
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

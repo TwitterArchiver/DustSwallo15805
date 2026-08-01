@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935698640963588096"
+      ],
+      "media_source_tweet_id": [
+        "1935698648991695261"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1935966054595149917",
+    "created_at": "2025-06-20T07:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T08:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935966054595149917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1848988638425866240",
+          "start": 3,
+          "username": "bokoboko246"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k3KhQJrbzg",
+          "end": 63,
+          "expanded_url": "https://x.com/bokoboko246/status/1935698648991695261/photo/1",
+          "media_key": "3_1935698640963588096",
+          "start": 40,
+          "url": "https://t.co/k3KhQJrbzg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935966054595149917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 554
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935698648991695261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokoboko246: 友達左ハンドルのBRZ（概念）納車してアツい https://t.co/k3KhQJrbzg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935698640963588096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtz7qH7XUAA2AQQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935698640963588096"
+          ],
+          "media_source_tweet_id": [
+            "1935698648991695261"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935966054595149917",
+        "created_at": "2025-06-20T07:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T08:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935966054595149917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1848988638425866240",
+              "start": 3,
+              "username": "bokoboko246"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3KhQJrbzg",
+              "end": 63,
+              "expanded_url": "https://x.com/bokoboko246/status/1935698648991695261/photo/1",
+              "media_key": "3_1935698640963588096",
+              "start": 40,
+              "url": "https://t.co/k3KhQJrbzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935966054595149917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 554
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935698648991695261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokoboko246: 友達左ハンドルのBRZ（概念）納車してアツい https://t.co/k3KhQJrbzg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935698640963588096"
+          ]
+        },
+        "author_id": "1848988638425866240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1935698648991695261",
+        "created_at": "2025-06-19T13:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935698648991695261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3KhQJrbzg",
+              "end": 46,
+              "expanded_url": "https://x.com/bokoboko246/status/1935698648991695261/photo/1",
+              "media_key": "3_1935698640963588096",
+              "start": 23,
+              "url": "https://t.co/k3KhQJrbzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935698648991695261",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 173097,
+          "like_count": 6594,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "友達左ハンドルのBRZ（概念）納車してアツい https://t.co/k3KhQJrbzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 198,
+          "like_count": 13269,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1038
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T07:24:07.000Z",
+        "description": "火炎放射まんび #彼はナマポをファックする",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 8,
+                "tag": "彼はナマポをファックする"
+              }
+            ]
+          }
+        },
+        "id": "1848988638425866240",
+        "location": "hokkaido,japan",
+        "name": "ぽこ",
+        "pinned_tweet_id": "1926972910310187295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926666083987066880/1Y44dW3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 779,
+          "like_count": 51590,
+          "listed_count": 2,
+          "media_count": 1590,
+          "tweet_count": 11630
+        },
+        "username": "bokoboko246",
+        "verified": false
+      }
+    ]
+  }
+}

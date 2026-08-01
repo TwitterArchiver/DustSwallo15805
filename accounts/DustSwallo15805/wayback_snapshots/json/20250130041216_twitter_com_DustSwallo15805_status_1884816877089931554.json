@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1884294937078079694",
+    "created_at": "2025-01-30T04:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T05:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884816877089931554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1144188660029558784",
+          "start": 0,
+          "username": "charge0009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884816877089931554",
+    "in_reply_to_user_id": "1144188660029558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884294937078079694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@charge0009 唉，钓鱼佬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1884294937078079694",
+        "created_at": "2025-01-30T04:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T05:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884816877089931554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1144188660029558784",
+              "start": 0,
+              "username": "charge0009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884816877089931554",
+        "in_reply_to_user_id": "1144188660029558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884294937078079694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@charge0009 唉，钓鱼佬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884294918887399424"
+          ]
+        },
+        "author_id": "1144188660029558784",
+        "conversation_id": "1884294937078079694",
+        "created_at": "2025-01-28T17:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884294937078079694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68hULNVs3Q",
+              "end": 23,
+              "expanded_url": "https://x.com/charge0009/status/1884294937078079694/photo/1",
+              "media_key": "3_1884294918887399424",
+              "start": 0,
+              "url": "https://t.co/68hULNVs3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884294937078079694",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2677,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/68hULNVs3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 110,
+          "like_count": 4877,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 532
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-27T10:20:09.000Z",
+        "description": "",
+        "id": "1144188660029558784",
+        "name": "川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883176465178755072/5DfTw0OD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 362,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 895
+        },
+        "username": "charge0009",
+        "verified": false
+      }
+    ]
+  }
+}

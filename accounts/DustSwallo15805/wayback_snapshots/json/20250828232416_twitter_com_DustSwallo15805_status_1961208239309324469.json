@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1961207082696475005",
+    "created_at": "2025-08-28T23:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T00:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961208239309324469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_44"
+        },
+        {
+          "end": 23,
+          "id": "1804154448215969795",
+          "start": 12,
+          "username": "bushi_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961208239309324469",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961207082696475005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_44 @bushi_8964 唉，小情侣😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1961207072030429186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzebcOtbkAI-Dyz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1961207072043012096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzebcOwbkAAiD2O.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1961207082696475005",
+        "created_at": "2025-08-28T23:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961208239309324469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_44"
+            },
+            {
+              "end": 23,
+              "id": "1804154448215969795",
+              "start": 12,
+              "username": "bushi_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961208239309324469",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961207082696475005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_44 @bushi_8964 唉，小情侣😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961207072030429186",
+            "3_1961207072043012096"
+          ]
+        },
+        "author_id": "1856699710981251072",
+        "conversation_id": "1961207082696475005",
+        "created_at": "2025-08-28T23:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T00:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961207082696475005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1804154448215969795",
+              "start": 37,
+              "username": "bushi_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/evWAscW7xY",
+              "end": 83,
+              "expanded_url": "https://x.com/Tim_Pan_44/status/1961207082696475005/photo/1",
+              "media_key": "3_1961207072030429186",
+              "start": 60,
+              "url": "https://t.co/evWAscW7xY"
+            },
+            {
+              "display_url": "pic.x.com/evWAscW7xY",
+              "end": 83,
+              "expanded_url": "https://x.com/Tim_Pan_44/status/1961207082696475005/photo/1",
+              "media_key": "3_1961207072043012096",
+              "start": 60,
+              "url": "https://t.co/evWAscW7xY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961207082696475005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次和对象过七夕555555555～\n可惜今天我要上课😭\n宝宝爱泥🥰😘\n@bushi_8964 \n（图是很久拍的了） https://t.co/evWAscW7xY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "其他还好，就是有点抽象",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 418,
+          "like_count": 32498,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 2067
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 |  热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFkZ5x"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Bernard",
+        "pinned_tweet_id": "1959689442345848900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 161,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/hxccVFkZ5x",
+        "username": "Tim_Pan_44",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜🏳️‍⚧️mtf/x｜最爱的@Tim_Pan_44｜好朋友@mizuki_bot ｜姐姐 @Moningmeng｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Tim_Pan_44"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵",
+        "pinned_tweet_id": "1941798200882680157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959127037077331970/ub2Xab4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 1154,
+          "like_count": 8334,
+          "listed_count": 2,
+          "media_count": 386,
+          "tweet_count": 3143
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": true
+      }
+    ]
+  }
+}

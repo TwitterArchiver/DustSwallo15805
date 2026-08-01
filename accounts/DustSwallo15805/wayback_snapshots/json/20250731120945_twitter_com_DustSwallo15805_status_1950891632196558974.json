@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950891623107485696"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1950844718780498428",
+    "created_at": "2025-07-31T12:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T13:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950891632196558974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/piSLOlDsw5",
+          "end": 41,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1950891632196558974/photo/1",
+          "media_key": "3_1950891623107485696",
+          "start": 18,
+          "url": "https://t.co/piSLOlDsw5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950891632196558974",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950844718780498428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 等我攒够了钱再说🤓 https://t.co/piSLOlDsw5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_1950891623107485696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxL1mE6bYAAU_Ht.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950891623107485696"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1950844718780498428",
+        "created_at": "2025-07-31T12:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T13:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950891632196558974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/piSLOlDsw5",
+              "end": 41,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1950891632196558974/photo/1",
+              "media_key": "3_1950891623107485696",
+              "start": 18,
+              "url": "https://t.co/piSLOlDsw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950891632196558974",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950844718780498428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 等我攒够了钱再说🤓 https://t.co/piSLOlDsw5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833730895750283264",
+        "conversation_id": "1950844718780498428",
+        "created_at": "2025-07-31T09:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950844718780498428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshib1187/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/yoshib1187/status/1950766186196844813",
+              "start": 15,
+              "url": "https://t.co/v7rmmpplIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950844718780498428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950766186196844813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用过了都说好 你还在等什么🤓 https://t.co/v7rmmpplIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 315,
+          "like_count": 23542,
+          "listed_count": 1,
+          "media_count": 391,
+          "tweet_count": 1616
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "这里是小八！（男 ）暑假推油寻回中！😋 希望给所有人带来开心！｜膠片｜ContaxG2お使います｜宝利来｜ヨルシカの大ファンです！｜跑步｜箱根駅伝｜平时发些日常牢骚和跑步日常 不是很会说话 多多包涵 不建证！No politics 🚫 互fo会查成分！拍的照片在这里：小红书6548439184 日本語勉強の中！",
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1945307354318147634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949002301282381824/5W7M3_cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 566,
+          "like_count": 56736,
+          "listed_count": 3,
+          "media_count": 1646,
+          "tweet_count": 15105
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1886914302847934610",
+    "created_at": "2025-02-04T23:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T00:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886914302847934610"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "田所浩二",
+          "probability": 0.9606,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/inmudoornews/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/inmudoornews/status/1886600437136285844",
+          "start": 5,
+          "url": "https://t.co/Tn0zRoUkvt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886914302847934610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886600437136285844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "田所浩二 https://t.co/Tn0zRoUkvt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1886914302847934610",
+        "created_at": "2025-02-04T23:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T00:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886914302847934610"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "田所浩二",
+              "probability": 0.9606,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/inmudoornews/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/inmudoornews/status/1886600437136285844",
+              "start": 5,
+              "url": "https://t.co/Tn0zRoUkvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886914302847934610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886600437136285844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "田所浩二 https://t.co/Tn0zRoUkvt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886600430802882560"
+          ]
+        },
+        "author_id": "1275733774815293440",
+        "conversation_id": "1886600437136285844",
+        "created_at": "2025-02-04T02:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T03:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886600437136285844"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "先輩はコウジ",
+              "probability": 0.8171,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cNVbpqTWVV",
+              "end": 140,
+              "expanded_url": "https://x.com/inmudoornews/status/1886600437136285844/photo/1",
+              "media_key": "3_1886600430802882560",
+              "start": 117,
+              "url": "https://t.co/cNVbpqTWVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886600437136285844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1258,
+          "impression_count": 652752,
+          "like_count": 12124,
+          "quote_count": 143,
+          "reply_count": 83,
+          "retweet_count": 1619
+        },
+        "reply_settings": "everyone",
+        "text": "【発表】TVアニメ『先輩はコウジ』映画化決定！2025年2月公開\n\n本作品ではTVシリーズで描かれた物語の続きをAV化。公開されたティザー映像では、屋上で天サロを楽しむ描写や、睡眠薬入りアイスティーを用いたレイプ事件が描かれている。 https://t.co/cNVbpqTWVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 110,
+          "like_count": 5686,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 581
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-24T10:13:41.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルの糞ニュースをいち早くお伝えします。",
+        "id": "1275733774815293440",
+        "location": "画像・ネタ提供はDMへ",
+        "name": "インムドアニュース",
+        "pinned_tweet_id": "1837382554779111898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1292760203851530240/kc7wLYJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66638,
+          "following_count": 1,
+          "like_count": 161,
+          "listed_count": 162,
+          "media_count": 24,
+          "tweet_count": 30
+        },
+        "username": "inmudoornews",
+        "verified": false
+      }
+    ]
+  }
+}

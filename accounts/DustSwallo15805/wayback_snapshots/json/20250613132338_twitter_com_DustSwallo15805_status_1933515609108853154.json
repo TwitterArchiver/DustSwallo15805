@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933515597763198976"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1933515609108853154",
+    "created_at": "2025-06-13T13:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933515609108853154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dl4qZEMKHZ",
+          "end": 30,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1933515609108853154/photo/1",
+          "media_key": "3_1933515597763198976",
+          "start": 7,
+          "url": "https://t.co/dl4qZEMKHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933515609108853154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "叫景姐（不是 https://t.co/dl4qZEMKHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_1933515597763198976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtU6MSRaQAAvWto.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933515597763198976"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1933515609108853154",
+        "created_at": "2025-06-13T13:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933515609108853154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dl4qZEMKHZ",
+              "end": 30,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1933515609108853154/photo/1",
+              "media_key": "3_1933515597763198976",
+              "start": 7,
+              "url": "https://t.co/dl4qZEMKHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933515609108853154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叫景姐（不是 https://t.co/dl4qZEMKHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust（卖高中课本教辅资料）",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 186,
+          "like_count": 11962,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 938
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

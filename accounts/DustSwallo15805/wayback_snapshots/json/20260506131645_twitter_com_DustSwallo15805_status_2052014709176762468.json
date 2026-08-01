@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2052009435728605375",
+    "created_at": "2026-05-06T13:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052014709176762468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1908086926391033856",
+          "start": 0,
+          "username": "yqua_"
+        },
+        {
+          "end": 17,
+          "id": "1368897611672018953",
+          "start": 7,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052014709176762468",
+    "in_reply_to_user_id": "1908086926391033856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052009435728605375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqua_ @XUEQIUxka 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2052009283949391872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHozkl2bcAAjcfb.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 50665,
+        "height": 720,
+        "media_key": "13_2052009283966107648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052009283966107648/img/nRJ8GLbi4e4-Mitm.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052009283966107648/vid/avc1/480x270/OpKKf6nQDnbMWMDL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052009283966107648/vid/avc1/640x360/_EdR3tbQ1eTyFvXA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052009283966107648/vid/avc1/1280x720/Os-l1EgFuZYYNnrG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052009283966107648/pl/PnRvLRm9AJDQJOPp.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2052009283945222144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHozkl1b0AArqby.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2052009283957690368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHozkl4aEAAuhsF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2052009435728605375",
+        "created_at": "2026-05-06T13:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052014709176762468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1908086926391033856",
+              "start": 0,
+              "username": "yqua_"
+            },
+            {
+              "end": 17,
+              "id": "1368897611672018953",
+              "start": 7,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052014709176762468",
+        "in_reply_to_user_id": "1908086926391033856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052009435728605375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ @XUEQIUxka 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052009283949391872",
+            "13_2052009283966107648",
+            "3_2052009283945222144",
+            "3_2052009283957690368"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052009435728605375",
+        "created_at": "2026-05-06T12:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052009435728605375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 106,
+              "id": "1368897611672018953",
+              "start": 96,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6haeTL9OYF",
+              "end": 148,
+              "expanded_url": "https://x.com/yqua_/status/2052009435728605375/video/1",
+              "media_key": "3_2052009283949391872",
+              "start": 125,
+              "url": "https://t.co/6haeTL9OYF"
+            },
+            {
+              "display_url": "pic.x.com/6haeTL9OYF",
+              "end": 148,
+              "expanded_url": "https://x.com/yqua_/status/2052009435728605375/video/1",
+              "media_key": "13_2052009283966107648",
+              "start": 125,
+              "url": "https://t.co/6haeTL9OYF"
+            },
+            {
+              "display_url": "pic.x.com/6haeTL9OYF",
+              "end": 148,
+              "expanded_url": "https://x.com/yqua_/status/2052009435728605375/video/1",
+              "media_key": "3_2052009283945222144",
+              "start": 125,
+              "url": "https://t.co/6haeTL9OYF"
+            },
+            {
+              "display_url": "pic.x.com/6haeTL9OYF",
+              "end": 148,
+              "expanded_url": "https://x.com/yqua_/status/2052009435728605375/video/1",
+              "media_key": "3_2052009283957690368",
+              "start": 125,
+              "url": "https://t.co/6haeTL9OYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052009435728605375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有河东万达附近的吗？\n我不知道\n但是今天第一次去河东爱琴海 以前总听家里和同伴提起\n\n上次来河东万达 还是在成为轮椅人的时候（IG上有当时的照片） 五七人成群\n\n但是我其实并不喜欢热闹\n只想和@XUEQIUxka 好好过日子就好了\n\n好啦 明天见。 https://t.co/6haeTL9OYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 745,
+          "like_count": 76060,
+          "listed_count": 3,
+          "media_count": 680,
+          "tweet_count": 3973
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "终有一天 月亮会觉得 你才是月亮",
+        "id": "1908086926391033856",
+        "name": "你是要气死铨酱么🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013607388050272257/50GECfB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 774,
+          "like_count": 10986,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 528
+        },
+        "username": "yqua_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎蓝V关注，抽奖可以看亮点！\n逃生舱：@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "家长党"
+              },
+              {
+                "end": 115,
+                "start": 111,
+                "tag": "MTF"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "HRT"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "Les"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "双相"
+              },
+              {
+                "end": 135,
+                "start": 130,
+                "tag": "ADHD"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8133,
+          "following_count": 2186,
+          "like_count": 28725,
+          "listed_count": 26,
+          "media_count": 1169,
+          "tweet_count": 4768
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

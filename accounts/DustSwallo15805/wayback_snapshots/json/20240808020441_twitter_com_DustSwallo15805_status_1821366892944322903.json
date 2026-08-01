@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1821365800470552903",
+    "created_at": "2024-08-08T02:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T03:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821366892944322903"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821366892944322903",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821366392634925270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "11.犹一下；才。表示两种行为时间上先后\n  12.紧连。如：一学就会；一听就懂。\n  13.一旦；一经。如；一失足成千古恨。《庄子•徐无鬼》：“一闻人之过，终身不忘。\n  14.另一；又。梁元帝《金楼子•兴王》：“时许耳之子名目由，字道开，一字武仲。”\n  15.每。如：一班选三个代表。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821365800470552903",
+        "created_at": "2024-08-08T02:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T03:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821366892944322903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821366892944322903",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821366392634925270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11.犹一下；才。表示两种行为时间上先后\n  12.紧连。如：一学就会；一听就懂。\n  13.一旦；一经。如；一失足成千古恨。《庄子•徐无鬼》：“一闻人之过，终身不忘。\n  14.另一；又。梁元帝《金楼子•兴王》：“时许耳之子名目由，字道开，一字武仲。”\n  15.每。如：一班选三个代表。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1821365800470552903",
+        "created_at": "2024-08-08T02:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T03:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821366392634925270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821366392634925270",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821365800470552903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8.指对立面的统一体。张载《正蒙•太和》：“不有两则无一。”认为如果没有对立面也就没有统一体。\n   9.一概。《荀子•劝学》：“一可以为法则。“一可以为法则。”\n  10.表示一次或短暂。如：借笔一用。《宋书•戴颙传》：“闻卿善琴，试欲一听。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 107,
+          "like_count": 3899,
+          "listed_count": 0,
+          "tweet_count": 554
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

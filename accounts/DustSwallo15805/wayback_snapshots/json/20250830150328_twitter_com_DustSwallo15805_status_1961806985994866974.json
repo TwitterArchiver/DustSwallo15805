@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1960977167027986741",
+    "created_at": "2025-08-30T15:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961806985994866974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        },
+        {
+          "end": 22,
+          "id": "1804154448215969795",
+          "start": 11,
+          "username": "bushi_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961806985994866974",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961806847972962599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 @bushi_8964 不是，你咋又发一遍？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1961806838456045568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm87Owa0AAxc-9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1960977167027986741",
+        "created_at": "2025-08-30T15:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961806985994866974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            },
+            {
+              "end": 22,
+              "id": "1804154448215969795",
+              "start": 11,
+              "username": "bushi_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961806985994866974",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961806847972962599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 @bushi_8964 不是，你咋又发一遍？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961806838456045568"
+          ]
+        },
+        "author_id": "1856699710981251072",
+        "conversation_id": "1960977167027986741",
+        "created_at": "2025-08-30T15:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961806847972962599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804154448215969795",
+              "start": 0,
+              "username": "bushi_8964"
+            },
+            {
+              "end": 28,
+              "id": "1647170304844914689",
+              "start": 12,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vDNeSMLSR",
+              "end": 58,
+              "expanded_url": "https://x.com/Tim_Pan_5/status/1961806847972962599/photo/1",
+              "media_key": "3_1961806838456045568",
+              "start": 35,
+              "url": "https://t.co/2vDNeSMLSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961806847972962599",
+        "in_reply_to_user_id": "1804154448215969795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960977167027986741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi_8964 @DustSwallo15805 速速翻车叭 https://t.co/2vDNeSMLSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、业余摄影、卡迷 不过有点抽象🥺",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 418,
+          "like_count": 33068,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 2112
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜主业赛车，不是男娘也不翻车 ｜可以在各大赛事和展里逮我 | 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 |  热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFkZ5x"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Bernard",
+        "pinned_tweet_id": "1961379262243774913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 164,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/hxccVFkZ5x",
+        "username": "Tim_Pan_5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜🏳️‍⚧️mtf/x｜最爱的@Tim_Pan_5｜好朋友@mizuki_bot ｜姐姐 @Moningmeng｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵",
+        "pinned_tweet_id": "1941798200882680157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959127037077331970/ub2Xab4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1164,
+          "like_count": 8484,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 3171
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": true
+      }
+    ]
+  }
+}

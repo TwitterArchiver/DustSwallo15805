@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1885212714223452563",
+    "created_at": "2025-01-31T06:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T07:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885213319902224584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874342758896304129",
+          "start": 0,
+          "username": "shinystarswave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885213319902224584",
+    "in_reply_to_user_id": "1874342758896304129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885212714223452563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinystarswave 听君一席话，胜似听君一席话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1885212714223452563",
+        "created_at": "2025-01-31T06:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T07:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885213319902224584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874342758896304129",
+              "start": 0,
+              "username": "shinystarswave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885213319902224584",
+        "in_reply_to_user_id": "1874342758896304129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885212714223452563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinystarswave 听君一席话，胜似听君一席话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885212712562503681"
+          ]
+        },
+        "author_id": "1874342758896304129",
+        "conversation_id": "1885212714223452563",
+        "created_at": "2025-01-31T06:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T07:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885212714223452563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGPHbKXcoD",
+              "end": 37,
+              "expanded_url": "https://x.com/shinystarswave/status/1885212714223452563/photo/1",
+              "media_key": "3_1885212712562503681",
+              "start": 14,
+              "url": "https://t.co/XGPHbKXcoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885212714223452563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各类手机品牌使用人群大调查 https://t.co/XGPHbKXcoD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 113,
+          "like_count": 5012,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 545
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T06:32:24.000Z",
+        "description": "如果我要告訴你，我是一個什麼樣的人, 我會用「一無是處」這個詞來形容。若能改變一切將化為黑暗，這樣的自己擁有未來嗎? 在這樣的世界我存在著嗎? 現在感到悲衝嗎? 自身之事也仍不了解，他人之事也不去了解，若是這樣的我也能夠改變。若是會感到悲傷，假如感到悲傷。我的心，是否能夠變得潔白？",
+        "id": "1874342758896304129",
+        "name": "星闪如潮",
+        "pinned_tweet_id": "1874351031733412033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874346972020133889/ueVR9qYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 42,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 32
+        },
+        "username": "shinystarswave",
+        "verified": false
+      }
+    ]
+  }
+}

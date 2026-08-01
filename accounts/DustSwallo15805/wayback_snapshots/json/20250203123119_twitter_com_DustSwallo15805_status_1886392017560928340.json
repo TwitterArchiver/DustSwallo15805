@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1886387685100781644",
+    "created_at": "2025-02-03T12:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T13:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886392017560928340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809497565630722052",
+          "start": 0,
+          "username": "w1a2ng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886392017560928340",
+    "in_reply_to_user_id": "1809497565630722052",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886387685100781644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w1a2ng 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1886387685100781644",
+        "created_at": "2025-02-03T12:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886392017560928340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809497565630722052",
+              "start": 0,
+              "username": "w1a2ng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886392017560928340",
+        "in_reply_to_user_id": "1809497565630722052",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886387685100781644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w1a2ng 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886387674954768384"
+          ]
+        },
+        "author_id": "1809497565630722052",
+        "conversation_id": "1886387685100781644",
+        "created_at": "2025-02-03T12:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886387685100781644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObvjyKiStP",
+              "end": 54,
+              "expanded_url": "https://x.com/w1a2ng/status/1886387685100781644/photo/1",
+              "media_key": "3_1886387674954768384",
+              "start": 31,
+              "url": "https://t.co/ObvjyKiStP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886387685100781644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么快就1000fo了，感谢大家！\n要不咱也跟风抄一下ID？ https://t.co/ObvjyKiStP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 111,
+          "like_count": 5503,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 573
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T08:00:34.000Z",
+        "description": "作者，感谢@xioshl8提供的背景。  小号@w3a4ng  TG：https://t.co/A4dhQcOCYZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 5,
+                "username": "xioshl8"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "username": "w3a4ng"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/w1a2ng",
+                "end": 58,
+                "expanded_url": "http://t.me/w1a2ng",
+                "start": 35,
+                "url": "https://t.co/A4dhQcOCYZ"
+              }
+            ]
+          }
+        },
+        "id": "1809497565630722052",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878600508866277376/KIKXf4NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 896,
+          "like_count": 33860,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 6519
+        },
+        "username": "w1a2ng",
+        "verified": true
+      }
+    ]
+  }
+}

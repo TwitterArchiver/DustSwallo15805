@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1966411131930685900",
+    "created_at": "2025-09-12T09:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T10:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966439042947432828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966439042947432828",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966411131930685900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1966411131930685900].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1966411131930685900",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1966411131930685900"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1966411131930685900",
+        "created_at": "2025-09-12T09:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T10:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966439042947432828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966439042947432828",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966411131930685900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖｜若有错字请谅解",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1942947223589044408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 444,
+          "like_count": 36733,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 2304
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "🐽@HyotoChandesuyo｜👾@vicoOci_Olvidar @yangaaa111 @iTZQing @genya1976 @crypto_incase @Cheese_Ghostfox @Chenuden @heherrrrabbit1 @EarlofFidonisi @heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 35,
+                "start": 19,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "username": "iTZQing"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "genya1976"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "crypto_incase"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 109,
+                "start": 100,
+                "username": "Chenuden"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "heherrrrabbit1"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "EarlofFidonisi"
+              },
+              {
+                "end": 156,
+                "start": 142,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/8W9EYboUy0"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "💤",
+        "pinned_tweet_id": "1961596935317643350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960382056799846400/a3055saY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 576,
+          "like_count": 21030,
+          "listed_count": 1,
+          "media_count": 892,
+          "tweet_count": 8026
+        },
+        "url": "https://t.co/8W9EYboUy0",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

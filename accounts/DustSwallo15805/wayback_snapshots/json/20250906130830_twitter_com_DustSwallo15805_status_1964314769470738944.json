@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964312604371013633"
+      ],
+      "media_source_tweet_id": [
+        "1964312606992191559"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1964314769470738944",
+    "created_at": "2025-09-06T13:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T14:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964314769470738944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804154448215969795",
+          "start": 3,
+          "username": "bushi_8964"
+        },
+        {
+          "end": 36,
+          "id": "1647170304844914689",
+          "start": 20,
+          "username": "DustSwallo15805"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbxoEJDJzx",
+          "end": 64,
+          "expanded_url": "https://x.com/bushi_8964/status/1964312606992191559/photo/1",
+          "media_key": "3_1964312604371013633",
+          "start": 41,
+          "url": "https://t.co/EbxoEJDJzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964314769470738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964312606992191559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi_8964: 我有预感@DustSwallo15805马上翻车 https://t.co/EbxoEJDJzx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1964312604371013633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Kj6ANbUAE5i6M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964312604371013633"
+          ],
+          "media_source_tweet_id": [
+            "1964312606992191559"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1964314769470738944",
+        "created_at": "2025-09-06T13:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964314769470738944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804154448215969795",
+              "start": 3,
+              "username": "bushi_8964"
+            },
+            {
+              "end": 36,
+              "id": "1647170304844914689",
+              "start": 20,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbxoEJDJzx",
+              "end": 64,
+              "expanded_url": "https://x.com/bushi_8964/status/1964312606992191559/photo/1",
+              "media_key": "3_1964312604371013633",
+              "start": 41,
+              "url": "https://t.co/EbxoEJDJzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964314769470738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964312606992191559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi_8964: 我有预感@DustSwallo15805马上翻车 https://t.co/EbxoEJDJzx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964312604371013633"
+          ]
+        },
+        "author_id": "1804154448215969795",
+        "conversation_id": "1964312606992191559",
+        "created_at": "2025-09-06T12:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T13:59:29.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964312499408265519",
+          "1964312606992191559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1647170304844914689",
+              "start": 4,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbxoEJDJzx",
+              "end": 48,
+              "expanded_url": "https://x.com/bushi_8964/status/1964312606992191559/photo/1",
+              "media_key": "3_1964312604371013633",
+              "start": 25,
+              "url": "https://t.co/EbxoEJDJzx"
+            },
+            {
+              "display_url": "x.com/bushi_8964/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/bushi_8964/status/1960977167027986741",
+              "start": 49,
+              "url": "https://t.co/mzBcrer8r1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964312606992191559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960977167027986741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我有预感@DustSwallo15805马上翻车 https://t.co/EbxoEJDJzx https://t.co/mzBcrer8r1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是男的永远不会翻车｜铁道、集邮、摄影、卡迷｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|欢迎找我交换明信片喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1960988794053591390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 429,
+          "like_count": 34990,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 2213
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜🏳️‍⚧️mtf/x｜最爱的@Tim_Pan_5｜好朋友@mizuki_bot ｜姐姐 @Moningmeng｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵",
+        "pinned_tweet_id": "1941798200882680157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959127037077331970/ub2Xab4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1159,
+          "like_count": 8472,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 3179
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": true
+      }
+    ]
+  }
+}

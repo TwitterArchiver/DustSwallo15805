@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966138718697480192"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1966138737433391382",
+    "created_at": "2025-09-11T13:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T14:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966138737433391382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IFs5IXHZRx",
+          "end": 56,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1966138737433391382/photo/1",
+          "media_key": "3_1966138718697480192",
+          "start": 33,
+          "url": "https://t.co/IFs5IXHZRx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966138737433391382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只要思想不滑坡\n困难总比方法多\n爱存不存不给过\n那就找交通试试🤓 https://t.co/IFs5IXHZRx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966138718697480192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0kgv2Ma4AAdapt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966138718697480192"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1966138737433391382",
+        "created_at": "2025-09-11T13:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T14:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966138737433391382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFs5IXHZRx",
+              "end": 56,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1966138737433391382/photo/1",
+              "media_key": "3_1966138718697480192",
+              "start": 33,
+              "url": "https://t.co/IFs5IXHZRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966138737433391382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要思想不滑坡\n困难总比方法多\n爱存不存不给过\n那就找交通试试🤓 https://t.co/IFs5IXHZRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 446,
+          "like_count": 36499,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 2291
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

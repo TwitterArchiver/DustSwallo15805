@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1922913649275863498",
+    "created_at": "2025-05-15T14:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T15:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923021703715709001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1811250754193440768",
+          "start": 0,
+          "username": "kirino_ki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923021703715709001",
+    "in_reply_to_user_id": "1811250754193440768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922913649275863498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirino_ki 5纱纱能不能替我考试喵🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922913638010191873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-PxAdaAAEiKhb.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1922913649275863498",
+        "created_at": "2025-05-15T14:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923021703715709001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811250754193440768",
+              "start": 0,
+              "username": "kirino_ki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923021703715709001",
+        "in_reply_to_user_id": "1811250754193440768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922913649275863498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirino_ki 5纱纱能不能替我考试喵🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922913638010191873"
+          ]
+        },
+        "author_id": "1811250754193440768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922913649275863498",
+        "created_at": "2025-05-15T07:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T08:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922913649275863498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dp5VVFJGfk",
+              "end": 71,
+              "expanded_url": "https://x.com/kirino_ki/status/1922913649275863498/photo/1",
+              "media_key": "3_1922913638010191873",
+              "start": 48,
+              "url": "https://t.co/Dp5VVFJGfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922913649275863498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1041,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特大消息！\n扣1复活纱纱捏\n扣2催纱纱赶快更新推文喵\n扣3让纱纱回复泥\n扣4纱纱会表演加特技～ https://t.co/Dp5VVFJGfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 181,
+          "like_count": 9883,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 801
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T04:07:02.000Z",
+        "description": "如果在你心中出现一片乌云的时候。 悲伤的诗能给乌云一个小小的拥抱。 然后它就会变换成一道开心的彩虹！",
+        "id": "1811250754193440768",
+        "location": "／ﾟ(๑°口°๑)ﾟ＼",
+        "name": "Kirino",
+        "pinned_tweet_id": "1893725912975200298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876103345871683584/Y-cKgPel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2958,
+          "following_count": 1739,
+          "like_count": 17117,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 2126
+        },
+        "username": "kirino_ki",
+        "verified": false
+      }
+    ]
+  }
+}

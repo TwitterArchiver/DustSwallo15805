@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945705037470269903",
+    "created_at": "2025-07-17T11:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945811315135770801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1028925064601788417",
+          "start": 0,
+          "username": "BeiKunKun22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945811315135770801",
+    "in_reply_to_user_id": "1028925064601788417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945705037470269903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeiKunKun22 我在济南地铁掏出了琴岛通，这玩意儿立马拿激光射我🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_1945704934466301952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwCIVECWsAA8uKz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945705037470269903",
+        "created_at": "2025-07-17T11:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945811315135770801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1028925064601788417",
+              "start": 0,
+              "username": "BeiKunKun22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945811315135770801",
+        "in_reply_to_user_id": "1028925064601788417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945705037470269903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeiKunKun22 我在济南地铁掏出了琴岛通，这玩意儿立马拿激光射我🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945704934466301952"
+          ]
+        },
+        "author_id": "1028925064601788417",
+        "conversation_id": "1945705037470269903",
+        "created_at": "2025-07-17T04:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945705037470269903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8zAxYPphA",
+              "end": 35,
+              "expanded_url": "https://x.com/BeiKunKun22/status/1945705037470269903/photo/1",
+              "media_key": "3_1945704934466301952",
+              "start": 12,
+              "url": "https://t.co/D8zAxYPphA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945705037470269903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1432,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "近几年济南发展的不错啊 https://t.co/D8zAxYPphA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 275,
+          "like_count": 20253,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 1459
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-13T08:43:46.000Z",
+        "description": "如果你听说我号炸了那就灌注B站。当QQ空间用了。会发自己的想法，主要是Furry、稿子、锐评啥的，如有冒犯可以静音。相信标签不能判定一个具体的人，欢迎私戳刷新真实印象！Arcaea 12.95/maimai 15200/MC/CR/勇士食堂游玩中；苹果全家桶持有者+Steamdeck；兽体至上纯血福瑞控，基本算是没救了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/29110168",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/29110168",
+                "start": 0,
+                "url": "https://t.co/3QXQjcqjac"
+              }
+            ]
+          }
+        },
+        "id": "1028925064601788417",
+        "location": "月球，境外势力",
+        "name": "北冥饼鲲",
+        "pinned_tweet_id": "1584120523180879872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931273783660449792/IIgT5wwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 908,
+          "like_count": 8575,
+          "listed_count": 4,
+          "media_count": 1057,
+          "tweet_count": 4499
+        },
+        "url": "https://t.co/3QXQjcqjac",
+        "username": "BeiKunKun22",
+        "verified": false
+      }
+    ]
+  }
+}

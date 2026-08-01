@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922175139183263746"
+      ],
+      "media_source_tweet_id": [
+        "1922175146875289691"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "1922318376438804577",
+    "created_at": "2025-05-13T15:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922318376438804577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1158521067243106304",
+          "start": 3,
+          "username": "TOKI183kei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BoRPr7X8VR",
+          "end": 84,
+          "expanded_url": "https://x.com/TOKI183kei/status/1922175146875289691/photo/1",
+          "media_key": "3_1922175139183263746",
+          "start": 61,
+          "url": "https://t.co/BoRPr7X8VR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922318376438804577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922175146875289691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKI183kei: 高速走行するE5系の画像生成依頼したのに、何故か「高速道路を走るE5系」が生成された件。 https://t.co/BoRPr7X8VR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1922175139183263746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqzwGt8bAAItxLJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922175139183263746"
+          ],
+          "media_source_tweet_id": [
+            "1922175146875289691"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1922318376438804577",
+        "created_at": "2025-05-13T15:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922318376438804577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1158521067243106304",
+              "start": 3,
+              "username": "TOKI183kei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoRPr7X8VR",
+              "end": 84,
+              "expanded_url": "https://x.com/TOKI183kei/status/1922175146875289691/photo/1",
+              "media_key": "3_1922175139183263746",
+              "start": 61,
+              "url": "https://t.co/BoRPr7X8VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922318376438804577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922175146875289691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKI183kei: 高速走行するE5系の画像生成依頼したのに、何故か「高速道路を走るE5系」が生成された件。 https://t.co/BoRPr7X8VR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922175139183263746"
+          ]
+        },
+        "author_id": "1158521067243106304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1922175146875289691",
+        "created_at": "2025-05-13T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922175146875289691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BoRPr7X8VR",
+              "end": 68,
+              "expanded_url": "https://x.com/TOKI183kei/status/1922175146875289691/photo/1",
+              "media_key": "3_1922175139183263746",
+              "start": 45,
+              "url": "https://t.co/BoRPr7X8VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922175146875289691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 90198,
+          "like_count": 1597,
+          "quote_count": 24,
+          "reply_count": 39,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "高速走行するE5系の画像生成依頼したのに、何故か「高速道路を走るE5系」が生成された件。 https://t.co/BoRPr7X8VR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 180,
+          "like_count": 9833,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 799
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-05T23:32:01.000Z",
+        "description": "チャットGPT生成垢→@13033keihan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "13033keihan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "enpedia.rxy.jp/wiki/%E6%9C%B1…",
+                "end": 23,
+                "expanded_url": "https://enpedia.rxy.jp/wiki/%E6%9C%B1%E9%B7%BA-%E3%81%A8%E3%81%8D-",
+                "start": 0,
+                "url": "https://t.co/hATJ2kAdbk"
+              }
+            ]
+          }
+        },
+        "id": "1158521067243106304",
+        "location": "日本のどこか",
+        "name": "さかばんばすぴすぴす",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912076656103022592/xTHp5qsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26545,
+          "following_count": 26910,
+          "like_count": 54553,
+          "listed_count": 31,
+          "media_count": 3459,
+          "tweet_count": 12596
+        },
+        "url": "https://t.co/hATJ2kAdbk",
+        "username": "TOKI183kei",
+        "verified": false
+      }
+    ]
+  }
+}

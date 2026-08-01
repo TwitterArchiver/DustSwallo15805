@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1939875438530314487",
+    "created_at": "2025-07-01T15:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T16:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940074307625062900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940074307625062900",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939875438530314487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 钞票味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_1939875431454556160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuvSbVBbQAA-fkS.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1939875438530314487",
+        "created_at": "2025-07-01T15:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T16:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940074307625062900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940074307625062900",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939875438530314487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 钞票味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939875431454556160"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1939875438530314487",
+        "created_at": "2025-07-01T02:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T03:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939875438530314487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wzixJMx65x",
+              "end": 23,
+              "expanded_url": "https://x.com/codyhunk/status/1939875438530314487/photo/1",
+              "media_key": "3_1939875431454556160",
+              "start": 0,
+              "url": "https://t.co/wzixJMx65x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939875438530314487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6522,
+          "like_count": 78,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wzixJMx65x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 223,
+          "like_count": 15767,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 1174
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，很喜欢和大家成为朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏（互fo",
+        "pinned_tweet_id": "1939364020395626761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6198,
+          "following_count": 1376,
+          "like_count": 1913,
+          "listed_count": 8,
+          "media_count": 2218,
+          "tweet_count": 2435
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1887078721921626155",
+    "created_at": "2025-02-05T10:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T11:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887082446493212698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "59ryq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887082446493212698",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887078721921626155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@59ryq 吃冰淇淋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1887078721921626155",
+        "created_at": "2025-02-05T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887082446493212698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "59ryq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887082446493212698",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887078721921626155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@59ryq 吃冰淇淋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885970230125473792"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1887078721921626155",
+        "created_at": "2025-02-05T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887078721921626155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pF4GKTlIsI",
+              "end": 23,
+              "expanded_url": "https://x.com/59ryq/status/1887078721921626155/photo/1",
+              "media_key": "3_1885970230125473792",
+              "start": 0,
+              "url": "https://t.co/pF4GKTlIsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887078721921626155",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pF4GKTlIsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 111,
+          "like_count": 5769,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 584
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜JDEsports｜PUBGM Pro Player & Esports Analys｜Language:CN/EN/JP/KR｜Sister & Lover：@xlj070423 @yizhikapaiqaq @iranon_lcf｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "xlj070423"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 160,
+                "start": 147,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUeaH"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "JDEsport",
+        "name": "你是想气死铨酱么🏳️‍⚧️",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16617,
+          "following_count": 4418,
+          "like_count": 169517,
+          "listed_count": 69,
+          "media_count": 4500,
+          "tweet_count": 20988
+        },
+        "url": "https://t.co/6W3mmCUeaH",
+        "username": "59ryq",
+        "verified": true
+      }
+    ]
+  }
+}

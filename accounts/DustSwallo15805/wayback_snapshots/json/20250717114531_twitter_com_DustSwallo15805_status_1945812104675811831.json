@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945771255900287097",
+    "created_at": "2025-07-17T11:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945812104675811831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1809914523714998272",
+          "start": 0,
+          "username": "yusphotograph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945812104675811831",
+    "in_reply_to_user_id": "1809914523714998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945771255900287097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yusphotograph 好可爱🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1945771239928455168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDEojIbYAAIhvw.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945771250485248000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwDEpKdXQAA7fQz.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945771255900287097",
+        "created_at": "2025-07-17T11:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945812104675811831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1809914523714998272",
+              "start": 0,
+              "username": "yusphotograph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945812104675811831",
+        "in_reply_to_user_id": "1809914523714998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945771255900287097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yusphotograph 好可爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945771239928455168",
+            "3_1945771250485248000"
+          ]
+        },
+        "author_id": "1809914523714998272",
+        "conversation_id": "1945771255900287097",
+        "created_at": "2025-07-17T09:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945771255900287097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T5VqtJ3y0e",
+              "end": 63,
+              "expanded_url": "https://x.com/yusphotograph/status/1945771255900287097/photo/1",
+              "media_key": "3_1945771239928455168",
+              "start": 40,
+              "url": "https://t.co/T5VqtJ3y0e"
+            },
+            {
+              "display_url": "pic.x.com/T5VqtJ3y0e",
+              "end": 63,
+              "expanded_url": "https://x.com/yusphotograph/status/1945771255900287097/photo/1",
+              "media_key": "3_1945771250485248000",
+              "start": 40,
+              "url": "https://t.co/T5VqtJ3y0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945771255900287097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 189,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点别的\n主播不拍火车的时候其实超萌：））\n其实是跟朋友出战术娘然后试假发）） https://t.co/T5VqtJ3y0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 275,
+          "like_count": 20255,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 1460
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T11:37:24.000Z",
+        "description": "写真って、時代が変わっても変わることのない愛情表現なんだ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xiaoyucai2077…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@xiaoyucai2077?si=C2n8TBHtGv9G5JiC",
+                "start": 0,
+                "url": "https://t.co/2B5o3zgcO1"
+              }
+            ]
+          }
+        },
+        "id": "1809914523714998272",
+        "location": "GuangZhouDong RailwayStation",
+        "name": "Hikari毓",
+        "pinned_tweet_id": "1825925486243098968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837483826282369024/TgO6f12e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 166,
+          "like_count": 2114,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/2B5o3zgcO1",
+        "username": "yusphotograph",
+        "verified": false
+      }
+    ]
+  }
+}

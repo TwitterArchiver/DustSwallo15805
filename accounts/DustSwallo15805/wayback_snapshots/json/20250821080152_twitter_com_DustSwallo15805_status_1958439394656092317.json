@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1958437298187768159",
+    "created_at": "2025-08-21T08:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T09:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958439394656092317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Benji_Dune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958439394656092317",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958438797244539380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benji_Dune 抱抱，这其中不少都是我先斩后奏自己跑出去玩的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-21T08:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T09:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958439394656092317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Benji_Dune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958439394656092317",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958438797244539380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benji_Dune 抱抱，这其中不少都是我先斩后奏自己跑出去玩的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "1958437298187768159",
+        "created_at": "2025-08-21T07:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T08:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958438797244539380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958438797244539380",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958437298187768159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 😭，家里不让窝单独出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 368,
+          "like_count": 29128,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 1844
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb | 饱饱：@bushi_8964｜有时又是只企鹅？｜小号：@w_mutsumi44 | 姐姐 @Moningmeng ｜高一生｜居住长沙｜是铁佛寺｜事不合格的xnn😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "w_mutsumi44"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFlwV5"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Bernard",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953140400539242496/fqrk2LPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 126,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/hxccVFlwV5",
+        "username": "Benji_Dune",
+        "verified": false
+      }
+    ]
+  }
+}

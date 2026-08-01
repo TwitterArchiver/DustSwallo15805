@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073281871618646016"
+      ],
+      "media_source_tweet_id": [
+        "2073281992892842024"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2073605954432876936",
+    "created_at": "2026-07-05T03:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073605954432876936"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "ヤニねこ"
+        },
+        {
+          "end": 47,
+          "start": 32,
+          "tag": "ChainsmokerCat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794983260386189312",
+          "start": 3,
+          "username": "clancey36"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DyWI7gbdOi",
+          "end": 71,
+          "expanded_url": "https://x.com/clancey36/status/2073281992892842024/photo/1",
+          "media_key": "3_2073281871618646016",
+          "start": 48,
+          "url": "https://t.co/DyWI7gbdOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073605954432876936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 571
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073281992892842024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clancey36: File Photo\n#ヤニねこ #ChainsmokerCat https://t.co/DyWI7gbdOi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2073281871618646016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXG4KUWIAAPJE8.jpg",
+        "width": 2921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073281871618646016"
+          ],
+          "media_source_tweet_id": [
+            "2073281992892842024"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2073605954432876936",
+        "created_at": "2026-07-05T03:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073605954432876936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 47,
+              "start": 32,
+              "tag": "ChainsmokerCat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794983260386189312",
+              "start": 3,
+              "username": "clancey36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyWI7gbdOi",
+              "end": 71,
+              "expanded_url": "https://x.com/clancey36/status/2073281992892842024/photo/1",
+              "media_key": "3_2073281871618646016",
+              "start": 48,
+              "url": "https://t.co/DyWI7gbdOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073605954432876936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 571
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073281992892842024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clancey36: File Photo\n#ヤニねこ #ChainsmokerCat https://t.co/DyWI7gbdOi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073281871618646016"
+          ]
+        },
+        "author_id": "1794983260386189312",
+        "conversation_id": "2073281992892842024",
+        "created_at": "2026-07-04T05:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073281992892842024"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "ヤニねこ"
+            },
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "ChainsmokerCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyWI7gbdOi",
+              "end": 56,
+              "expanded_url": "https://x.com/clancey36/status/2073281992892842024/photo/1",
+              "media_key": "3_2073281871618646016",
+              "start": 33,
+              "url": "https://t.co/DyWI7gbdOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073281992892842024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 45637,
+          "like_count": 6646,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 571
+        },
+        "reply_settings": "everyone",
+        "text": "File Photo\n#ヤニねこ #ChainsmokerCat https://t.co/DyWI7gbdOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 833,
+          "like_count": 82395,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 4180
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-27T06:45:38.000Z",
+        "description": "I won't wake up someday.\nRead my manga: https://t.co/T0JJ6PlrXF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mangadex.org/author/472302c…",
+                "end": 63,
+                "expanded_url": "https://mangadex.org/author/472302cd-0bb0-44d9-ae0f-3a550401881e/clancey-fajardo",
+                "start": 40,
+                "url": "https://t.co/T0JJ6PlrXF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/j8E9mXB",
+                "end": 23,
+                "expanded_url": "https://discord.gg/j8E9mXB",
+                "start": 0,
+                "url": "https://t.co/ktHKjde2TR"
+              }
+            ]
+          }
+        },
+        "id": "1794983260386189312",
+        "location": "Somewhere",
+        "name": "クランセ",
+        "pinned_tweet_id": "2030057485688578280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060077261131276289/BfShO-Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 32,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/ktHKjde2TR",
+        "username": "clancey36",
+        "verified": false
+      }
+    ]
+  }
+}

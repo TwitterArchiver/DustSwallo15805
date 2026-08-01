@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2047849414107201990",
+    "created_at": "2026-04-25T03:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047878254070313255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581226356326617088",
+          "start": 0,
+          "username": "Furina_8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047878254070313255",
+    "in_reply_to_user_id": "1581226356326617088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047849414107201990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Furina_8620 羡慕ｐａｓｓ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 216,
+        "media_key": "16_2047849396369551360",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HGtsLRAa8AAZi33.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HGtsLRAa8AAZi33.mp4"
+          }
+        ],
+        "width": 216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2047849414107201990",
+        "created_at": "2026-04-25T03:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047878254070313255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581226356326617088",
+              "start": 0,
+              "username": "Furina_8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047878254070313255",
+        "in_reply_to_user_id": "1581226356326617088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047849414107201990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Furina_8620 羡慕ｐａｓｓ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2047849396369551360"
+          ]
+        },
+        "author_id": "1581226356326617088",
+        "conversation_id": "2047849414107201990",
+        "created_at": "2026-04-25T01:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047849414107201990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNiimIeKBT",
+              "end": 61,
+              "expanded_url": "https://x.com/Furina_8620/status/2047849414107201990/photo/1",
+              "media_key": "16_2047849396369551360",
+              "start": 38,
+              "url": "https://t.co/zNiimIeKBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047849414107201990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好几次被店员叫妹妹，但是一开口就露馅了😭😭😭只能说一句我不介意这么叫。 https://t.co/zNiimIeKBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 740,
+          "like_count": 75312,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 3960
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "東北亞航空鐵道歷史考據員、鋼琴音樂愛好者，巴別塔建設者，文化评价员｜\n鐵道｜航空｜旅行｜虹咲｜MyGO｜\n斯卡蒂｜陳｜艾雅法拉｜萊茵生命｜AuADHD&🏳️‍⚧️",
+        "id": "1581226356326617088",
+        "location": "普瑞赛斯考察站",
+        "name": "東北亞旅行家雪菜e/acc",
+        "pinned_tweet_id": "2008049582249533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015344776296472579/zMNIS8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 330,
+          "like_count": 7454,
+          "listed_count": 1,
+          "media_count": 500,
+          "tweet_count": 1861
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

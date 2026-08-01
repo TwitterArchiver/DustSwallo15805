@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1987866336215847100",
+    "created_at": "2025-11-10T23:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T00:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988023762491683159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "48198036",
+          "start": 0,
+          "username": "jeadong"
+        },
+        {
+          "end": 23,
+          "id": "894527973839192064",
+          "start": 9,
+          "username": "SarkazWisadel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988023762491683159",
+    "in_reply_to_user_id": "48198036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988004486762426423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeadong @SarkazWisadel 主卡1000，副卡500，消费满五笔免当年年费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1987866336215847100",
+        "created_at": "2025-11-10T23:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T00:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988023762491683159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "48198036",
+              "start": 0,
+              "username": "jeadong"
+            },
+            {
+              "end": 23,
+              "id": "894527973839192064",
+              "start": 9,
+              "username": "SarkazWisadel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988023762491683159",
+        "in_reply_to_user_id": "48198036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988004486762426423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeadong @SarkazWisadel 主卡1000，副卡500，消费满五笔免当年年费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "48198036",
+        "conversation_id": "1987866336215847100",
+        "created_at": "2025-11-10T22:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988004486762426423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "894527973839192064",
+              "start": 0,
+              "username": "SarkazWisadel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988004486762426423",
+        "in_reply_to_user_id": "894527973839192064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987866336215847100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SarkazWisadel Icbc 年费怎么算？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1987725337997001193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 535,
+          "like_count": 51729,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 2859
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-18T01:36:37.000Z",
+        "description": ".Tweets are my own.",
+        "id": "48198036",
+        "name": "Jeadong",
+        "pinned_tweet_id": "1484459911790563333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495301392780521476/IZqvbsc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 649,
+          "like_count": 58325,
+          "listed_count": 13,
+          "media_count": 2460,
+          "tweet_count": 37885
+        },
+        "username": "jeadong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-07T11:57:43.000Z",
+        "description": "⚑ Canada state-affiliated personnel\nUndergrad at UofT(St George), Registered as Liberal\n旅行者。清水日常推。\n好闺蜜@sutanghentian | 超喜欢的魅魔姐姐@yawarakai421 | 杂鱼🌰@Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "yawarakai421"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "https://www.kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/9v78GoBg8E"
+              }
+            ]
+          }
+        },
+        "id": "894527973839192064",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "Kokodayo",
+        "pinned_tweet_id": "1924847655534080159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960487619546243074/D0c1I-cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3997,
+          "following_count": 330,
+          "like_count": 42985,
+          "listed_count": 12,
+          "media_count": 4067,
+          "tweet_count": 23420
+        },
+        "url": "https://t.co/9v78GoBg8E",
+        "username": "SarkazWisadel",
+        "verified": true
+      }
+    ]
+  }
+}

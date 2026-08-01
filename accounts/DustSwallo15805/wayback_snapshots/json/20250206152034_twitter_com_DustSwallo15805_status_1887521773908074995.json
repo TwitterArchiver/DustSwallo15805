@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887427018025017345",
+        "3_1887427020260581376",
+        "3_1887427023364370432",
+        "3_1887427026426208257"
+      ],
+      "media_source_tweet_id": [
+        "1887427031312326794",
+        "1887427031312326794",
+        "1887427031312326794",
+        "1887427031312326794"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1887521773908074995",
+    "created_at": "2025-02-06T15:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T16:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887521773908074995"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "新宿",
+          "probability": 0.8836,
+          "start": 14,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "54198821",
+          "start": 3,
+          "username": "aomu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SlKxOIZVdu",
+          "end": 56,
+          "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+          "media_key": "3_1887427018025017345",
+          "start": 33,
+          "url": "https://t.co/SlKxOIZVdu"
+        },
+        {
+          "display_url": "pic.x.com/SlKxOIZVdu",
+          "end": 56,
+          "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+          "media_key": "3_1887427020260581376",
+          "start": 33,
+          "url": "https://t.co/SlKxOIZVdu"
+        },
+        {
+          "display_url": "pic.x.com/SlKxOIZVdu",
+          "end": 56,
+          "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+          "media_key": "3_1887427023364370432",
+          "start": 33,
+          "url": "https://t.co/SlKxOIZVdu"
+        },
+        {
+          "display_url": "pic.x.com/SlKxOIZVdu",
+          "end": 56,
+          "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+          "media_key": "3_1887427026426208257",
+          "start": 33,
+          "url": "https://t.co/SlKxOIZVdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887521773908074995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887427031312326794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aomu: さっそく新宿にOM-3を見に行ってきました。 https://t.co/SlKxOIZVdu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_1887427018025017345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjF833TbIAEMP2q.jpg",
+        "width": 1024
+      },
+      {
+        "height": 682,
+        "media_key": "3_1887427020260581376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjF83_obIAAD9bn.jpg",
+        "width": 1024
+      },
+      {
+        "height": 682,
+        "media_key": "3_1887427023364370432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjF84LMbMAAbgmT.jpg",
+        "width": 1024
+      },
+      {
+        "height": 682,
+        "media_key": "3_1887427026426208257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjF84WmbIAEiSlB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887427018025017345",
+            "3_1887427020260581376",
+            "3_1887427023364370432",
+            "3_1887427026426208257"
+          ],
+          "media_source_tweet_id": [
+            "1887427031312326794",
+            "1887427031312326794",
+            "1887427031312326794",
+            "1887427031312326794"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1887521773908074995",
+        "created_at": "2025-02-06T15:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T16:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887521773908074995"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "新宿",
+              "probability": 0.8836,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "54198821",
+              "start": 3,
+              "username": "aomu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 56,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427018025017345",
+              "start": 33,
+              "url": "https://t.co/SlKxOIZVdu"
+            },
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 56,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427020260581376",
+              "start": 33,
+              "url": "https://t.co/SlKxOIZVdu"
+            },
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 56,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427023364370432",
+              "start": 33,
+              "url": "https://t.co/SlKxOIZVdu"
+            },
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 56,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427026426208257",
+              "start": 33,
+              "url": "https://t.co/SlKxOIZVdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887521773908074995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887427031312326794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aomu: さっそく新宿にOM-3を見に行ってきました。 https://t.co/SlKxOIZVdu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887427018025017345",
+            "3_1887427020260581376",
+            "3_1887427023364370432",
+            "3_1887427026426208257"
+          ]
+        },
+        "author_id": "54198821",
+        "conversation_id": "1887427031312326794",
+        "created_at": "2025-02-06T09:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T10:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887427031312326794"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "新宿",
+              "probability": 0.8953,
+              "start": 4,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 46,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427018025017345",
+              "start": 23,
+              "url": "https://t.co/SlKxOIZVdu"
+            },
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 46,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427020260581376",
+              "start": 23,
+              "url": "https://t.co/SlKxOIZVdu"
+            },
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 46,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427023364370432",
+              "start": 23,
+              "url": "https://t.co/SlKxOIZVdu"
+            },
+            {
+              "display_url": "pic.x.com/SlKxOIZVdu",
+              "end": 46,
+              "expanded_url": "https://x.com/aomu/status/1887427031312326794/photo/1",
+              "media_key": "3_1887427026426208257",
+              "start": 23,
+              "url": "https://t.co/SlKxOIZVdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887427031312326794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7661,
+          "like_count": 129,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "さっそく新宿にOM-3を見に行ってきました。 https://t.co/SlKxOIZVdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 115,
+          "like_count": 5910,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 600
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-06T13:07:26.000Z",
+        "description": "写真好きな人と繋がる前にまず写真というものはそもそも光の像を感光材に焼き付けて固定し可視化させたものだけど最近は一気にデジタル化してフィルムカメラ全盛期と違って暗室作業は不要になったし画像データとして簡単にコラ画像作ったりコピペして盗作しできてしまう世の中だから昔と全く変わっちゃったよねそれでも繋がりたいなら以下文字数",
+        "id": "54198821",
+        "location": "無限遠69.25mm基線長越しの私の世界",
+        "name": "乙城蒼无(Otusiro, Aomu)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718614912690495488/aFj27v0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 1071,
+          "like_count": 200015,
+          "listed_count": 69,
+          "media_count": 10092,
+          "tweet_count": 34150
+        },
+        "username": "aomu",
+        "verified": false
+      }
+    ]
+  }
+}

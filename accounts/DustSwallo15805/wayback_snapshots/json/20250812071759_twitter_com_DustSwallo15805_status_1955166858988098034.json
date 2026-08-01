@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1955166761822851411",
+    "created_at": "2025-08-12T07:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T08:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955166858988098034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955166858988098034",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955166761822851411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 纪念币😺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955166748317237248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIlzHYawAAYhW1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955166748241694720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIlzHGaEAAGn-_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955166748321390592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIlzHZaIAAc8Am.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955166748338257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyIlzHdbgAA80Yi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1955166761822851411",
+        "created_at": "2025-08-12T07:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955166858988098034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955166858988098034",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955166761822851411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 纪念币😺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955166748317237248",
+            "3_1955166748241694720",
+            "3_1955166748321390592",
+            "3_1955166748338257920"
+          ]
+        },
+        "author_id": "1252463831185371136",
+        "conversation_id": "1955166761822851411",
+        "created_at": "2025-08-12T07:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955166761822851411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8gMQ9c6DmP",
+              "end": 31,
+              "expanded_url": "https://x.com/Dadadajie01/status/1955166761822851411/photo/1",
+              "media_key": "3_1955166748317237248",
+              "start": 8,
+              "url": "https://t.co/8gMQ9c6DmP"
+            },
+            {
+              "display_url": "pic.x.com/8gMQ9c6DmP",
+              "end": 31,
+              "expanded_url": "https://x.com/Dadadajie01/status/1955166761822851411/photo/1",
+              "media_key": "3_1955166748241694720",
+              "start": 8,
+              "url": "https://t.co/8gMQ9c6DmP"
+            },
+            {
+              "display_url": "pic.x.com/8gMQ9c6DmP",
+              "end": 31,
+              "expanded_url": "https://x.com/Dadadajie01/status/1955166761822851411/photo/1",
+              "media_key": "3_1955166748321390592",
+              "start": 8,
+              "url": "https://t.co/8gMQ9c6DmP"
+            },
+            {
+              "display_url": "pic.x.com/8gMQ9c6DmP",
+              "end": 31,
+              "expanded_url": "https://x.com/Dadadajie01/status/1955166761822851411/photo/1",
+              "media_key": "3_1955166748338257920",
+              "start": 8,
+              "url": "https://t.co/8gMQ9c6DmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955166761822851411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶嘿，诶嘿嘿🤤 https://t.co/8gMQ9c6DmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 347,
+          "like_count": 26254,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 1742
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 1987,
+          "like_count": 34153,
+          "listed_count": 8,
+          "media_count": 990,
+          "tweet_count": 5919
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

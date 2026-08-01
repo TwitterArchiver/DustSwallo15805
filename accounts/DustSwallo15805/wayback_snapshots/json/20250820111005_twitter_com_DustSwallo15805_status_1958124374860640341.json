@@ -1,0 +1,634 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958083626694041600"
+      ],
+      "media_source_tweet_id": [
+        "1958084111614243246"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      }
+    ],
+    "conversation_id": "1958124374860640341",
+    "created_at": "2025-08-20T11:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T12:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958124374860640341"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "新幹線N700S",
+          "probability": 0.3018,
+          "start": 20,
+          "type": "Organization"
+        },
+        {
+          "end": 33,
+          "normalized_text": "台湾",
+          "probability": 0.3841,
+          "start": 32,
+          "type": "Place"
+        },
+        {
+          "end": 44,
+          "normalized_text": "N700ST",
+          "probability": 0.392,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "582900934",
+          "start": 3,
+          "username": "tetsudoshimbun"
+        }
+      ],
+      "urls": [
+        {
+          "description": "日時など デビュー時期：2027年 詳しくはこちら（公式リンク） 台灣高鐵ニュースリリース (adsbygoogle = window.adsbygoogle || []).push({});",
+          "display_url": "tetsudo-shimbun.com/headline/entry…",
+          "end": 84,
+          "expanded_url": "https://tetsudo-shimbun.com/headline/entry-4532.html",
+          "start": 61,
+          "status": 200,
+          "title": "台湾高速鉄道、新幹線N700Sベース「N700ST」デビューへ | 鉄道ニュース | 鉄道新聞 - 鉄道ニュース・子鉄イベント情報",
+          "unwound_url": "https://tetsudo-shimbun.com/headline/entry-4532.html",
+          "url": "https://t.co/BIxK97MclJ"
+        },
+        {
+          "display_url": "pic.x.com/ptRDEweRm0",
+          "end": 108,
+          "expanded_url": "https://x.com/tetsudoshimbun/status/1958084111614243246/photo/1",
+          "media_key": "3_1958083626694041600",
+          "start": 85,
+          "url": "https://t.co/ptRDEweRm0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958124374860640341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958084111614243246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tetsudoshimbun: 新幹線N700Sベース、台湾高速鉄道「N700ST」デザインが発表されました！\n\nhttps://t.co/BIxK97MclJ https://t.co/ptRDEweRm0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2513,
+        "media_key": "3_1958083626694041600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyCryGbYAAII_g.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958083626694041600"
+          ],
+          "media_source_tweet_id": [
+            "1958084111614243246"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "1958124374860640341",
+        "created_at": "2025-08-20T11:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T12:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958124374860640341"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "新幹線N700S",
+              "probability": 0.3018,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 33,
+              "normalized_text": "台湾",
+              "probability": 0.3841,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 44,
+              "normalized_text": "N700ST",
+              "probability": 0.392,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "582900934",
+              "start": 3,
+              "username": "tetsudoshimbun"
+            }
+          ],
+          "urls": [
+            {
+              "description": "日時など デビュー時期：2027年 詳しくはこちら（公式リンク） 台灣高鐵ニュースリリース (adsbygoogle = window.adsbygoogle || []).push({});",
+              "display_url": "tetsudo-shimbun.com/headline/entry…",
+              "end": 84,
+              "expanded_url": "https://tetsudo-shimbun.com/headline/entry-4532.html",
+              "start": 61,
+              "status": 200,
+              "title": "台湾高速鉄道、新幹線N700Sベース「N700ST」デビューへ | 鉄道ニュース | 鉄道新聞 - 鉄道ニュース・子鉄イベント情報",
+              "unwound_url": "https://tetsudo-shimbun.com/headline/entry-4532.html",
+              "url": "https://t.co/BIxK97MclJ"
+            },
+            {
+              "display_url": "pic.x.com/ptRDEweRm0",
+              "end": 108,
+              "expanded_url": "https://x.com/tetsudoshimbun/status/1958084111614243246/photo/1",
+              "media_key": "3_1958083626694041600",
+              "start": 85,
+              "url": "https://t.co/ptRDEweRm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958124374860640341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958084111614243246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tetsudoshimbun: 新幹線N700Sベース、台湾高速鉄道「N700ST」デザインが発表されました！\n\nhttps://t.co/BIxK97MclJ https://t.co/ptRDEweRm0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958083626694041600"
+          ]
+        },
+        "author_id": "582900934",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "1958084111614243246",
+        "created_at": "2025-08-20T08:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T09:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958084111614243246"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "台湾",
+              "probability": 0.3733,
+              "start": 12,
+              "type": "Place"
+            },
+            {
+              "end": 24,
+              "normalized_text": "N700ST",
+              "probability": 0.4218,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "日時など デビュー時期：2027年 詳しくはこちら（公式リンク） 台灣高鐵ニュースリリース (adsbygoogle = window.adsbygoogle || []).push({});",
+              "display_url": "tetsudo-shimbun.com/headline/entry…",
+              "end": 64,
+              "expanded_url": "https://tetsudo-shimbun.com/headline/entry-4532.html",
+              "start": 41,
+              "status": 200,
+              "title": "台湾高速鉄道、新幹線N700Sベース「N700ST」デビューへ | 鉄道ニュース | 鉄道新聞 - 鉄道ニュース・子鉄イベント情報",
+              "unwound_url": "https://tetsudo-shimbun.com/headline/entry-4532.html",
+              "url": "https://t.co/BIxK97MclJ"
+            },
+            {
+              "display_url": "pic.x.com/ptRDEweRm0",
+              "end": 88,
+              "expanded_url": "https://x.com/tetsudoshimbun/status/1958084111614243246/photo/1",
+              "media_key": "3_1958083626694041600",
+              "start": 65,
+              "url": "https://t.co/ptRDEweRm0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958084111614243246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 51989,
+          "like_count": 1443,
+          "quote_count": 57,
+          "reply_count": 8,
+          "retweet_count": 549
+        },
+        "reply_settings": "everyone",
+        "text": "新幹線N700Sベース、台湾高速鉄道「N700ST」デザインが発表されました！\n\nhttps://t.co/BIxK97MclJ https://t.co/ptRDEweRm0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 367,
+          "like_count": 28899,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 1834
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-17T15:57:00.000Z",
+        "description": "鉄道会社オフィシャル取材メディア🚃 日本子鉄協会→@kotekyon0812 編集長→@fukuokamakoto 「鉄道新聞」は登録商標です。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "kotekyon0812"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "fukuokamakoto"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tetsudo-shimbun.com",
+                "end": 23,
+                "expanded_url": "https://tetsudo-shimbun.com",
+                "start": 0,
+                "url": "https://t.co/t9TaB7hJPw"
+              }
+            ]
+          }
+        },
+        "id": "582900934",
+        "location": "株式会社 鉄道新聞社　川崎市幸区",
+        "name": "鉄道新聞®︎",
+        "pinned_tweet_id": "1915609881044005111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/678518609505718272/KgCDiO42_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93582,
+          "following_count": 6,
+          "like_count": 3246,
+          "listed_count": 1226,
+          "media_count": 4061,
+          "tweet_count": 6963
+        },
+        "url": "https://t.co/t9TaB7hJPw",
+        "username": "tetsudoshimbun",
+        "verified": false
+      }
+    ]
+  }
+}

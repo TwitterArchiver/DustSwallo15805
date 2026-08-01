@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1822875566858768509",
+    "created_at": "2024-08-12T12:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T13:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822970832936935875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678752278243864576",
+          "start": 0,
+          "username": "hopsydxv29705g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822970832936935875",
+    "in_reply_to_user_id": "1678752278243864576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822875566858768509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hopsydxv29705g 将军的恩情世世代代都还不完🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1822875566858768509",
+        "created_at": "2024-08-12T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822970832936935875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678752278243864576",
+              "start": 0,
+              "username": "hopsydxv29705g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822970832936935875",
+        "in_reply_to_user_id": "1678752278243864576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822875566858768509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hopsydxv29705g 将军的恩情世世代代都还不完🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822875557090258944",
+            "3_1822875557073399808",
+            "3_1822875557077581824"
+          ]
+        },
+        "author_id": "1678752278243864576",
+        "conversation_id": "1822875566858768509",
+        "created_at": "2024-08-12T05:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T06:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822875566858768509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jzmmechkmp",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822875566858768509/photo/1",
+              "media_key": "3_1822875557090258944",
+              "start": 23,
+              "url": "https://t.co/JzmmECHkmP"
+            },
+            {
+              "display_url": "pic.x.com/jzmmechkmp",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822875566858768509/photo/1",
+              "media_key": "3_1822875557073399808",
+              "start": 23,
+              "url": "https://t.co/JzmmECHkmP"
+            },
+            {
+              "display_url": "pic.x.com/jzmmechkmp",
+              "end": 46,
+              "expanded_url": "https://twitter.com/hopsydxv29705g/status/1822875566858768509/photo/1",
+              "media_key": "3_1822875557077581824",
+              "start": 23,
+              "url": "https://t.co/JzmmECHkmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822875566858768509",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10759,
+          "like_count": 85,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "将军的恩情还不完\n绿茶十块钱一瓶是什么高丽贷 https://t.co/JzmmECHkmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759483182888480768/18gLoIwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 114,
+          "like_count": 4025,
+          "listed_count": 0,
+          "tweet_count": 574
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T13:05:37.000Z",
+        "description": "非必要不鉴证人，有时候会分享一些阅读的医学文献（没回fo可能是没看到，请私信）",
+        "id": "1678752278243864576",
+        "location": "哈猫快乐窝",
+        "name": "最🍐指示",
+        "pinned_tweet_id": "1727275999728136393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791622911423627265/QrpRY68d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8595,
+          "following_count": 667,
+          "like_count": 11217,
+          "listed_count": 18,
+          "tweet_count": 6203
+        },
+        "username": "hopsydxv29705g",
+        "verified": false
+      }
+    ]
+  }
+}

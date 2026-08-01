@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964578398657007623",
+        "3_1964578398648619014"
+      ],
+      "media_source_tweet_id": [
+        "1964578410753298803",
+        "1964578410753298803"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325474",
+          "name": "American Express "
+        }
+      }
+    ],
+    "conversation_id": "1965426447738380408",
+    "created_at": "2025-09-09T14:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T15:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965426447738380408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1920198584055836675",
+          "start": 3,
+          "username": "eggs_bened1ct_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JaUQS0Pn2J",
+          "end": 129,
+          "expanded_url": "https://x.com/eggs_bened1ct_/status/1964578410753298803/photo/1",
+          "media_key": "3_1964578398657007623",
+          "start": 106,
+          "url": "https://t.co/JaUQS0Pn2J"
+        },
+        {
+          "display_url": "pic.x.com/JaUQS0Pn2J",
+          "end": 129,
+          "expanded_url": "https://x.com/eggs_bened1ct_/status/1964578410753298803/photo/1",
+          "media_key": "3_1964578398648619014",
+          "start": 106,
+          "url": "https://t.co/JaUQS0Pn2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965426447738380408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964578410753298803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eggs_bened1ct_: 22岁了，不要再炫耀什么汇丰卓越，中银理财了。你apple wallet里存满一堆外卡并不能让你的人生更高级，朋友们掏出房本车钥匙谈事业家庭，你偷偷躲在分行哄骗客户经理😭 https://t.co/JaUQS0Pn2J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964578398657007623",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OVpRFbUAcEHiQ.jpg",
+        "width": 1060
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964578398648619014",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OVpRDbUAY36dy.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964578398657007623",
+            "3_1964578398648619014"
+          ],
+          "media_source_tweet_id": [
+            "1964578410753298803",
+            "1964578410753298803"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "1965426447738380408",
+        "created_at": "2025-09-09T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965426447738380408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1920198584055836675",
+              "start": 3,
+              "username": "eggs_bened1ct_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaUQS0Pn2J",
+              "end": 129,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1964578410753298803/photo/1",
+              "media_key": "3_1964578398657007623",
+              "start": 106,
+              "url": "https://t.co/JaUQS0Pn2J"
+            },
+            {
+              "display_url": "pic.x.com/JaUQS0Pn2J",
+              "end": 129,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1964578410753298803/photo/1",
+              "media_key": "3_1964578398648619014",
+              "start": 106,
+              "url": "https://t.co/JaUQS0Pn2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965426447738380408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964578410753298803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eggs_bened1ct_: 22岁了，不要再炫耀什么汇丰卓越，中银理财了。你apple wallet里存满一堆外卡并不能让你的人生更高级，朋友们掏出房本车钥匙谈事业家庭，你偷偷躲在分行哄骗客户经理😭 https://t.co/JaUQS0Pn2J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964578398657007623",
+            "3_1964578398648619014"
+          ]
+        },
+        "author_id": "1920198584055836675",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "1964578410753298803",
+        "created_at": "2025-09-07T06:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964578410753298803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaUQS0Pn2J",
+              "end": 109,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1964578410753298803/photo/1",
+              "media_key": "3_1964578398657007623",
+              "start": 86,
+              "url": "https://t.co/JaUQS0Pn2J"
+            },
+            {
+              "display_url": "pic.x.com/JaUQS0Pn2J",
+              "end": 109,
+              "expanded_url": "https://x.com/eggs_bened1ct_/status/1964578410753298803/photo/1",
+              "media_key": "3_1964578398648619014",
+              "start": 86,
+              "url": "https://t.co/JaUQS0Pn2J"
+            },
+            {
+              "display_url": "x.com/chisen_lupus/s…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/chisen_lupus/status/1963863777012842787",
+              "start": 110,
+              "url": "https://t.co/EJ5srXNOMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964578410753298803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 123922,
+          "like_count": 459,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963863777012842787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "22岁了，不要再炫耀什么汇丰卓越，中银理财了。你apple wallet里存满一堆外卡并不能让你的人生更高级，朋友们掏出房本车钥匙谈事业家庭，你偷偷躲在分行哄骗客户经理😭 https://t.co/JaUQS0Pn2J https://t.co/EJ5srXNOMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象顺男｜永远不会翻车｜铁道、集邮、摄影、卡迷｜攒钱买徕卡m6｜攒钱买奥林巴斯em5｜喜欢全国各地乱跑｜黄河入海，各回各家｜06年老登😭｜可爱xyn：@tim_Pan_5|感谢关注喵｜欢迎找我交换明信片喵｜到500fo咱再抽个奖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "tim_Pan_5"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济南铁路局",
+        "name": "沙老师不是纱老师（SwallowingDust）",
+        "pinned_tweet_id": "1965392032257769567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960616653034807296/fKv7Qs5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 441,
+          "like_count": 35941,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 2259
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T19:26:42.000Z",
+        "description": "🇭🇰Base in Great Bay Area, 👨‍🎓MSc, 🫧Multi-lingual: 🇨🇳zh-cn/🇭🇰zh-hk/🇬🇧en-uk/🇰🇷ko-kr/🇯🇵ja-jp. 🗣️Politics, 🔞Porno contents are 🚫BANNED here.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eggs_bened1ct_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eggs_bened1ct_",
+                "start": 0,
+                "url": "https://t.co/JqDTYgqToY"
+              }
+            ]
+          }
+        },
+        "id": "1920198584055836675",
+        "location": "Great Bay Area🇨🇳🇭🇰🇲🇴",
+        "name": "蛋蓝",
+        "pinned_tweet_id": "1946481229626487254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925898360784822273/SZlhk8XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 466,
+          "like_count": 15107,
+          "listed_count": 1,
+          "media_count": 393,
+          "tweet_count": 4802
+        },
+        "url": "https://t.co/JqDTYgqToY",
+        "username": "eggs_bened1ct_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945822446881579102",
+    "created_at": "2025-07-18T00:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T01:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945999825788633309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669667793699225600",
+          "start": 0,
+          "username": "kig999164149189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945999825788633309",
+    "in_reply_to_user_id": "1669667793699225600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2818,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945999072474862012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kig999164149189 麻酱酸奶🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945822446881579102",
+        "created_at": "2025-07-18T00:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945999825788633309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669667793699225600",
+              "start": 0,
+              "username": "kig999164149189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945999825788633309",
+        "in_reply_to_user_id": "1669667793699225600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2818,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945999072474862012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kig999164149189 麻酱酸奶🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669667793699225600",
+        "conversation_id": "1945822446881579102",
+        "created_at": "2025-07-18T00:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945999072474862012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945999072474862012",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2918,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945822446881579102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 海河乳业:🤓👆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 283,
+          "like_count": 20711,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 1493
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T11:26:49.000Z",
+        "description": "",
+        "id": "1669667793699225600",
+        "location": "People's Republic of China",
+        "name": "✄＝＝つ 🥲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846548648135659520/9umNkYoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 673,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 321
+        },
+        "username": "kig999164149189",
+        "verified": false
+      }
+    ]
+  }
+}

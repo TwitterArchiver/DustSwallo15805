@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928340721817505796"
+      ],
+      "media_source_tweet_id": [
+        "1928340728821993767"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1928418035951427898",
+    "created_at": "2025-05-30T11:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T12:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928418035951427898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1158521067243106304",
+          "start": 3,
+          "username": "TOKI183kei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pNnhKEe2Z",
+          "end": 54,
+          "expanded_url": "https://x.com/TOKI183kei/status/1928340728821993767/photo/1",
+          "media_key": "3_1928340721817505796",
+          "start": 31,
+          "url": "https://t.co/6pNnhKEe2Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928418035951427898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928340728821993767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKI183kei: 美味しそうなN700系だなぁ https://t.co/6pNnhKEe2Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1928340721817505796",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLXq3HaUAQu8UO.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928340721817505796"
+          ],
+          "media_source_tweet_id": [
+            "1928340728821993767"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1928418035951427898",
+        "created_at": "2025-05-30T11:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928418035951427898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1158521067243106304",
+              "start": 3,
+              "username": "TOKI183kei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pNnhKEe2Z",
+              "end": 54,
+              "expanded_url": "https://x.com/TOKI183kei/status/1928340728821993767/photo/1",
+              "media_key": "3_1928340721817505796",
+              "start": 31,
+              "url": "https://t.co/6pNnhKEe2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928418035951427898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928340728821993767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKI183kei: 美味しそうなN700系だなぁ https://t.co/6pNnhKEe2Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928340721817505796"
+          ]
+        },
+        "author_id": "1158521067243106304",
+        "conversation_id": "1928340728821993767",
+        "created_at": "2025-05-30T06:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T07:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928340728821993767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pNnhKEe2Z",
+              "end": 38,
+              "expanded_url": "https://x.com/TOKI183kei/status/1928340728821993767/photo/1",
+              "media_key": "3_1928340721817505796",
+              "start": 15,
+              "url": "https://t.co/6pNnhKEe2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928340728821993767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2086,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "美味しそうなN700系だなぁ https://t.co/6pNnhKEe2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 181,
+          "like_count": 11311,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 866
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-05T23:32:01.000Z",
+        "description": "チャットGPT生成垢→@13033keihan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "13033keihan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "enpedia.rxy.jp/wiki/%E6%9C%B1…",
+                "end": 23,
+                "expanded_url": "https://enpedia.rxy.jp/wiki/%E6%9C%B1%E9%B7%BA-%E3%81%A8%E3%81%8D-",
+                "start": 0,
+                "url": "https://t.co/hATJ2kAdbk"
+              }
+            ]
+          }
+        },
+        "id": "1158521067243106304",
+        "location": "日本のどこか",
+        "name": "さかばんばすぴすぴす",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912076656103022592/xTHp5qsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26637,
+          "following_count": 26972,
+          "like_count": 56269,
+          "listed_count": 33,
+          "media_count": 3561,
+          "tweet_count": 12863
+        },
+        "url": "https://t.co/hATJ2kAdbk",
+        "username": "TOKI183kei",
+        "verified": false
+      }
+    ]
+  }
+}

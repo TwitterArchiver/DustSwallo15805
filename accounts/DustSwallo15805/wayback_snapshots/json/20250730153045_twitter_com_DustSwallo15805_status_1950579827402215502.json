@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1950561863533773005",
+    "created_at": "2025-07-30T15:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T16:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950579827402215502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678655311006273536",
+          "start": 0,
+          "username": "EimeiLait"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950579827402215502",
+    "in_reply_to_user_id": "1678655311006273536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950564132333445529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EimeiLait 反正我们双方水平就这么旗鼓相当😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1950561863533773005",
+        "created_at": "2025-07-30T15:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T16:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950579827402215502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950579827402215502",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950564132333445529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait 反正我们双方水平就这么旗鼓相当😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678655311006273536",
+        "conversation_id": "1950561863533773005",
+        "created_at": "2025-07-30T14:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950564132333445529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950564132333445529",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950561863533773005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 收寄局：明信片不合规、明信片地址书写不合规\n投递局：不盖投递戳不合规\n\n这下双方得利了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 313,
+          "like_count": 23412,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1604
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "Ei. Si. Laitus｜萊・ライ｜BA4RRA｜Lat L.Zomina崇明说话｜Postxing Photography ARCAEA maimaiDX Arknights｜LVNARIA ⑴†Iuli MMXXIV ｜HRT Iuli MMXXV｜卯 @jnmo327284｜AUTOLIKE MODE on",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "jnmo327284"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eimei-laitus.straw.page",
+                "end": 23,
+                "expanded_url": "http://eimei-laitus.straw.page",
+                "start": 0,
+                "url": "https://t.co/ZNM4L4Uaop"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "location": "Terra",
+        "name": "墨落莱 Laitus",
+        "pinned_tweet_id": "1774840045582901374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754530612181078016/-hANndZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 336,
+          "like_count": 63873,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1348
+        },
+        "url": "https://t.co/ZNM4L4Uaop",
+        "username": "EimeiLait",
+        "verified": false
+      }
+    ]
+  }
+}

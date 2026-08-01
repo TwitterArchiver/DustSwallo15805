@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1885943402279100696",
+    "created_at": "2025-02-04T04:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T05:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886627367369818514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1704864749501165568",
+          "start": 0,
+          "username": "LTYY_SOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886627367369818514",
+    "in_reply_to_user_id": "1704864749501165568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885943402279100696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LTYY_SOE 大水冲了龙王庙🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1885943402279100696",
+        "created_at": "2025-02-04T04:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886627367369818514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1704864749501165568",
+              "start": 0,
+              "username": "LTYY_SOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886627367369818514",
+        "in_reply_to_user_id": "1704864749501165568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885943402279100696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LTYY_SOE 大水冲了龙王庙🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885943397409595392"
+          ]
+        },
+        "author_id": "1704864749501165568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885943402279100696",
+        "created_at": "2025-02-02T06:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T07:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885943402279100696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RDxCur6he",
+              "end": 37,
+              "expanded_url": "https://x.com/LTYY_SOE/status/1885943402279100696/photo/1",
+              "media_key": "3_1885943397409595392",
+              "start": 14,
+              "url": "https://t.co/8RDxCur6he"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885943402279100696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4133,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要用魔法打败魔法\n——老爹 https://t.co/8RDxCur6he"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 108,
+          "like_count": 5560,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 577
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T14:27:09.000Z",
+        "description": "该号由生活号管理且仅用于发图投票，可能抽风‖一般搬图和投票，有时自己做图😾‖回复我的帖子如果我看到了一定会点赞😸‖互fo请✉️，不主动互fo‖下方网址为匿名私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ltyy_soe",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ltyy_soe",
+                "start": 0,
+                "url": "https://t.co/4FhZ2Oz69z"
+              }
+            ]
+          }
+        },
+        "id": "1704864749501165568",
+        "location": "Hell of Eden",
+        "name": "浪影微光",
+        "pinned_tweet_id": "1885448919926157550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885444419769257985/3erudX62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 55,
+          "like_count": 6191,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/4FhZ2Oz69z",
+        "username": "LTYY_SOE",
+        "verified": false
+      }
+    ]
+  }
+}

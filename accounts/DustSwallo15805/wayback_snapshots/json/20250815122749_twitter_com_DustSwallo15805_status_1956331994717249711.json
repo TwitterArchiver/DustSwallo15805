@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956331981266173952"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1956331994717249711",
+    "created_at": "2025-08-15T12:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T13:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956331994717249711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NLH4mHI4Mf",
+          "end": 39,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1956331994717249711/photo/1",
+          "media_key": "3_1956331981266173952",
+          "start": 16,
+          "url": "https://t.co/NLH4mHI4Mf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956331994717249711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是你上任机主欠费，为嘛找我😡 https://t.co/NLH4mHI4Mf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_1956331981266173952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZJkmYbQAA_LYb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956331981266173952"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1956331994717249711",
+        "created_at": "2025-08-15T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956331994717249711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NLH4mHI4Mf",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1956331994717249711/photo/1",
+              "media_key": "3_1956331981266173952",
+              "start": 16,
+              "url": "https://t.co/NLH4mHI4Mf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956331994717249711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是你上任机主欠费，为嘛找我😡 https://t.co/NLH4mHI4Mf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 354,
+          "like_count": 27172,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1786
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

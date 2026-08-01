@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1945071250692562946"
+      ],
+      "media_source_tweet_id": [
+        "1945071268778389850"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1945684847286206543",
+    "created_at": "2025-07-17T03:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T04:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945684847286206543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1660708799374843905",
+          "start": 3,
+          "username": "ggininder64"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V2tjERGUEx",
+          "end": 51,
+          "expanded_url": "https://x.com/ggininder64/status/1945071268778389850/video/1",
+          "media_key": "7_1945071250692562946",
+          "start": 28,
+          "url": "https://t.co/V2tjERGUEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945684847286206543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945071268778389850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggininder64: 我知道 你媽是紅姐嘛 https://t.co/V2tjERGUEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8337,
+        "height": 734,
+        "media_key": "7_1945071250692562946",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1945071250692562946/pu/img/EDfzqZ-MGdz0QiYl.jpg",
+        "public_metrics": {
+          "view_count": 5725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945071250692562946/pu/vid/avc1/320x326/PMPxFm_eK79kycO2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945071250692562946/pu/vid/avc1/480x488/jQ1NOmglNKLwaa6P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1945071250692562946/pu/vid/avc1/720x734/xkn6L2NMev7U0id9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1945071250692562946/pu/pl/3ReTncJIqxXioTqG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945071250692562946"
+          ],
+          "media_source_tweet_id": [
+            "1945071268778389850"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1945684847286206543",
+        "created_at": "2025-07-17T03:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945684847286206543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1660708799374843905",
+              "start": 3,
+              "username": "ggininder64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2tjERGUEx",
+              "end": 51,
+              "expanded_url": "https://x.com/ggininder64/status/1945071268778389850/video/1",
+              "media_key": "7_1945071250692562946",
+              "start": 28,
+              "url": "https://t.co/V2tjERGUEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945684847286206543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945071268778389850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggininder64: 我知道 你媽是紅姐嘛 https://t.co/V2tjERGUEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1945071250692562946"
+          ]
+        },
+        "author_id": "1660708799374843905",
+        "conversation_id": "1945071268778389850",
+        "created_at": "2025-07-15T10:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945071268778389850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2tjERGUEx",
+              "end": 34,
+              "expanded_url": "https://x.com/ggininder64/status/1945071268778389850/video/1",
+              "media_key": "7_1945071250692562946",
+              "start": 11,
+              "url": "https://t.co/V2tjERGUEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945071268778389850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16544,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我知道 你媽是紅姐嘛 https://t.co/V2tjERGUEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 274,
+          "like_count": 20101,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 1451
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T18:06:53.000Z",
+        "description": "Republic of China (Taiwan) 🇹🇼\n\nAnti the CCP and pink\n\nAnti maga and alt right\n\npro🏳️‍🌈🏳️‍⚧️",
+        "id": "1660708799374843905",
+        "name": "史密斯🇹🇼🇯🇵🇰🇷",
+        "pinned_tweet_id": "1761700061531226282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942534230669512704/jZ5e8xMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 6493,
+          "like_count": 59389,
+          "listed_count": 24,
+          "media_count": 2279,
+          "tweet_count": 27975
+        },
+        "username": "ggininder64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1951176622159307206",
+    "created_at": "2025-08-01T10:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T11:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951225746552471867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        },
+        {
+          "end": 24,
+          "id": "1292644921095192577",
+          "start": 12,
+          "username": "misaka10367"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951225746552471867",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951176622159307206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 @misaka10367"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1951176622159307206",
+        "created_at": "2025-08-01T10:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951225746552471867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            },
+            {
+              "end": 24,
+              "id": "1292644921095192577",
+              "start": 12,
+              "username": "misaka10367"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951225746552471867",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951176622159307206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 @misaka10367"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1951176622159307206",
+        "created_at": "2025-08-01T07:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T08:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951176622159307206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951176622159307206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1147,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘奔现，对象是碑林人。\n\n药娘：西安和苏州一样没有机场吗\n对象：不是的，机场在咸阳。\n药娘：哦哦。\n药娘：那馍怎么掰啊？\n对象：要掰到比你的牛子小。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "反正很抽象就对了",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 317,
+          "like_count": 23858,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 1642
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "戈培猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18163,
+          "following_count": 186,
+          "like_count": 569,
+          "listed_count": 65,
+          "media_count": 89,
+          "tweet_count": 18197
+        },
+        "username": "B_cat38324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-10T02:12:32.000Z",
+        "description": "简介见置顶\n千年古都，常来长安（常驻这里）\n资料图是搞抽象\n看看这个吧https://t.co/aQRZU4ih96",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/misaka10367",
+                "end": 58,
+                "expanded_url": "https://ngl.link/misaka10367",
+                "start": 35,
+                "url": "https://t.co/aQRZU4ih96"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/misaka10367",
+                "end": 23,
+                "expanded_url": "http://t.me/misaka10367",
+                "start": 0,
+                "url": "https://t.co/mCanTSNkMP"
+              }
+            ]
+          }
+        },
+        "id": "1292644921095192577",
+        "name": "不起名字了反正你们也记不住",
+        "pinned_tweet_id": "1946242351669584132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945146924698316800/Tm0O6GgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 360,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/mCanTSNkMP",
+        "username": "misaka10367",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1952593945378332994",
+    "created_at": "2025-08-05T04:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T05:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952593945378332994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792575947469975552",
+          "start": 3,
+          "username": "Chigine1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952593945378332994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952364174287483237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chigine1: 冷知识，沙东的同性恋比例在全国省份排行第四"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1952593945378332994",
+        "created_at": "2025-08-05T04:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952593945378332994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792575947469975552",
+              "start": 3,
+              "username": "Chigine1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952593945378332994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952364174287483237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chigine1: 冷知识，沙东的同性恋比例在全国省份排行第四"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792575947469975552",
+        "conversation_id": "1952364174287483237",
+        "created_at": "2025-08-04T13:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T14:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952364174287483237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952364174287483237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15498,
+          "like_count": 170,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识，沙东的同性恋比例在全国省份排行第四"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "抽象就对了，我还是少点不切实际的幻想吧",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 333,
+          "like_count": 25040,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 1702
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T15:19:52.000Z",
+        "description": "发疯文字和键政内容（正在减少键政） 想到什么说什么 缺乏立场性 以前是做题蛆现在也是 在补充阅读量 长年唯心主义实践者 中原官话/普通话/英语 CPMandarin/Mandarin/English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chigine1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chigine1",
+                "start": 0,
+                "url": "https://t.co/Ii6gF9bQKi"
+              }
+            ]
+          }
+        },
+        "id": "1792575947469975552",
+        "location": "中国上海市宝山区上大路99号",
+        "name": "𝕮𝖍𝖎𝖌𝖎𝖓𝖊금기산",
+        "pinned_tweet_id": "1951995151645024621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915831868836220931/z8i5_a8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1069,
+          "like_count": 62322,
+          "listed_count": 6,
+          "media_count": 1192,
+          "tweet_count": 12780
+        },
+        "url": "https://t.co/Ii6gF9bQKi",
+        "username": "Chigine1",
+        "verified": true
+      }
+    ]
+  }
+}

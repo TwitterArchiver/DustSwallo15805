@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945465032436826112"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405583886260736000",
+          "name": "Night scapes"
+        }
+      }
+    ],
+    "conversation_id": "1945363500597194875",
+    "created_at": "2025-07-16T12:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945465046022389764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYwrJRcP1J",
+          "end": 40,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1945465046022389764/photo/1",
+          "media_key": "3_1945465032436826112",
+          "start": 17,
+          "url": "https://t.co/mYwrJRcP1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945465046022389764",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945363500597194875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ 夜景版 https://t.co/mYwrJRcP1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945465032436826112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-uI7VXQAAacPZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945363488278290432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9RyR3XoAAd646.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945465032436826112"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405583886260736000",
+              "name": "Night scapes"
+            }
+          }
+        ],
+        "conversation_id": "1945363500597194875",
+        "created_at": "2025-07-16T12:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945465046022389764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYwrJRcP1J",
+              "end": 40,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1945465046022389764/photo/1",
+              "media_key": "3_1945465032436826112",
+              "start": 17,
+              "url": "https://t.co/mYwrJRcP1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945465046022389764",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945363500597194875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 夜景版 https://t.co/mYwrJRcP1J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945363488278290432"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "1945363500597194875",
+        "created_at": "2025-07-16T06:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945363500597194875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGxF0bFuSd",
+              "end": 32,
+              "expanded_url": "https://x.com/kujirarara_/status/1945363500597194875/photo/1",
+              "media_key": "3_1945363488278290432",
+              "start": 9,
+              "url": "https://t.co/mGxF0bFuSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945363500597194875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1385,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天气真好（热）喵 https://t.co/mGxF0bFuSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "我来广东就办三件事：买徕卡、打红纸票还有拍扫把",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 268,
+          "like_count": 19985,
+          "listed_count": 0,
+          "media_count": 358,
+          "tweet_count": 1444
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "Cities: Skylines player from China | Luxemburgist | She/Her | MtF | Chinese/English | 天际线相关/铁道相关/日常推 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "Lanjing_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943529284238548992/klMzxP2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 461,
+          "like_count": 65786,
+          "listed_count": 13,
+          "media_count": 998,
+          "tweet_count": 3735
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

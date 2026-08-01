@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017862685627715585"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2017854588498633207",
+    "created_at": "2026-02-01T07:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T08:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017862694809047265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qE3Q481qo",
+          "end": 39,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2017862694809047265/photo/1",
+          "media_key": "3_2017862685627715585",
+          "start": 16,
+          "url": "https://t.co/5qE3Q481qo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017862694809047265",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017854588498633207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 圈内贴贴咪 https://t.co/5qE3Q481qo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_2017862685627715585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADja-ZbEAEyN9m.jpg",
+        "width": 437
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2017854584266657792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADcDaebkAAtzzO.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017862685627715585"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2017854588498633207",
+        "created_at": "2026-02-01T07:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017862694809047265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qE3Q481qo",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2017862694809047265/photo/1",
+              "media_key": "3_2017862685627715585",
+              "start": 16,
+              "url": "https://t.co/5qE3Q481qo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017862694809047265",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017854588498633207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 圈内贴贴咪 https://t.co/5qE3Q481qo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017854584266657792"
+          ]
+        },
+        "author_id": "1254442404410621958",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2017854588498633207",
+        "created_at": "2026-02-01T06:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T07:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017854588498633207"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Twitter",
+              "probability": 0.9687,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 57,
+              "expanded_url": "https://infinitetweet.me/interaction-circle",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2015765376987017216/iY6SGKL9?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015765376987017216/iY6SGKL9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle",
+              "url": "https://t.co/arm0Nkzs3o"
+            },
+            {
+              "display_url": "pic.x.com/73uZFqdqrA",
+              "end": 81,
+              "expanded_url": "https://x.com/zwh20081/status/2017854588498633207/photo/1",
+              "media_key": "3_2017854584266657792",
+              "start": 58,
+              "url": "https://t.co/73uZFqdqrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017854588498633207",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 159,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "My Twitter Interaction Circle\n\n➡️ https://t.co/arm0Nkzs3o https://t.co/73uZFqdqrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 630,
+          "like_count": 64519,
+          "listed_count": 3,
+          "media_count": 612,
+          "tweet_count": 3502
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEo\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务\n💖 @Littleloong233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 132,
+                "username": "Littleloong233"
+              }
+            ]
+          }
+        },
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015805547640156161/ieeIZz3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 167,
+          "like_count": 7553,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 4497
+        },
+        "username": "zwh20081",
+        "verified": true
+      }
+    ]
+  }
+}

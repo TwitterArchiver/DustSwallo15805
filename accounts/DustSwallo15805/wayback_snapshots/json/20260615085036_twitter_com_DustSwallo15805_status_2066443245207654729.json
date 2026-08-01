@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066443237418811392"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2066443245207654729",
+    "created_at": "2026-06-15T08:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T09:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066443245207654729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKeKQfb3vX",
+          "end": 29,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2066443245207654729/photo/1",
+          "media_key": "3_2066443237418811392",
+          "start": 6,
+          "url": "https://t.co/sKeKQfb3vX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066443245207654729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是莱莱汁 https://t.co/sKeKQfb3vX"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "莱莱汁",
+        "height": 2048,
+        "media_key": "3_2066443237418811392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK17LQrbQAAaUo5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066443237418811392"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2066443245207654729",
+        "created_at": "2026-06-15T08:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066443245207654729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKeKQfb3vX",
+              "end": 29,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2066443245207654729/photo/1",
+              "media_key": "3_2066443237418811392",
+              "start": 6,
+              "url": "https://t.co/sKeKQfb3vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066443245207654729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是莱莱汁 https://t.co/sKeKQfb3vX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065782200650616832/_D7UYYv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 782,
+          "like_count": 79775,
+          "listed_count": 4,
+          "media_count": 702,
+          "tweet_count": 4094
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

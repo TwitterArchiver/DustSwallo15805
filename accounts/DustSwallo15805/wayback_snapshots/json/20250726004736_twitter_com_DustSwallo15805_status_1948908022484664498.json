@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1948887722128801886",
+    "created_at": "2025-07-26T00:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T01:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948908022484664498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1425888111859363842",
+          "start": 0,
+          "username": "Anataha_sakana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948908022484664498",
+    "in_reply_to_user_id": "1425888111859363842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948887722128801886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anataha_sakana 同！意！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1948887722128801886",
+        "created_at": "2025-07-26T00:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T01:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948908022484664498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1425888111859363842",
+              "start": 0,
+              "username": "Anataha_sakana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948908022484664498",
+        "in_reply_to_user_id": "1425888111859363842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948887722128801886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anataha_sakana 同！意！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425888111859363842",
+        "conversation_id": "1948887722128801886",
+        "created_at": "2025-07-25T23:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T00:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948887722128801886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948887722128801886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊nmd傻逼酒桌文化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "啊",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 308,
+          "like_count": 23089,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 1578
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T18:33:19.000Z",
+        "description": "只是一个npc   /📬：lishiyu135@gmail.com   /防失联安全屋@anataha_sakana2\n/提问箱：https://t.co/uL768kECLi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "anataha_sakana2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/anataha_sakana",
+                "end": 88,
+                "expanded_url": "https://ngl.link/anataha_sakana",
+                "start": 65,
+                "url": "https://t.co/uL768kECLi"
+              }
+            ]
+          }
+        },
+        "id": "1425888111859363842",
+        "location": "Beijing",
+        "name": "Anataha_Sakana",
+        "pinned_tweet_id": "1712117803455852794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889708317590822917/8u44zi_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 2821,
+          "like_count": 39302,
+          "listed_count": 6,
+          "media_count": 2127,
+          "tweet_count": 18097
+        },
+        "username": "Anataha_sakana",
+        "verified": false
+      }
+    ]
+  }
+}

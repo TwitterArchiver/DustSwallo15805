@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1885220070026338759",
+    "created_at": "2025-01-31T10:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T11:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885273828424909145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1475153559427563522",
+          "start": 0,
+          "username": "114514dxp"
+        },
+        {
+          "end": 24,
+          "id": "1680834021377593344",
+          "start": 11,
+          "username": "Inhara_Akime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885273828424909145",
+    "in_reply_to_user_id": "1475153559427563522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885232915715592605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514dxp @Inhara_Akime 不过，8964这事我们历史老师真讲过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1885220070026338759",
+        "created_at": "2025-01-31T10:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T11:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885273828424909145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1475153559427563522",
+              "start": 0,
+              "username": "114514dxp"
+            },
+            {
+              "end": 24,
+              "id": "1680834021377593344",
+              "start": 11,
+              "username": "Inhara_Akime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885273828424909145",
+        "in_reply_to_user_id": "1475153559427563522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885232915715592605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514dxp @Inhara_Akime 不过，8964这事我们历史老师真讲过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475153559427563522",
+        "conversation_id": "1885220070026338759",
+        "created_at": "2025-01-31T07:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T08:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885232915715592605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "Inhara_Akime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885232915715592605",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885220070026338759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inhara_Akime 二战史有啥关门的，又不是讲8964"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 97,
+          "like_count": 5059,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 550
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T17:16:43.000Z",
+        "description": "航天爱好者",
+        "id": "1475153559427563522",
+        "name": "小平的十个如果",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789337449078140928/N5R22yCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11399,
+          "following_count": 939,
+          "like_count": 31250,
+          "listed_count": 22,
+          "media_count": 1510,
+          "tweet_count": 23101
+        },
+        "username": "114514dxp",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "HRT：14/01/2025 その時僕は、僕を忘れてほしいのです",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原アキメ🍥🫖",
+        "pinned_tweet_id": "1883003772760367489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885264863385313283/jf6LodvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 930,
+          "like_count": 62311,
+          "listed_count": 13,
+          "media_count": 3499,
+          "tweet_count": 20783
+        },
+        "username": "Inhara_Akime",
+        "verified": false
+      }
+    ]
+  }
+}

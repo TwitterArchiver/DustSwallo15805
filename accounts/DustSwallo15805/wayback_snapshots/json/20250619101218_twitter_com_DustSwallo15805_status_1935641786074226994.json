@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1935638349559239016",
+    "created_at": "2025-06-19T10:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T11:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935641786074226994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581226356326617088",
+          "start": 0,
+          "username": "Tomorin_Furina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935641786074226994",
+    "in_reply_to_user_id": "1581226356326617088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935641682676174979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tomorin_Furina 羡慕，看看喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1935638349559239016",
+        "created_at": "2025-06-19T10:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935641786074226994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581226356326617088",
+              "start": 0,
+              "username": "Tomorin_Furina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935641786074226994",
+        "in_reply_to_user_id": "1581226356326617088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935641682676174979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tomorin_Furina 羡慕，看看喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581226356326617088",
+        "conversation_id": "1935638349559239016",
+        "created_at": "2025-06-19T10:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935641682676174979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935641682676174979",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935638349559239016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 我这有狒狒王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 198,
+          "like_count": 13000,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1019
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "迷子火車飛機攝影運轉計畫/中國鐵路哈爾濱局&瀋陽局集團/遠視主義/音樂爱好者&鋼琴业余十级/ASD譜系&ADHD&MTF/無法治療自我的心理学家/時代症候/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/0HjEqy3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/0HjEqy3",
+                "start": 0,
+                "url": "https://t.co/4vx1xV25VX"
+              }
+            ]
+          }
+        },
+        "id": "1581226356326617088",
+        "location": "拉特蘭城_方糖咖啡館",
+        "name": "迷子萬里通～芙寧娜Tenshi",
+        "pinned_tweet_id": "1890097786978517434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911542337890574337/0oUb7gje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 319,
+          "like_count": 4438,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 919
+        },
+        "url": "https://t.co/4vx1xV25VX",
+        "username": "Tomorin_Furina",
+        "verified": false
+      }
+    ]
+  }
+}

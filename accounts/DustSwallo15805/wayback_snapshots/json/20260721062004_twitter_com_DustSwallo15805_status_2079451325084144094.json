@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079451319203708928"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2079375050055336359",
+    "created_at": "2026-07-21T06:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079451325084144094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XyyeGhgtc0",
+          "end": 36,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2079451325084144094/photo/1",
+          "media_key": "3_2079451319203708928",
+          "start": 13,
+          "url": "https://t.co/XyyeGhgtc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079451325084144094",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079375050055336359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 对😺 https://t.co/XyyeGhgtc0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079451319203708928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNux9RjawAAgpTR.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079375043671494656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtsldDaEAAzxIu.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079375043730300928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtsldRbYAA0Fl3.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079375043675713536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtsldEacAAIlId.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079451319203708928"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2079375050055336359",
+        "created_at": "2026-07-21T06:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079451325084144094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyyeGhgtc0",
+              "end": 36,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2079451325084144094/photo/1",
+              "media_key": "3_2079451319203708928",
+              "start": 13,
+              "url": "https://t.co/XyyeGhgtc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079451325084144094",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079375050055336359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 对😺 https://t.co/XyyeGhgtc0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079375043671494656",
+            "3_2079375043730300928",
+            "3_2079375043675713536"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2079375050055336359",
+        "created_at": "2026-07-21T01:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079375050055336359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s580JaKaaq",
+              "end": 28,
+              "expanded_url": "https://x.com/DrilL019/status/2079375050055336359/photo/1",
+              "media_key": "3_2079375043671494656",
+              "start": 5,
+              "url": "https://t.co/s580JaKaaq"
+            },
+            {
+              "display_url": "pic.x.com/s580JaKaaq",
+              "end": 28,
+              "expanded_url": "https://x.com/DrilL019/status/2079375050055336359/photo/1",
+              "media_key": "3_2079375043730300928",
+              "start": 5,
+              "url": "https://t.co/s580JaKaaq"
+            },
+            {
+              "display_url": "pic.x.com/s580JaKaaq",
+              "end": 28,
+              "expanded_url": "https://x.com/DrilL019/status/2079375050055336359/photo/1",
+              "media_key": "3_2079375043675713536",
+              "start": 5,
+              "url": "https://t.co/s580JaKaaq"
+            },
+            {
+              "display_url": "x.com/drill019/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/drill019/status/2079150579109220635",
+              "start": 29,
+              "url": "https://t.co/yhW511qcfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079375050055336359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079150579109220635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "成功了！ https://t.co/s580JaKaaq https://t.co/yhW511qcfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078444780305154048/DCawgaFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 878,
+          "like_count": 87708,
+          "listed_count": 4,
+          "media_count": 738,
+          "tweet_count": 4420
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1383,
+          "like_count": 23803,
+          "listed_count": 1,
+          "media_count": 1006,
+          "tweet_count": 6891
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

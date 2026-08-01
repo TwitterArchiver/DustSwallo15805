@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1946184139914518845",
+    "created_at": "2025-07-18T12:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946184139914518845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikotossd0106/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mikotossd0106/status/1945772369232224333",
+          "start": 15,
+          "url": "https://t.co/GIdkhNQNRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946184139914518845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945772369232224333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "穷玩车富玩表，我是傻逼尼康佬 https://t.co/GIdkhNQNRT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1946184139914518845",
+        "created_at": "2025-07-18T12:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946184139914518845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikotossd0106/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mikotossd0106/status/1945772369232224333",
+              "start": 15,
+              "url": "https://t.co/GIdkhNQNRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946184139914518845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945772369232224333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "穷玩车富玩表，我是傻逼尼康佬 https://t.co/GIdkhNQNRT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "1945772369232224333",
+        "created_at": "2025-07-17T09:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945772369232224333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945772369232224333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1176,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "穷玩车富玩表，我是傻逼单车佬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、常礼什么都沾点但什么都不精😇",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 286,
+          "like_count": 20860,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 1511
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.top",
+                "end": 23,
+                "expanded_url": "http://www.mikotossd.top",
+                "start": 0,
+                "url": "https://t.co/ONd86sCN43"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼板",
+        "pinned_tweet_id": "1938978644548034645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879226218350075904/jFCN5grB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 1222,
+          "like_count": 54013,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/ONd86sCN43",
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

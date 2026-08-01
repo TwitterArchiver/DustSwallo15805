@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2061880649674580241",
+    "created_at": "2026-06-03T04:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062024810969055281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1191100118315020288",
+          "start": 0,
+          "username": "LangRecker"
+        },
+        {
+          "end": 24,
+          "id": "1929159802477010944",
+          "start": 12,
+          "username": "1207auggnoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062024810969055281",
+    "in_reply_to_user_id": "1191100118315020288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061904833230078212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LangRecker @1207auggnoD 决！斗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2061880649674580241",
+        "created_at": "2026-06-03T04:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062024810969055281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1191100118315020288",
+              "start": 0,
+              "username": "LangRecker"
+            },
+            {
+              "end": 24,
+              "id": "1929159802477010944",
+              "start": 12,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062024810969055281",
+        "in_reply_to_user_id": "1191100118315020288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061904833230078212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LangRecker @1207auggnoD 决！斗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191100118315020288",
+        "conversation_id": "2061880649674580241",
+        "created_at": "2026-06-02T20:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061904833230078212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061904833230078212",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061880649674580241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD 一段关系中不被爱的一方才是局外人，来决斗吧🤺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait ｜萊萊重度依賴｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044340892664995841/VJhtus_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 769,
+          "like_count": 78967,
+          "listed_count": 3,
+          "media_count": 689,
+          "tweet_count": 4036
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-03T21:09:57.000Z",
+        "description": "A lot of stuff here, but I hope you find what you’re looking for. Yuu’s de jure master but de facto servant/Beginner in ham radio📻业余无线电新手 KC1UBT",
+        "id": "1191100118315020288",
+        "name": "Recker Lang",
+        "pinned_tweet_id": "1546256991340953600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912746838618230784/TGKeu6ob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 599,
+          "like_count": 34855,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 2567
+        },
+        "username": "LangRecker",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "19 yo 学生desu │ 吃饭日常推 政治NO│ he/him │ 生理男泛性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site",
+                "end": 23,
+                "expanded_url": "http://dgtea.site",
+                "start": 0,
+                "url": "https://t.co/jGKac3YEAL"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL62",
+        "name": "冬瓜",
+        "pinned_tweet_id": "2048451518207271043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058282455321419776/8-rOyYVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 292,
+          "like_count": 34173,
+          "listed_count": 0,
+          "media_count": 1248,
+          "tweet_count": 5243
+        },
+        "url": "https://t.co/jGKac3YEAL",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

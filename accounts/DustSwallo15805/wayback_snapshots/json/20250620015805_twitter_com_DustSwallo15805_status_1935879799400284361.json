@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935691088976900096"
+      ],
+      "media_source_tweet_id": [
+        "1935692166862602740"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "1935879799400284361",
+    "created_at": "2025-06-20T01:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T02:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935879799400284361"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "秩父夜祭",
+          "probability": 0.4735,
+          "start": 14,
+          "type": "Place"
+        },
+        {
+          "end": 28,
+          "normalized_text": "秩父鉄道秩父駅",
+          "probability": 0.5255,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "948829401352888320",
+          "start": 3,
+          "username": "ctkdk105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNKIQ3ugsF",
+          "end": 82,
+          "expanded_url": "https://x.com/ctkdk105/status/1935692166862602740/photo/1",
+          "media_key": "3_1935691088976900096",
+          "start": 59,
+          "url": "https://t.co/rNKIQ3ugsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935879799400284361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935692166862602740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ctkdk105: 秩父夜祭の日は、秩父鉄道秩父駅発中軽井沢行きがあったなんて今では信じられない出来事だね。 https://t.co/rNKIQ3ugsF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1935691088976900096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtz0yilbcAAECFN.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935691088976900096"
+          ],
+          "media_source_tweet_id": [
+            "1935692166862602740"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1935879799400284361",
+        "created_at": "2025-06-20T01:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T02:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935879799400284361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "秩父夜祭",
+              "probability": 0.4735,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 28,
+              "normalized_text": "秩父鉄道秩父駅",
+              "probability": 0.5255,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "948829401352888320",
+              "start": 3,
+              "username": "ctkdk105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNKIQ3ugsF",
+              "end": 82,
+              "expanded_url": "https://x.com/ctkdk105/status/1935692166862602740/photo/1",
+              "media_key": "3_1935691088976900096",
+              "start": 59,
+              "url": "https://t.co/rNKIQ3ugsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935879799400284361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935692166862602740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ctkdk105: 秩父夜祭の日は、秩父鉄道秩父駅発中軽井沢行きがあったなんて今では信じられない出来事だね。 https://t.co/rNKIQ3ugsF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935691088976900096"
+          ]
+        },
+        "author_id": "948829401352888320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "1935692166862602740",
+        "created_at": "2025-06-19T13:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935692166862602740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "秩父",
+              "probability": 0.7593,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 14,
+              "normalized_text": "秩父鉄道秩父駅",
+              "probability": 0.5357,
+              "start": 8,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNKIQ3ugsF",
+              "end": 68,
+              "expanded_url": "https://x.com/ctkdk105/status/1935692166862602740/photo/1",
+              "media_key": "3_1935691088976900096",
+              "start": 45,
+              "url": "https://t.co/rNKIQ3ugsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935692166862602740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 30466,
+          "like_count": 772,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "秩父夜祭の日は、秩父鉄道秩父駅発中軽井沢行きがあったなんて今では信じられない出来事だね。 https://t.co/rNKIQ3ugsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵   失败彻底失败",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 194,
+          "like_count": 13200,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1031
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-04T08:12:12.000Z",
+        "description": "模型鉄、主に貨物と秩父鉄道♪を趣味とする。 ある意味、趣味の枠をだいぶ超えたけど。鍵垢、関連性の無いアカウントからのフォロー、リツイートはブロック、削除する場合があります。",
+        "id": "948829401352888320",
+        "location": "藤谷淵",
+        "name": "あ づ き ち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615201636963725312/pt47P8wx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 299,
+          "like_count": 36276,
+          "listed_count": 0,
+          "media_count": 7076,
+          "tweet_count": 11474
+        },
+        "username": "ctkdk105",
+        "verified": false
+      }
+    ]
+  }
+}

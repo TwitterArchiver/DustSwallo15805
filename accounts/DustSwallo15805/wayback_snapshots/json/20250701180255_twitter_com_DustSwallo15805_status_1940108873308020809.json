@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940108857897889792",
+        "3_1940108857910403073"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1940108873308020809",
+    "created_at": "2025-07-01T18:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T19:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940108873308020809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pLiWxoCPoy",
+          "end": 34,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1940108873308020809/photo/1",
+          "media_key": "3_1940108857897889792",
+          "start": 11,
+          "url": "https://t.co/pLiWxoCPoy"
+        },
+        {
+          "display_url": "pic.x.com/pLiWxoCPoy",
+          "end": 34,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1940108873308020809/photo/1",
+          "media_key": "3_1940108857910403073",
+          "start": 11,
+          "url": "https://t.co/pLiWxoCPoy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940108873308020809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "介玩意是怎么上来的？ https://t.co/pLiWxoCPoy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940108857897889792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuymuiSXsAAP3IG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940108857910403073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuymuiVWoAEQowq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940108857897889792",
+            "3_1940108857910403073"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1940108873308020809",
+        "created_at": "2025-07-01T18:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T19:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940108873308020809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLiWxoCPoy",
+              "end": 34,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1940108873308020809/photo/1",
+              "media_key": "3_1940108857897889792",
+              "start": 11,
+              "url": "https://t.co/pLiWxoCPoy"
+            },
+            {
+              "display_url": "pic.x.com/pLiWxoCPoy",
+              "end": 34,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1940108873308020809/photo/1",
+              "media_key": "3_1940108857910403073",
+              "start": 11,
+              "url": "https://t.co/pLiWxoCPoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940108873308020809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "介玩意是怎么上来的？ https://t.co/pLiWxoCPoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵（鬼才知道我要拍多少HXD3）",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 223,
+          "like_count": 15814,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 1182
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

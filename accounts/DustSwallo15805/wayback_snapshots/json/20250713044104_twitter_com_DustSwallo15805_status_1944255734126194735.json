@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1944184185620508952",
+    "created_at": "2025-07-13T04:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T05:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944255734126194735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1537965269997408263",
+          "start": 0,
+          "username": "lihedong5"
+        },
+        {
+          "end": 21,
+          "id": "1748384528958394368",
+          "start": 11,
+          "username": "Fukochann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944255734126194735",
+    "in_reply_to_user_id": "1537965269997408263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944252556718616791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihedong5 @Fukochann 好家伙，双向奔赴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1944252512963301376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvtfXATWkAAq-iM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1944184185620508952",
+        "created_at": "2025-07-13T04:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T05:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944255734126194735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1537965269997408263",
+              "start": 0,
+              "username": "lihedong5"
+            },
+            {
+              "end": 21,
+              "id": "1748384528958394368",
+              "start": 11,
+              "username": "Fukochann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944255734126194735",
+        "in_reply_to_user_id": "1537965269997408263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944252556718616791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihedong5 @Fukochann 好家伙，双向奔赴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944252512963301376"
+          ]
+        },
+        "author_id": "1537965269997408263",
+        "conversation_id": "1944184185620508952",
+        "created_at": "2025-07-13T04:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T05:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944252556718616791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1748384528958394368",
+              "start": 0,
+              "username": "Fukochann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vpL0RqwriW",
+              "end": 45,
+              "expanded_url": "https://x.com/lihedong5/status/1944252556718616791/photo/1",
+              "media_key": "3_1944252512963301376",
+              "start": 22,
+              "url": "https://t.co/vpL0RqwriW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944252556718616791",
+        "in_reply_to_user_id": "1748384528958394368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944184185620508952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fukochann 出发！找老婆贴贴🥰😘 https://t.co/vpL0RqwriW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "太君窝是良民啊太君",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 254,
+          "like_count": 18824,
+          "listed_count": 0,
+          "media_count": 331,
+          "tweet_count": 1350
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T01:08:04.000Z",
+        "description": "mtf，化学爱好者，17岁，身高172cm hrt 2022 5 17 ，ADHD 持证含糖 想和xyn贴贴，同类回fo 好女儿/其实是老婆啦@Fukochann🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Fukochann"
+              }
+            ]
+          }
+        },
+        "id": "1537965269997408263",
+        "location": "山东济南",
+        "name": "硫酸奎宁🏳️‍⚧️",
+        "pinned_tweet_id": "1940107124375450012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704298719292882944/Yuxh2kmW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 2295,
+          "like_count": 7015,
+          "listed_count": 6,
+          "media_count": 244,
+          "tweet_count": 775
+        },
+        "username": "lihedong5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T16:38:59.000Z",
+        "description": "可以叫我Fuko喵🥹|超绝 ENFJ✨|准高三在读|最高の17歳!|中文|English|日本語|HRT🍥3.30 2025|交个朋友😘|三次元|现充|化学|药理学| 世界文学泛读中📖|🎂2007 11 22|177cm|DM会回|最😘最😍最🥰爱的老婆/妈妈/闺蜜😆@lihedong5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 133,
+                "username": "lihedong5"
+              }
+            ]
+          }
+        },
+        "id": "1748384528958394368",
+        "location": "君のこころ♥️の中に",
+        "name": "風子ふうこ Fuko🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917441942482477058/_ma2cwAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1088,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 410
+        },
+        "username": "Fukochann",
+        "verified": false
+      }
+    ]
+  }
+}

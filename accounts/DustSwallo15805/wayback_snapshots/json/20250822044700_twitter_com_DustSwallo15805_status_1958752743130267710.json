@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1958723610086187311",
+    "created_at": "2025-08-22T04:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T05:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958752743130267710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514545830493044736",
+          "start": 0,
+          "username": "Miwu0721"
+        },
+        {
+          "end": 24,
+          "id": "1797952742918586368",
+          "start": 10,
+          "username": "Sakura_baimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958752743130267710",
+    "in_reply_to_user_id": "1514545830493044736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958740196234781172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miwu0721 @Sakura_baimao 你该吃菠萝包了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1247,
+        "media_key": "3_1958740188819333120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7X0unboAAYD_2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1958723610086187311",
+        "created_at": "2025-08-22T04:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958752743130267710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514545830493044736",
+              "start": 0,
+              "username": "Miwu0721"
+            },
+            {
+              "end": 24,
+              "id": "1797952742918586368",
+              "start": 10,
+              "username": "Sakura_baimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958752743130267710",
+        "in_reply_to_user_id": "1514545830493044736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958740196234781172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miwu0721 @Sakura_baimao 你该吃菠萝包了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958740188819333120"
+          ]
+        },
+        "author_id": "1514545830493044736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958723610086187311",
+        "created_at": "2025-08-22T03:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T04:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958740196234781172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797952742918586368",
+              "start": 0,
+              "username": "Sakura_baimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuDmI6eYn7",
+              "end": 43,
+              "expanded_url": "https://x.com/Miwu0721/status/1958740196234781172/photo/1",
+              "media_key": "3_1958740188819333120",
+              "start": 20,
+              "url": "https://t.co/iuDmI6eYn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958740196234781172",
+        "in_reply_to_user_id": "1797952742918586368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958723610086187311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_baimao 想喝直说 https://t.co/iuDmI6eYn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "哈！见人就哈气喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1955263405838725298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 376,
+          "like_count": 29620,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 1872
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)、bilibili：ミウ同学、\n碧蓝航线/星露谷物语/Minecraft/战雷/CS2玩家、全推最尊重菠萝油的主播、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします\n涩涩里推：@Miuu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Miuu0721"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "name": "ミウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833574711269498880/Q0twsHxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 412,
+          "like_count": 56578,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 2713
+        },
+        "username": "Miwu0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T11:25:25.000Z",
+        "description": "02年 | 本科 | 工作中 | 制药工程 | 键政达咩 | 喜欢玩碧蓝航线、三角洲行动、PUBG、Apex、我的世界 | 是一个vup（已停播）| 欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/160801612",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/160801612",
+                "start": 0,
+                "url": "https://t.co/36svOAvF4A"
+              }
+            ]
+          }
+        },
+        "id": "1797952742918586368",
+        "location": "诺文斯克",
+        "name": "白猫official",
+        "pinned_tweet_id": "1821717131794510244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797958178342375424/DJ1w-gGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 639,
+          "like_count": 11541,
+          "listed_count": 1,
+          "media_count": 626,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/36svOAvF4A",
+        "username": "Sakura_baimao",
+        "verified": false
+      }
+    ]
+  }
+}

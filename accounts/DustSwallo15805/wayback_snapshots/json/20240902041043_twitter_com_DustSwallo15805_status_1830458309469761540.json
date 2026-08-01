@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827856280960077824"
+      ],
+      "media_source_tweet_id": [
+        "1830410311980945613"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1830458309469761540",
+    "created_at": "2024-09-02T04:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T05:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830458309469761540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "958858217865453568",
+          "start": 3,
+          "username": "kpp_koutuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hj3zqxvypg",
+          "end": 108,
+          "expanded_url": "https://twitter.com/kpp_koutuu/status/1830410311980945613/photo/1",
+          "media_key": "3_1827856280960077824",
+          "start": 85,
+          "url": "https://t.co/HJ3zQxVYpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830458309469761540",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18024
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830410311980945613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kpp_koutuu: 自動車を運転するときはしっかりシートベルトを着用し、正しい姿勢で乗車しましょう。また運転に適した靴を着用し、正しくペダル操作しましょう。 https://t.co/HJ3zQxVYpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1827856280960077824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV3ZmmcXkAA8IJz.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827856280960077824"
+          ],
+          "media_source_tweet_id": [
+            "1830410311980945613"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1830458309469761540",
+        "created_at": "2024-09-02T04:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T05:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830458309469761540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "958858217865453568",
+              "start": 3,
+              "username": "kpp_koutuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hj3zqxvypg",
+              "end": 108,
+              "expanded_url": "https://twitter.com/kpp_koutuu/status/1830410311980945613/photo/1",
+              "media_key": "3_1827856280960077824",
+              "start": 85,
+              "url": "https://t.co/HJ3zQxVYpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830458309469761540",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18024
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830410311980945613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kpp_koutuu: 自動車を運転するときはしっかりシートベルトを着用し、正しい姿勢で乗車しましょう。また運転に適した靴を着用し、正しくペダル操作しましょう。 https://t.co/HJ3zQxVYpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827856280960077824"
+          ]
+        },
+        "author_id": "958858217865453568",
+        "conversation_id": "1830410311980945613",
+        "created_at": "2024-09-02T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830410311980945613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hj3zqxvypg",
+              "end": 92,
+              "expanded_url": "https://twitter.com/kpp_koutuu/status/1830410311980945613/photo/1",
+              "media_key": "3_1827856280960077824",
+              "start": 69,
+              "url": "https://t.co/HJ3zQxVYpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830410311980945613",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5196,
+          "impression_count": 4699166,
+          "like_count": 41572,
+          "quote_count": 4770,
+          "reply_count": 733,
+          "retweet_count": 18024
+        },
+        "reply_settings": "everyone",
+        "text": "自動車を運転するときはしっかりシートベルトを着用し、正しい姿勢で乗車しましょう。また運転に適した靴を着用し、正しくペダル操作しましょう。 https://t.co/HJ3zQxVYpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "要把《辞海》（1999年缩印本每个字都发一遍）",
+        "id": "1647170304844914689",
+        "name": "名字不能为空",
+        "pinned_tweet_id": "1689287766171959297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823682980088569857/XGWkoLqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 116,
+          "like_count": 4206,
+          "listed_count": 0,
+          "tweet_count": 599
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-01T00:23:08.000Z",
+        "description": "神奈川県警察本部交通部交通総務課の公式アカウントです。交通事故防止に役立つ情報や交通安全イベントの開催情報などを発信しています。なお、当アカウントでは通報、相談等の受付は行っておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "police.pref.kanagawa.jp",
+                "end": 23,
+                "expanded_url": "http://www.police.pref.kanagawa.jp/",
+                "start": 0,
+                "url": "https://t.co/KTfkfEkZlj"
+              }
+            ]
+          }
+        },
+        "id": "958858217865453568",
+        "location": "神奈川県横浜市中区海岸通２丁目４番",
+        "name": "神奈川県警察本部交通部交通総務課",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458338171025244160/e3bXPRYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34421,
+          "following_count": 80,
+          "like_count": 80,
+          "listed_count": 206,
+          "tweet_count": 4418
+        },
+        "url": "https://t.co/KTfkfEkZlj",
+        "username": "kpp_koutuu",
+        "verified": false
+      }
+    ]
+  }
+}

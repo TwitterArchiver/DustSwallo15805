@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1918308068569563229",
+    "created_at": "2025-05-02T14:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T15:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918308068569563229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1834430842028048384",
+          "start": 3,
+          "username": "mio1751126"
+        },
+        {
+          "end": 32,
+          "id": "1796086176681787392",
+          "start": 16,
+          "username": "3U2gewCtgT60512"
+        },
+        {
+          "end": 47,
+          "id": "1793889867690303488",
+          "start": 33,
+          "username": "zjl1515151515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918308068569563229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918221284779217319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mio1751126: @3U2gewCtgT60512 @zjl1515151515 私は中国人だ。彼は、トマトは傷んでいるから病院に連れていけと言っている"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1918308068569563229",
+        "created_at": "2025-05-02T14:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918308068569563229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1834430842028048384",
+              "start": 3,
+              "username": "mio1751126"
+            },
+            {
+              "end": 32,
+              "id": "1796086176681787392",
+              "start": 16,
+              "username": "3U2gewCtgT60512"
+            },
+            {
+              "end": 47,
+              "id": "1793889867690303488",
+              "start": 33,
+              "username": "zjl1515151515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918308068569563229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918221284779217319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mio1751126: @3U2gewCtgT60512 @zjl1515151515 私は中国人だ。彼は、トマトは傷んでいるから病院に連れていけと言っている"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834430842028048384",
+        "conversation_id": "1918038658256707928",
+        "created_at": "2025-05-02T08:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918221284779217319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796086176681787392",
+              "start": 0,
+              "username": "3U2gewCtgT60512"
+            },
+            {
+              "end": 31,
+              "id": "1793889867690303488",
+              "start": 17,
+              "username": "zjl1515151515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918221284779217319",
+        "in_reply_to_user_id": "1796086176681787392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 86192,
+          "like_count": 685,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918217025475981563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3U2gewCtgT60512 @zjl1515151515 私は中国人だ。彼は、トマトは傷んでいるから病院に連れていけと言っている"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 169,
+          "like_count": 9311,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 773
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T03:16:21.000Z",
+        "description": "",
+        "id": "1834430842028048384",
+        "name": "てこクマ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834430963373441025/VNiy-Ib3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 3,
+          "like_count": 697,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 817
+        },
+        "username": "mio1751126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T07:48:20.000Z",
+        "description": "24👧",
+        "id": "1796086176681787392",
+        "name": "4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918216373739896832/q00p3iBq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 3275,
+          "like_count": 20306,
+          "listed_count": 17,
+          "media_count": 671,
+          "tweet_count": 4196
+        },
+        "username": "3U2gewCtgT60512",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T06:21:00.000Z",
+        "description": "一起陷入混乱的快乐吧！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "迷你世界.com",
+                "end": 23,
+                "expanded_url": "http://xn--rhq34af64ffkw.com",
+                "start": 0,
+                "url": "https://t.co/5kR0u0P1vY"
+              }
+            ]
+          }
+        },
+        "id": "1793889867690303488",
+        "location": "萨尼罗",
+        "name": "Afun",
+        "pinned_tweet_id": "1832163681859465666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915775783559364608/dEIkL-2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 374,
+          "like_count": 3977,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 8117
+        },
+        "url": "https://t.co/5kR0u0P1vY",
+        "username": "zjl1515151515",
+        "verified": false
+      }
+    ]
+  }
+}

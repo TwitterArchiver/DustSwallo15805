@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1937821323423862789",
+    "created_at": "2025-06-25T11:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937828763812897075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "829974198021877761",
+          "start": 0,
+          "username": "WSGM233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937828763812897075",
+    "in_reply_to_user_id": "829974198021877761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937827425481810409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WSGM233 确实喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1937821323423862789",
+        "created_at": "2025-06-25T11:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937828763812897075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "829974198021877761",
+              "start": 0,
+              "username": "WSGM233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937828763812897075",
+        "in_reply_to_user_id": "829974198021877761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937827425481810409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WSGM233 确实喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "829974198021877761",
+        "conversation_id": "1937821323423862789",
+        "created_at": "2025-06-25T10:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T11:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937827425481810409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937827425481810409",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937821323423862789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 自动过片手柄了太爽了\n不过之前买过一个好像是误触发了过掉了我一卷胶卷😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937086126721847296/SayA2ytp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 210,
+          "like_count": 14240,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1105
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-10T08:44:03.000Z",
+        "description": "一个无聊的人/兴趣爱好极广 基本聊什么都能聊得来/最喜欢的人@MinusZeroQwQ 可爱的🍊@orange44333 永远的好哥们@BH2UMM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "MinusZeroQwQ"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "orange44333"
+              },
+              {
+                "end": 74,
+                "start": 67,
+                "username": "BH2UMM"
+              }
+            ]
+          }
+        },
+        "id": "829974198021877761",
+        "name": "W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904582029318250498/8PSTVA5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 923,
+          "like_count": 615,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 191
+        },
+        "username": "WSGM233",
+        "verified": false
+      }
+    ]
+  }
+}

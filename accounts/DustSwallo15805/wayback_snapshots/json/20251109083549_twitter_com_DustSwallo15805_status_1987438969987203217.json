@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1987400027246108776",
+    "created_at": "2025-11-09T08:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T09:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987438969987203217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1545295843556823041",
+          "start": 0,
+          "username": "AN_94withtea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987438969987203217",
+    "in_reply_to_user_id": "1545295843556823041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987400027246108776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AN_94withtea 雅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987400008413634560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SpxygaYAAXWhl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1987400011467137028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Spx94bIAQpSuk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1987400011643310080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Spx-ibUAAQ6a6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1987400027246108776",
+        "created_at": "2025-11-09T08:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987438969987203217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545295843556823041",
+              "start": 0,
+              "username": "AN_94withtea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987438969987203217",
+        "in_reply_to_user_id": "1545295843556823041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987400027246108776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AN_94withtea 雅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987400008413634560",
+            "3_1987400011467137028",
+            "3_1987400011643310080"
+          ]
+        },
+        "author_id": "1545295843556823041",
+        "conversation_id": "1987400027246108776",
+        "created_at": "2025-11-09T06:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987400027246108776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/49MpspI9iG",
+              "end": 48,
+              "expanded_url": "https://x.com/AN_94withtea/status/1987400027246108776/photo/1",
+              "media_key": "3_1987400008413634560",
+              "start": 25,
+              "url": "https://t.co/49MpspI9iG"
+            },
+            {
+              "display_url": "pic.x.com/49MpspI9iG",
+              "end": 48,
+              "expanded_url": "https://x.com/AN_94withtea/status/1987400027246108776/photo/1",
+              "media_key": "3_1987400011467137028",
+              "start": 25,
+              "url": "https://t.co/49MpspI9iG"
+            },
+            {
+              "display_url": "pic.x.com/49MpspI9iG",
+              "end": 48,
+              "expanded_url": "https://x.com/AN_94withtea/status/1987400027246108776/photo/1",
+              "media_key": "3_1987400011643310080",
+              "start": 25,
+              "url": "https://t.co/49MpspI9iG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987400027246108776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两天就用完了一整盒耗材\n已经沉迷打印无法自拔了😰 https://t.co/49MpspI9iG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "坚持114514年不翻车不动摇 ｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1986988676354875520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 533,
+          "like_count": 51245,
+          "listed_count": 2,
+          "media_count": 518,
+          "tweet_count": 2839
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T06:36:55.000Z",
+        "description": "🇨🇳/男子大生、電子情報学専攻/CN＆Eng👌 Using translator/Player of WWII uniform/ BanG Dream, Revue Starlight/📷、🎞️、🚆",
+        "id": "1545295843556823041",
+        "location": "攝影地",
+        "name": "Rechkalov 1943 📷✨ミ",
+        "pinned_tweet_id": "1767811652106228177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984331536020443136/JQLYBFTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 574,
+          "like_count": 3031,
+          "listed_count": 4,
+          "media_count": 360,
+          "tweet_count": 1072
+        },
+        "username": "AN_94withtea",
+        "verified": false
+      }
+    ]
+  }
+}

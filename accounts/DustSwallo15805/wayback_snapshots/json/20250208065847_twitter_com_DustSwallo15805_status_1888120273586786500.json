@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888120264589987840"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1888115022267859351",
+    "created_at": "2025-02-08T06:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T07:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888120273586786500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "BG4JIE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/viyHXpiY71",
+          "end": 40,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1888120273586786500/photo/1",
+          "media_key": "3_1888120264589987840",
+          "start": 17,
+          "url": "https://t.co/viyHXpiY71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888120273586786500",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888115022267859351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG4JIE 吧主什么时候翻车 https://t.co/viyHXpiY71"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1888120264589987840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjPzYIAaUAAUsUo.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888120264589987840"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1888115022267859351",
+        "created_at": "2025-02-08T06:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T07:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888120273586786500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "BG4JIE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/viyHXpiY71",
+              "end": 40,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1888120273586786500/photo/1",
+              "media_key": "3_1888120264589987840",
+              "start": 17,
+              "url": "https://t.co/viyHXpiY71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888120273586786500",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888115022267859351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG4JIE 吧主什么时候翻车 https://t.co/viyHXpiY71"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "1888115022267859351",
+        "created_at": "2025-02-08T06:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T07:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888115022267859351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sennrinorinn/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/sennrinorinn/status/1887875355551355236",
+              "start": 7,
+              "url": "https://t.co/ebSmq1HIrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888115022267859351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887875355551355236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是小南娘 https://t.co/ebSmq1HIrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 120,
+          "like_count": 6071,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 611
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "BG4JIE",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 1555,
+          "like_count": 20073,
+          "listed_count": 8,
+          "media_count": 606,
+          "tweet_count": 3610
+        },
+        "username": "BG4JIE",
+        "verified": false
+      }
+    ]
+  }
+}

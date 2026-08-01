@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888186762931187712"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1888130853798367288",
+    "created_at": "2025-02-08T11:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T12:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888186771378426116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0vuKtikGKx",
+          "end": 35,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1888186771378426116/photo/1",
+          "media_key": "3_1888186762931187712",
+          "start": 12,
+          "url": "https://t.co/0vuKtikGKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888186771378426116",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888130853798367288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 https://t.co/0vuKtikGKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 272,
+        "media_key": "3_1888186762931187712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjQv21obsAABZ5j.jpg",
+        "width": 165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888186762931187712"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1888130853798367288",
+        "created_at": "2025-02-08T11:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T12:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888186771378426116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vuKtikGKx",
+              "end": 35,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1888186771378426116/photo/1",
+              "media_key": "3_1888186762931187712",
+              "start": 12,
+              "url": "https://t.co/0vuKtikGKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888186771378426116",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888130853798367288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 https://t.co/0vuKtikGKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888130814002753536"
+          ]
+        },
+        "author_id": "1773877435748270080",
+        "conversation_id": "1888130853798367288",
+        "created_at": "2025-02-08T07:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T08:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888130853798367288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OazKAWE9Z3",
+              "end": 28,
+              "expanded_url": "https://x.com/manakaao68/status/1888130853798367288/photo/1",
+              "media_key": "3_1888130814002753536",
+              "start": 5,
+              "url": "https://t.co/OazKAWE9Z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888130853798367288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2665,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "绷不住了 https://t.co/OazKAWE9Z3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 121,
+          "like_count": 6089,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 613
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あお/真中藍/真中苍 です /国旗设计者/传统能源公交车主义者\n🍥🏳️/mtf/交通/喜欢变可爱喵/喜欢看恋爱小行星/喜欢真中苍和木之幡米拉\n同类互fo 谢绝鉴证 /橘子教🍊教主\n@Tw2027Liberate\n炸山公交截团喊话BOT \n我永远爱你！！@heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 92,
+                "username": "Tw2027Liberate"
+              },
+              {
+                "end": 142,
+                "start": 128,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCf2di"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集団",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍊🍔",
+        "pinned_tweet_id": "1877669811678802255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885008919795556353/gedKif8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 3564,
+          "like_count": 16226,
+          "listed_count": 7,
+          "media_count": 911,
+          "tweet_count": 19992
+        },
+        "url": "https://t.co/6ccqwCf2di",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946180346992566272"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1946180393558052961",
+    "created_at": "2025-07-18T12:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946180393558052961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5l32jxjUed",
+          "end": 29,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1946180393558052961/photo/1",
+          "media_key": "3_1946180346992566272",
+          "start": 6,
+          "url": "https://t.co/5l32jxjUed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946180393558052961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 51,
+      "like_count": 5,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "沪局洗漱包 https://t.co/5l32jxjUed"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946180346992566272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwI4tttWoAA_TCe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946180346992566272"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1946180393558052961",
+        "created_at": "2025-07-18T12:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946180393558052961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5l32jxjUed",
+              "end": 29,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1946180393558052961/photo/1",
+              "media_key": "3_1946180346992566272",
+              "start": 6,
+              "url": "https://t.co/5l32jxjUed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946180393558052961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沪局洗漱包 https://t.co/5l32jxjUed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、常礼什么都沾点但什么都不精😇",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1946109428144771210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944369642950234112/WBectIby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 290,
+          "like_count": 20949,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 1521
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

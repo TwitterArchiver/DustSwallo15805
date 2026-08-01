@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935690768145903616"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1935690775590998144",
+    "created_at": "2025-06-19T13:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935690775590998144"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n0kzCaEDNk",
+          "end": 28,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1935690775590998144/photo/1",
+          "media_key": "3_1935690768145903616",
+          "start": 5,
+          "url": "https://t.co/n0kzCaEDNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935690775590998144",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/n0kzCaEDNk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1935690768145903616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtz0f3ZW8AAOrKN.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935690768145903616"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1935690775590998144",
+        "created_at": "2025-06-19T13:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935690775590998144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0kzCaEDNk",
+              "end": 28,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1935690775590998144/photo/1",
+              "media_key": "3_1935690768145903616",
+              "start": 5,
+              "url": "https://t.co/n0kzCaEDNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935690775590998144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/n0kzCaEDNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "邮票、铁道与常礼什么都沾点但什么也不精喵",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935690752455311360/hUve8VQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 198,
+          "like_count": 13082,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1028
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

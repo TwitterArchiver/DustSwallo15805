@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021357494254096384"
+      ],
+      "media_source_tweet_id": [
+        "2023337306443366401"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2023431944466481242",
+    "created_at": "2026-02-16T16:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023431944466481242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1552966524851339266",
+          "start": 3,
+          "username": "bominouca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EHPkgmia5x",
+          "end": 38,
+          "expanded_url": "https://x.com/bominouca/status/2023337306443366401/video/1",
+          "media_key": "13_2021357494254096384",
+          "start": 15,
+          "url": "https://t.co/EHPkgmia5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023431944466481242",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023337306443366401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bominouca: https://t.co/EHPkgmia5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14101,
+        "height": 1350,
+        "media_key": "13_2021357494254096384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021357494254096384/img/2p3rj59ApbdQcFXh.jpg",
+        "public_metrics": {
+          "view_count": 4406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021357494254096384/vid/avc1/720x900/ou2BQHTprzMcr2sx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021357494254096384/pl/8sVFq3yZE3dGNIWm.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021357494254096384/vid/avc1/320x400/h0Ob7yHYDHWpweBb.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021357494254096384/vid/avc1/1080x1350/tqrdz9cKghXavwmW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021357494254096384/vid/avc1/480x600/g__2e_2AS589DgpL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021357494254096384"
+          ],
+          "media_source_tweet_id": [
+            "2023337306443366401"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2023431944466481242",
+        "created_at": "2026-02-16T16:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023431944466481242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1552966524851339266",
+              "start": 3,
+              "username": "bominouca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHPkgmia5x",
+              "end": 38,
+              "expanded_url": "https://x.com/bominouca/status/2023337306443366401/video/1",
+              "media_key": "13_2021357494254096384",
+              "start": 15,
+              "url": "https://t.co/EHPkgmia5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023431944466481242",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023337306443366401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bominouca: https://t.co/EHPkgmia5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021357494254096384"
+          ]
+        },
+        "author_id": "1552966524851339266",
+        "conversation_id": "2023337306443366401",
+        "created_at": "2026-02-16T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023337306443366401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHPkgmia5x",
+              "end": 23,
+              "expanded_url": "https://x.com/bominouca/status/2023337306443366401/video/1",
+              "media_key": "13_2021357494254096384",
+              "start": 0,
+              "url": "https://t.co/EHPkgmia5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023337306443366401",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 12986,
+          "like_count": 925,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EHPkgmia5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "コイビト： @EimeiLait｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜健全比｜CN EN RU｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012656872969396224/giOqbhNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 648,
+          "like_count": 66574,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 3605
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T10:39:55.000Z",
+        "description": "Cats, dogs, pets, animals 🐱🐶 Humor, beauty of nature🌴 Enjoy, relax and have fun🌺🌞",
+        "id": "1552966524851339266",
+        "name": "Sotic",
+        "pinned_tweet_id": "2021903352834281845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934958833798991872/koEmCoqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26447,
+          "following_count": 1513,
+          "like_count": 2314,
+          "listed_count": 114,
+          "media_count": 7489,
+          "tweet_count": 12411
+        },
+        "username": "bominouca",
+        "verified": true
+      }
+    ]
+  }
+}

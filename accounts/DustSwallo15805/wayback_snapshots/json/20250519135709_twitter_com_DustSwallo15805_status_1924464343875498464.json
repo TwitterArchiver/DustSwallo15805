@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1923976768136020054",
+    "created_at": "2025-05-19T13:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924464343875498464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863593615169306624",
+          "start": 0,
+          "username": "Caocanplaypgr"
+        },
+        {
+          "end": 25,
+          "id": "1788485889225834496",
+          "start": 15,
+          "username": "_temryava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924464343875498464",
+    "in_reply_to_user_id": "1863593615169306624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924303022966092265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Caocanplaypgr @_temryava 又找到一个老乡🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_1924303015072223233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrR_ZZWX0AEmEz0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1923976768136020054",
+        "created_at": "2025-05-19T13:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924464343875498464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863593615169306624",
+              "start": 0,
+              "username": "Caocanplaypgr"
+            },
+            {
+              "end": 25,
+              "id": "1788485889225834496",
+              "start": 15,
+              "username": "_temryava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924464343875498464",
+        "in_reply_to_user_id": "1863593615169306624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924303022966092265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Caocanplaypgr @_temryava 又找到一个老乡🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924303015072223233"
+          ]
+        },
+        "author_id": "1863593615169306624",
+        "conversation_id": "1923976768136020054",
+        "created_at": "2025-05-19T03:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T04:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924303022966092265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            },
+            {
+              "end": 27,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "_temryava"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uF589eQ2Kj",
+              "end": 61,
+              "expanded_url": "https://x.com/Caocanplaypgr/status/1924303022966092265/photo/1",
+              "media_key": "3_1924303015072223233",
+              "start": 38,
+              "url": "https://t.co/uF589eQ2Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924303022966092265",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924103676693795040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 @_temryava 我超！东营！我家！ https://t.co/uF589eQ2Kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 181,
+          "like_count": 10457,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 836
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T14:38:45.000Z",
+        "description": "phigros萌新（15.66）\n其他都不怎么打xxx\n（开始打乌蒙了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nope.com",
+                "end": 23,
+                "expanded_url": "http://nope.com",
+                "start": 0,
+                "url": "https://t.co/NsfabKvpkE"
+              }
+            ]
+          }
+        },
+        "id": "1863593615169306624",
+        "location": "猫猫大学",
+        "name": "nobody233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863593955528675328/KLTVG1z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 50,
+          "like_count": 319,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/NsfabKvpkE",
+        "username": "Caocanplaypgr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "学着成为人类",
+        "id": "1788485889225834496",
+        "name": "Сонячна система（注意病毒）",
+        "pinned_tweet_id": "1924316183001735266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910268710117675008/TifD1yiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 1893,
+          "like_count": 17231,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 7163
+        },
+        "username": "_temryava",
+        "verified": false
+      }
+    ]
+  }
+}

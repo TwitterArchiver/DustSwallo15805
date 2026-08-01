@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "1923858766375813192",
+    "created_at": "2025-05-17T21:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T22:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923859583539478739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "_temryava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923859583539478739",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923858766375813192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_temryava 早安喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1923858766375813192",
+        "created_at": "2025-05-17T21:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T22:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923859583539478739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "_temryava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923859583539478739",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923858766375813192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_temryava 早安喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1923858766375813192",
+        "created_at": "2025-05-17T21:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T22:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923858766375813192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923858766375813192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安喵～\n对我说早安捏🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "长叹息以掩涕兮，哀吾生之多艰",
+        "id": "1647170304844914689",
+        "name": "звезда",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889612297494208512/uBzvfTzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 178,
+          "like_count": 10335,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 831
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "学着成为人类",
+        "id": "1788485889225834496",
+        "name": "Сонячна система",
+        "pinned_tweet_id": "1923644379375468957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910268710117675008/TifD1yiJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 1889,
+          "like_count": 17067,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 7127
+        },
+        "username": "_temryava",
+        "verified": false
+      }
+    ]
+  }
+}

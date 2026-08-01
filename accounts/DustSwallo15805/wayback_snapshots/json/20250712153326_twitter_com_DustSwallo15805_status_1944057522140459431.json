@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944057500925669377"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "1944057522140459431",
+    "created_at": "2025-07-12T15:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T16:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944057522140459431"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 0,
+          "tag": "SwallowingDust的铁道旅行"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q8HxWeLhSV",
+          "end": 48,
+          "expanded_url": "https://x.com/DustSwallo15805/status/1944057522140459431/photo/1",
+          "media_key": "3_1944057500925669377",
+          "start": 25,
+          "url": "https://t.co/q8HxWeLhSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944057522140459431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#SwallowingDust的铁道旅行\nAD钙 https://t.co/q8HxWeLhSV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944057500925669377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvqt_z2bsAEGXBG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944057500925669377"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1944057522140459431",
+        "created_at": "2025-07-12T15:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944057522140459431"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "SwallowingDust的铁道旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q8HxWeLhSV",
+              "end": 48,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1944057522140459431/photo/1",
+              "media_key": "3_1944057500925669377",
+              "start": 25,
+              "url": "https://t.co/q8HxWeLhSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944057522140459431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#SwallowingDust的铁道旅行\nAD钙 https://t.co/q8HxWeLhSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "砸锅卖铁也要买徕卡m7",
+        "id": "1647170304844914689",
+        "name": "SwallowingDust",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943521103647039488/Ya-0mWrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 252,
+          "like_count": 18650,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 1331
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}
