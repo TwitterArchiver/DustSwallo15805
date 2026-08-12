@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086375947180408833"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2086375964498678112",
+    "created_at": "2026-08-09T08:56:07.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086375964498678112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kFBm33nl2U",
+          "end": 29,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2086375964498678112/photo/1",
+          "media_key": "3_2086375947180408833",
+          "start": 6,
+          "url": "https://t.co/kFBm33nl2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086375964498678112",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086375947180408833"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本人现状： https://t.co/kFBm33nl2U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 208,
+        "media_key": "3_2086375947180408833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRL3q-bgAE4C82.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086375947180408833"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2086375964498678112",
+        "created_at": "2026-08-09T08:56:07.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086375964498678112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kFBm33nl2U",
+              "end": 29,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2086375964498678112/photo/1",
+              "media_key": "3_2086375947180408833",
+              "start": 6,
+              "url": "https://t.co/kFBm33nl2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086375964498678112",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086375947180408833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人现状： https://t.co/kFBm33nl2U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2086375964498678112",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 975,
+          "like_count": 95192,
+          "listed_count": 6,
+          "media_count": 785,
+          "tweet_count": 4848
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

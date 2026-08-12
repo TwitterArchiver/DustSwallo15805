@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083859056800964608"
+      ],
+      "media_source_tweet_id": [
+        "2083860284469645815"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083959950410395885",
+    "created_at": "2026-08-02T16:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083959950410395885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "876256062805954560",
+          "start": 3,
+          "username": "MakoTr_315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4poAAmjCTW",
+          "end": 55,
+          "expanded_url": "https://x.com/MakoTr_315/status/2083860284469645815/photo/1",
+          "media_key": "3_2083859056800964608",
+          "start": 32,
+          "url": "https://t.co/4poAAmjCTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083959950410395885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 359
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083860284469645815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MakoTr_315: 電子工作の例です通してください https://t.co/4poAAmjCTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2083859056800964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtaxXqaIAATCtc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083859056800964608"
+          ]
+        },
+        "author_id": "876256062805954560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083860284469645815",
+        "created_at": "2026-08-02T10:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083860284469645815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4poAAmjCTW",
+              "end": 39,
+              "expanded_url": "https://x.com/MakoTr_315/status/2083860284469645815/photo/1",
+              "media_key": "3_2083859056800964608",
+              "start": 16,
+              "url": "https://t.co/4poAAmjCTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083860284469645815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 81996,
+          "like_count": 1897,
+          "quote_count": 40,
+          "reply_count": 10,
+          "retweet_count": 359
+        },
+        "reply_settings": "everyone",
+        "text": "電子工作の例です通してください https://t.co/4poAAmjCTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083859056800964608"
+          ],
+          "media_source_tweet_id": [
+            "2083860284469645815"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083959950410395885",
+        "created_at": "2026-08-02T16:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083959950410395885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "876256062805954560",
+              "start": 3,
+              "username": "MakoTr_315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4poAAmjCTW",
+              "end": 55,
+              "expanded_url": "https://x.com/MakoTr_315/status/2083860284469645815/photo/1",
+              "media_key": "3_2083859056800964608",
+              "start": 32,
+              "url": "https://t.co/4poAAmjCTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083959950410395885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 359
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083860284469645815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MakoTr_315: 電子工作の例です通してください https://t.co/4poAAmjCTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 938,
+          "like_count": 92362,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 4696
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-18T01:51:40.000Z",
+        "description": "回路設計したりはんだ付けをしたり絵を描いたり\n※イラストのAI学習はOKだけど下手くそなので食っても美味しくないとおもいます！\n\n謎グッズ、謎製品、同人誌などはこちら→ https://t.co/fUezjwkCjK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "makotr315.booth.pm",
+                "end": 108,
+                "expanded_url": "http://makotr315.booth.pm",
+                "start": 85,
+                "url": "https://t.co/fUezjwkCjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/18033475",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/18033475",
+                "start": 0,
+                "url": "https://t.co/DQepr9KK18"
+              }
+            ]
+          }
+        },
+        "id": "876256062805954560",
+        "name": "まこ@日曜東7-W15a",
+        "pinned_tweet_id": "2066181100012249247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901146323954659333/1ndhfFai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9672,
+          "following_count": 1756,
+          "like_count": 379007,
+          "listed_count": 119,
+          "media_count": 14587,
+          "tweet_count": 115346
+        },
+        "url": "https://t.co/DQepr9KK18",
+        "username": "MakoTr_315",
+        "verified": true
+      }
+    ]
+  }
+}

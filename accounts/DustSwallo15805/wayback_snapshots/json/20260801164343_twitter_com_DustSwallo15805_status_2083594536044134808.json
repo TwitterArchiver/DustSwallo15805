@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083594536044134808",
+    "created_at": "2026-08-01T16:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083594536044134808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1548619992001785859",
+          "start": 3,
+          "username": "frankxka05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083594536044134808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083562588873367627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frankxka05: 读懂曲中意，就请好好善待曲中的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083594536044134808",
+        "created_at": "2026-08-01T16:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083594536044134808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1548619992001785859",
+              "start": 3,
+              "username": "frankxka05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083594536044134808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083562588873367627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frankxka05: 读懂曲中意，就请好好善待曲中的自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2083562588873367627",
+        "created_at": "2026-08-01T14:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083562588873367627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/frankxka05/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/frankxka05/status/2083529223252127829",
+              "start": 18,
+              "url": "https://t.co/QDEGgHO8N3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083562588873367627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083529223252127829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "读懂曲中意，就请好好善待曲中的自己 https://t.co/QDEGgHO8N3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 918,
+          "like_count": 91784,
+          "listed_count": 5,
+          "media_count": 759,
+          "tweet_count": 4643
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "ASDer /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "Flancok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071246292098203648/9_UhuMJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 208,
+          "like_count": 2279,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 1244
+        },
+        "url": "",
+        "username": "frankxka05",
+        "verified": false
+      }
+    ]
+  }
+}

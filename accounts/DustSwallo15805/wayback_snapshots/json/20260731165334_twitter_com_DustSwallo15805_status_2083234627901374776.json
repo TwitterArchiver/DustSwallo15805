@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083071563767959601",
+    "created_at": "2026-07-31T16:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083234627901374776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1830761760334454787",
+          "start": 0,
+          "username": "Wirtz0923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083234627901374776",
+    "in_reply_to_user_id": "1830761760334454787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083234171376603504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wirtz0923 谢谢🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083071563767959601",
+        "created_at": "2026-07-31T16:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083234627901374776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1830761760334454787",
+              "start": 0,
+              "username": "Wirtz0923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083234627901374776",
+        "in_reply_to_user_id": "1830761760334454787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083234171376603504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wirtz0923 谢谢🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830761760334454787",
+        "conversation_id": "2083071563767959601",
+        "created_at": "2026-07-31T16:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083234171376603504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083234171376603504",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083071563767959601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 你好痛苦啊宝宝🥺😿抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 916,
+          "like_count": 91357,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 4603
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T00:16:43.000Z",
+        "description": "mtx 瓷 Drummer infj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/Jvb53TNdvSQ",
+                "end": 23,
+                "expanded_url": "http://v.douyin.com/Jvb53TNdvSQ",
+                "start": 0,
+                "url": "https://t.co/SKtTZP3yng"
+              }
+            ]
+          }
+        },
+        "id": "1830761760334454787",
+        "location": "我们浮游于荒芜俗世的流年",
+        "name": "WirtzShallowEnd🍥",
+        "pinned_tweet_id": "2083228750674878580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081179132046843904/9sYmvXR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 314,
+          "like_count": 3434,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/SKtTZP3yng",
+        "username": "Wirtz0923",
+        "verified": false
+      }
+    ]
+  }
+}

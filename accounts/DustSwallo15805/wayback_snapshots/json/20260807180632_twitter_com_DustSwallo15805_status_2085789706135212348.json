@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2085764548645286223",
+    "created_at": "2026-08-07T18:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T19:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085789706135212348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817217302762594304",
+          "start": 0,
+          "username": "chickenwinz33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085789706135212348",
+    "in_reply_to_user_id": "1817217302762594304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085788162950144289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chickenwinz33 呜呜谢谢鸡翅姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2085764548645286223",
+        "created_at": "2026-08-07T18:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085789706135212348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817217302762594304",
+              "start": 0,
+              "username": "chickenwinz33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085789706135212348",
+        "in_reply_to_user_id": "1817217302762594304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085788162950144289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chickenwinz33 呜呜谢谢鸡翅姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817217302762594304",
+        "conversation_id": "2085764548645286223",
+        "created_at": "2026-08-07T18:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T19:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085788162950144289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085788162950144289",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085764548645286223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 摸摸沙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 968,
+          "like_count": 94593,
+          "listed_count": 5,
+          "media_count": 783,
+          "tweet_count": 4833
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T15:16:04.000Z",
+        "description": "MTF",
+        "id": "1817217302762594304",
+        "name": "Good，Chicken wings🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016795123817033728/-0DoQ5D8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 1201,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "chickenwinz33",
+        "verified": false
+      }
+    ]
+  }
+}

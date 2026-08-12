@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083719794281574400",
+        "3_2083719908618276864",
+        "3_2083719911059357697",
+        "3_2083719911063576576"
+      ],
+      "media_source_tweet_id": [
+        "2083720105167663256",
+        "2083720105167663256",
+        "2083720105167663256",
+        "2083720105167663256"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083989363927753079",
+    "created_at": "2026-08-02T18:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T19:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083989363927753079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1778989851226071040",
+          "start": 3,
+          "username": "HXD3C0679"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IaU27Sspz8",
+          "end": 65,
+          "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+          "media_key": "3_2083719794281574400",
+          "start": 42,
+          "url": "https://t.co/IaU27Sspz8"
+        },
+        {
+          "display_url": "pic.x.com/IaU27Sspz8",
+          "end": 65,
+          "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+          "media_key": "3_2083719908618276864",
+          "start": 42,
+          "url": "https://t.co/IaU27Sspz8"
+        },
+        {
+          "display_url": "pic.x.com/IaU27Sspz8",
+          "end": 65,
+          "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+          "media_key": "3_2083719911059357697",
+          "start": 42,
+          "url": "https://t.co/IaU27Sspz8"
+        },
+        {
+          "display_url": "pic.x.com/IaU27Sspz8",
+          "end": 65,
+          "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+          "media_key": "3_2083719911063576576",
+          "start": 42,
+          "url": "https://t.co/IaU27Sspz8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083989363927753079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083720105167663256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HXD3C0679: 一些来自HXD3C-0679“先锋号”的铸币大头照😯 https://t.co/IaU27Sspz8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 663,
+        "media_key": "3_2083719794281574400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrcHOWacAAVdWg.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2083719908618276864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrcN4SaEAA3-5k.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2301,
+        "media_key": "3_2083719911059357697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrcOBYaAAEp_56.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2301,
+        "media_key": "3_2083719911063576576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrcOBZaYAAnI9g.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083719794281574400",
+            "3_2083719908618276864",
+            "3_2083719911059357697",
+            "3_2083719911063576576"
+          ]
+        },
+        "author_id": "1778989851226071040",
+        "conversation_id": "2083720105167663256",
+        "created_at": "2026-08-02T01:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083720105167663256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 50,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719794281574400",
+              "start": 27,
+              "url": "https://t.co/IaU27Sspz8"
+            },
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 50,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719908618276864",
+              "start": 27,
+              "url": "https://t.co/IaU27Sspz8"
+            },
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 50,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719911059357697",
+              "start": 27,
+              "url": "https://t.co/IaU27Sspz8"
+            },
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 50,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719911063576576",
+              "start": 27,
+              "url": "https://t.co/IaU27Sspz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083720105167663256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些来自HXD3C-0679“先锋号”的铸币大头照😯 https://t.co/IaU27Sspz8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083719794281574400",
+            "3_2083719908618276864",
+            "3_2083719911059357697",
+            "3_2083719911063576576"
+          ],
+          "media_source_tweet_id": [
+            "2083720105167663256",
+            "2083720105167663256",
+            "2083720105167663256",
+            "2083720105167663256"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083989363927753079",
+        "created_at": "2026-08-02T18:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083989363927753079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1778989851226071040",
+              "start": 3,
+              "username": "HXD3C0679"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 65,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719794281574400",
+              "start": 42,
+              "url": "https://t.co/IaU27Sspz8"
+            },
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 65,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719908618276864",
+              "start": 42,
+              "url": "https://t.co/IaU27Sspz8"
+            },
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 65,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719911059357697",
+              "start": 42,
+              "url": "https://t.co/IaU27Sspz8"
+            },
+            {
+              "display_url": "pic.x.com/IaU27Sspz8",
+              "end": 65,
+              "expanded_url": "https://x.com/HXD3C0679/status/2083720105167663256/photo/1",
+              "media_key": "3_2083719911063576576",
+              "start": 42,
+              "url": "https://t.co/IaU27Sspz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083989363927753079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083720105167663256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HXD3C0679: 一些来自HXD3C-0679“先锋号”的铸币大头照😯 https://t.co/IaU27Sspz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 938,
+          "like_count": 92408,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 4704
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-13T03:33:42.000Z",
+        "description": "SUBARU Crosstrek 25、 Lexus ES200饲养员&VOLVO S90临时支配使用🤑\n啥也不是，怕被查水表，搞个小圈子和小伙伴们继续吹牛逼😇👀\n本号只是个发图的，有奇奇怪怪想法的请出门左拐，看黄、揩油、下头男、抽象逼一律格杀勿论😶‍🌫️🥱",
+        "id": "1778989851226071040",
+        "name": "小Megumichan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778993407043756032/xUP3bs3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 290,
+          "like_count": 9496,
+          "listed_count": 2,
+          "media_count": 2582,
+          "tweet_count": 6859
+        },
+        "url": "",
+        "username": "HXD3C0679",
+        "verified": false
+      }
+    ]
+  }
+}

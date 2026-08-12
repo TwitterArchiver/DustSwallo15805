@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2085232998874816854",
+    "created_at": "2026-08-06T09:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085294601263591683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 27,
+          "id": "1918274202580467713",
+          "start": 12,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 39,
+          "id": "1976995735532138496",
+          "start": 28,
+          "username": "JanboMikan"
+        },
+        {
+          "end": 54,
+          "id": "1633715238322466817",
+          "start": 40,
+          "username": "plumedream233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085294601263591683",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085252228018045184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @CyberKanjousen @JanboMikan @plumedream233 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2085232998874816854",
+        "created_at": "2026-08-06T09:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085294601263591683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 39,
+              "id": "1976995735532138496",
+              "start": 28,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 54,
+              "id": "1633715238322466817",
+              "start": 40,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085294601263591683",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085252228018045184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @CyberKanjousen @JanboMikan @plumedream233 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2085232998874816854",
+        "created_at": "2026-08-06T06:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085252228018045184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 27,
+              "id": "1976995735532138496",
+              "start": 16,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 42,
+              "id": "1633715238322466817",
+              "start": 28,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085252228018045184",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085247864419357015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @JanboMikan @plumedream233 宝宝下次面基我们也这样逛街，裙子下面腿上要绑郊狼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 955,
+          "like_count": 94044,
+          "listed_count": 5,
+          "media_count": 777,
+          "tweet_count": 4811
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 513,
+          "like_count": 93221,
+          "listed_count": 8,
+          "media_count": 923,
+          "tweet_count": 11844
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14589,
+          "following_count": 879,
+          "like_count": 32686,
+          "listed_count": 24,
+          "media_count": 2468,
+          "tweet_count": 11683
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(全广随机出现)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15997,
+          "following_count": 616,
+          "like_count": 21862,
+          "listed_count": 53,
+          "media_count": 386,
+          "tweet_count": 11648
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "是个笨蛋男娘萝莉？...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "白羽梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080622624196231168/HPn-F0fR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4567,
+          "following_count": 766,
+          "like_count": 11570,
+          "listed_count": 8,
+          "media_count": 814,
+          "tweet_count": 7487
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false
+      }
+    ]
+  }
+}

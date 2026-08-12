@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2084936968161702223",
+    "created_at": "2026-08-05T09:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084936968161702223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eimeilait/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/eimeilait/status/2084936515256553844",
+          "start": 8,
+          "url": "https://t.co/HDgqNSdSAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084936968161702223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084936515256553844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自挂东南枝（Ｘ https://t.co/HDgqNSdSAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084935578953666560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8t3NMbUAAQ_Q8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2084936968161702223",
+        "created_at": "2026-08-05T09:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084936968161702223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eimeilait/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/eimeilait/status/2084936515256553844",
+              "start": 8,
+              "url": "https://t.co/HDgqNSdSAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084936968161702223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084936515256553844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自挂东南枝（Ｘ https://t.co/HDgqNSdSAI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084935578953666560"
+          ]
+        },
+        "author_id": "1678655311006273536",
+        "conversation_id": "2084936515256553844",
+        "created_at": "2026-08-05T09:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084936515256553844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1647170304844914689",
+              "start": 29,
+              "username": "DustSwallo15805"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0oHfCwiKN",
+              "end": 69,
+              "expanded_url": "https://x.com/EimeiLait/status/2084936515256553844/photo/1",
+              "media_key": "3_2084935578953666560",
+              "start": 46,
+              "url": "https://t.co/F0oHfCwiKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084936515256553844",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Bare Branches\n\nAcros II with @DustSwallo15805 https://t.co/F0oHfCwiKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 952,
+          "like_count": 93605,
+          "listed_count": 5,
+          "media_count": 774,
+          "tweet_count": 4784
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "莱／沙｜特別時期｜コイビト@DustSwallo15805 君何処へ　何時共に在らむ｜Ei. Si. Laitus｜萊・ライ｜BA4RRA｜LinguaZomina崇明说话｜ Arknights ARCAEA maimai ｜mtx｜LVNARIA †Iuli MMXXIV ｜违规的有害邮品@LaitusCorrupt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "DustSwallo15805"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "LaitusCorrupt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EimeiLait",
+                "end": 23,
+                "expanded_url": "http://github.com/EimeiLait",
+                "start": 0,
+                "url": "https://t.co/XrhaULs8l0"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "name": "墨落莱 Laitus-特別時期",
+        "pinned_tweet_id": "2081950059877617860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013739249770901504/mO56E89w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 708,
+          "like_count": 158522,
+          "listed_count": 1,
+          "media_count": 355,
+          "tweet_count": 3123
+        },
+        "url": "https://t.co/XrhaULs8l0",
+        "username": "EimeiLait",
+        "verified": false
+      }
+    ]
+  }
+}

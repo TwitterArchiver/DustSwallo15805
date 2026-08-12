@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085363126518861824"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085363157778981040",
+    "created_at": "2026-08-06T13:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085363157778981040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9jozpn3DxR",
+          "end": 27,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2085363157778981040/photo/1",
+          "media_key": "3_2085363126518861824",
+          "start": 4,
+          "url": "https://t.co/9jozpn3DxR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085363157778981040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘（ https://t.co/9jozpn3DxR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085363126518861824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCytv_a0AAc2ej.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085363126518861824"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085363157778981040",
+        "created_at": "2026-08-06T13:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085363157778981040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jozpn3DxR",
+              "end": 27,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2085363157778981040/photo/1",
+              "media_key": "3_2085363126518861824",
+              "start": 4,
+              "url": "https://t.co/9jozpn3DxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085363157778981040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘（ https://t.co/9jozpn3DxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 954,
+          "like_count": 94104,
+          "listed_count": 5,
+          "media_count": 779,
+          "tweet_count": 4813
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

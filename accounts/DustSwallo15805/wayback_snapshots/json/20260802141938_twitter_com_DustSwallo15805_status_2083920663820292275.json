@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083845840909832192"
+      ],
+      "media_source_tweet_id": [
+        "2083845924116431274"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083920663820292275",
+    "created_at": "2026-08-02T14:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083920663820292275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "Artoria040130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3i3TK0N12H",
+          "end": 42,
+          "expanded_url": "https://x.com/Artoria040130/status/2083845924116431274/photo/1",
+          "media_key": "3_2083845840909832192",
+          "start": 19,
+          "url": "https://t.co/3i3TK0N12H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083920663820292275",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083845924116431274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Artoria040130: https://t.co/3i3TK0N12H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1695,
+        "media_key": "3_2083845840909832192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtOwGobEAAWUDu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083845840909832192"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2083845924116431274",
+        "created_at": "2026-08-02T09:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083845924116431274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3i3TK0N12H",
+              "end": 23,
+              "expanded_url": "https://x.com/Artoria040130/status/2083845924116431274/photo/1",
+              "media_key": "3_2083845840909832192",
+              "start": 0,
+              "url": "https://t.co/3i3TK0N12H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083845924116431274",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3i3TK0N12H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083845840909832192"
+          ],
+          "media_source_tweet_id": [
+            "2083845924116431274"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083920663820292275",
+        "created_at": "2026-08-02T14:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083920663820292275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "Artoria040130"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3i3TK0N12H",
+              "end": 42,
+              "expanded_url": "https://x.com/Artoria040130/status/2083845924116431274/photo/1",
+              "media_key": "3_2083845840909832192",
+              "start": 19,
+              "url": "https://t.co/3i3TK0N12H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083920663820292275",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083845924116431274",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Artoria040130: https://t.co/3i3TK0N12H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 938,
+          "like_count": 92235,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 4683
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "🇩🇪 Aus Deutschland\nFreiheit, Gedanken und ein bisschen Magie.\nAnime, Fate & Saber-Fan.\nIch gehe meinen eigenen Weg",
+        "id": "1759787246587379712",
+        "location": "Berlin, Germany",
+        "name": "Adrian Elisabeth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083693987932852224/CAM6IWJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1587,
+          "like_count": 6292,
+          "listed_count": 10,
+          "media_count": 918,
+          "tweet_count": 3190
+        },
+        "url": "",
+        "username": "Artoria040130",
+        "verified": false
+      }
+    ]
+  }
+}

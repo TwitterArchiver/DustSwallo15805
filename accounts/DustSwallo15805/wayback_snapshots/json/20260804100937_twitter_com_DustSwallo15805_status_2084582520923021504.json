@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084233252840341504"
+      ],
+      "media_source_tweet_id": [
+        "2084234014597214619"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084582520923021504",
+    "created_at": "2026-08-04T10:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084582520923021504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "630160409",
+          "start": 3,
+          "username": "a_machun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BddKvPMCOu",
+          "end": 51,
+          "expanded_url": "https://x.com/a_machun/status/2084234014597214619/video/1",
+          "media_key": "13_2084233252840341504",
+          "start": 28,
+          "url": "https://t.co/BddKvPMCOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084582520923021504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084234014597214619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a_machun: 1946年春の梅小路機関区 https://t.co/BddKvPMCOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87866,
+        "height": 480,
+        "media_key": "13_2084233252840341504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084233252840341504/img/gNcUeQt5Gk1rWiFC.jpg",
+        "public_metrics": {
+          "view_count": 6981
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084233252840341504/vid/avc1/404x270/DFD-00YoFpgXNblg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084233252840341504/vid/avc1/540x360/Exq-V6bAKULHS5iI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084233252840341504/vid/avc1/720x480/tpQ6JqwEz7Hqn8Xy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084233252840341504/pl/yDbAF4LOv4W3QBlN.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084233252840341504"
+          ]
+        },
+        "author_id": "630160409",
+        "conversation_id": "2084234014597214619",
+        "created_at": "2026-08-03T11:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084234014597214619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BddKvPMCOu",
+              "end": 37,
+              "expanded_url": "https://x.com/a_machun/status/2084234014597214619/video/1",
+              "media_key": "13_2084233252840341504",
+              "start": 14,
+              "url": "https://t.co/BddKvPMCOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234014597214619",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 16604,
+          "like_count": 513,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "1946年春の梅小路機関区 https://t.co/BddKvPMCOu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084233252840341504"
+          ],
+          "media_source_tweet_id": [
+            "2084234014597214619"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084582520923021504",
+        "created_at": "2026-08-04T10:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084582520923021504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "630160409",
+              "start": 3,
+              "username": "a_machun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BddKvPMCOu",
+              "end": 51,
+              "expanded_url": "https://x.com/a_machun/status/2084234014597214619/video/1",
+              "media_key": "13_2084233252840341504",
+              "start": 28,
+              "url": "https://t.co/BddKvPMCOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084582520923021504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084234014597214619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a_machun: 1946年春の梅小路機関区 https://t.co/BddKvPMCOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 945,
+          "like_count": 93052,
+          "listed_count": 5,
+          "media_count": 772,
+          "tweet_count": 4754
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-08T12:06:10.000Z",
+        "description": "歯車と化した銀髪狐耳美少女 うちのこかわいい JP/EN/微CN たまに翻訳 戦艦少女R(レンジャー/日本語)18813 「喫茶まやーく」代表 修士(地域研究) AA09",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/otaka",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/otaka",
+                "start": 0,
+                "url": "https://t.co/Dge5MzQFZh"
+              }
+            ]
+          }
+        },
+        "id": "630160409",
+        "location": "Aichi/Japan",
+        "name": "まっちゅん",
+        "pinned_tweet_id": "1976970076101456153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509548490351063049/BrSy6257_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 1864,
+          "like_count": 61103,
+          "listed_count": 142,
+          "media_count": 17844,
+          "tweet_count": 133103
+        },
+        "url": "https://t.co/Dge5MzQFZh",
+        "username": "a_machun",
+        "verified": false
+      }
+    ]
+  }
+}

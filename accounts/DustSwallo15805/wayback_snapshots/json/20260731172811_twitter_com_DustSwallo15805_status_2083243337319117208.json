@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083230781577822464",
+    "created_at": "2026-07-31T17:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083243337319117208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083243337319117208",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083230781577822464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083230781577822464",
+        "created_at": "2026-07-31T17:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083243337319117208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083243337319117208",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083230781577822464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503516796493590530",
+        "conversation_id": "2083230781577822464",
+        "created_at": "2026-07-31T16:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083230781577822464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083230781577822464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉又在担心钱的问题\n家里最近实在是拿不出更多了。。。因为升学亲戚给的我肯定一分拿不到都要作为学费住宿费etc.\n我也很难开口问家里要钱开药了。。。毕竟出去旅游了可是也不能取消了取消的话对同伴来说太不公平了\n唉好难受。。。我知道比我贫穷比我家庭关系紧张的大有人在但我还是担忧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 916,
+          "like_count": 91365,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 4604
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜18已毕业高中牲｜INFP｜代词随意｜🏳️‍🌈喜欢男的｜纯负能里里推 @calcipetitgrain （只会过熟人）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "calcipetitgrain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew75829",
+                "start": 0,
+                "url": "https://t.co/I42jWGR17A"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "2071353465612468377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6518,
+          "following_count": 2568,
+          "like_count": 63605,
+          "listed_count": 3,
+          "media_count": 751,
+          "tweet_count": 9588
+        },
+        "url": "https://t.co/I42jWGR17A",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

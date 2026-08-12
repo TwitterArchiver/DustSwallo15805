@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084119603949830144",
+        "3_2084119614771089408",
+        "3_2084119628691935233",
+        "3_2084119640670941184"
+      ],
+      "media_source_tweet_id": [
+        "2084119649462186242",
+        "2084119649462186242",
+        "2084119649462186242",
+        "2084119649462186242"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2084577743967293881",
+    "created_at": "2026-08-04T09:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084577743967293881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "357463425",
+          "start": 3,
+          "username": "HGVXX7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qg9Ugg3OyU",
+          "end": 60,
+          "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+          "media_key": "3_2084119603949830144",
+          "start": 37,
+          "url": "https://t.co/Qg9Ugg3OyU"
+        },
+        {
+          "display_url": "pic.x.com/Qg9Ugg3OyU",
+          "end": 60,
+          "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+          "media_key": "3_2084119614771089408",
+          "start": 37,
+          "url": "https://t.co/Qg9Ugg3OyU"
+        },
+        {
+          "display_url": "pic.x.com/Qg9Ugg3OyU",
+          "end": 60,
+          "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+          "media_key": "3_2084119628691935233",
+          "start": 37,
+          "url": "https://t.co/Qg9Ugg3OyU"
+        },
+        {
+          "display_url": "pic.x.com/Qg9Ugg3OyU",
+          "end": 60,
+          "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+          "media_key": "3_2084119640670941184",
+          "start": 37,
+          "url": "https://t.co/Qg9Ugg3OyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084577743967293881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 532
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084119649462186242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HGVXX7: 犬のおまわりさん（けもみみ社会主義国家のすがた） https://t.co/Qg9Ugg3OyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084119603949830144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxHvNbbgAA2lXy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1382,
+        "media_key": "3_2084119614771089408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxHv1va0AAU4qi.jpg",
+        "width": 2047
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084119628691935233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxHwpmaEAE3nDN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084119640670941184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxHxWObMAA-8kz.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084119603949830144",
+            "3_2084119614771089408",
+            "3_2084119628691935233",
+            "3_2084119640670941184"
+          ]
+        },
+        "author_id": "357463425",
+        "conversation_id": "2084119649462186242",
+        "created_at": "2026-08-03T03:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084119649462186242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 48,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119603949830144",
+              "start": 25,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            },
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 48,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119614771089408",
+              "start": 25,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            },
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 48,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119628691935233",
+              "start": 25,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            },
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 48,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119640670941184",
+              "start": 25,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084119649462186242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2110,
+          "impression_count": 200646,
+          "like_count": 6157,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 532
+        },
+        "reply_settings": "everyone",
+        "text": "犬のおまわりさん（けもみみ社会主義国家のすがた） https://t.co/Qg9Ugg3OyU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084119603949830144",
+            "3_2084119614771089408",
+            "3_2084119628691935233",
+            "3_2084119640670941184"
+          ],
+          "media_source_tweet_id": [
+            "2084119649462186242",
+            "2084119649462186242",
+            "2084119649462186242",
+            "2084119649462186242"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2084577743967293881",
+        "created_at": "2026-08-04T09:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084577743967293881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "357463425",
+              "start": 3,
+              "username": "HGVXX7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 60,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119603949830144",
+              "start": 37,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            },
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 60,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119614771089408",
+              "start": 37,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            },
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 60,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119628691935233",
+              "start": 37,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            },
+            {
+              "display_url": "pic.x.com/Qg9Ugg3OyU",
+              "end": 60,
+              "expanded_url": "https://x.com/HGVXX7/status/2084119649462186242/photo/1",
+              "media_key": "3_2084119640670941184",
+              "start": 37,
+              "url": "https://t.co/Qg9Ugg3OyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084577743967293881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 532
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084119649462186242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HGVXX7: 犬のおまわりさん（けもみみ社会主義国家のすがた） https://t.co/Qg9Ugg3OyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 945,
+          "like_count": 93014,
+          "listed_count": 5,
+          "media_count": 772,
+          "tweet_count": 4751
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-18T12:05:52.000Z",
+        "description": "さまよえるモフスタン人民\n\nR-18/R-18G含有につき注意\nミ゜ https://t.co/8knmOrTl5d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "misskey.io/@HGVXX7",
+                "end": 58,
+                "expanded_url": "https://misskey.io/@HGVXX7",
+                "start": 35,
+                "url": "https://t.co/8knmOrTl5d"
+              }
+            ]
+          }
+        },
+        "id": "357463425",
+        "location": "Movsglad, Movstan",
+        "name": "竹狸",
+        "pinned_tweet_id": "2010363625215762577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763570127294103553/-TiDmpUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5270,
+          "following_count": 2199,
+          "like_count": 339362,
+          "listed_count": 75,
+          "media_count": 8246,
+          "tweet_count": 112760
+        },
+        "url": "",
+        "username": "HGVXX7",
+        "verified": false
+      }
+    ]
+  }
+}

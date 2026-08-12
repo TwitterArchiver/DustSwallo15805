@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082477366488842240",
+        "3_2082477366476156928"
+      ],
+      "media_source_tweet_id": [
+        "2082477378232844596",
+        "2082477378232844596"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082857639680336258",
+    "created_at": "2026-07-30T15:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082857639680336258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3149902519",
+          "start": 3,
+          "username": "fancy7722"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uMyVo6bmZt",
+          "end": 60,
+          "expanded_url": "https://x.com/fancy7722/status/2082477378232844596/photo/1",
+          "media_key": "3_2082477366488842240",
+          "start": 37,
+          "url": "https://t.co/uMyVo6bmZt"
+        },
+        {
+          "display_url": "pic.x.com/uMyVo6bmZt",
+          "end": 60,
+          "expanded_url": "https://x.com/fancy7722/status/2082477378232844596/photo/1",
+          "media_key": "3_2082477366476156928",
+          "start": 37,
+          "url": "https://t.co/uMyVo6bmZt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082857639680336258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082477378232844596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fancy7722: まさかこの俺が現用装備に手を出すなんてな… https://t.co/uMyVo6bmZt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2082477366488842240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZyIaJbwAAhTLu.jpg",
+        "width": 640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082477366476156928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZyIaGaMAABqe-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082477366488842240",
+            "3_2082477366476156928"
+          ]
+        },
+        "author_id": "3149902519",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082477378232844596",
+        "created_at": "2026-07-29T14:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082477378232844596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMyVo6bmZt",
+              "end": 45,
+              "expanded_url": "https://x.com/fancy7722/status/2082477378232844596/photo/1",
+              "media_key": "3_2082477366488842240",
+              "start": 22,
+              "url": "https://t.co/uMyVo6bmZt"
+            },
+            {
+              "display_url": "pic.x.com/uMyVo6bmZt",
+              "end": 45,
+              "expanded_url": "https://x.com/fancy7722/status/2082477378232844596/photo/1",
+              "media_key": "3_2082477366476156928",
+              "start": 22,
+              "url": "https://t.co/uMyVo6bmZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082477378232844596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 13929,
+          "like_count": 249,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "まさかこの俺が現用装備に手を出すなんてな… https://t.co/uMyVo6bmZt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082477366488842240",
+            "3_2082477366476156928"
+          ],
+          "media_source_tweet_id": [
+            "2082477378232844596",
+            "2082477378232844596"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082857639680336258",
+        "created_at": "2026-07-30T15:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082857639680336258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3149902519",
+              "start": 3,
+              "username": "fancy7722"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMyVo6bmZt",
+              "end": 60,
+              "expanded_url": "https://x.com/fancy7722/status/2082477378232844596/photo/1",
+              "media_key": "3_2082477366488842240",
+              "start": 37,
+              "url": "https://t.co/uMyVo6bmZt"
+            },
+            {
+              "display_url": "pic.x.com/uMyVo6bmZt",
+              "end": 60,
+              "expanded_url": "https://x.com/fancy7722/status/2082477378232844596/photo/1",
+              "media_key": "3_2082477366476156928",
+              "start": 37,
+              "url": "https://t.co/uMyVo6bmZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082857639680336258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082477378232844596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fancy7722: まさかこの俺が現用装備に手を出すなんてな… https://t.co/uMyVo6bmZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 905,
+          "like_count": 91077,
+          "listed_count": 4,
+          "media_count": 752,
+          "tweet_count": 4569
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-11T13:52:38.000Z",
+        "description": "好きな事を呟くだけ。ミリタリーと歴史研究と海外アニメ。最近はハズビンホテルとヘルヴァボスにお熱。 サブ垢→@hidechi17 コス→🇯🇵🇰🇷🇬🇧🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "hidechi17"
+              }
+            ]
+          }
+        },
+        "id": "3149902519",
+        "location": "傲慢の階層",
+        "name": "ヒデチ",
+        "pinned_tweet_id": "2079992178894622909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019343458717298692/n2LNH0lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 4641,
+          "like_count": 502963,
+          "listed_count": 37,
+          "media_count": 15756,
+          "tweet_count": 198451
+        },
+        "url": "",
+        "username": "fancy7722",
+        "verified": false
+      }
+    ]
+  }
+}

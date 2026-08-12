@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083232115907584471",
+    "created_at": "2026-07-31T16:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083232115907584471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senzhiwu/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/senzhiwu/status/2083206197935804833",
+          "start": 21,
+          "url": "https://t.co/84mvLNClJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083232115907584471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083206197935804833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱对对象依赖度好高，没有她就活不下去了🥹 https://t.co/84mvLNClJm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083232115907584471",
+        "created_at": "2026-07-31T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083232115907584471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2083206197935804833",
+              "start": 21,
+              "url": "https://t.co/84mvLNClJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083232115907584471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083206197935804833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱对对象依赖度好高，没有她就活不下去了🥹 https://t.co/84mvLNClJm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2083206197935804833",
+        "created_at": "2026-07-31T15:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083206197935804833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083206197935804833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱对对象依赖度好高，没有她就活不下去了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 916,
+          "like_count": 91356,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 4602
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜entp-t 现infp/j｜心归所至：@74025hai 愿为你的天使，化作你的羽翼，与你共赴天堂｜可爱树树子@GlowingTree880｜mtx🏳️‍⚧️｜小证偷吃｜hrt3.29｜家长党｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "74025hai"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "GlowingTree880"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 421,
+          "like_count": 3267,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 2501
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

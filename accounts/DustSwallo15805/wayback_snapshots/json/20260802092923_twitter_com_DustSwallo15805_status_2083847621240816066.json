@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083607572339421184"
+      ],
+      "media_source_tweet_id": [
+        "2083717164247441779"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083847621240816066",
+    "created_at": "2026-08-02T09:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083847621240816066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jdwo8DImno",
+          "end": 56,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2083717164247441779/photo/1",
+          "media_key": "3_2083607572339421184",
+          "start": 33,
+          "url": "https://t.co/jdwo8DImno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083847621240816066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083717164247441779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 中国人能飞，昨晚刚飞完。 https://t.co/jdwo8DImno"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2083607572339421184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOp2DDCa8AADeSY.jpg",
+        "width": 1059
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083607572339421184"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2083717164247441779",
+        "created_at": "2026-08-02T00:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083717164247441779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdwo8DImno",
+              "end": 36,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2083717164247441779/photo/1",
+              "media_key": "3_2083607572339421184",
+              "start": 13,
+              "url": "https://t.co/jdwo8DImno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083717164247441779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 14826,
+          "like_count": 403,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "中国人能飞，昨晚刚飞完。 https://t.co/jdwo8DImno"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083607572339421184"
+          ],
+          "media_source_tweet_id": [
+            "2083717164247441779"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083847621240816066",
+        "created_at": "2026-08-02T09:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083847621240816066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jdwo8DImno",
+              "end": 56,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2083717164247441779/photo/1",
+              "media_key": "3_2083607572339421184",
+              "start": 33,
+              "url": "https://t.co/jdwo8DImno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847621240816066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083717164247441779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 中国人能飞，昨晚刚飞完。 https://t.co/jdwo8DImno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 925,
+          "like_count": 91966,
+          "listed_count": 5,
+          "media_count": 763,
+          "tweet_count": 4665
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12816,
+          "following_count": 880,
+          "like_count": 32317,
+          "listed_count": 22,
+          "media_count": 2387,
+          "tweet_count": 11427
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

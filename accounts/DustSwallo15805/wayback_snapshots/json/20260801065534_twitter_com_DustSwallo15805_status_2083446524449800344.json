@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082766280097230850"
+      ],
+      "media_source_tweet_id": [
+        "2082766292864680266"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2083446524449800344",
+    "created_at": "2026-08-01T06:55:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:55:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083446524449800344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q2lTjc4mwG",
+          "end": 53,
+          "expanded_url": "https://x.com/bui_tu46916/status/2082766292864680266/photo/1",
+          "media_key": "3_2082766280097230850",
+          "start": 30,
+          "url": "https://t.co/q2lTjc4mwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083446524449800344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082766292864680266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: “不要把药圈出卖给晶方” https://t.co/q2lTjc4mwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2082766280097230850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd45ZNbcAITvk0.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766280097230850"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2082766292864680266",
+        "created_at": "2026-07-30T09:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082766292864680266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2lTjc4mwG",
+              "end": 36,
+              "expanded_url": "https://x.com/bui_tu46916/status/2082766292864680266/photo/1",
+              "media_key": "3_2082766280097230850",
+              "start": 13,
+              "url": "https://t.co/q2lTjc4mwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766292864680266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5142,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "“不要把药圈出卖给晶方” https://t.co/q2lTjc4mwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766280097230850"
+          ],
+          "media_source_tweet_id": [
+            "2082766292864680266"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083446524449800344",
+        "created_at": "2026-08-01T06:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083446524449800344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2lTjc4mwG",
+              "end": 53,
+              "expanded_url": "https://x.com/bui_tu46916/status/2082766292864680266/photo/1",
+              "media_key": "3_2082766280097230850",
+              "start": 30,
+              "url": "https://t.co/q2lTjc4mwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083446524449800344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766292864680266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: “不要把药圈出卖给晶方” https://t.co/q2lTjc4mwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 917,
+          "like_count": 91509,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 4613
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 310,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}
