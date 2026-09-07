@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093237660458594305",
+        "3_2093237660483743744",
+        "3_2093237660504793088"
+      ],
+      "media_source_tweet_id": [
+        "2093237741920391579",
+        "2093237741920391579",
+        "2093237741920391579"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2093293508018983005",
+    "created_at": "2026-08-28T11:03:58.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T12:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093293508018983005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038481977305939968",
+          "start": 3,
+          "username": "Tsurumi7vr8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qteyLfJaeA",
+          "end": 53,
+          "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+          "media_key": "3_2093237660458594305",
+          "start": 30,
+          "url": "https://t.co/qteyLfJaeA"
+        },
+        {
+          "display_url": "pic.x.com/qteyLfJaeA",
+          "end": 53,
+          "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+          "media_key": "3_2093237660483743744",
+          "start": 30,
+          "url": "https://t.co/qteyLfJaeA"
+        },
+        {
+          "display_url": "pic.x.com/qteyLfJaeA",
+          "end": 53,
+          "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+          "media_key": "3_2093237660504793088",
+          "start": 30,
+          "url": "https://t.co/qteyLfJaeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093293508018983005",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093237660458594305"
+      },
+      {
+        "media_key": "3_2093237660483743744"
+      },
+      {
+        "media_key": "3_2093237660504793088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093237741920391579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tsurumi7vr8: 国鉄からJRへの移行期間 https://t.co/qteyLfJaeA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2093237660458594305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysj84asAEvjdZ.jpg",
+        "width": 600
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093237660483743744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysj8-acAAD2ww.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093237660504793088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQysj9DboAAKHgw.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093237660458594305",
+            "3_2093237660483743744",
+            "3_2093237660504793088"
+          ],
+          "media_source_tweet_id": [
+            "2093237741920391579",
+            "2093237741920391579",
+            "2093237741920391579"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2093293508018983005",
+        "created_at": "2026-08-28T11:03:58.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T12:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093293508018983005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038481977305939968",
+              "start": 3,
+              "username": "Tsurumi7vr8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qteyLfJaeA",
+              "end": 53,
+              "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+              "media_key": "3_2093237660458594305",
+              "start": 30,
+              "url": "https://t.co/qteyLfJaeA"
+            },
+            {
+              "display_url": "pic.x.com/qteyLfJaeA",
+              "end": 53,
+              "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+              "media_key": "3_2093237660483743744",
+              "start": 30,
+              "url": "https://t.co/qteyLfJaeA"
+            },
+            {
+              "display_url": "pic.x.com/qteyLfJaeA",
+              "end": 53,
+              "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+              "media_key": "3_2093237660504793088",
+              "start": 30,
+              "url": "https://t.co/qteyLfJaeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093293508018983005",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093237660458594305"
+          },
+          {
+            "media_key": "3_2093237660483743744"
+          },
+          {
+            "media_key": "3_2093237660504793088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093237741920391579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tsurumi7vr8: 国鉄からJRへの移行期間 https://t.co/qteyLfJaeA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093237660458594305",
+            "3_2093237660483743744",
+            "3_2093237660504793088"
+          ]
+        },
+        "author_id": "2038481977305939968",
+        "conversation_id": "2093237741920391579",
+        "created_at": "2026-08-28T07:22:22.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093237741920391579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qteyLfJaeA",
+              "end": 36,
+              "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+              "media_key": "3_2093237660458594305",
+              "start": 13,
+              "url": "https://t.co/qteyLfJaeA"
+            },
+            {
+              "display_url": "pic.x.com/qteyLfJaeA",
+              "end": 36,
+              "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+              "media_key": "3_2093237660483743744",
+              "start": 13,
+              "url": "https://t.co/qteyLfJaeA"
+            },
+            {
+              "display_url": "pic.x.com/qteyLfJaeA",
+              "end": 36,
+              "expanded_url": "https://x.com/Tsurumi7vr8/status/2093237741920391579/photo/1",
+              "media_key": "3_2093237660504793088",
+              "start": 13,
+              "url": "https://t.co/qteyLfJaeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093237741920391579",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093237660458594305"
+          },
+          {
+            "media_key": "3_2093237660483743744"
+          },
+          {
+            "media_key": "3_2093237660504793088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 175,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国鉄からJRへの移行期間 https://t.co/qteyLfJaeA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2093293508018983005",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 1020,
+          "like_count": 101450,
+          "listed_count": 5,
+          "media_count": 835,
+          "tweet_count": 5132
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T05:03:28.000Z",
+        "description": "多趣味 官公庁 鉄道被服収集 研究\n80年代のすべてに夢中になっています\n外国人です。 piss off gay！！！",
+        "id": "2038481977305939968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093237741920391579",
+        "name": "Tsurumi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038481977305939968/1785783694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074068627901575168/837Y6D0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 331,
+          "like_count": 2335,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "Tsurumi7vr8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

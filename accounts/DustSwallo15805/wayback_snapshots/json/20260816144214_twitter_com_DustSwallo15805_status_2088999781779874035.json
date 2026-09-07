@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088616125223538689"
+      ],
+      "media_source_tweet_id": [
+        "2088616147222684021"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2088999781779874035",
+    "created_at": "2026-08-16T14:42:14.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088999781779874035"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 66,
+          "tag": "C108コスプレ"
+        },
+        {
+          "end": 84,
+          "start": 76,
+          "tag": "C108cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "291617378",
+          "start": 3,
+          "username": "AriwaraNoriyuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZgOQSvUWT",
+          "end": 108,
+          "expanded_url": "https://x.com/AriwaraNoriyuki/status/2088616147222684021/photo/1",
+          "media_key": "3_2088616125223538689",
+          "start": 85,
+          "url": "https://t.co/XZgOQSvUWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088999781779874035",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088616125223538689"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088616147222684021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AriwaraNoriyuki: 本日は郵政公社の職員のコスプレをしておりました\nお会いした皆さま、ありがとうございました\n#C108コスプレ #C108cos https://t.co/XZgOQSvUWT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088616125223538689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxBTMgaEAEftAC.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088616125223538689"
+          ],
+          "media_source_tweet_id": [
+            "2088616147222684021"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088999781779874035",
+        "created_at": "2026-08-16T14:42:14.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088999781779874035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "C108コスプレ"
+            },
+            {
+              "end": 84,
+              "start": 76,
+              "tag": "C108cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "291617378",
+              "start": 3,
+              "username": "AriwaraNoriyuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZgOQSvUWT",
+              "end": 108,
+              "expanded_url": "https://x.com/AriwaraNoriyuki/status/2088616147222684021/photo/1",
+              "media_key": "3_2088616125223538689",
+              "start": 85,
+              "url": "https://t.co/XZgOQSvUWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088999781779874035",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088616125223538689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088616147222684021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AriwaraNoriyuki: 本日は郵政公社の職員のコスプレをしておりました\nお会いした皆さま、ありがとうございました\n#C108コスプレ #C108cos https://t.co/XZgOQSvUWT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088616125223538689"
+          ]
+        },
+        "author_id": "291617378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088616147222684021",
+        "created_at": "2026-08-15T13:17:48.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088616147222684021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "C108コスプレ"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "C108cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZgOQSvUWT",
+              "end": 87,
+              "expanded_url": "https://x.com/AriwaraNoriyuki/status/2088616147222684021/photo/1",
+              "media_key": "3_2088616125223538689",
+              "start": 64,
+              "url": "https://t.co/XZgOQSvUWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088616147222684021",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088616125223538689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5913,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "本日は郵政公社の職員のコスプレをしておりました\nお会いした皆さま、ありがとうございました\n#C108コスプレ #C108cos https://t.co/XZgOQSvUWT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088999781779874035",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1014,
+          "like_count": 98259,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 4969
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-02T10:09:14.000Z",
+        "description": "まあまあ黒い企業で働いていましたが、いよいよ我慢ならずに離脱して参りました。無事に新しい職場が見つかり、今度こそはブラック企業でなさそうなので一安心しております。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.utanowa.net/user/view/1284",
+                "end": 23,
+                "expanded_url": "http://m.utanowa.net/user/view/1284",
+                "start": 0,
+                "url": "https://t.co/4vgnzNMJ51"
+              }
+            ]
+          }
+        },
+        "id": "291617378",
+        "is_identity_verified": false,
+        "location": "東京⇆神奈川(たまに千葉)",
+        "most_recent_tweet_id": "2088959720451457455",
+        "name": "在原紀之@C108 2日目 東2 チ66-ab「内浦鉄道管理局」",
+        "pinned_tweet_id": "2060965520019706202",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/291617378/1560090731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080851320018505728/eTLVPckY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 2767,
+          "like_count": 125334,
+          "listed_count": 22,
+          "media_count": 3463,
+          "tweet_count": 52887
+        },
+        "url": "https://t.co/4vgnzNMJ51",
+        "username": "AriwaraNoriyuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

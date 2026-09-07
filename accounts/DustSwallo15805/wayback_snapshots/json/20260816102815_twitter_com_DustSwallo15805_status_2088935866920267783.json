@@ -1,0 +1,806 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088823785688608768"
+      ],
+      "media_source_tweet_id": [
+        "2088823801501065556"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1337176229380726784",
+          "name": "Yakuza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337176229380726784",
+          "name": "Yakuza"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2088935866920267783",
+    "created_at": "2026-08-16T10:28:15.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088935866920267783"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "C108"
+        },
+        {
+          "end": 85,
+          "start": 76,
+          "tag": "C108_cos"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "コミケ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "485848748",
+          "start": 3,
+          "username": "Ultra_Fujitani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v9YIUvVNvV",
+          "end": 114,
+          "expanded_url": "https://x.com/Ultra_Fujitani/status/2088823801501065556/photo/1",
+          "media_key": "3_2088823785688608768",
+          "start": 91,
+          "url": "https://t.co/v9YIUvVNvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088935866920267783",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088823785688608768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088823801501065556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ultra_Fujitani: 【コスプレ〜職務質問⁉️〜】\n\nサツに囲まれたな\n\n龍が如く/桐生一馬\n昭和の警官レイヤーさんたち\n#C108 #C108_cos #コミケ https://t.co/v9YIUvVNvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2088823785688608768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPz-KoBbMAAIgAg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088823785688608768"
+          ],
+          "media_source_tweet_id": [
+            "2088823801501065556"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088935866920267783",
+        "created_at": "2026-08-16T10:28:15.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088935866920267783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "C108"
+            },
+            {
+              "end": 85,
+              "start": 76,
+              "tag": "C108_cos"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "コミケ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "485848748",
+              "start": 3,
+              "username": "Ultra_Fujitani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9YIUvVNvV",
+              "end": 114,
+              "expanded_url": "https://x.com/Ultra_Fujitani/status/2088823801501065556/photo/1",
+              "media_key": "3_2088823785688608768",
+              "start": 91,
+              "url": "https://t.co/v9YIUvVNvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935866920267783",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088823785688608768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088823801501065556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ultra_Fujitani: 【コスプレ〜職務質問⁉️〜】\n\nサツに囲まれたな\n\n龍が如く/桐生一馬\n昭和の警官レイヤーさんたち\n#C108 #C108_cos #コミケ https://t.co/v9YIUvVNvV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088823785688608768"
+          ]
+        },
+        "author_id": "485848748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337176229380726784",
+              "name": "Yakuza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088823801501065556",
+        "created_at": "2026-08-16T03:02:57.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088823801501065556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "C108"
+            },
+            {
+              "end": 65,
+              "start": 56,
+              "tag": "C108_cos"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "コミケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9YIUvVNvV",
+              "end": 94,
+              "expanded_url": "https://x.com/Ultra_Fujitani/status/2088823801501065556/photo/1",
+              "media_key": "3_2088823785688608768",
+              "start": 71,
+              "url": "https://t.co/v9YIUvVNvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088823801501065556",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088823785688608768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 100090,
+          "like_count": 2811,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 565
+        },
+        "reply_settings": "everyone",
+        "text": "【コスプレ〜職務質問⁉️〜】\n\nサツに囲まれたな\n\n龍が如く/桐生一馬\n昭和の警官レイヤーさんたち\n#C108 #C108_cos #コミケ https://t.co/v9YIUvVNvV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088935866920267783",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1014,
+          "like_count": 98131,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4965
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-07T17:00:36.000Z",
+        "description": "肉体派コスプレイヤー 筋肉は自前💪龍が如く真島吾朗、桐生一馬がメインです(相棒)@vz61sco3aibo552【格闘技歴】ムエタイ元ウェルター級アマチュア3位、極真空手黒帯【好きな作品】龍が如く、ウルトラマン、鬼滅、DB、ラブライブ！他【サブ垢】@f_seven4 乗り物系YouTuberもやってます⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "vz61sco3aibo552"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "f_seven4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Fujitani",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Fujitani",
+                "start": 0,
+                "url": "https://t.co/s5zMqLTsT6"
+              }
+            ]
+          }
+        },
+        "id": "485848748",
+        "is_identity_verified": false,
+        "location": "池袋・神室町・蒼天堀",
+        "most_recent_tweet_id": "2088935551730946390",
+        "name": "ウルトラＦ@池袋の狂犬_C108両日",
+        "pinned_tweet_id": "2052349466108375536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/485848748/1767342350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031244363339280387/PQLmsEbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 1111,
+          "like_count": 108148,
+          "listed_count": 14,
+          "media_count": 1078,
+          "tweet_count": 15567
+        },
+        "url": "https://t.co/s5zMqLTsT6",
+        "username": "Ultra_Fujitani",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

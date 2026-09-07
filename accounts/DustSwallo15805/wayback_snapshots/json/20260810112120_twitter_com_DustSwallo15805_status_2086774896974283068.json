@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086395221521354752"
+      ],
+      "media_source_tweet_id": [
+        "2086395627471335568"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2086774896974283068",
+    "created_at": "2026-08-10T11:21:20.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T12:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086774896974283068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "915533807289167872",
+          "start": 3,
+          "username": "maruru_2727"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4l6Pex3u5o",
+          "end": 45,
+          "expanded_url": "https://x.com/maruru_2727/status/2086395627471335568/video/1",
+          "media_key": "13_2086395221521354752",
+          "start": 22,
+          "url": "https://t.co/4l6Pex3u5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086774896974283068",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2086395221521354752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086395627471335568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maruru_2727: なめてた https://t.co/4l6Pex3u5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5031,
+        "height": 1872,
+        "media_key": "13_2086395221521354752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086395221521354752/img/DU1fQ_5u5JWV-rez.jpg",
+        "public_metrics": {
+          "view_count": 3004
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086395221521354752/vid/avc1/320x554/uvTxqaz6KNZeOtWV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086395221521354752/vid/avc1/480x832/oRkflPvSDCNfCpN1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086395221521354752/vid/avc1/720x1248/lO4gs4_JrJBgzP6R.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086395221521354752/pl/EYiK5Svk3rEgpE7c.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086395221521354752"
+          ]
+        },
+        "author_id": "915533807289167872",
+        "conversation_id": "2086395627471335568",
+        "created_at": "2026-08-09T10:14:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086395627471335568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4l6Pex3u5o",
+              "end": 28,
+              "expanded_url": "https://x.com/maruru_2727/status/2086395627471335568/video/1",
+              "media_key": "13_2086395221521354752",
+              "start": 5,
+              "url": "https://t.co/4l6Pex3u5o"
+            },
+            {
+              "display_url": "x.com/RaminNasibov/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/RaminNasibov/status/2085835523050918363",
+              "start": 29,
+              "url": "https://t.co/xZd5ubutBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086395627471335568",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086395221521354752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 11535,
+          "like_count": 293,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085835523050918363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "なめてた https://t.co/4l6Pex3u5o https://t.co/xZd5ubutBi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086395221521354752"
+          ],
+          "media_source_tweet_id": [
+            "2086395627471335568"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2086774896974283068",
+        "created_at": "2026-08-10T11:21:20.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086774896974283068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "915533807289167872",
+              "start": 3,
+              "username": "maruru_2727"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4l6Pex3u5o",
+              "end": 45,
+              "expanded_url": "https://x.com/maruru_2727/status/2086395627471335568/video/1",
+              "media_key": "13_2086395221521354752",
+              "start": 22,
+              "url": "https://t.co/4l6Pex3u5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086774896974283068",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2086395221521354752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086395627471335568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maruru_2727: なめてた https://t.co/4l6Pex3u5o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2086774896974283068",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 987,
+          "like_count": 95801,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 4877
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-04T11:07:24.000Z",
+        "description": "♪音楽・エンタメが世界を救う♪\nJ-POP/K-POP（セカオワ/あいみょん/indigo la end/WINNER/B.I）\nアートはPixAIにもある：https://t.co/9scKp0imao",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "go.pix.ai/maru",
+                "end": 102,
+                "expanded_url": "https://go.pix.ai/maru",
+                "start": 79,
+                "url": "https://t.co/9scKp0imao"
+              }
+            ]
+          }
+        },
+        "id": "915533807289167872",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2086395627471335568",
+        "name": "maru",
+        "pinned_tweet_id": "2081788239879565381",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/915533807289167872/1784085781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077232434647912448/nK4W-GTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 1634,
+          "like_count": 1913,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "maruru_2727",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

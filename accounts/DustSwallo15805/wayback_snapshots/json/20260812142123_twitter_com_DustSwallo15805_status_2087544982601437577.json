@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087483413649600512",
+        "3_2087483422566662144",
+        "3_2087483432519802880"
+      ],
+      "media_source_tweet_id": [
+        "2087483441470464370",
+        "2087483441470464370",
+        "2087483441470464370"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087544982601437577",
+    "created_at": "2026-08-12T14:21:23.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087544982601437577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629350214539821058",
+          "start": 3,
+          "username": "yang1_iu"
+        },
+        {
+          "end": 40,
+          "id": "2084174226471419904",
+          "start": 26,
+          "username": "SJSDHXD3C0188"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UongNuNRck",
+          "end": 71,
+          "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+          "media_key": "3_2087483413649600512",
+          "start": 48,
+          "url": "https://t.co/UongNuNRck"
+        },
+        {
+          "display_url": "pic.x.com/UongNuNRck",
+          "end": 71,
+          "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+          "media_key": "3_2087483422566662144",
+          "start": 48,
+          "url": "https://t.co/UongNuNRck"
+        },
+        {
+          "display_url": "pic.x.com/UongNuNRck",
+          "end": 71,
+          "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+          "media_key": "3_2087483432519802880",
+          "start": 48,
+          "url": "https://t.co/UongNuNRck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087544982601437577",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087483413649600512"
+      },
+      {
+        "media_key": "3_2087483422566662144"
+      },
+      {
+        "media_key": "3_2087483432519802880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087483441470464370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yang1_iu: 临行前面了BI1VWD捏@SJSDHXD3C0188 明年再见哦x https://t.co/UongNuNRck"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087483413649600512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg7GtEasAAu7Ie.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2087483422566662144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg7HOSaQAA60Nm.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2087483432519802880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPg7HzXbIAAgT08.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087483413649600512",
+            "3_2087483422566662144",
+            "3_2087483432519802880"
+          ]
+        },
+        "author_id": "1629350214539821058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087483441470464370",
+        "created_at": "2026-08-12T10:16:50.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087483441470464370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2084174226471419904",
+              "start": 12,
+              "username": "SJSDHXD3C0188"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UongNuNRck",
+              "end": 57,
+              "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+              "media_key": "3_2087483413649600512",
+              "start": 34,
+              "url": "https://t.co/UongNuNRck"
+            },
+            {
+              "display_url": "pic.x.com/UongNuNRck",
+              "end": 57,
+              "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+              "media_key": "3_2087483422566662144",
+              "start": 34,
+              "url": "https://t.co/UongNuNRck"
+            },
+            {
+              "display_url": "pic.x.com/UongNuNRck",
+              "end": 57,
+              "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+              "media_key": "3_2087483432519802880",
+              "start": 34,
+              "url": "https://t.co/UongNuNRck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087483441470464370",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087483413649600512"
+          },
+          {
+            "media_key": "3_2087483422566662144"
+          },
+          {
+            "media_key": "3_2087483432519802880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "临行前面了BI1VWD捏@SJSDHXD3C0188 明年再见哦x https://t.co/UongNuNRck"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087483413649600512",
+            "3_2087483422566662144",
+            "3_2087483432519802880"
+          ],
+          "media_source_tweet_id": [
+            "2087483441470464370",
+            "2087483441470464370",
+            "2087483441470464370"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087544982601437577",
+        "created_at": "2026-08-12T14:21:23.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087544982601437577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1629350214539821058",
+              "start": 3,
+              "username": "yang1_iu"
+            },
+            {
+              "end": 40,
+              "id": "2084174226471419904",
+              "start": 26,
+              "username": "SJSDHXD3C0188"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UongNuNRck",
+              "end": 71,
+              "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+              "media_key": "3_2087483413649600512",
+              "start": 48,
+              "url": "https://t.co/UongNuNRck"
+            },
+            {
+              "display_url": "pic.x.com/UongNuNRck",
+              "end": 71,
+              "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+              "media_key": "3_2087483422566662144",
+              "start": 48,
+              "url": "https://t.co/UongNuNRck"
+            },
+            {
+              "display_url": "pic.x.com/UongNuNRck",
+              "end": 71,
+              "expanded_url": "https://x.com/yang1_iu/status/2087483441470464370/photo/1",
+              "media_key": "3_2087483432519802880",
+              "start": 48,
+              "url": "https://t.co/UongNuNRck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087544982601437577",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087483413649600512"
+          },
+          {
+            "media_key": "3_2087483422566662144"
+          },
+          {
+            "media_key": "3_2087483432519802880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087483441470464370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yang1_iu: 临行前面了BI1VWD捏@SJSDHXD3C0188 明年再见哦x https://t.co/UongNuNRck"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2087544982601437577",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 999,
+          "like_count": 96909,
+          "listed_count": 6,
+          "media_count": 791,
+          "tweet_count": 4915
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-25T05:19:14.000Z",
+        "description": "DE BG5JSU | AS4201273722 | 友跨🏳️‍⚧️.@donnydo2__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "donnydo2__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qrz.com/db/BG5JSU",
+                "end": 23,
+                "expanded_url": "https://www.qrz.com/db/BG5JSU",
+                "start": 0,
+                "url": "https://t.co/YVloEiwH0l"
+              }
+            ]
+          }
+        },
+        "id": "1629350214539821058",
+        "is_identity_verified": false,
+        "location": "OL78XO",
+        "most_recent_tweet_id": "2087483441470464370",
+        "name": "iu_yang1",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629350214539821058/1782434535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629350284186255361/z-nrmtb-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 172,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/YVloEiwH0l",
+        "username": "yang1_iu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T07:08:24.000Z",
+        "description": "友跨顺直🏳️‍⚧️(总有人想看我翻车)，身男心男。坚持114514年不翻车不动摇。事ham，呼号BI1VWD。也是好吃米。推很少使用喵，欢迎QQ扩列喵。",
+        "id": "2084174226471419904",
+        "is_identity_verified": false,
+        "location": "Boîte postale n° 2366, Pékin",
+        "most_recent_tweet_id": "2084946173920702808",
+        "name": "沈局沈段HXD3C-0188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084174226471419904/1785743022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084183203699675136/IlotDg46_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 134,
+          "like_count": 60,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "SJSDHXD3C0188",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

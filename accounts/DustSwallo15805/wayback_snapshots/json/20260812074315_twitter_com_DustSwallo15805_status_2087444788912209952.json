@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2087439412305248429",
+    "created_at": "2026-08-12T07:43:15.000Z",
+    "display_text_range": [
+      23,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087444788912209952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        },
+        {
+          "end": 22,
+          "id": "1652344778271629312",
+          "start": 10,
+          "username": "dreizehntin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087444788912209952",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087439412305248429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@DrilL019 @dreizehntin 呜呜梦溪老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2087439400783470592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgTE0XaYAAhcNG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2087439400783540226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgTE0XbcAIOHoR.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2087439400737345536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgTE0MakAAu_R2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2087439412305248429",
+        "created_at": "2026-08-12T07:43:15.000Z",
+        "display_text_range": [
+          23,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087444788912209952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            },
+            {
+              "end": 22,
+              "id": "1652344778271629312",
+              "start": 10,
+              "username": "dreizehntin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087444788912209952",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087439412305248429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@DrilL019 @dreizehntin 呜呜梦溪老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087439400783470592",
+            "3_2087439400783540226",
+            "3_2087439400737345536"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087439412305248429",
+        "created_at": "2026-08-12T07:21:53.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087439412305248429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1652344778271629312",
+              "start": 6,
+              "username": "dreizehntin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Ge2eXGL83",
+              "end": 42,
+              "expanded_url": "https://x.com/DrilL019/status/2087439412305248429/photo/1",
+              "media_key": "3_2087439400783470592",
+              "start": 19,
+              "url": "https://t.co/5Ge2eXGL83"
+            },
+            {
+              "display_url": "pic.x.com/5Ge2eXGL83",
+              "end": 42,
+              "expanded_url": "https://x.com/DrilL019/status/2087439412305248429/photo/1",
+              "media_key": "3_2087439400783540226",
+              "start": 19,
+              "url": "https://t.co/5Ge2eXGL83"
+            },
+            {
+              "display_url": "pic.x.com/5Ge2eXGL83",
+              "end": 42,
+              "expanded_url": "https://x.com/DrilL019/status/2087439412305248429/photo/1",
+              "media_key": "3_2087439400737345536",
+              "start": 19,
+              "url": "https://t.co/5Ge2eXGL83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087439412305248429",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087439400783470592"
+          },
+          {
+            "media_key": "3_2087439400783540226"
+          },
+          {
+            "media_key": "3_2087439400737345536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "偶遇推油\n\n@dreizehntin https://t.co/5Ge2eXGL83"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2087444788912209952",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 1000,
+          "like_count": 96653,
+          "listed_count": 6,
+          "media_count": 791,
+          "tweet_count": 4906
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314\n爱人@qiyuncwno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qiyuncwno"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "is_identity_verified": true,
+        "location": "请给我钱🥺⬇️",
+        "most_recent_tweet_id": "2087439916699619472",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647229461769891842/1784018836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 1436,
+          "like_count": 25887,
+          "listed_count": 1,
+          "media_count": 1119,
+          "tweet_count": 7239
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-29T16:11:19.000Z",
+        "description": "暫時是工程師，MtX🏳️‍⚧️，在沪上海人，和835304小姐一起觀察這個世界，肥烏鴉。沒能保護好的孩子：@yukikaze_1103。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "yukikaze_1103"
+              }
+            ]
+          }
+        },
+        "id": "1652344778271629312",
+        "is_identity_verified": false,
+        "location": "妖怪の山",
+        "most_recent_tweet_id": "2084323785361277261",
+        "name": "Dreizehntin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1652344778271629312/1702980182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933075682059563011/UqMxU9D1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 143,
+          "like_count": 2430,
+          "listed_count": 2,
+          "media_count": 752,
+          "tweet_count": 2269
+        },
+        "url": "",
+        "username": "dreizehntin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

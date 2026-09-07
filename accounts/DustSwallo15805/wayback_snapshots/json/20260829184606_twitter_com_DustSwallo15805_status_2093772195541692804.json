@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093606247065174016"
+      ],
+      "media_source_tweet_id": [
+        "2093606421049082195"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2093772195541692804",
+    "created_at": "2026-08-29T18:46:06.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T19:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093772195541692804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3241065985",
+          "start": 3,
+          "username": "mishi33169739"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JvcpflLkxR",
+          "end": 56,
+          "expanded_url": "https://x.com/mishi33169739/status/2093606421049082195/photo/1",
+          "media_key": "3_2093606247065174016",
+          "start": 33,
+          "url": "https://t.co/JvcpflLkxR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093772195541692804",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093606247065174016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093606421049082195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mishi33169739: 東京の地下鉄を描きました。 https://t.co/JvcpflLkxR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1873,
+        "media_key": "3_2093606247065174016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ37yg_bwAAM42S.jpg",
+        "width": 3541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093606247065174016"
+          ],
+          "media_source_tweet_id": [
+            "2093606421049082195"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2093772195541692804",
+        "created_at": "2026-08-29T18:46:06.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T19:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093772195541692804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3241065985",
+              "start": 3,
+              "username": "mishi33169739"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvcpflLkxR",
+              "end": 56,
+              "expanded_url": "https://x.com/mishi33169739/status/2093606421049082195/photo/1",
+              "media_key": "3_2093606247065174016",
+              "start": 33,
+              "url": "https://t.co/JvcpflLkxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093772195541692804",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093606247065174016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093606421049082195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mishi33169739: 東京の地下鉄を描きました。 https://t.co/JvcpflLkxR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093606247065174016"
+          ]
+        },
+        "author_id": "3241065985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2093606421049082195",
+        "created_at": "2026-08-29T07:47:22.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093606421049082195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvcpflLkxR",
+              "end": 37,
+              "expanded_url": "https://x.com/mishi33169739/status/2093606421049082195/photo/1",
+              "media_key": "3_2093606247065174016",
+              "start": 14,
+              "url": "https://t.co/JvcpflLkxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093606421049082195",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093606247065174016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 31583,
+          "like_count": 1735,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "東京の地下鉄を描きました。 https://t.co/JvcpflLkxR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2093772195541692804",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1021,
+          "like_count": 101648,
+          "listed_count": 5,
+          "media_count": 837,
+          "tweet_count": 5145
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-10T05:15:06.000Z",
+        "description": "ぐそくむしです。KDS卒 イラストレーション 漫画 模型 #でんしゃの4こま #でんしゃとひと #普通の鉄道研究部 https://t.co/Fu2pSJGJ49 委託中→https://t.co/ja1rrg6cVG",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "でんしゃの4こま"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "でんしゃとひと"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "普通の鉄道研究部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41959436",
+                "end": 81,
+                "expanded_url": "http://pixiv.net/users/41959436",
+                "start": 58,
+                "url": "https://t.co/Fu2pSJGJ49"
+              },
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 109,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=111127",
+                "start": 86,
+                "url": "https://t.co/ja1rrg6cVG"
+              }
+            ]
+          }
+        },
+        "id": "3241065985",
+        "is_identity_verified": false,
+        "location": "ファミレス店員",
+        "most_recent_tweet_id": "2093659334890950908",
+        "name": "武ぐし/コミケありがとうございました。",
+        "pinned_tweet_id": "2088825375287804353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3241065985/1750949490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632948466598187008/H70_xp10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16668,
+          "following_count": 825,
+          "like_count": 13670,
+          "listed_count": 118,
+          "media_count": 7654,
+          "tweet_count": 25400
+        },
+        "url": "",
+        "username": "mishi33169739",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

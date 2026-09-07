@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088536561461944321"
+      ],
+      "media_source_tweet_id": [
+        "2088536572069318865"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2088649516950147298",
+    "created_at": "2026-08-15T15:30:24.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088649516950147298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "168472349",
+          "start": 3,
+          "username": "SaladSomen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PnTwevdMMF",
+          "end": 59,
+          "expanded_url": "https://x.com/SaladSomen/status/2088536572069318865/photo/1",
+          "media_key": "3_2088536561461944321",
+          "start": 36,
+          "url": "https://t.co/PnTwevdMMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088649516950147298",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088536561461944321"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088536572069318865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaladSomen: 今日はこんな服装でした（白ポストと共に https://t.co/PnTwevdMMF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088536561461944321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPv47-Za4AE28Gf.jpg",
+        "width": 3075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088536561461944321"
+          ],
+          "media_source_tweet_id": [
+            "2088536572069318865"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2088649516950147298",
+        "created_at": "2026-08-15T15:30:24.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088649516950147298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "168472349",
+              "start": 3,
+              "username": "SaladSomen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnTwevdMMF",
+              "end": 59,
+              "expanded_url": "https://x.com/SaladSomen/status/2088536572069318865/photo/1",
+              "media_key": "3_2088536561461944321",
+              "start": 36,
+              "url": "https://t.co/PnTwevdMMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088649516950147298",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088536561461944321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088536572069318865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaladSomen: 今日はこんな服装でした（白ポストと共に https://t.co/PnTwevdMMF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088536561461944321"
+          ]
+        },
+        "author_id": "168472349",
+        "conversation_id": "2088536572069318865",
+        "created_at": "2026-08-15T08:01:36.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088536572069318865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PnTwevdMMF",
+              "end": 43,
+              "expanded_url": "https://x.com/SaladSomen/status/2088536572069318865/photo/1",
+              "media_key": "3_2088536561461944321",
+              "start": 20,
+              "url": "https://t.co/PnTwevdMMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088536572069318865",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088536561461944321"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4631,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "今日はこんな服装でした（白ポストと共に https://t.co/PnTwevdMMF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088649516950147298",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1012,
+          "like_count": 97957,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4952
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-07-19T12:23:52.000Z",
+        "description": "ヘボモデラ―/ヤブ自動車整備士/アマチュア有線技士/小物をつくるひと\nサンバーやらカブやらコレダやら飼育中/\nここんところ銀塩写真にお熱/\n創意と独創─ニッチを突き詰める埼玉・上尾「東雲総合製造所蕪式会社」より最新情報をお送りいたします。\nhttps://t.co/f5I3fsuw5f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/saladsomen/",
+                "end": 143,
+                "expanded_url": "http://instagram.com/saladsomen/",
+                "start": 120,
+                "url": "https://t.co/f5I3fsuw5f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/SaladSomen",
+                "end": 23,
+                "expanded_url": "http://twpf.jp/SaladSomen",
+                "start": 0,
+                "url": "https://t.co/StKfR4MbcI"
+              }
+            ]
+          }
+        },
+        "id": "168472349",
+        "is_identity_verified": false,
+        "location": "晴海か北都のどっかの信号通信区",
+        "most_recent_tweet_id": "2088612310072045724",
+        "name": "東雲 蒼⌘🐈️2日目(日)東2チ-58a",
+        "pinned_tweet_id": "1963628742133104931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/168472349/1698942857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1015426380425654273/MAKvBfAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 773,
+          "like_count": 1077,
+          "listed_count": 17,
+          "media_count": 4817,
+          "tweet_count": 236365
+        },
+        "url": "https://t.co/StKfR4MbcI",
+        "username": "SaladSomen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

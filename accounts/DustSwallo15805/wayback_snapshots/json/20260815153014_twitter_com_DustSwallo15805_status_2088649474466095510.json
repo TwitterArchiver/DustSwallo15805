@@ -1,0 +1,993 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088560339814404096"
+      ],
+      "media_source_tweet_id": [
+        "2088565068871217254"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2088649474466095510",
+    "created_at": "2026-08-15T15:30:14.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088649474466095510"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "C108"
+        },
+        {
+          "end": 61,
+          "start": 52,
+          "tag": "C108_cos"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "鉄道"
+        },
+        {
+          "end": 69,
+          "start": 66,
+          "tag": "国鉄"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "202998073",
+          "start": 3,
+          "username": "nico_nico_news"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M8ggE0Zoll",
+          "end": 93,
+          "expanded_url": "https://x.com/nico_nico_news/status/2088565068871217254/video/1",
+          "media_key": "13_2088560339814404096",
+          "start": 70,
+          "url": "https://t.co/M8ggE0Zoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088649474466095510",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "description": "",
+        "media_key": "13_2088560339814404096",
+        "title": "【コミケC108】夏コミ会場から生中継【DAY1】"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088565068871217254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nico_nico_news: JRの前身、国鉄のコスプレ併せ！【コミケC108】\n#C108 #C108_cos #鉄道 #国鉄 https://t.co/M8ggE0Zoll"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83790,
+        "height": 720,
+        "media_key": "13_2088560339814404096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088560339814404096/img/CNeZNybecJy9rSk5.jpg",
+        "public_metrics": {
+          "view_count": 25149
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088560339814404096/vid/avc1/480x270/G3poXh_lyiqNOPuB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088560339814404096/vid/avc1/640x360/RyB0GSgUm3XC9f_D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088560339814404096/vid/avc1/1280x720/BfGYTHeVZ4m2l8a9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088560339814404096/pl/YOZc3r6cScqUMM-I.m3u8?v=855"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088560339814404096"
+          ],
+          "media_source_tweet_id": [
+            "2088565068871217254"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088649474466095510",
+        "created_at": "2026-08-15T15:30:14.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088649474466095510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "C108"
+            },
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "C108_cos"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "鉄道"
+            },
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "国鉄"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "202998073",
+              "start": 3,
+              "username": "nico_nico_news"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8ggE0Zoll",
+              "end": 93,
+              "expanded_url": "https://x.com/nico_nico_news/status/2088565068871217254/video/1",
+              "media_key": "13_2088560339814404096",
+              "start": 70,
+              "url": "https://t.co/M8ggE0Zoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088649474466095510",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088560339814404096",
+            "title": "【コミケC108】夏コミ会場から生中継【DAY1】"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088565068871217254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nico_nico_news: JRの前身、国鉄のコスプレ併せ！【コミケC108】\n#C108 #C108_cos #鉄道 #国鉄 https://t.co/M8ggE0Zoll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088560339814404096"
+          ]
+        },
+        "author_id": "202998073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088565068871217254",
+        "created_at": "2026-08-15T09:54:50.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088565068871217254"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "C108"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "C108_cos"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "鉄道"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "国鉄"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8ggE0Zoll",
+              "end": 73,
+              "expanded_url": "https://x.com/nico_nico_news/status/2088565068871217254/video/1",
+              "media_key": "13_2088560339814404096",
+              "start": 50,
+              "url": "https://t.co/M8ggE0Zoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088565068871217254",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088560339814404096",
+            "title": "【コミケC108】夏コミ会場から生中継【DAY1】"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 60938,
+          "like_count": 1007,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "JRの前身、国鉄のコスプレ併せ！【コミケC108】\n#C108 #C108_cos #鉄道 #国鉄 https://t.co/M8ggE0Zoll"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088649474466095510",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1011,
+          "like_count": 97956,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4951
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-15T09:01:10.000Z",
+        "description": "ネットで話題の情報をお届けするニコニコのニュースアカウントです\n#速報 #アニメ #ゲーム #芸能 #政治 #国会中継 #記者会見 #ニコニコ動画 #ニコニコ生放送 #ニコニコ大百科 #ニコニコ実況 #ニコ美 #ニコ響 #ニコニコバスツアー #ニコニコサイエンス\n■特集 https://t.co/q1pPYjDHJP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "速報"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "アニメ"
+              },
+              {
+                "end": 45,
+                "start": 41,
+                "tag": "ゲーム"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "芸能"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "政治"
+              },
+              {
+                "end": 59,
+                "start": 54,
+                "tag": "国会中継"
+              },
+              {
+                "end": 65,
+                "start": 60,
+                "tag": "記者会見"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "tag": "ニコニコ動画"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "ニコニコ生放送"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "tag": "ニコニコ大百科"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "tag": "ニコニコ実況"
+              },
+              {
+                "end": 104,
+                "start": 100,
+                "tag": "ニコ美"
+              },
+              {
+                "end": 109,
+                "start": 105,
+                "tag": "ニコ響"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "tag": "ニコニコバスツアー"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "ニコニコサイエンス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "originalnews.nico",
+                "end": 159,
+                "expanded_url": "http://originalnews.nico",
+                "start": 136,
+                "url": "https://t.co/q1pPYjDHJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.nicovideo.jp",
+                "end": 23,
+                "expanded_url": "https://news.nicovideo.jp/",
+                "start": 0,
+                "url": "https://t.co/S4BMBdlQKj"
+              }
+            ]
+          }
+        },
+        "id": "202998073",
+        "is_identity_verified": false,
+        "location": "Amazonアソシエイト参加中",
+        "most_recent_tweet_id": "2088642235197976591",
+        "name": "ニコニコニュース",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/202998073/1766657636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011002912445726721/kiuTpaHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230397,
+          "following_count": 9,
+          "like_count": 765,
+          "listed_count": 3172,
+          "media_count": 45689,
+          "tweet_count": 132558
+        },
+        "url": "https://t.co/S4BMBdlQKj",
+        "username": "nico_nico_news",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

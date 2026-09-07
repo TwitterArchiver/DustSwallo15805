@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2086513969913860096"
+      ],
+      "media_source_tweet_id": [
+        "2086514096657318237"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2086793568623198456",
+    "created_at": "2026-08-10T12:35:32.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086793568623198456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079569521669746688",
+          "start": 3,
+          "username": "QwQswanie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9m3BFJT5TL",
+          "end": 45,
+          "expanded_url": "https://x.com/QwQswanie/status/2086514096657318237/photo/1",
+          "media_key": "16_2086513969913860096",
+          "start": 22,
+          "url": "https://t.co/9m3BFJT5TL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086793568623198456",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "16_2086513969913860096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086514096657318237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QwQswanie: (。-ω-) https://t.co/9m3BFJT5TL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2086513969913860096",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPTJZpubEAAkyhb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPTJZpubEAAkyhb.mp4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086513969913860096"
+          ]
+        },
+        "author_id": "2079569521669746688",
+        "conversation_id": "2086514096657318237",
+        "created_at": "2026-08-09T18:05:00.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086514096657318237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9m3BFJT5TL",
+              "end": 30,
+              "expanded_url": "https://x.com/QwQswanie/status/2086514096657318237/photo/1",
+              "media_key": "16_2086513969913860096",
+              "start": 7,
+              "url": "https://t.co/9m3BFJT5TL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086514096657318237",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "16_2086513969913860096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 310,
+          "impression_count": 34711,
+          "like_count": 2018,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "(。-ω-) https://t.co/9m3BFJT5TL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086513969913860096"
+          ],
+          "media_source_tweet_id": [
+            "2086514096657318237"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2086793568623198456",
+        "created_at": "2026-08-10T12:35:32.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086793568623198456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079569521669746688",
+              "start": 3,
+              "username": "QwQswanie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9m3BFJT5TL",
+              "end": 45,
+              "expanded_url": "https://x.com/QwQswanie/status/2086514096657318237/photo/1",
+              "media_key": "16_2086513969913860096",
+              "start": 22,
+              "url": "https://t.co/9m3BFJT5TL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086793568623198456",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "16_2086513969913860096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086514096657318237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QwQswanie: (。-ω-) https://t.co/9m3BFJT5TL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2086793568623198456",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 990,
+          "like_count": 95861,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 4878
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T14:10:21.000Z",
+        "description": "这个号需要放置一阵子……",
+        "id": "2079569521669746688",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086788588726034918",
+        "name": "qwqswanie",
+        "pinned_tweet_id": "2079896143602053122",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079569521669746688/1784644092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079574164697145344/reD99XVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12366,
+          "following_count": 445,
+          "like_count": 1209,
+          "listed_count": 12,
+          "media_count": 26,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "QwQswanie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

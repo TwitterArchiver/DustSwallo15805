@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2087210007377137698",
+    "created_at": "2026-08-11T16:10:18.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087210007377137698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1959893383633358848",
+          "start": 3,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 22,
+          "id": "1874890159134838784",
+          "start": 12,
+          "username": "abbb1234_"
+        },
+        {
+          "end": 36,
+          "id": "1519649212736049152",
+          "start": 23,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087210007377137698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087196813489307654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cbscfe: @abbb1234_ @Mark67358226 很多精神疾病患者没有自杀的原因是因为他们不知道该怎么自杀\n说真的我自残也是跟别人学的因为就在这之前我都不知道这东西存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2087210007377137698",
+        "created_at": "2026-08-11T16:10:18.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087210007377137698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1959893383633358848",
+              "start": 3,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 22,
+              "id": "1874890159134838784",
+              "start": 12,
+              "username": "abbb1234_"
+            },
+            {
+              "end": 36,
+              "id": "1519649212736049152",
+              "start": 23,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087210007377137698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087196813489307654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cbscfe: @abbb1234_ @Mark67358226 很多精神疾病患者没有自杀的原因是因为他们不知道该怎么自杀\n说真的我自残也是跟别人学的因为就在这之前我都不知道这东西存在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2087124413829238868",
+        "created_at": "2026-08-11T15:17:53.000Z",
+        "display_text_range": [
+          25,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087196813489307654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874890159134838784",
+              "start": 0,
+              "username": "abbb1234_"
+            },
+            {
+              "end": 24,
+              "id": "1519649212736049152",
+              "start": 11,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087196813489307654",
+        "in_reply_to_user_id": "1874890159134838784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087158505241514389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abbb1234_ @Mark67358226 很多精神疾病患者没有自杀的原因是因为他们不知道该怎么自杀\n说真的我自残也是跟别人学的因为就在这之前我都不知道这东西存在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2087210007377137698",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 998,
+          "like_count": 96519,
+          "listed_count": 6,
+          "media_count": 790,
+          "tweet_count": 4902
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2087203528074997847",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1761898733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 683,
+          "like_count": 24768,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 6473
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-02T18:47:20.000Z",
+        "description": "只是想模仿这样写｜为什么都喜欢这样｜不是什么正经人｜没病但是够傻逼｜负面属性太多不想打｜谢谢你的fo但是为什么",
+        "id": "1874890159134838784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087176235755696543",
+        "name": "abb123-这是猫。",
+        "pinned_tweet_id": "2060807500987855270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874890159134838784/1773838658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079442088119181312/bWC6hDFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "abbb1234_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 54kg |北京昌平🇨🇳| 主要繁體🇹🇼 簡體🉑 |是mtx喵|日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 |留長髮中| 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥/戀人：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 129,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG5vDE"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "is_identity_verified": false,
+        "location": "琉球國首里城",
+        "most_recent_tweet_id": "2087204612814131627",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519649212736049152/1784974138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1876,
+          "like_count": 40826,
+          "listed_count": 5,
+          "media_count": 567,
+          "tweet_count": 9139
+        },
+        "url": "https://t.co/0zMrtG5vDE",
+        "username": "Mark67358226",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

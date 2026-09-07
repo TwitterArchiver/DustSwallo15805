@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2087944647536464138",
+    "created_at": "2026-08-14T08:21:08.000Z",
+    "display_text_range": [
+      22,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T09:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088179100867514543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678655311006273536",
+          "start": 0,
+          "username": "EimeiLait"
+        },
+        {
+          "end": 21,
+          "id": "1481943703878991872",
+          "start": 11,
+          "username": "kharisick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088179100867514543",
+    "in_reply_to_user_id": "1678655311006273536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088095710910759191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EimeiLait @kharisick 沙：被赶到床边\n         从床上掉下去惹（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088095710910759191].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088095710910759191",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2088095710910759191"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2087944647536464138",
+        "created_at": "2026-08-14T08:21:08.000Z",
+        "display_text_range": [
+          22,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088179100867514543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            },
+            {
+              "end": 21,
+              "id": "1481943703878991872",
+              "start": 11,
+              "username": "kharisick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088179100867514543",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088095710910759191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait @kharisick 沙：被赶到床边\n         从床上掉下去惹（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088179100867514543",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 1006,
+          "like_count": 97530,
+          "listed_count": 6,
+          "media_count": 793,
+          "tweet_count": 4931
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "莱／沙｜特別時期｜コイビト@DustSwallo15805 君何処へ　何時共に在らむ｜Ei. Si. Laitus｜萊・ライ｜BA4RRA｜LinguaZomina崇明说话｜ Arknights ARCAEA maimai ｜mtx｜LVNARIA †Iuli MMXXIV ｜违规的有害邮品@LaitusCorrupt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "DustSwallo15805"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "LaitusCorrupt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EimeiLait",
+                "end": 23,
+                "expanded_url": "http://github.com/EimeiLait",
+                "start": 0,
+                "url": "https://t.co/XrhaULs8l0"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086412282335207804",
+        "name": "墨落莱 Laitus-特別時期",
+        "pinned_tweet_id": "2081950059877617860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678655311006273536/1689057974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013739249770901504/mO56E89w_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 733,
+          "like_count": 164999,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/XrhaULs8l0",
+        "username": "EimeiLait",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2022-01-14T10:59:37.000Z",
+        "description": "| Hate human|| INTP, asd?, neurodivergent , ADHD?, bdsm|| 爱科学|| 玩 Rimworld、noita、inside、oneshot …||learning gamedev|| 想交朋友",
+        "id": "1481943703878991872",
+        "is_identity_verified": false,
+        "location": "Event Horizon, Sgr A*",
+        "most_recent_tweet_id": "2088035656375111825",
+        "name": "Caris",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481943703878991872/1745113151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006253714034626560/MpRJaxgt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 317,
+          "like_count": 16987,
+          "listed_count": 4,
+          "media_count": 328,
+          "tweet_count": 4612
+        },
+        "url": "",
+        "username": "kharisick",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2090036966515700067",
+    "created_at": "2026-08-19T15:54:56.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090105243040432557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999788163951415296",
+          "start": 0,
+          "username": "JohnKazuha_3rd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090105243040432557",
+    "in_reply_to_user_id": "1999788163951415296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090104922192896282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JohnKazuha_3rd 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2090036966515700067",
+        "created_at": "2026-08-19T15:54:56.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090105243040432557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999788163951415296",
+              "start": 0,
+              "username": "JohnKazuha_3rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090105243040432557",
+        "in_reply_to_user_id": "1999788163951415296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090104922192896282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JohnKazuha_3rd 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999788163951415296",
+        "conversation_id": "2090036966515700067",
+        "created_at": "2026-08-19T15:53:40.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090104922192896282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090104922192896282",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090036966515700067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 怎么了嘛老师🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2090105243040432557",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 1012,
+          "like_count": 99563,
+          "listed_count": 6,
+          "media_count": 822,
+          "tweet_count": 5039
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-13T10:27:20.000Z",
+        "description": "小雨/自认为是一只猫/天津 可能全国刷新\n08年🏳️‍🌈Adult/180cm/85kg （最近胖了好多啊啊啊）\n里账@JasonKazuha  不可通过@Jacobincn\n梦想是变成香香软软的小男孩！\n扩列🉑 面基🉑 约饭🉑\n可加Q3571393220\n头像是这位老师的作品@Now_shika_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 59,
+                "username": "JasonKazuha"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Jacobincn"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Now_shika_7"
+              }
+            ]
+          }
+        },
+        "id": "1999788163951415296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090104922192896282",
+        "name": "John",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999788163951415296/1774282926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999841895720374272/O7x1jSQC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 1121,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "JohnKazuha_3rd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

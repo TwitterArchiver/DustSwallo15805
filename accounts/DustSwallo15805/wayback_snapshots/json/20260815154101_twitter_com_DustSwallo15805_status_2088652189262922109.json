@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088559851014365184"
+      ],
+      "media_source_tweet_id": [
+        "2088559861403664770"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400506348727504906",
+          "name": "Living abroad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2088652189262922109",
+    "created_at": "2026-08-15T15:41:01.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088652189262922109"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "C108"
+        },
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "C108コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "972748003407572992",
+          "start": 3,
+          "username": "kyo0204edf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3RDKEetX7o",
+          "end": 73,
+          "expanded_url": "https://x.com/kyo0204edf/status/2088559861403664770/photo/1",
+          "media_key": "3_2088559851014365184",
+          "start": 50,
+          "url": "https://t.co/3RDKEetX7o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088652189262922109",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088559851014365184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088559861403664770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyo0204edf: コミケと駐在さんの700日戦争\n\n#C108 \n#C108コスプレ https://t.co/3RDKEetX7o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2088559851014365184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwOHmvaoAA1RV2.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088559851014365184"
+          ],
+          "media_source_tweet_id": [
+            "2088559861403664770"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088652189262922109",
+        "created_at": "2026-08-15T15:41:01.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088652189262922109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "C108"
+            },
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "C108コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "972748003407572992",
+              "start": 3,
+              "username": "kyo0204edf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RDKEetX7o",
+              "end": 73,
+              "expanded_url": "https://x.com/kyo0204edf/status/2088559861403664770/photo/1",
+              "media_key": "3_2088559851014365184",
+              "start": 50,
+              "url": "https://t.co/3RDKEetX7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088652189262922109",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088559851014365184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088559861403664770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyo0204edf: コミケと駐在さんの700日戦争\n\n#C108 \n#C108コスプレ https://t.co/3RDKEetX7o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088559851014365184"
+          ]
+        },
+        "author_id": "972748003407572992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088559861403664770",
+        "created_at": "2026-08-15T09:34:09.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088559861403664770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "C108"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "C108コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RDKEetX7o",
+              "end": 57,
+              "expanded_url": "https://x.com/kyo0204edf/status/2088559861403664770/photo/1",
+              "media_key": "3_2088559851014365184",
+              "start": 34,
+              "url": "https://t.co/3RDKEetX7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088559861403664770",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088559851014365184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5330,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "コミケと駐在さんの700日戦争\n\n#C108 \n#C108コスプレ https://t.co/3RDKEetX7o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088652189262922109",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1012,
+          "like_count": 97987,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4957
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-11T08:16:11.000Z",
+        "description": "■空想ワンダバ雪国民🍎☕️☃️\n座右の銘は「一生懸命→ 一所懸命」\nヘッダーは@kafun先生🐻\nアイコンは@hoshino_koyuki 様\n\n■コスプレ/最近はカメラも📷🔰\n⏬ウルトラシリーズ用コスプレタグ　\n #空想ウルコスシリーズ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 108,
+                "tag": "空想ウルコスシリーズ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 39,
+                "username": "kafun"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "hoshino_koyuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kyo0204edf",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@kyo0204edf",
+                "start": 0,
+                "url": "https://t.co/3HpA9esvEW"
+              }
+            ]
+          }
+        },
+        "id": "972748003407572992",
+        "is_identity_verified": false,
+        "location": "【科特隊本部⇄青森県⇄星川航空⇄宇宙ステーションV3】",
+        "most_recent_tweet_id": "2088630549300810014",
+        "name": "超7隊員",
+        "pinned_tweet_id": "2088209402050515388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972748003407572992/1744975552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859922914801553408/hKC_qeqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 1042,
+          "like_count": 406907,
+          "listed_count": 44,
+          "media_count": 9613,
+          "tweet_count": 90591
+        },
+        "url": "https://t.co/3HpA9esvEW",
+        "username": "kyo0204edf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

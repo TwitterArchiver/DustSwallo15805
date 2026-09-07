@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2096403189067345962",
+    "created_at": "2026-09-06T06:42:56.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T07:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096489308517732393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952690690892468224",
+          "start": 0,
+          "username": "meowania_Fan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096489308517732393",
+    "in_reply_to_user_id": "1952690690892468224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096403189067345962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowania_Fan 在隔壁😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2096403189067345962",
+        "created_at": "2026-09-06T06:42:56.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T07:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096489308517732393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952690690892468224",
+              "start": 0,
+              "username": "meowania_Fan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096489308517732393",
+        "in_reply_to_user_id": "1952690690892468224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096403189067345962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowania_Fan 在隔壁😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952690690892468224",
+        "conversation_id": "2096403189067345962",
+        "created_at": "2026-09-06T01:00:44.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096403189067345962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "淄博"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/iityann1946295…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/iityann19462957/status/2075427233028792518",
+              "start": 18,
+              "url": "https://t.co/yLNSRVyZsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096403189067345962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1726,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075427233028792518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#淄博 这小破城市会有跨性别出没？ https://t.co/yLNSRVyZsL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2096489308517732393",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1025,
+          "like_count": 102784,
+          "listed_count": 5,
+          "media_count": 845,
+          "tweet_count": 5176
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高二猫｜182cm｜67kg｜🏳️‍⚧️｜🍥26.4.11🍥｜家暴党 \\to 半家长党(?｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHIZCiz"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "is_identity_verified": false,
+        "location": "山东 淄博",
+        "most_recent_tweet_id": "2096458638709977384",
+        "name": "Meowania🏳️‍⚧️",
+        "pinned_tweet_id": "2056390511330726004",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952690690892468224/1771066498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 378,
+          "like_count": 1230,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 546
+        },
+        "url": "https://t.co/CO8uHIZCiz",
+        "username": "meowania_Fan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

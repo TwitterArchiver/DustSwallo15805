@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088824454512353280"
+      ],
+      "media_source_tweet_id": [
+        "2088824535969870064"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088928810947486018",
+    "created_at": "2026-08-16T10:00:13.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088928810947486018"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "C108"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1001030798735114240",
+          "start": 3,
+          "username": "MuscleTrain1"
+        },
+        {
+          "end": 62,
+          "id": "1022973779884957696",
+          "start": 51,
+          "username": "JNRuchiura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVZAC7hbP1",
+          "end": 86,
+          "expanded_url": "https://x.com/MuscleTrain1/status/2088824535969870064/video/1",
+          "media_key": "13_2088824454512353280",
+          "start": 63,
+          "url": "https://t.co/VVZAC7hbP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088928810947486018",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2088824454512353280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088824535969870064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuscleTrain1: #C108 東2ホールのなかにみどりの窓口があるwwwwwwww\n@JNRuchiura https://t.co/VVZAC7hbP1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8052,
+        "height": 1280,
+        "media_key": "13_2088824454512353280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088824454512353280/img/ZkuM2tIOPwg4Evdt.jpg",
+        "public_metrics": {
+          "view_count": 87717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088824454512353280/vid/avc1/320x568/wXEpwM42sr6FFyvO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088824454512353280/vid/avc1/480x852/uyK96TJDl-jvNjdr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088824454512353280/vid/avc1/720x1280/3b3OnZY4C5cAu6FO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088824454512353280/pl/XpklqbRGuB0-qfYN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088824454512353280"
+          ],
+          "media_source_tweet_id": [
+            "2088824535969870064"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088928810947486018",
+        "created_at": "2026-08-16T10:00:13.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088928810947486018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "C108"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1001030798735114240",
+              "start": 3,
+              "username": "MuscleTrain1"
+            },
+            {
+              "end": 62,
+              "id": "1022973779884957696",
+              "start": 51,
+              "username": "JNRuchiura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVZAC7hbP1",
+              "end": 86,
+              "expanded_url": "https://x.com/MuscleTrain1/status/2088824535969870064/video/1",
+              "media_key": "13_2088824454512353280",
+              "start": 63,
+              "url": "https://t.co/VVZAC7hbP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088928810947486018",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088824454512353280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088824535969870064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MuscleTrain1: #C108 東2ホールのなかにみどりの窓口があるwwwwwwww\n@JNRuchiura https://t.co/VVZAC7hbP1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088824454512353280"
+          ]
+        },
+        "author_id": "1001030798735114240",
+        "conversation_id": "2088824535969870064",
+        "created_at": "2026-08-16T03:05:52.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088824535969870064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "C108"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "1022973779884957696",
+              "start": 33,
+              "username": "JNRuchiura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVZAC7hbP1",
+              "end": 68,
+              "expanded_url": "https://x.com/MuscleTrain1/status/2088824535969870064/video/1",
+              "media_key": "13_2088824454512353280",
+              "start": 45,
+              "url": "https://t.co/VVZAC7hbP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088824535969870064",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088824454512353280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 206586,
+          "like_count": 3992,
+          "quote_count": 32,
+          "reply_count": 4,
+          "retweet_count": 705
+        },
+        "reply_settings": "everyone",
+        "text": "#C108 東2ホールのなかにみどりの窓口があるwwwwwwww\n@JNRuchiura https://t.co/VVZAC7hbP1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088928810947486018",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1014,
+          "like_count": 98120,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4964
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-28T09:21:55.000Z",
+        "description": "日本🇯🇵とマレーシア🇲🇾でDJと地下芸とYTやってます！\n野外アニクラ #スジガネイリ 主催 #マレーシアヲタ芸部 #馬来西亜珍妙舞踊部\n藤井風/マクロス/ウマ娘/姫崎莉波/サバゲー/俺ガイル\n@kinnikuRailway\n INFP 東京🇯🇵⇔KL🇲🇾",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "スジガネイリ"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "tag": "マレーシアヲタ芸部"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "tag": "馬来西亜珍妙舞踊部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 97,
+                "username": "kinnikuRailway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzATJ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCzATJ-AiN5cwYcqbKDqVkSA",
+                "start": 0,
+                "url": "https://t.co/T6zuvpOiVX"
+              }
+            ]
+          }
+        },
+        "id": "1001030798735114240",
+        "is_identity_verified": false,
+        "location": "↓YouTubeチャンネルはこちらから",
+        "most_recent_tweet_id": "2088914551589024070",
+        "name": "🐎筋肉鉄道🍃🇲🇾",
+        "pinned_tweet_id": "2087142263944045022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001030798735114240/1745857278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083224065742184448/uxmi2bJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3310,
+          "following_count": 3076,
+          "like_count": 395604,
+          "listed_count": 18,
+          "media_count": 11669,
+          "tweet_count": 114641
+        },
+        "url": "https://t.co/T6zuvpOiVX",
+        "username": "MuscleTrain1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-27T22:35:29.000Z",
+        "description": "地元の皆様と共に歩み、地元を心から愛し、愛を持ってこの鉄路を守り続ける。 お気軽に「浦鉄局」「うらてつ」とお呼び下さい。#国鉄 #国鉄制服 #コミケ出札口 公式HP→ https://t.co/teRJBJiviH 通信販売は以下URLより↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "国鉄"
+              },
+              {
+                "end": 69,
+                "start": 64,
+                "tag": "国鉄制服"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "コミケ出札口"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jnruchiura.com",
+                "end": 107,
+                "expanded_url": "https://www.jnruchiura.com",
+                "start": 84,
+                "url": "https://t.co/teRJBJiviH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jnruchiura.booth.pm",
+                "end": 23,
+                "expanded_url": "https://jnruchiura.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/06Wem6o3GI"
+              }
+            ]
+          }
+        },
+        "id": "1022973779884957696",
+        "is_identity_verified": false,
+        "location": "静岡県沼津市内浦重須",
+        "most_recent_tweet_id": "2088856253556736256",
+        "name": "国鉄内浦鉄道管理局@日曜 東2チ-66",
+        "pinned_tweet_id": "2088614651047420270",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022973779884957696/1716906466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778309198021062656/Hry1qU1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 51,
+          "like_count": 105,
+          "listed_count": 14,
+          "media_count": 220,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/06Wem6o3GI",
+        "username": "JNRuchiura",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

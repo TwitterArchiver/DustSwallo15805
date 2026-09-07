@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088531065103327232"
+      ],
+      "media_source_tweet_id": [
+        "2088531074469237234"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1312128054911619073",
+          "name": "Comiket"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2088928547536789547",
+    "created_at": "2026-08-16T09:59:10.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088928547536789547"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "C108"
+        },
+        {
+          "end": 68,
+          "start": 59,
+          "tag": "C108_cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "710735509",
+          "start": 3,
+          "username": "116teruduki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usVHVYV5k1",
+          "end": 92,
+          "expanded_url": "https://x.com/116teruduki/status/2088531074469237234/photo/1",
+          "media_key": "3_2088531065103327232",
+          "start": 69,
+          "url": "https://t.co/usVHVYV5k1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088928547536789547",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088531065103327232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088531074469237234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @116teruduki: コミケ1日目お疲れ様でした。\n警視庁警備部第2機動隊第1中隊でした。\n\n#C108\n#C108_cos https://t.co/usVHVYV5k1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088531065103327232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvz8C3aIAA940n.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088531065103327232"
+          ],
+          "media_source_tweet_id": [
+            "2088531074469237234"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088928547536789547",
+        "created_at": "2026-08-16T09:59:10.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088928547536789547"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "C108"
+            },
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "C108_cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "710735509",
+              "start": 3,
+              "username": "116teruduki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usVHVYV5k1",
+              "end": 92,
+              "expanded_url": "https://x.com/116teruduki/status/2088531074469237234/photo/1",
+              "media_key": "3_2088531065103327232",
+              "start": 69,
+              "url": "https://t.co/usVHVYV5k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088928547536789547",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088531065103327232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088531074469237234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @116teruduki: コミケ1日目お疲れ様でした。\n警視庁警備部第2機動隊第1中隊でした。\n\n#C108\n#C108_cos https://t.co/usVHVYV5k1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088531065103327232"
+          ]
+        },
+        "author_id": "710735509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1312128054911619073",
+              "name": "Comiket"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2088531074469237234",
+        "created_at": "2026-08-15T07:39:45.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088531074469237234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "C108"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "C108_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usVHVYV5k1",
+              "end": 75,
+              "expanded_url": "https://x.com/116teruduki/status/2088531074469237234/photo/1",
+              "media_key": "3_2088531065103327232",
+              "start": 52,
+              "url": "https://t.co/usVHVYV5k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088531074469237234",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088531065103327232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4976,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "コミケ1日目お疲れ様でした。\n警視庁警備部第2機動隊第1中隊でした。\n\n#C108\n#C108_cos https://t.co/usVHVYV5k1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088928547536789547",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1014,
+          "like_count": 98105,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4963
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-22T14:01:38.000Z",
+        "description": "昭和に取り憑かれたオタク\nウマ娘 ゼンゼロ スタレ ブルアカ",
+        "id": "710735509",
+        "is_identity_verified": false,
+        "location": "館山砲術学校",
+        "most_recent_tweet_id": "2088925015639269562",
+        "name": "いーぐる",
+        "pinned_tweet_id": "1635632578463141890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/710735509/1745845638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088790081385725952/0bFBj3_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 987,
+          "like_count": 60901,
+          "listed_count": 65,
+          "media_count": 14223,
+          "tweet_count": 236956
+        },
+        "url": "",
+        "username": "116teruduki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

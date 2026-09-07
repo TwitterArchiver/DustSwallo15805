@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088553051040940032",
+        "3_2088553051061932032",
+        "3_2088553051108130816",
+        "3_2088553051078701056"
+      ],
+      "media_source_tweet_id": [
+        "2088553060209709193",
+        "2088553060209709193",
+        "2088553060209709193",
+        "2088553060209709193"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2088928344213712944",
+    "created_at": "2026-08-16T09:58:22.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:58:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088928344213712944"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "c108"
+        },
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "c108コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "840891056",
+          "start": 3,
+          "username": "zitaku11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7n2geEB3n",
+          "end": 130,
+          "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+          "media_key": "3_2088553051040940032",
+          "start": 107,
+          "url": "https://t.co/z7n2geEB3n"
+        },
+        {
+          "display_url": "pic.x.com/z7n2geEB3n",
+          "end": 130,
+          "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+          "media_key": "3_2088553051061932032",
+          "start": 107,
+          "url": "https://t.co/z7n2geEB3n"
+        },
+        {
+          "display_url": "pic.x.com/z7n2geEB3n",
+          "end": 130,
+          "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+          "media_key": "3_2088553051108130816",
+          "start": 107,
+          "url": "https://t.co/z7n2geEB3n"
+        },
+        {
+          "display_url": "pic.x.com/z7n2geEB3n",
+          "end": 130,
+          "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+          "media_key": "3_2088553051078701056",
+          "start": 107,
+          "url": "https://t.co/z7n2geEB3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088928344213712944",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088553051040940032"
+      },
+      {
+        "media_key": "3_2088553051061932032"
+      },
+      {
+        "media_key": "3_2088553051108130816"
+      },
+      {
+        "media_key": "3_2088553051078701056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 729
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088553060209709193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zitaku11: #c108\n#c108コスプレ\n\n「あぁ~あ、幹部が点検しろしろうるさいから、一回りしてみるか。」\n\n「うちの交番がやられるわけないよなぁ。」\n\n「異常ねぇや。」\n\n(ドオォｫｫン！) https://t.co/z7n2geEB3n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088553051040940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwH7y3agAACpi5.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088553051061932032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwH7y8a0AAvU9j.jpg",
+        "width": 1154
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088553051108130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwH7zHbwAA3HeU.jpg",
+        "width": 1156
+      },
+      {
+        "height": 457,
+        "media_key": "3_2088553051078701056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwH7zAasAAp6T-.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088553051040940032",
+            "3_2088553051061932032",
+            "3_2088553051108130816",
+            "3_2088553051078701056"
+          ],
+          "media_source_tweet_id": [
+            "2088553060209709193",
+            "2088553060209709193",
+            "2088553060209709193",
+            "2088553060209709193"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2088928344213712944",
+        "created_at": "2026-08-16T09:58:22.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088928344213712944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "c108"
+            },
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "c108コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "840891056",
+              "start": 3,
+              "username": "zitaku11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 130,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051040940032",
+              "start": 107,
+              "url": "https://t.co/z7n2geEB3n"
+            },
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 130,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051061932032",
+              "start": 107,
+              "url": "https://t.co/z7n2geEB3n"
+            },
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 130,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051108130816",
+              "start": 107,
+              "url": "https://t.co/z7n2geEB3n"
+            },
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 130,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051078701056",
+              "start": 107,
+              "url": "https://t.co/z7n2geEB3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088928344213712944",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088553051040940032"
+          },
+          {
+            "media_key": "3_2088553051061932032"
+          },
+          {
+            "media_key": "3_2088553051108130816"
+          },
+          {
+            "media_key": "3_2088553051078701056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 729
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088553060209709193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zitaku11: #c108\n#c108コスプレ\n\n「あぁ~あ、幹部が点検しろしろうるさいから、一回りしてみるか。」\n\n「うちの交番がやられるわけないよなぁ。」\n\n「異常ねぇや。」\n\n(ドオォｫｫン！) https://t.co/z7n2geEB3n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088553051040940032",
+            "3_2088553051061932032",
+            "3_2088553051108130816",
+            "3_2088553051078701056"
+          ]
+        },
+        "author_id": "840891056",
+        "conversation_id": "2088553060209709193",
+        "created_at": "2026-08-15T09:07:07.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088553060209709193"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "c108"
+            },
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "c108コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 116,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051040940032",
+              "start": 93,
+              "url": "https://t.co/z7n2geEB3n"
+            },
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 116,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051061932032",
+              "start": 93,
+              "url": "https://t.co/z7n2geEB3n"
+            },
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 116,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051108130816",
+              "start": 93,
+              "url": "https://t.co/z7n2geEB3n"
+            },
+            {
+              "display_url": "pic.x.com/z7n2geEB3n",
+              "end": 116,
+              "expanded_url": "https://x.com/zitaku11/status/2088553060209709193/photo/1",
+              "media_key": "3_2088553051078701056",
+              "start": 93,
+              "url": "https://t.co/z7n2geEB3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088553060209709193",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088553051040940032"
+          },
+          {
+            "media_key": "3_2088553051061932032"
+          },
+          {
+            "media_key": "3_2088553051108130816"
+          },
+          {
+            "media_key": "3_2088553051078701056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 360924,
+          "like_count": 4151,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 729
+        },
+        "reply_settings": "everyone",
+        "text": "#c108\n#c108コスプレ\n\n「あぁ~あ、幹部が点検しろしろうるさいから、一回りしてみるか。」\n\n「うちの交番がやられるわけないよなぁ。」\n\n「異常ねぇや。」\n\n(ドオォｫｫン！) https://t.co/z7n2geEB3n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088928344213712944",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1014,
+          "like_count": 98098,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4962
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-09-23T02:59:34.000Z",
+        "description": "ちょくちょく軍装とかサバゲーとかして遊んでます。最近は仕事の愚痴ばかり呟いてます。忙しくてオタ活減少傾向、またあの頃のオタク日常に戻りたいと願って過ごす日々。",
+        "id": "840891056",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2088892312105754795",
+        "name": "yuu-@(低浮上ぎみ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840891056/1593932531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279672507935551489/26YPtx9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 1243,
+          "like_count": 19587,
+          "listed_count": 33,
+          "media_count": 4750,
+          "tweet_count": 36251
+        },
+        "url": "",
+        "username": "zitaku11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

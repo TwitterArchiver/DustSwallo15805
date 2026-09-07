@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095357005745790976",
+        "3_2095357211933642752",
+        "3_2095357232364044288",
+        "3_2095357264366559232"
+      ],
+      "media_source_tweet_id": [
+        "2095359005887778929",
+        "2095359005887778929",
+        "2095359005887778929",
+        "2095359005887778929"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095381597541601398",
+    "created_at": "2026-09-03T05:21:17.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095381597541601398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kqcJhkvsAS",
+          "end": 62,
+          "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+          "media_key": "3_2095357005745790976",
+          "start": 39,
+          "url": "https://t.co/kqcJhkvsAS"
+        },
+        {
+          "display_url": "pic.x.com/kqcJhkvsAS",
+          "end": 62,
+          "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+          "media_key": "3_2095357211933642752",
+          "start": 39,
+          "url": "https://t.co/kqcJhkvsAS"
+        },
+        {
+          "display_url": "pic.x.com/kqcJhkvsAS",
+          "end": 62,
+          "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+          "media_key": "3_2095357232364044288",
+          "start": 39,
+          "url": "https://t.co/kqcJhkvsAS"
+        },
+        {
+          "display_url": "pic.x.com/kqcJhkvsAS",
+          "end": 62,
+          "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+          "media_key": "3_2095357264366559232",
+          "start": 39,
+          "url": "https://t.co/kqcJhkvsAS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095381597541601398",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095357005745790976"
+      },
+      {
+        "media_key": "3_2095357211933642752"
+      },
+      {
+        "media_key": "3_2095357232364044288"
+      },
+      {
+        "media_key": "3_2095357264366559232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095359005887778929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: 去年～今年描いたSkebです🫶 thank you https://t.co/kqcJhkvsAS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2095357005745790976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQ0GFUaoAApStj.jpg",
+        "width": 992
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2095357211933642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQ0SFbbkAAGC_j.jpg",
+        "width": 992
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2095357232364044288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQ0TRiawAAYh0J.jpg",
+        "width": 992
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2095357264366559232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQ0VIwaYAA_uKh.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095357005745790976",
+            "3_2095357211933642752",
+            "3_2095357232364044288",
+            "3_2095357264366559232"
+          ],
+          "media_source_tweet_id": [
+            "2095359005887778929",
+            "2095359005887778929",
+            "2095359005887778929",
+            "2095359005887778929"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095381597541601398",
+        "created_at": "2026-09-03T05:21:17.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095381597541601398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 62,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357005745790976",
+              "start": 39,
+              "url": "https://t.co/kqcJhkvsAS"
+            },
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 62,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357211933642752",
+              "start": 39,
+              "url": "https://t.co/kqcJhkvsAS"
+            },
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 62,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357232364044288",
+              "start": 39,
+              "url": "https://t.co/kqcJhkvsAS"
+            },
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 62,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357264366559232",
+              "start": 39,
+              "url": "https://t.co/kqcJhkvsAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095381597541601398",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095357005745790976"
+          },
+          {
+            "media_key": "3_2095357211933642752"
+          },
+          {
+            "media_key": "3_2095357232364044288"
+          },
+          {
+            "media_key": "3_2095357264366559232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095359005887778929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: 去年～今年描いたSkebです🫶 thank you https://t.co/kqcJhkvsAS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095357005745790976",
+            "3_2095357211933642752",
+            "3_2095357232364044288",
+            "3_2095357264366559232"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095359005887778929",
+        "created_at": "2026-09-03T03:51:31.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095359005887778929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 49,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357005745790976",
+              "start": 26,
+              "url": "https://t.co/kqcJhkvsAS"
+            },
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 49,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357211933642752",
+              "start": 26,
+              "url": "https://t.co/kqcJhkvsAS"
+            },
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 49,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357232364044288",
+              "start": 26,
+              "url": "https://t.co/kqcJhkvsAS"
+            },
+            {
+              "display_url": "pic.x.com/kqcJhkvsAS",
+              "end": 49,
+              "expanded_url": "https://x.com/Nakkar7/status/2095359005887778929/photo/1",
+              "media_key": "3_2095357264366559232",
+              "start": 26,
+              "url": "https://t.co/kqcJhkvsAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095359005887778929",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095357005745790976"
+          },
+          {
+            "media_key": "3_2095357211933642752"
+          },
+          {
+            "media_key": "3_2095357232364044288"
+          },
+          {
+            "media_key": "3_2095357264366559232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 5265,
+          "like_count": 383,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "去年～今年描いたSkebです🫶 thank you https://t.co/kqcJhkvsAS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2095381597541601398",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1023,
+          "like_count": 102207,
+          "listed_count": 5,
+          "media_count": 844,
+          "tweet_count": 5170
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜\n┊SHOP ➭ https://t.co/AAZW8Vx0tG\n┊FANBOX ➭ https://t.co/YgsKSZVfDW\n┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 44,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 21,
+                "url": "https://t.co/AAZW8Vx0tG"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/YgsKSZVfDW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaacHa"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "is_identity_verified": false,
+        "location": "DMは見ません！",
+        "most_recent_tweet_id": "2095359347987726343",
+        "name": "かなめなか　9/13名古屋コミティア・C-21",
+        "pinned_tweet_id": "2089201464791212092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990587604146925568/1779290306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074836599221948416/SAufjEEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70503,
+          "following_count": 204,
+          "like_count": 16005,
+          "listed_count": 656,
+          "media_count": 1125,
+          "tweet_count": 27788
+        },
+        "url": "https://t.co/HcT4NaacHa",
+        "username": "Nakkar7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

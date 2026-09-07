@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087506877907443712",
+        "3_2087506877920022528",
+        "3_2087506877919948800",
+        "3_2087506877915836416"
+      ],
+      "media_source_tweet_id": [
+        "2087506887243911466",
+        "2087506887243911466",
+        "2087506887243911466",
+        "2087506887243911466"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2087788044435042511",
+    "created_at": "2026-08-13T06:27:13.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087788044435042511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1223327768571596802",
+          "start": 3,
+          "username": "cocommmm00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a63ELfd6VO",
+          "end": 82,
+          "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+          "media_key": "3_2087506877907443712",
+          "start": 59,
+          "url": "https://t.co/a63ELfd6VO"
+        },
+        {
+          "display_url": "pic.x.com/a63ELfd6VO",
+          "end": 82,
+          "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+          "media_key": "3_2087506877920022528",
+          "start": 59,
+          "url": "https://t.co/a63ELfd6VO"
+        },
+        {
+          "display_url": "pic.x.com/a63ELfd6VO",
+          "end": 82,
+          "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+          "media_key": "3_2087506877919948800",
+          "start": 59,
+          "url": "https://t.co/a63ELfd6VO"
+        },
+        {
+          "display_url": "pic.x.com/a63ELfd6VO",
+          "end": 82,
+          "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+          "media_key": "3_2087506877915836416",
+          "start": 59,
+          "url": "https://t.co/a63ELfd6VO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087788044435042511",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087506877907443712"
+      },
+      {
+        "media_key": "3_2087506877920022528"
+      },
+      {
+        "media_key": "3_2087506877919948800"
+      },
+      {
+        "media_key": "3_2087506877915836416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087506887243911466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocommmm00: 配信中に催眠にかかってしまう子⚠️平和\n\nskebリクエストありがとうございました！ https://t.co/a63ELfd6VO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3400,
+        "media_key": "3_2087506877907443712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhQcgPboAAzLSL.jpg",
+        "width": 2200
+      },
+      {
+        "height": 3400,
+        "media_key": "3_2087506877920022528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhQcgSbkAAEkTZ.jpg",
+        "width": 2200
+      },
+      {
+        "height": 3400,
+        "media_key": "3_2087506877919948800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhQcgSacAALzo_.jpg",
+        "width": 2200
+      },
+      {
+        "height": 3400,
+        "media_key": "3_2087506877915836416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhQcgRbsAAYphb.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087506877907443712",
+            "3_2087506877920022528",
+            "3_2087506877919948800",
+            "3_2087506877915836416"
+          ]
+        },
+        "author_id": "1223327768571596802",
+        "conversation_id": "2087506887243911466",
+        "created_at": "2026-08-12T11:50:00.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087506887243911466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 66,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877907443712",
+              "start": 43,
+              "url": "https://t.co/a63ELfd6VO"
+            },
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 66,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877920022528",
+              "start": 43,
+              "url": "https://t.co/a63ELfd6VO"
+            },
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 66,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877919948800",
+              "start": 43,
+              "url": "https://t.co/a63ELfd6VO"
+            },
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 66,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877915836416",
+              "start": 43,
+              "url": "https://t.co/a63ELfd6VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087506887243911466",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087506877907443712"
+          },
+          {
+            "media_key": "3_2087506877920022528"
+          },
+          {
+            "media_key": "3_2087506877919948800"
+          },
+          {
+            "media_key": "3_2087506877915836416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 12409,
+          "like_count": 701,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "配信中に催眠にかかってしまう子⚠️平和\n\nskebリクエストありがとうございました！ https://t.co/a63ELfd6VO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087506877907443712",
+            "3_2087506877920022528",
+            "3_2087506877919948800",
+            "3_2087506877915836416"
+          ],
+          "media_source_tweet_id": [
+            "2087506887243911466",
+            "2087506887243911466",
+            "2087506887243911466",
+            "2087506887243911466"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2087788044435042511",
+        "created_at": "2026-08-13T06:27:13.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087788044435042511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1223327768571596802",
+              "start": 3,
+              "username": "cocommmm00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 82,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877907443712",
+              "start": 59,
+              "url": "https://t.co/a63ELfd6VO"
+            },
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 82,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877920022528",
+              "start": 59,
+              "url": "https://t.co/a63ELfd6VO"
+            },
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 82,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877919948800",
+              "start": 59,
+              "url": "https://t.co/a63ELfd6VO"
+            },
+            {
+              "display_url": "pic.x.com/a63ELfd6VO",
+              "end": 82,
+              "expanded_url": "https://x.com/cocommmm00/status/2087506887243911466/photo/1",
+              "media_key": "3_2087506877915836416",
+              "start": 59,
+              "url": "https://t.co/a63ELfd6VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087788044435042511",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087506877907443712"
+          },
+          {
+            "media_key": "3_2087506877920022528"
+          },
+          {
+            "media_key": "3_2087506877919948800"
+          },
+          {
+            "media_key": "3_2087506877915836416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087506887243911466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocommmm00: 配信中に催眠にかかってしまう子⚠️平和\n\nskebリクエストありがとうございました！ https://t.co/a63ELfd6VO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2087788044435042511",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087619147123568640/c2XuBAcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 999,
+          "like_count": 97103,
+          "listed_count": 6,
+          "media_count": 791,
+          "tweet_count": 4920
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T19:30:55.000Z",
+        "description": "成人済/創作＊MC＊NL＊平和有/fanbox→https://t.co/lIb9s3C8IA ci-en→ https://t.co/YW8cjQhysP /skeb(版権・過激🔞🆖)→https://t.co/TtpAsaJTO9 /i.h貰い物 sub→@cocommmm01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 130,
+                "username": "cocommmm01"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cococmmmm.fanbox.cc",
+                "end": 47,
+                "expanded_url": "https://cococmmmm.fanbox.cc/",
+                "start": 24,
+                "url": "https://t.co/lIb9s3C8IA"
+              },
+              {
+                "display_url": "ci-en.net/creator/24190",
+                "end": 78,
+                "expanded_url": "https://ci-en.net/creator/24190",
+                "start": 55,
+                "url": "https://t.co/YW8cjQhysP"
+              },
+              {
+                "display_url": "skeb.jp/@cocommmm00",
+                "end": 117,
+                "expanded_url": "https://skeb.jp/@cocommmm00",
+                "start": 94,
+                "url": "https://t.co/TtpAsaJTO9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1d3r46z53f522b…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/1d3r46z53f522bq?t=X828RR&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/CgLGAvmHAG"
+              }
+            ]
+          }
+        },
+        "id": "1223327768571596802",
+        "is_identity_verified": false,
+        "location": "Not🔞基本壁打ち/🔗はマシュマロ",
+        "most_recent_tweet_id": "2087781750512779622",
+        "name": "ぺーぷる",
+        "pinned_tweet_id": "2018703586570485898",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223327768571596802/1745051946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025445973078802434/lEkfKsP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6489,
+          "following_count": 24,
+          "like_count": 3122,
+          "listed_count": 19,
+          "media_count": 1293,
+          "tweet_count": 9763
+        },
+        "url": "https://t.co/CgLGAvmHAG",
+        "username": "cocommmm00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

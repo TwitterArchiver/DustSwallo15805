@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2095113233439002652",
+    "created_at": "2026-09-02T15:04:19.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095165932029227022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979308662117273604",
+          "start": 0,
+          "username": "kuaizichopstick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095165932029227022",
+    "in_reply_to_user_id": "1979308662117273604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095113233439002652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuaizichopstick 呜呜这个空调凉了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095113115163828224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNWRyGaIAAUgaO.jpg",
+        "width": 2786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2095113233439002652",
+        "created_at": "2026-09-02T15:04:19.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095165932029227022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979308662117273604",
+              "start": 0,
+              "username": "kuaizichopstick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095165932029227022",
+        "in_reply_to_user_id": "1979308662117273604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095113233439002652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuaizichopstick 呜呜这个空调凉了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095113115163828224"
+          ]
+        },
+        "author_id": "1979308662117273604",
+        "conversation_id": "2095113233439002652",
+        "created_at": "2026-09-02T11:34:54.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095113233439002652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJ3YYGR1wa",
+              "end": 33,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2095113233439002652/photo/1",
+              "media_key": "3_2095113115163828224",
+              "start": 10,
+              "url": "https://t.co/MJ3YYGR1wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095113233439002652",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095113115163828224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 186,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "青岛精卫の神秘空调 https://t.co/MJ3YYGR1wa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2095165932029227022",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1022,
+          "like_count": 102123,
+          "listed_count": 5,
+          "media_count": 842,
+          "tweet_count": 5165
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "生产日期08.12.25 hrt25.12.05 小证26.07.14 家长党 185cm/93kg\n同类可互fo喵！日麻狂热爱好者/各种音游/自残自杀倾向严重/oder💊\n乖妹妹@ScarsTowel616 最爱的老公喵@ovoxiaobai qq1993611645",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "ScarsTowel616"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "ovoxiaobai"
+              }
+            ]
+          }
+        },
+        "id": "1979308662117273604",
+        "is_identity_verified": false,
+        "location": "青岛",
+        "most_recent_tweet_id": "2095122839045341240",
+        "name": "筷子不会用筷子🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085011175755170039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979308662117273604/1780372999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068455916396253184/Cg6de8ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 758,
+          "like_count": 1396,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "kuaizichopstick",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
