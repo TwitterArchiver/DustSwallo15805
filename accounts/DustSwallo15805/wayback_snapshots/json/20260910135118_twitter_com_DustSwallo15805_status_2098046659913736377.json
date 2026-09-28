@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097851766343917568"
+      ],
+      "media_source_tweet_id": [
+        "2097851780294201658"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2098046659913736377",
+    "created_at": "2026-09-10T13:51:18.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098046659913736377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4782898716",
+          "start": 3,
+          "username": "CrazyCatssan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PyTtRs8oiS",
+          "end": 66,
+          "expanded_url": "https://x.com/CrazyCatssan/status/2097851780294201658/video/1",
+          "media_key": "13_2097851766343917568",
+          "start": 43,
+          "url": "https://t.co/PyTtRs8oiS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098046659913736377",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097851766343917568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097851780294201658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrazyCatssan: 10年以上乗ってないけど、もうこれ聞けないらしい https://t.co/PyTtRs8oiS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6600,
+        "height": 720,
+        "media_key": "13_2097851766343917568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097851766343917568/img/BMb_f1CCdf8mG-O9.jpg",
+        "public_metrics": {
+          "view_count": 69687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097851766343917568/vid/avc1/320x320/tpn-QhGoK56odeCs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097851766343917568/vid/avc1/540x540/8d0pLMJMCjSj0e_E.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097851766343917568/vid/avc1/720x720/4V8EsL8PagFS0OJi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097851766343917568/pl/_tAU7nsGFRuVwlmu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097851766343917568"
+          ],
+          "media_source_tweet_id": [
+            "2097851780294201658"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2098046659913736377",
+        "created_at": "2026-09-10T13:51:18.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098046659913736377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4782898716",
+              "start": 3,
+              "username": "CrazyCatssan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyTtRs8oiS",
+              "end": 66,
+              "expanded_url": "https://x.com/CrazyCatssan/status/2097851780294201658/video/1",
+              "media_key": "13_2097851766343917568",
+              "start": 43,
+              "url": "https://t.co/PyTtRs8oiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098046659913736377",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097851766343917568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 267
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097851780294201658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrazyCatssan: 10年以上乗ってないけど、もうこれ聞けないらしい https://t.co/PyTtRs8oiS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097851766343917568"
+          ]
+        },
+        "author_id": "4782898716",
+        "conversation_id": "2097851780294201658",
+        "created_at": "2026-09-10T00:56:55.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T01:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097851780294201658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyTtRs8oiS",
+              "end": 48,
+              "expanded_url": "https://x.com/CrazyCatssan/status/2097851780294201658/video/1",
+              "media_key": "13_2097851766343917568",
+              "start": 25,
+              "url": "https://t.co/PyTtRs8oiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097851780294201658",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097851766343917568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 451,
+          "impression_count": 143646,
+          "like_count": 2361,
+          "quote_count": 50,
+          "reply_count": 2,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "10年以上乗ってないけど、もうこれ聞けないらしい https://t.co/PyTtRs8oiS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098046659913736377",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1035,
+          "like_count": 103642,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5227
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-19T11:59:43.000Z",
+        "description": "#デレマス （佐藤心、美世、マキノ） #バンドリ （今井リサ、上原ひまり、桐ヶ谷 透子）#ラブライブ（絢瀬絵里、小原鞠莉、宮下愛、朝香果林、近江彼方） #猫 #車（MAZDA6、SUZUKI Kei） #オタ芸 #創作ダンスお遊戯会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "デレマス"
+              },
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "ラブライブ"
+              },
+              {
+                "end": 78,
+                "start": 76,
+                "tag": "猫"
+              },
+              {
+                "end": 81,
+                "start": 79,
+                "tag": "車"
+              },
+              {
+                "end": 105,
+                "start": 101,
+                "tag": "オタ芸"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "tag": "創作ダンスお遊戯会"
+              }
+            ]
+          }
+        },
+        "id": "4782898716",
+        "is_identity_verified": false,
+        "location": "愛知県（三河の民）",
+        "most_recent_tweet_id": "2098029905909006718",
+        "name": "ぷっち",
+        "pinned_tweet_id": "2030936679960494547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4782898716/1769917962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071526083594522626/lNf6CAbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 6247,
+          "like_count": 202980,
+          "listed_count": 31,
+          "media_count": 15880,
+          "tweet_count": 87949
+        },
+        "url": "",
+        "username": "CrazyCatssan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

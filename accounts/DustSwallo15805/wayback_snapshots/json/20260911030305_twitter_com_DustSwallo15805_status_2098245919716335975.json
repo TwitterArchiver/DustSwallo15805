@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098081369830412288"
+      ],
+      "media_source_tweet_id": [
+        "2098081435857084690"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098245919716335975",
+    "created_at": "2026-09-11T03:03:05.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T04:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098245919716335975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2363490133",
+          "start": 3,
+          "username": "RUSunshinePPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jhNELLmNfm",
+          "end": 51,
+          "expanded_url": "https://x.com/RUSunshinePPT/status/2098081435857084690/video/1",
+          "media_key": "13_2098081369830412288",
+          "start": 28,
+          "url": "https://t.co/jhNELLmNfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098245919716335975",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2098081369830412288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098081435857084690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RUSunshinePPT: 台灣高速鐵路參戰 https://t.co/jhNELLmNfm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6106,
+        "height": 720,
+        "media_key": "13_2098081369830412288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098081369830412288/img/pV38Tk4jxpQ5dS5o.jpg",
+        "public_metrics": {
+          "view_count": 4268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098081369830412288/vid/avc1/320x480/i7gEyEwAfUpdzWMP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098081369830412288/vid/avc1/480x720/wGEZIfcsVYFo6QHB.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098081369830412288/pl/Td2iUdok2i2jpfDw.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098081369830412288"
+          ],
+          "media_source_tweet_id": [
+            "2098081435857084690"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098245919716335975",
+        "created_at": "2026-09-11T03:03:05.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098245919716335975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2363490133",
+              "start": 3,
+              "username": "RUSunshinePPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhNELLmNfm",
+              "end": 51,
+              "expanded_url": "https://x.com/RUSunshinePPT/status/2098081435857084690/video/1",
+              "media_key": "13_2098081369830412288",
+              "start": 28,
+              "url": "https://t.co/jhNELLmNfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098245919716335975",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098081369830412288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098081435857084690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RUSunshinePPT: 台灣高速鐵路參戰 https://t.co/jhNELLmNfm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098081369830412288"
+          ]
+        },
+        "author_id": "2363490133",
+        "conversation_id": "2098081435857084690",
+        "created_at": "2026-09-10T16:09:29.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098081435857084690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jhNELLmNfm",
+              "end": 32,
+              "expanded_url": "https://x.com/RUSunshinePPT/status/2098081435857084690/video/1",
+              "media_key": "13_2098081369830412288",
+              "start": 9,
+              "url": "https://t.co/jhNELLmNfm"
+            },
+            {
+              "display_url": "x.com/AIslop_/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/AIslop_/status/2095294453858677200",
+              "start": 33,
+              "url": "https://t.co/2i7EH2K1sg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098081435857084690",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098081369830412288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 12305,
+          "like_count": 328,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "台灣高速鐵路參戰 https://t.co/jhNELLmNfm https://t.co/2i7EH2K1sg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098245919716335975",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1036,
+          "like_count": 103702,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5230
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-27T02:21:13.000Z",
+        "description": "Kanata X Yamaha Force 1.0 155 /\nKanata & Kanade X Honda Civic FD /\n永遠のへい民/音の勢/台灣台南人/Discord:rusun/\nHololive 7th FES&EXPO 謝謝大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kenny.chang.50…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kenny.chang.5055",
+                "start": 0,
+                "url": "https://t.co/NQxuX56hi7"
+              }
+            ]
+          }
+        },
+        "id": "2363490133",
+        "is_identity_verified": false,
+        "location": "台灣台南",
+        "most_recent_tweet_id": "2098162957838627235",
+        "name": "💫光Guang🎹RUSun來自海島的陽光",
+        "pinned_tweet_id": "1970396557553074416",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2363490133/1761380748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029434364636069888/0lJTBoDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 2620,
+          "like_count": 60023,
+          "listed_count": 9,
+          "media_count": 235,
+          "tweet_count": 7557
+        },
+        "url": "https://t.co/NQxuX56hi7",
+        "username": "RUSunshinePPT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

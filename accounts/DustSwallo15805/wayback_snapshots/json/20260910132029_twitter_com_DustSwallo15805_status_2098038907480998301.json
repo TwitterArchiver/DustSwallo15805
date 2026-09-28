@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097217686543687681",
+        "3_2097217743812800512"
+      ],
+      "media_source_tweet_id": [
+        "2097217832815849582",
+        "2097217832815849582"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2098038907480998301",
+    "created_at": "2026-09-10T13:20:29.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098038907480998301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1504948282593722371",
+          "start": 3,
+          "username": "stampichitarou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NMh4D1Df3y",
+          "end": 99,
+          "expanded_url": "https://x.com/stampichitarou/status/2097217832815849582/photo/1",
+          "media_key": "3_2097217686543687681",
+          "start": 76,
+          "url": "https://t.co/NMh4D1Df3y"
+        },
+        {
+          "display_url": "pic.x.com/NMh4D1Df3y",
+          "end": 99,
+          "expanded_url": "https://x.com/stampichitarou/status/2097217832815849582/photo/1",
+          "media_key": "3_2097217743812800512",
+          "start": 76,
+          "url": "https://t.co/NMh4D1Df3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098038907480998301",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097217686543687681"
+      },
+      {
+        "media_key": "3_2097217743812800512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097217832815849582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stampichitarou: [引受時刻証明郵便]\n…畏れ多くも私のブログから引用いただきましたので、老婆心ながら少しフォローいたします✨… https://t.co/NMh4D1Df3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2097217686543687681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrQX9caYAEGfq0.jpg",
+        "width": 1078
+      },
+      {
+        "height": 3933,
+        "media_key": "3_2097217743812800512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrQbSybsAABtNp.jpg",
+        "width": 3054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097217686543687681",
+            "3_2097217743812800512"
+          ],
+          "media_source_tweet_id": [
+            "2097217832815849582",
+            "2097217832815849582"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2098038907480998301",
+        "created_at": "2026-09-10T13:20:29.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098038907480998301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1504948282593722371",
+              "start": 3,
+              "username": "stampichitarou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMh4D1Df3y",
+              "end": 99,
+              "expanded_url": "https://x.com/stampichitarou/status/2097217832815849582/photo/1",
+              "media_key": "3_2097217686543687681",
+              "start": 76,
+              "url": "https://t.co/NMh4D1Df3y"
+            },
+            {
+              "display_url": "pic.x.com/NMh4D1Df3y",
+              "end": 99,
+              "expanded_url": "https://x.com/stampichitarou/status/2097217832815849582/photo/1",
+              "media_key": "3_2097217743812800512",
+              "start": 76,
+              "url": "https://t.co/NMh4D1Df3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098038907480998301",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097217686543687681"
+          },
+          {
+            "media_key": "3_2097217743812800512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097217832815849582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stampichitarou: [引受時刻証明郵便]\n…畏れ多くも私のブログから引用いただきましたので、老婆心ながら少しフォローいたします✨… https://t.co/NMh4D1Df3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097217686543687681",
+            "3_2097217743812800512"
+          ]
+        },
+        "author_id": "1504948282593722371",
+        "conversation_id": "2097217832815849582",
+        "created_at": "2026-09-08T06:57:50.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:54:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097217036007215304",
+          "2097217832815849582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMh4D1Df3y",
+              "end": 78,
+              "expanded_url": "https://x.com/stampichitarou/status/2097217832815849582/photo/1",
+              "media_key": "3_2097217686543687681",
+              "start": 55,
+              "url": "https://t.co/NMh4D1Df3y"
+            },
+            {
+              "display_url": "pic.x.com/NMh4D1Df3y",
+              "end": 78,
+              "expanded_url": "https://x.com/stampichitarou/status/2097217832815849582/photo/1",
+              "media_key": "3_2097217743812800512",
+              "start": 55,
+              "url": "https://t.co/NMh4D1Df3y"
+            },
+            {
+              "display_url": "x.com/yubinJP/status…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/yubinJP/status/2097163573927756085",
+              "start": 79,
+              "url": "https://t.co/5aJYe5KpPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097217832815849582",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097217686543687681"
+          },
+          {
+            "media_key": "3_2097217743812800512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "[引受時刻証明郵便]\n…畏れ多くも私のブログから引用いただきましたので、老婆心ながら少しフォローいたします✨\n現在、鉱業出願(鉱業法第21条)や公選法の届け出関係で引受時刻証明の取り扱いを規定していますが…鉱業出願は電子出願が認められてからは、郵便での出願は減っているようです(特許出願で同証明の付加はあくまで任意)。今となっては、利用数はかなり少なくなっています(双方、ポカーンですかね😃)。\n…ゴム印(時刻印と証示印)、大きな郵便局(東京中央など)は用意していますが、無いときは規定の雛型を手書きして引き受けています🍀"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 18257,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097163573927756085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "[引受時刻証明郵便]\n…畏れ多くも私のブログから引用いただきましたので、老婆心ながら少しフォローいたします✨ https://t.co/NMh4D1Df3y https://t.co/5aJYe5KpPW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098038907480998301",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1033,
+          "like_count": 103594,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5225
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T22:30:34.000Z",
+        "description": "基本、郵便(切手)が好き(JPS正会員)。\n数年前、秩父鉄道のイベントに参加してからちょこっと鉄もかじっています😮\n…これまでFacebookメインでしたが、Xもやってみます🙇",
+        "id": "1504948282593722371",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097984921994490218",
+        "name": "いち太郎",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699669246446608384/TTbfaJ0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 60,
+          "like_count": 601,
+          "listed_count": 1,
+          "media_count": 699,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "stampichitarou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

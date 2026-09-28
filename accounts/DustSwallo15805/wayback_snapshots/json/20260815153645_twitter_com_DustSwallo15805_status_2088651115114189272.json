@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088602160238104577"
+      ],
+      "media_source_tweet_id": [
+        "2088602208367739219"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2088651115114189272",
+    "created_at": "2026-08-15T15:36:45.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088651115114189272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "C108"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2781691592",
+          "start": 3,
+          "username": "horikouhorikou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wM5U6pj2nx",
+          "end": 95,
+          "expanded_url": "https://x.com/horikouhorikou/status/2088602208367739219/video/1",
+          "media_key": "13_2088602160238104577",
+          "start": 72,
+          "url": "https://t.co/wM5U6pj2nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088651115114189272",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2088602160238104577"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088602208367739219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @horikouhorikou: 絢正舎 #C108 新刊。\n「マンガ　ベレンコ中尉亡命事件～前編～」\nこんな感じで仕上がっております。 https://t.co/wM5U6pj2nx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13908,
+        "height": 1080,
+        "media_key": "13_2088602160238104577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088602160238104577/img/iFHggVt2fyW5T0ov.jpg",
+        "public_metrics": {
+          "view_count": 695
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088602160238104577/vid/avc1/480x270/6AG-pJpL1F1DeTC8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088602160238104577/vid/avc1/1280x720/O60lbaepWeNjYRM5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088602160238104577/vid/avc1/640x360/DQmU7Tl4Yc98HU6h.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088602160238104577/vid/avc1/1920x1080/tg4FPjEntTdB4lZx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088602160238104577/pl/4IGAn0VQKBfYzSRO.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088602160238104577"
+          ],
+          "media_source_tweet_id": [
+            "2088602208367739219"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2088651115114189272",
+        "created_at": "2026-08-15T15:36:45.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088651115114189272"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "C108"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2781691592",
+              "start": 3,
+              "username": "horikouhorikou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wM5U6pj2nx",
+              "end": 95,
+              "expanded_url": "https://x.com/horikouhorikou/status/2088602208367739219/video/1",
+              "media_key": "13_2088602160238104577",
+              "start": 72,
+              "url": "https://t.co/wM5U6pj2nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088651115114189272",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088602160238104577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088602208367739219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @horikouhorikou: 絢正舎 #C108 新刊。\n「マンガ　ベレンコ中尉亡命事件～前編～」\nこんな感じで仕上がっております。 https://t.co/wM5U6pj2nx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088602160238104577"
+          ]
+        },
+        "author_id": "2781691592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2088602208367739219",
+        "created_at": "2026-08-15T12:22:25.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088602208367739219"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "C108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wM5U6pj2nx",
+              "end": 75,
+              "expanded_url": "https://x.com/horikouhorikou/status/2088602208367739219/video/1",
+              "media_key": "13_2088602160238104577",
+              "start": 52,
+              "url": "https://t.co/wM5U6pj2nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088602208367739219",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2088602160238104577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1769,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "絢正舎 #C108 新刊。\n「マンガ　ベレンコ中尉亡命事件～前編～」\nこんな感じで仕上がっております。 https://t.co/wM5U6pj2nx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088651115114189272",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 1012,
+          "like_count": 97978,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4954
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-08-31T05:50:18.000Z",
+        "description": "フリーのお絵かきマン。各種イラスト､漫画､『猫ノ目ゆうかは語るべからず』背景担当。 ◆skeb→https://t.co/aBhkJQckMO ◆BOOTH→https://t.co/mLAKodvk1L◆pixiv→https://t.co/IXThvCDZbq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@horikouhorikou",
+                "end": 71,
+                "expanded_url": "https://skeb.jp/@horikouhorikou",
+                "start": 48,
+                "url": "https://t.co/aBhkJQckMO"
+              },
+              {
+                "display_url": "horikou.booth.pm",
+                "end": 102,
+                "expanded_url": "https://horikou.booth.pm/",
+                "start": 79,
+                "url": "https://t.co/mLAKodvk1L"
+              },
+              {
+                "display_url": "pixiv.net/users/789754",
+                "end": 132,
+                "expanded_url": "https://www.pixiv.net/users/789754",
+                "start": 109,
+                "url": "https://t.co/IXThvCDZbq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "horikouhorikou.com",
+                "end": 23,
+                "expanded_url": "https://horikouhorikou.com",
+                "start": 0,
+                "url": "https://t.co/6Ef7luMh7P"
+              }
+            ]
+          }
+        },
+        "id": "2781691592",
+        "is_identity_verified": false,
+        "location": "Tokyo Japan",
+        "most_recent_tweet_id": "2088606244231848209",
+        "name": "ほりこう＠C108 日曜 東ノ53b",
+        "pinned_tweet_id": "2088221568346567055",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2781691592/1728554761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745752685440339968/Ny_-vQHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29745,
+          "following_count": 173,
+          "like_count": 10220,
+          "listed_count": 360,
+          "media_count": 3413,
+          "tweet_count": 11750
+        },
+        "url": "https://t.co/6Ef7luMh7P",
+        "username": "horikouhorikou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

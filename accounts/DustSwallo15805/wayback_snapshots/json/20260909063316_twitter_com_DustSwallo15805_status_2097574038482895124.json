@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097381011952902144"
+      ],
+      "media_source_tweet_id": [
+        "2097381040134467734"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2097574038482895124",
+    "created_at": "2026-09-09T06:33:16.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097574038482895124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "956321183984582657",
+          "start": 3,
+          "username": "marlion_3121"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Vt1tBFTtN",
+          "end": 48,
+          "expanded_url": "https://x.com/marlion_3121/status/2097381040134467734/video/1",
+          "media_key": "13_2097381011952902144",
+          "start": 25,
+          "url": "https://t.co/8Vt1tBFTtN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097574038482895124",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097381011952902144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1886
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097381040134467734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marlion_3121: 大阪人なので https://t.co/8Vt1tBFTtN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7933,
+        "height": 1350,
+        "media_key": "13_2097381011952902144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097381011952902144/img/DZ74uX_eVw7BEcey.jpg",
+        "public_metrics": {
+          "view_count": 219080
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097381011952902144/pl/eFr5yX0h9_n80sy1.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097381011952902144/vid/avc1/320x400/e6BIwOenfIOgJ0bg.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097381011952902144/vid/avc1/1080x1350/huPWpNWwj7atwPH_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097381011952902144/vid/avc1/480x600/KBlleep1wwEz0ZZR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097381011952902144/vid/avc1/720x900/cGViNFzLWUMwRF3D.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097381011952902144"
+          ],
+          "media_source_tweet_id": [
+            "2097381040134467734"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2097574038482895124",
+        "created_at": "2026-09-09T06:33:16.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097574038482895124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "956321183984582657",
+              "start": 3,
+              "username": "marlion_3121"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vt1tBFTtN",
+              "end": 48,
+              "expanded_url": "https://x.com/marlion_3121/status/2097381040134467734/video/1",
+              "media_key": "13_2097381011952902144",
+              "start": 25,
+              "url": "https://t.co/8Vt1tBFTtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097574038482895124",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097381011952902144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1886
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097381040134467734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marlion_3121: 大阪人なので https://t.co/8Vt1tBFTtN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097381011952902144"
+          ]
+        },
+        "author_id": "956321183984582657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2097381040134467734",
+        "created_at": "2026-09-08T17:46:22.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097381040134467734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vt1tBFTtN",
+              "end": 30,
+              "expanded_url": "https://x.com/marlion_3121/status/2097381040134467734/video/1",
+              "media_key": "13_2097381011952902144",
+              "start": 7,
+              "url": "https://t.co/8Vt1tBFTtN"
+            },
+            {
+              "display_url": "x.com/yuniho13014460…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/yuniho13014460/status/2097251161904652787",
+              "start": 31,
+              "url": "https://t.co/RPg49lKxla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097381040134467734",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097381011952902144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2096,
+          "impression_count": 958349,
+          "like_count": 12404,
+          "quote_count": 338,
+          "reply_count": 12,
+          "retweet_count": 1887
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097251161904652787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大阪人なので https://t.co/8Vt1tBFTtN https://t.co/RPg49lKxla"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097574038482895124",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1028,
+          "like_count": 103233,
+          "listed_count": 5,
+          "media_count": 847,
+          "tweet_count": 5198
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-25T00:21:52.000Z",
+        "description": "🇯🇵/programmer/ 20代前半/関東在住/Flutter Golang Next.js TS AWS Python FastAPI React Next.js k8s terrafom /Microsoftアンチです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marlionblog.com",
+                "end": 23,
+                "expanded_url": "https://www.marlionblog.com/",
+                "start": 0,
+                "url": "https://t.co/UsQYHID3Ax"
+              }
+            ]
+          }
+        },
+        "id": "956321183984582657",
+        "is_identity_verified": false,
+        "location": "Osaka Kyoto Tokushima",
+        "most_recent_tweet_id": "2097524957387649220",
+        "name": "marlion",
+        "pinned_tweet_id": "1958357978886939072",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/956321183984582657/1684824944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660896507900600321/JhhamgTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 7500,
+          "like_count": 112947,
+          "listed_count": 28,
+          "media_count": 51,
+          "tweet_count": 10706
+        },
+        "url": "https://t.co/UsQYHID3Ax",
+        "username": "marlion_3121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

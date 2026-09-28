@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100771292328968192",
+        "3_2100771292328935424"
+      ],
+      "media_source_tweet_id": [
+        "2100771325845639446",
+        "2100771325845639446"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101076348135735650",
+    "created_at": "2026-09-18T22:30:12.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T23:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101076348135735650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916055110045863938",
+          "start": 3,
+          "username": "nishikawa5515"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q7lBB2l0Qm",
+          "end": 54,
+          "expanded_url": "https://x.com/nishikawa5515/status/2100771325845639446/photo/1",
+          "media_key": "3_2100771292328968192",
+          "start": 31,
+          "url": "https://t.co/Q7lBB2l0Qm"
+        },
+        {
+          "display_url": "pic.x.com/Q7lBB2l0Qm",
+          "end": 54,
+          "expanded_url": "https://x.com/nishikawa5515/status/2100771325845639446/photo/1",
+          "media_key": "3_2100771292328935424",
+          "start": 31,
+          "url": "https://t.co/Q7lBB2l0Qm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101076348135735650",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100771292328968192"
+      },
+      {
+        "media_key": "3_2100771292328935424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 750
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100771325845639446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @nishikawa5515: クレカの現金化(合法) https://t.co/Q7lBB2l0Qm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100771292328968192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdwXCmbQAADHqG.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100771292328935424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdwXCmawAAXR3X.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100771292328968192",
+            "3_2100771292328935424"
+          ],
+          "media_source_tweet_id": [
+            "2100771325845639446",
+            "2100771325845639446"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101076348135735650",
+        "created_at": "2026-09-18T22:30:12.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101076348135735650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916055110045863938",
+              "start": 3,
+              "username": "nishikawa5515"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7lBB2l0Qm",
+              "end": 54,
+              "expanded_url": "https://x.com/nishikawa5515/status/2100771325845639446/photo/1",
+              "media_key": "3_2100771292328968192",
+              "start": 31,
+              "url": "https://t.co/Q7lBB2l0Qm"
+            },
+            {
+              "display_url": "pic.x.com/Q7lBB2l0Qm",
+              "end": 54,
+              "expanded_url": "https://x.com/nishikawa5515/status/2100771325845639446/photo/1",
+              "media_key": "3_2100771292328935424",
+              "start": 31,
+              "url": "https://t.co/Q7lBB2l0Qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101076348135735650",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100771292328968192"
+          },
+          {
+            "media_key": "3_2100771292328935424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 750
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100771325845639446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @nishikawa5515: クレカの現金化(合法) https://t.co/Q7lBB2l0Qm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100771292328968192",
+            "3_2100771292328935424"
+          ]
+        },
+        "author_id": "1916055110045863938",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100771325845639446",
+        "created_at": "2026-09-18T02:18:09.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100771325845639446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q7lBB2l0Qm",
+              "end": 35,
+              "expanded_url": "https://x.com/nishikawa5515/status/2100771325845639446/photo/1",
+              "media_key": "3_2100771292328968192",
+              "start": 12,
+              "url": "https://t.co/Q7lBB2l0Qm"
+            },
+            {
+              "display_url": "pic.x.com/Q7lBB2l0Qm",
+              "end": 35,
+              "expanded_url": "https://x.com/nishikawa5515/status/2100771325845639446/photo/1",
+              "media_key": "3_2100771292328935424",
+              "start": 12,
+              "url": "https://t.co/Q7lBB2l0Qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100771325845639446",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100771292328968192"
+          },
+          {
+            "media_key": "3_2100771292328935424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1847,
+          "impression_count": 3197117,
+          "like_count": 21833,
+          "quote_count": 46,
+          "reply_count": 25,
+          "retweet_count": 750
+        },
+        "reply_settings": "other",
+        "text": "クレカの現金化(合法) https://t.co/Q7lBB2l0Qm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2101076348135735650",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1053,
+          "like_count": 105005,
+          "listed_count": 5,
+          "media_count": 854,
+          "tweet_count": 5280
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T09:02:00.000Z",
+        "description": "#kosen23s|高専4年目の10代|JTUG2026(総会)\n\n個人の見解であり、所属する組織とは関係ありません",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "kosen23s"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/nishikawa5515",
+                "end": 23,
+                "expanded_url": "https://note.com/nishikawa5515",
+                "start": 0,
+                "url": "https://t.co/TMREDxRBbK"
+              }
+            ]
+          }
+        },
+        "id": "1916055110045863938",
+        "is_identity_verified": false,
+        "location": "新潟県北魚沼郡守門村→新潟県長岡市↔︎東京都",
+        "most_recent_tweet_id": "2100979460858315196",
+        "name": "にしかわ(人間化)",
+        "pinned_tweet_id": "2027705704807866634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916055110045863938/1771553175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100591703300411392/cLa-zP8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1149,
+          "like_count": 6056,
+          "listed_count": 1,
+          "media_count": 855,
+          "tweet_count": 5252
+        },
+        "url": "https://t.co/TMREDxRBbK",
+        "username": "nishikawa5515",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097210050016419840"
+      ],
+      "media_source_tweet_id": [
+        "2097210142089752996"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097573352483570006",
+    "created_at": "2026-09-09T06:30:32.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097573352483570006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1788624725532631040",
+          "start": 3,
+          "username": "Nata_mania"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3fbQmCcyc",
+          "end": 54,
+          "expanded_url": "https://x.com/Nata_mania/status/2097210142089752996/photo/1",
+          "media_key": "3_2097210050016419840",
+          "start": 31,
+          "url": "https://t.co/K3fbQmCcyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097573352483570006",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097210050016419840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 736
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097210142089752996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nata_mania: 今すぐ御社のコイツを起用せよ https://t.co/K3fbQmCcyc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1666,
+        "media_key": "3_2097210050016419840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrJbdKboAAWCZi.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097210050016419840"
+          ],
+          "media_source_tweet_id": [
+            "2097210142089752996"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097573352483570006",
+        "created_at": "2026-09-09T06:30:32.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097573352483570006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1788624725532631040",
+              "start": 3,
+              "username": "Nata_mania"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3fbQmCcyc",
+              "end": 54,
+              "expanded_url": "https://x.com/Nata_mania/status/2097210142089752996/photo/1",
+              "media_key": "3_2097210050016419840",
+              "start": 31,
+              "url": "https://t.co/K3fbQmCcyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097573352483570006",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097210050016419840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 736
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097210142089752996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nata_mania: 今すぐ御社のコイツを起用せよ https://t.co/K3fbQmCcyc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097210050016419840"
+          ]
+        },
+        "author_id": "1788624725532631040",
+        "conversation_id": "2097210142089752996",
+        "created_at": "2026-09-08T06:27:16.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097210142089752996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3fbQmCcyc",
+              "end": 38,
+              "expanded_url": "https://x.com/Nata_mania/status/2097210142089752996/photo/1",
+              "media_key": "3_2097210050016419840",
+              "start": 15,
+              "url": "https://t.co/K3fbQmCcyc"
+            },
+            {
+              "display_url": "x.com/JREast_News/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/JREast_News/status/2097203973975351462",
+              "start": 39,
+              "url": "https://t.co/5mPhoyhQVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097210142089752996",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097210050016419840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 279867,
+          "like_count": 3912,
+          "quote_count": 87,
+          "reply_count": 14,
+          "retweet_count": 736
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097203973975351462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今すぐ御社のコイツを起用せよ https://t.co/K3fbQmCcyc https://t.co/5mPhoyhQVq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097573352483570006",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1028,
+          "like_count": 103220,
+          "listed_count": 5,
+          "media_count": 847,
+          "tweet_count": 5197
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T17:39:13.000Z",
+        "description": "旅/バスケ/勉強/高3/フォロバ100/DM⭕️\n千葉大法学部志望\n気軽にフォロー＆DMして",
+        "id": "1788624725532631040",
+        "is_identity_verified": false,
+        "location": "千葉↔️東京",
+        "most_recent_tweet_id": "2097513033329492378",
+        "name": "なた🦆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788624725532631040/1774810968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087028081517383680/fWA_cfsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 1105,
+          "like_count": 33530,
+          "listed_count": 7,
+          "media_count": 862,
+          "tweet_count": 6371
+        },
+        "url": "",
+        "username": "Nata_mania",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

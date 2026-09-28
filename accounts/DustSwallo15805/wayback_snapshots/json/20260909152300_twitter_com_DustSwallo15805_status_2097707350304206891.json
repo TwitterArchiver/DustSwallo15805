@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097681810356682753"
+      ],
+      "media_source_tweet_id": [
+        "2097681942313676891"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097707350304206891",
+    "created_at": "2026-09-09T15:23:00.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097707350304206891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4078887199",
+          "start": 3,
+          "username": "TTR_company"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SyQ1KLlRpi",
+          "end": 40,
+          "expanded_url": "https://x.com/TTR_company/status/2097681942313676891/video/1",
+          "media_key": "13_2097681810356682753",
+          "start": 17,
+          "url": "https://t.co/SyQ1KLlRpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097707350304206891",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097681810356682753"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097681942313676891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTR_company: https://t.co/SyQ1KLlRpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6101,
+        "height": 2314,
+        "media_key": "13_2097681810356682753",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097681810356682753/img/q9N9sOVsdrQlYV67.jpg",
+        "public_metrics": {
+          "view_count": 7465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097681810356682753/vid/avc1/320x384/QyEqD3a5huH1XSlx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097681810356682753/vid/avc1/480x578/JNzARdyDzZ895iJ6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097681810356682753/vid/avc1/720x866/K1hUSscTD2hzZdl5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097681810356682753/pl/vH_S5zVsQJ4NdeW7.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097681810356682753"
+          ],
+          "media_source_tweet_id": [
+            "2097681942313676891"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097707350304206891",
+        "created_at": "2026-09-09T15:23:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097707350304206891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4078887199",
+              "start": 3,
+              "username": "TTR_company"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyQ1KLlRpi",
+              "end": 40,
+              "expanded_url": "https://x.com/TTR_company/status/2097681942313676891/video/1",
+              "media_key": "13_2097681810356682753",
+              "start": 17,
+              "url": "https://t.co/SyQ1KLlRpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097707350304206891",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097681810356682753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097681942313676891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTR_company: https://t.co/SyQ1KLlRpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097681810356682753"
+          ]
+        },
+        "author_id": "4078887199",
+        "conversation_id": "2097681942313676891",
+        "created_at": "2026-09-09T13:42:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097681942313676891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SyQ1KLlRpi",
+              "end": 23,
+              "expanded_url": "https://x.com/TTR_company/status/2097681942313676891/video/1",
+              "media_key": "13_2097681810356682753",
+              "start": 0,
+              "url": "https://t.co/SyQ1KLlRpi"
+            },
+            {
+              "display_url": "x.com/AIslop_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AIslop_/status/2095294453858677200",
+              "start": 24,
+              "url": "https://t.co/MTHFDxkbKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097681942313676891",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097681810356682753"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 24161,
+          "like_count": 480,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/SyQ1KLlRpi https://t.co/MTHFDxkbKa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097707350304206891",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1030,
+          "like_count": 103418,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5213
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-31T10:46:10.000Z",
+        "description": "\"東海ちょこっと鉄道\"でした。Youtubeのチャンネル名は据え置きです。生粋の浜松民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC_odV…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC_odVTvSQu24g1H0rl4CaEw",
+                "start": 0,
+                "url": "https://t.co/ij9OLXgO2a"
+              }
+            ]
+          }
+        },
+        "id": "4078887199",
+        "is_identity_verified": false,
+        "location": "浜松県",
+        "most_recent_tweet_id": "2097681942313676891",
+        "name": "てぃーあーる/TTR",
+        "pinned_tweet_id": "1263458364731752453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4078887199/1732627724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/715844093381910528/xNAfVSGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4203,
+          "following_count": 2776,
+          "like_count": 14045,
+          "listed_count": 23,
+          "media_count": 2089,
+          "tweet_count": 8081
+        },
+        "url": "https://t.co/ij9OLXgO2a",
+        "username": "TTR_company",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

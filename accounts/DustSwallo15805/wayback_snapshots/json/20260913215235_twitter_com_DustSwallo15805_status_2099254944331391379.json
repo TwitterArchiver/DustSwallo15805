@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099149007759302656"
+      ],
+      "media_source_tweet_id": [
+        "2099149015443181948"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2099254944331391379",
+    "created_at": "2026-09-13T21:52:35.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T22:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099254944331391379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964335711521558531",
+          "start": 3,
+          "username": "bbkk23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FpfUyjYG0R",
+          "end": 43,
+          "expanded_url": "https://x.com/bbkk23333/status/2099149015443181948/photo/1",
+          "media_key": "3_2099149007759302656",
+          "start": 20,
+          "url": "https://t.co/FpfUyjYG0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099254944331391379",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099149007759302656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099149015443181948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbkk23333: 补豪喵！ https://t.co/FpfUyjYG0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2099149007759302656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGs5pobYAAJZP9.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099149007759302656"
+          ],
+          "media_source_tweet_id": [
+            "2099149015443181948"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2099254944331391379",
+        "created_at": "2026-09-13T21:52:35.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T22:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099254944331391379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964335711521558531",
+              "start": 3,
+              "username": "bbkk23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpfUyjYG0R",
+              "end": 43,
+              "expanded_url": "https://x.com/bbkk23333/status/2099149015443181948/photo/1",
+              "media_key": "3_2099149007759302656",
+              "start": 20,
+              "url": "https://t.co/FpfUyjYG0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099254944331391379",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099149007759302656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099149015443181948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbkk23333: 补豪喵！ https://t.co/FpfUyjYG0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099149007759302656"
+          ]
+        },
+        "author_id": "1964335711521558531",
+        "conversation_id": "2099149015443181948",
+        "created_at": "2026-09-13T14:51:40.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099149015443181948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpfUyjYG0R",
+              "end": 28,
+              "expanded_url": "https://x.com/bbkk23333/status/2099149015443181948/photo/1",
+              "media_key": "3_2099149007759302656",
+              "start": 5,
+              "url": "https://t.co/FpfUyjYG0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099149015443181948",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099149007759302656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 33615,
+          "like_count": 881,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "补豪喵！ https://t.co/FpfUyjYG0R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2099254944331391379",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 1040,
+          "like_count": 104023,
+          "listed_count": 5,
+          "media_count": 852,
+          "tweet_count": 5259
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n买糖🍬/药物咨询🍥\nqq1621320515 微信admin22334",
+        "id": "1964335711521558531",
+        "is_identity_verified": false,
+        "location": "垃圾桶旁边的纸箱",
+        "most_recent_tweet_id": "2099157933779190252",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964335711521558531/1782619746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 527,
+          "like_count": 8505,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 4053
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

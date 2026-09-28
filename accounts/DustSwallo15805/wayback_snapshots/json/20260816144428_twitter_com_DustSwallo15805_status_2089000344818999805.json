@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088932349467885568",
+        "3_2088932349467910144"
+      ],
+      "media_source_tweet_id": [
+        "2088932353679003708",
+        "2088932353679003708"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2089000344818999805",
+    "created_at": "2026-08-16T14:44:28.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089000344818999805"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "c108"
+        },
+        {
+          "end": 47,
+          "start": 38,
+          "tag": "c108コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916735151415197696",
+          "start": 3,
+          "username": "satoimo1968"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OzimF93jxY",
+          "end": 71,
+          "expanded_url": "https://x.com/satoimo1968/status/2088932353679003708/photo/1",
+          "media_key": "3_2088932349467885568",
+          "start": 48,
+          "url": "https://t.co/OzimF93jxY"
+        },
+        {
+          "display_url": "pic.x.com/OzimF93jxY",
+          "end": 71,
+          "expanded_url": "https://x.com/satoimo1968/status/2088932353679003708/photo/1",
+          "media_key": "3_2088932349467910144",
+          "start": 48,
+          "url": "https://t.co/OzimF93jxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089000344818999805",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088932349467885568"
+      },
+      {
+        "media_key": "3_2088932349467910144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088932353679003708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satoimo1968: 移動中に急な雨に襲われる私\n#c108 \n#c108コスプレ https://t.co/OzimF93jxY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088932349467885568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1g53nbAAAeOIx.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088932349467910144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1g53nbYAAVCW5.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088932349467885568",
+            "3_2088932349467910144"
+          ],
+          "media_source_tweet_id": [
+            "2088932353679003708",
+            "2088932353679003708"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2089000344818999805",
+        "created_at": "2026-08-16T14:44:28.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089000344818999805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "c108"
+            },
+            {
+              "end": 47,
+              "start": 38,
+              "tag": "c108コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916735151415197696",
+              "start": 3,
+              "username": "satoimo1968"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzimF93jxY",
+              "end": 71,
+              "expanded_url": "https://x.com/satoimo1968/status/2088932353679003708/photo/1",
+              "media_key": "3_2088932349467885568",
+              "start": 48,
+              "url": "https://t.co/OzimF93jxY"
+            },
+            {
+              "display_url": "pic.x.com/OzimF93jxY",
+              "end": 71,
+              "expanded_url": "https://x.com/satoimo1968/status/2088932353679003708/photo/1",
+              "media_key": "3_2088932349467910144",
+              "start": 48,
+              "url": "https://t.co/OzimF93jxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089000344818999805",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088932349467885568"
+          },
+          {
+            "media_key": "3_2088932349467910144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088932353679003708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satoimo1968: 移動中に急な雨に襲われる私\n#c108 \n#c108コスプレ https://t.co/OzimF93jxY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088932349467885568",
+            "3_2088932349467910144"
+          ]
+        },
+        "author_id": "1916735151415197696",
+        "conversation_id": "2088932353679003708",
+        "created_at": "2026-08-16T10:14:18.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088932353679003708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "c108"
+            },
+            {
+              "end": 30,
+              "start": 21,
+              "tag": "c108コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OzimF93jxY",
+              "end": 54,
+              "expanded_url": "https://x.com/satoimo1968/status/2088932353679003708/photo/1",
+              "media_key": "3_2088932349467885568",
+              "start": 31,
+              "url": "https://t.co/OzimF93jxY"
+            },
+            {
+              "display_url": "pic.x.com/OzimF93jxY",
+              "end": 54,
+              "expanded_url": "https://x.com/satoimo1968/status/2088932353679003708/photo/1",
+              "media_key": "3_2088932349467910144",
+              "start": 31,
+              "url": "https://t.co/OzimF93jxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088932353679003708",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088932349467885568"
+          },
+          {
+            "media_key": "3_2088932349467910144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2437,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "移動中に急な雨に襲われる私\n#c108 \n#c108コスプレ https://t.co/OzimF93jxY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2089000344818999805",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1014,
+          "like_count": 98271,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 4970
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T06:05:29.000Z",
+        "description": "無言フォロー失礼します！趣味でミリタリー関係の装備集めたり、ブルアカのイラスト描いてたりする学生です。\nミヨが最推しです‼︎🥔🍟👓\n\n芋けんぴぃ #pixiv https://t.co/mvze54J8YU",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "pixiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/122014911",
+                "end": 103,
+                "expanded_url": "https://www.pixiv.net/users/122014911",
+                "start": 80,
+                "url": "https://t.co/mvze54J8YU"
+              }
+            ]
+          }
+        },
+        "id": "1916735151415197696",
+        "is_identity_verified": false,
+        "location": "サイレントヒル",
+        "most_recent_tweet_id": "2088999798422872321",
+        "name": "おいも😈🥔",
+        "pinned_tweet_id": "2070156721511874810",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916735151415197696/1768149824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080537452138397696/1kf3w0TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 1122,
+          "like_count": 30921,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 3063
+        },
+        "url": "",
+        "username": "satoimo1968",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

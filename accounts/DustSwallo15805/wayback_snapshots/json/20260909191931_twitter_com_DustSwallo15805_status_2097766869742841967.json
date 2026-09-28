@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097705124080832512"
+      ],
+      "media_source_tweet_id": [
+        "2097705166753632429"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097766869742841967",
+    "created_at": "2026-09-09T19:19:31.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097766869742841967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4707666619",
+          "start": 3,
+          "username": "tihatan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5GCDPF8rC",
+          "end": 37,
+          "expanded_url": "https://x.com/tihatan_/status/2097705166753632429/video/1",
+          "media_key": "13_2097705124080832512",
+          "start": 14,
+          "url": "https://t.co/h5GCDPF8rC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097766869742841967",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097705124080832512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097705166753632429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tihatan_: https://t.co/h5GCDPF8rC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8000,
+        "height": 1350,
+        "media_key": "13_2097705124080832512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097705124080832512/img/eQZtU6Xu9jspYmZp.jpg",
+        "public_metrics": {
+          "view_count": 5648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097705124080832512/vid/avc1/320x400/Kc6awb6jnW3pMcHP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097705124080832512/vid/avc1/480x600/3TaHanz-xJWp1kiO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097705124080832512/vid/avc1/720x900/iOtTlWcQybcqTxOk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097705124080832512/pl/KeonWTClpHvgrBHV.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097705124080832512"
+          ],
+          "media_source_tweet_id": [
+            "2097705166753632429"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097766869742841967",
+        "created_at": "2026-09-09T19:19:31.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097766869742841967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4707666619",
+              "start": 3,
+              "username": "tihatan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5GCDPF8rC",
+              "end": 37,
+              "expanded_url": "https://x.com/tihatan_/status/2097705166753632429/video/1",
+              "media_key": "13_2097705124080832512",
+              "start": 14,
+              "url": "https://t.co/h5GCDPF8rC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097766869742841967",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097705124080832512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097705166753632429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tihatan_: https://t.co/h5GCDPF8rC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097705124080832512"
+          ]
+        },
+        "author_id": "4707666619",
+        "conversation_id": "2097705166753632429",
+        "created_at": "2026-09-09T15:14:19.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097705166753632429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5GCDPF8rC",
+              "end": 23,
+              "expanded_url": "https://x.com/tihatan_/status/2097705166753632429/video/1",
+              "media_key": "13_2097705124080832512",
+              "start": 0,
+              "url": "https://t.co/h5GCDPF8rC"
+            },
+            {
+              "display_url": "x.com/Yuniho13014460…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Yuniho13014460/status/2097251161904652787",
+              "start": 24,
+              "url": "https://t.co/voGDyQV8dX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097705166753632429",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097705124080832512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 18213,
+          "like_count": 574,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097251161904652787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/h5GCDPF8rC https://t.co/voGDyQV8dX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097766869742841967",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1029,
+          "like_count": 103440,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5217
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-04T07:42:02.000Z",
+        "description": "なにかしらの動力が乗ったモノがすき",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.finalfantasyxiv.com/lodestone/char…",
+                "end": 23,
+                "expanded_url": "https://jp.finalfantasyxiv.com/lodestone/character/57432892/",
+                "start": 0,
+                "url": "https://t.co/kEPNIkOS6r"
+              }
+            ]
+          }
+        },
+        "id": "4707666619",
+        "is_identity_verified": false,
+        "location": "𝓝𝓮𝔀𝓛𝓪𝓰𝓸𝓸𝓷 → 𝔅𝔦𝔤阪",
+        "most_recent_tweet_id": "2097711410033963155",
+        "name": "tihatan",
+        "pinned_tweet_id": "2069079676904218730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4707666619/1723050010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084660569513279488/DUq-JZeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 2006,
+          "like_count": 307258,
+          "listed_count": 39,
+          "media_count": 5970,
+          "tweet_count": 156811
+        },
+        "url": "https://t.co/kEPNIkOS6r",
+        "username": "tihatan_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

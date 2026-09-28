@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "New York City Police Department",
+          "id": "854851734442721280",
+          "name": "New York City Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "New York City Police Department",
+          "id": "854851734442721280",
+          "name": "New York City Police Department"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Law Enforcement",
+          "id": "1095368797517533184",
+          "name": "Law Enforcement"
+        }
+      }
+    ],
+    "conversation_id": "2098310317742895211",
+    "created_at": "2026-09-11T07:18:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T08:18:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098310317742895211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "17393196",
+          "start": 3,
+          "username": "NYPDnews"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098310317742895211",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 640
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098201044748501405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NYPDnews: Twenty-five years ago, everything changed.\n\nThis is dedicated to the first responders who made the ultimate sacrifice, and to…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 204181,
+        "height": 1080,
+        "media_key": "13_2098200852007989249",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098200852007989249/img/KdE8QCc75ryfcUr5.jpg",
+        "public_metrics": {
+          "view_count": 15225
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098200852007989249/vid/avc1/1280x720/Ygvh4hX8JAvzRqye.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098200852007989249/pl/NDSgq-CEt3AnoLdQ.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098200852007989249/vid/avc1/480x270/pGXWdfRJwAoIkjsG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098200852007989249/vid/avc1/640x360/4cfW0hewrsatNOvV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098200852007989249/vid/avc1/1920x1080/XgxVuQ8iCZ0A5-Qj.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Law Enforcement",
+              "id": "1095368797517533184",
+              "name": "Law Enforcement"
+            }
+          }
+        ],
+        "conversation_id": "2098310317742895211",
+        "created_at": "2026-09-11T07:18:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T08:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098310317742895211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "17393196",
+              "start": 3,
+              "username": "NYPDnews"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098310317742895211",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 640
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098201044748501405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NYPDnews: Twenty-five years ago, everything changed.\n\nThis is dedicated to the first responders who made the ultimate sacrifice, and to…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098200852007989249"
+          ]
+        },
+        "author_id": "17393196",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243191799197233153",
+              "name": "New York City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265136644987871232",
+              "name": "New York State"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1243191799197233153",
+              "name": "New York City"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Law Enforcement",
+              "id": "1095368797517533184",
+              "name": "Law Enforcement"
+            }
+          }
+        ],
+        "conversation_id": "2098201044748501405",
+        "created_at": "2026-09-11T00:04:46.000Z",
+        "display_text_range": [
+          0,
+          228
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098201044748501405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbPAqOg2AZ",
+              "end": 252,
+              "expanded_url": "https://x.com/NYPDnews/status/2098201044748501405/video/1",
+              "media_key": "13_2098200852007989249",
+              "start": 229,
+              "url": "https://t.co/NbPAqOg2AZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098201044748501405",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2098200852007989249"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 37183,
+          "like_count": 2200,
+          "quote_count": 46,
+          "reply_count": 58,
+          "retweet_count": 640
+        },
+        "reply_settings": "everyone",
+        "text": "Twenty-five years ago, everything changed.\n\nThis is dedicated to the first responders who made the ultimate sacrifice, and to the lives we lost and continue to lose to World Trade Center–related illnesses.\n\nWe will never forget. https://t.co/NbPAqOg2AZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098310317742895211",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1036,
+          "like_count": 103705,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5231
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-14T19:00:10.000Z",
+        "description": "The official X of the New York City Police Dept. Call 911 for emergencies, 311 for non-emergencies. Account not monitored 24/7. https://t.co/dbME9x6GVv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "on.nyc.gov/2FDGya2",
+                "end": 151,
+                "expanded_url": "http://on.nyc.gov/2FDGya2",
+                "start": 128,
+                "url": "https://t.co/dbME9x6GVv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nypdnews",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nypdnews",
+                "start": 0,
+                "url": "https://t.co/4vxwFtB3FL"
+              }
+            ]
+          }
+        },
+        "id": "17393196",
+        "is_identity_verified": false,
+        "location": "New York City",
+        "most_recent_tweet_id": "2098201044748501405",
+        "name": "NYPD NEWS",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17393196/1776178042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097089789531185152/QcY2SvVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813912,
+          "following_count": 450,
+          "like_count": 15160,
+          "listed_count": 4714,
+          "media_count": 26688,
+          "tweet_count": 43761
+        },
+        "url": "https://t.co/4vxwFtB3FL",
+        "username": "NYPDnews",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

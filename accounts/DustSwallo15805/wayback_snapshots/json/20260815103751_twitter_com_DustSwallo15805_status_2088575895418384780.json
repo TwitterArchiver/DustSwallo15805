@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088502912981098497",
+        "3_2088502912813236224",
+        "3_2088502912872075264"
+      ],
+      "media_source_tweet_id": [
+        "2088503038873137626",
+        "2088503038873137626",
+        "2088503038873137626"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088575895418384780",
+    "created_at": "2026-08-15T10:37:51.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088575895418384780"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "SLやまぐち"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1449643631720103939",
+          "start": 3,
+          "username": "AdcZoop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/THA6MautWq",
+          "end": 133,
+          "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+          "media_key": "3_2088502912981098497",
+          "start": 110,
+          "url": "https://t.co/THA6MautWq"
+        },
+        {
+          "display_url": "pic.x.com/THA6MautWq",
+          "end": 133,
+          "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+          "media_key": "3_2088502912813236224",
+          "start": 110,
+          "url": "https://t.co/THA6MautWq"
+        },
+        {
+          "display_url": "pic.x.com/THA6MautWq",
+          "end": 133,
+          "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+          "media_key": "3_2088502912872075264",
+          "start": 110,
+          "url": "https://t.co/THA6MautWq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088575895418384780",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088502912981098497"
+      },
+      {
+        "media_key": "3_2088502912813236224"
+      },
+      {
+        "media_key": "3_2088502912872075264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088503038873137626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdcZoop: SLやまぐち，但是：\n由于机车故障，本次列车运行至山口站中止😐\n然后就是漫长的维修环节，一个半小时后也许是修好了（？总之竟然自己又回送开走了。\np3附一张锅炉冒大火低清图片（草\n#SLやまぐち https://t.co/THA6MautWq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088502912981098497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvaVYCbYAE3bTm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2088502912813236224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvaVXaaAAAb0BH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1153,
+        "media_key": "3_2088502912872075264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvaVXob0AAsfZX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088502912981098497",
+            "3_2088502912813236224",
+            "3_2088502912872075264"
+          ],
+          "media_source_tweet_id": [
+            "2088503038873137626",
+            "2088503038873137626",
+            "2088503038873137626"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088575895418384780",
+        "created_at": "2026-08-15T10:37:51.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088575895418384780"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "SLやまぐち"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1449643631720103939",
+              "start": 3,
+              "username": "AdcZoop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/THA6MautWq",
+              "end": 133,
+              "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+              "media_key": "3_2088502912981098497",
+              "start": 110,
+              "url": "https://t.co/THA6MautWq"
+            },
+            {
+              "display_url": "pic.x.com/THA6MautWq",
+              "end": 133,
+              "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+              "media_key": "3_2088502912813236224",
+              "start": 110,
+              "url": "https://t.co/THA6MautWq"
+            },
+            {
+              "display_url": "pic.x.com/THA6MautWq",
+              "end": 133,
+              "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+              "media_key": "3_2088502912872075264",
+              "start": 110,
+              "url": "https://t.co/THA6MautWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088575895418384780",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088502912981098497"
+          },
+          {
+            "media_key": "3_2088502912813236224"
+          },
+          {
+            "media_key": "3_2088502912872075264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088503038873137626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdcZoop: SLやまぐち，但是：\n由于机车故障，本次列车运行至山口站中止😐\n然后就是漫长的维修环节，一个半小时后也许是修好了（？总之竟然自己又回送开走了。\np3附一张锅炉冒大火低清图片（草\n#SLやまぐち https://t.co/THA6MautWq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088502912981098497",
+            "3_2088502912813236224",
+            "3_2088502912872075264"
+          ]
+        },
+        "author_id": "1449643631720103939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088503038873137626",
+        "created_at": "2026-08-15T05:48:21.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088503038873137626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 89,
+              "tag": "SLやまぐち"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/THA6MautWq",
+              "end": 120,
+              "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+              "media_key": "3_2088502912981098497",
+              "start": 97,
+              "url": "https://t.co/THA6MautWq"
+            },
+            {
+              "display_url": "pic.x.com/THA6MautWq",
+              "end": 120,
+              "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+              "media_key": "3_2088502912813236224",
+              "start": 97,
+              "url": "https://t.co/THA6MautWq"
+            },
+            {
+              "display_url": "pic.x.com/THA6MautWq",
+              "end": 120,
+              "expanded_url": "https://x.com/AdcZoop/status/2088503038873137626/photo/1",
+              "media_key": "3_2088502912872075264",
+              "start": 97,
+              "url": "https://t.co/THA6MautWq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088503038873137626",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088502912981098497"
+          },
+          {
+            "media_key": "3_2088502912813236224"
+          },
+          {
+            "media_key": "3_2088502912872075264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 658,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "SLやまぐち，但是：\n由于机车故障，本次列车运行至山口站中止😐\n然后就是漫长的维修环节，一个半小时后也许是修好了（？总之竟然自己又回送开走了。\np3附一张锅炉冒大火低清图片（草\n#SLやまぐち https://t.co/THA6MautWq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088575895418384780",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1011,
+          "like_count": 97753,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 4945
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-17T07:49:19.000Z",
+        "description": "19岁，事学生，大连上学(坐牢)中。\n铁路/民航摄影 也许以后会发其他兴趣相关🤔\n莫谈政治",
+        "id": "1449643631720103939",
+        "is_identity_verified": false,
+        "location": "Dalian/Changzhou",
+        "most_recent_tweet_id": "2088503038873137626",
+        "name": "钰辰辰辰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1449643631720103939/1754138663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048803971968761857/DFLx-dAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 191,
+          "like_count": 2054,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "AdcZoop",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

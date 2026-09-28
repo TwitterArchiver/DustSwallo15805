@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1108010533066670081",
+          "name": "Steve Buscemi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1108010533066670081",
+          "name": "Steve Buscemi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1237472346560053249",
+          "name": "Firefighting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1108010533066670081",
+          "name": "Steve Buscemi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237472346560053249",
+          "name": "Firefighting"
+        }
+      }
+    ],
+    "conversation_id": "2098465221866402091",
+    "created_at": "2026-09-11T17:34:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098465221866402091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "998645077386948608",
+          "start": 3,
+          "username": "uncle_june"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098465221866402091",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3596
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098291854429077868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uncle_june: In the aftermath of 9/11, Steve Buscemi returned to his old fire station, where he had served as a firefighter in the early…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2098291839208185856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6hT38a4AAHpYl.jpg",
+        "width": 406
+      },
+      {
+        "height": 465,
+        "media_key": "3_2098291845004464133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6hUNiXEAUfBck.jpg",
+        "width": 640
+      },
+      {
+        "height": 500,
+        "media_key": "3_2098291849240928256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6hUdUaYAAd1zZ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1108010533066670081",
+              "name": "Steve Buscemi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1108010533066670081",
+              "name": "Steve Buscemi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1237472346560053249",
+              "name": "Firefighting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1108010533066670081",
+              "name": "Steve Buscemi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237472346560053249",
+              "name": "Firefighting"
+            }
+          }
+        ],
+        "conversation_id": "2098465221866402091",
+        "created_at": "2026-09-11T17:34:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098465221866402091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "998645077386948608",
+              "start": 3,
+              "username": "uncle_june"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098465221866402091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3596
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098291854429077868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uncle_june: In the aftermath of 9/11, Steve Buscemi returned to his old fire station, where he had served as a firefighter in the early…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098291839208185856",
+            "3_2098291845004464133",
+            "3_2098291849240928256"
+          ]
+        },
+        "author_id": "998645077386948608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1108010533066670081",
+              "name": "Steve Buscemi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1108010533066670081",
+              "name": "Steve Buscemi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1237472346560053249",
+              "name": "Firefighting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1108010533066670081",
+              "name": "Steve Buscemi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237472346560053249",
+              "name": "Firefighting"
+            }
+          }
+        ],
+        "conversation_id": "2098291854429077868",
+        "created_at": "2026-09-11T06:05:37.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098291854429077868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PgEstj04cp",
+              "end": 300,
+              "expanded_url": "https://x.com/uncle_june/status/2098291854429077868/photo/1",
+              "media_key": "3_2098291839208185856",
+              "start": 277,
+              "url": "https://t.co/PgEstj04cp"
+            },
+            {
+              "display_url": "pic.x.com/PgEstj04cp",
+              "end": 300,
+              "expanded_url": "https://x.com/uncle_june/status/2098291854429077868/photo/1",
+              "media_key": "3_2098291845004464133",
+              "start": 277,
+              "url": "https://t.co/PgEstj04cp"
+            },
+            {
+              "display_url": "pic.x.com/PgEstj04cp",
+              "end": 300,
+              "expanded_url": "https://x.com/uncle_june/status/2098291854429077868/photo/1",
+              "media_key": "3_2098291849240928256",
+              "start": 277,
+              "url": "https://t.co/PgEstj04cp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098291854429077868",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098291839208185856"
+          },
+          {
+            "media_key": "3_2098291845004464133"
+          },
+          {
+            "media_key": "3_2098291849240928256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "In the aftermath of 9/11, Steve Buscemi returned to his old fire station, where he had served as a firefighter in the early 1980s. \n\nDonning his old uniform, he worked 12 hour shifts for days on end, searching for survivors in the rubble of the World Trade Center. \n\nHe did so without media attention, a quiet act of courage that later became a powerful symbol of solidarity."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1641,
+          "impression_count": 1043729,
+          "like_count": 41551,
+          "quote_count": 136,
+          "reply_count": 134,
+          "retweet_count": 3596
+        },
+        "reply_settings": "everyone",
+        "text": "In the aftermath of 9/11, Steve Buscemi returned to his old fire station, where he had served as a firefighter in the early 1980s. \n\nDonning his old uniform, he worked 12 hour shifts for days on end, searching for survivors in the rubble of the World Trade Center. \n\nHe did so https://t.co/PgEstj04cp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098465221866402091",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1036,
+          "like_count": 103714,
+          "listed_count": 5,
+          "media_count": 850,
+          "tweet_count": 5245
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-21T19:21:55.000Z",
+        "description": "The Sopranos™ memes. \nCemetery Dogs.\nI'm boss, you forget. \nMake my nephew an egg.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uncle_june",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uncle_june",
+                "start": 0,
+                "url": "https://t.co/8gZHFomZhm"
+              }
+            ]
+          }
+        },
+        "id": "998645077386948608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098291854429077868",
+        "name": "The Sopranos Guy™",
+        "pinned_tweet_id": "1385617385999175683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/998645077386948608/1694191278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537552767702781958/FBvvmMq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101552,
+          "following_count": 2488,
+          "like_count": 41558,
+          "listed_count": 116,
+          "media_count": 9427,
+          "tweet_count": 26514
+        },
+        "url": "https://t.co/8gZHFomZhm",
+        "username": "uncle_june",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

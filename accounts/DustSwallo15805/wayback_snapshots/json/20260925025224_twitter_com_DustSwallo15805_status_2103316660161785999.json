@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2103316660161785999",
+    "created_at": "2026-09-25T02:52:24.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T03:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103316660161785999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1693935285577670656",
+          "start": 3,
+          "username": "Ayano_Nya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103316660161785999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103165755558875256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayano_Nya_: 美国的肯德基，比华莱士不知道高到哪里去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2103316660161785999",
+        "created_at": "2026-09-25T02:52:24.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T03:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103316660161785999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1693935285577670656",
+              "start": 3,
+              "username": "Ayano_Nya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103316660161785999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103165755558875256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayano_Nya_: 美国的肯德基，比华莱士不知道高到哪里去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2103165755558875256",
+        "created_at": "2026-09-24T16:52:45.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103165755558875256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanaimost/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/nanaimost/status/2102773755613417739",
+              "start": 21,
+              "url": "https://t.co/CV6plddtXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103165755558875256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102773755613417739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国的肯德基，比华莱士不知道高到哪里去了 https://t.co/CV6plddtXK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2103316660161785999",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 1060,
+          "like_count": 105713,
+          "listed_count": 5,
+          "media_count": 856,
+          "tweet_count": 5299
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 跨圈老资历😇 | 欢迎互fo! | 粘人 | xp是如月桃枝😋 | @Kisaragi_Momoe 的乖小狗 要爱主人老婆大人一辈子喵❤️ | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5Yz769"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "is_identity_verified": false,
+        "location": "姐姐腿上",
+        "most_recent_tweet_id": "2103173862422937713",
+        "name": "想去参宿四的绫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1785082481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085817931502698496/I8EWzB1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 2421,
+          "like_count": 8862,
+          "listed_count": 7,
+          "media_count": 804,
+          "tweet_count": 9114
+        },
+        "url": "https://t.co/1HZl5Yz769",
+        "username": "Ayano_Nya_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

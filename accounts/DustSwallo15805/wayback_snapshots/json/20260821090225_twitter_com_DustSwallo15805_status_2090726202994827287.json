@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090644148198256640"
+      ],
+      "media_source_tweet_id": [
+        "2090644155848626219"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090726202994827287",
+    "created_at": "2026-08-21T09:02:25.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090726202994827287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536879871694999553",
+          "start": 3,
+          "username": "Summerkanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTmJClqZnP",
+          "end": 40,
+          "expanded_url": "https://x.com/Summerkanna/status/2090644155848626219/photo/1",
+          "media_key": "3_2090644148198256640",
+          "start": 17,
+          "url": "https://t.co/cTmJClqZnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090726202994827287",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090644148198256640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090644155848626219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Summerkanna: https://t.co/cTmJClqZnP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2090644148198256640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQN1xq0bMAAsZDT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090644148198256640"
+          ],
+          "media_source_tweet_id": [
+            "2090644155848626219"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090726202994827287",
+        "created_at": "2026-08-21T09:02:25.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090726202994827287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536879871694999553",
+              "start": 3,
+              "username": "Summerkanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTmJClqZnP",
+              "end": 40,
+              "expanded_url": "https://x.com/Summerkanna/status/2090644155848626219/photo/1",
+              "media_key": "3_2090644148198256640",
+              "start": 17,
+              "url": "https://t.co/cTmJClqZnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090726202994827287",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090644148198256640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090644155848626219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Summerkanna: https://t.co/cTmJClqZnP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090644148198256640"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090644155848626219",
+        "created_at": "2026-08-21T03:36:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090644155848626219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTmJClqZnP",
+              "end": 23,
+              "expanded_url": "https://x.com/Summerkanna/status/2090644155848626219/photo/1",
+              "media_key": "3_2090644148198256640",
+              "start": 0,
+              "url": "https://t.co/cTmJClqZnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090644155848626219",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090644148198256640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 13181,
+          "like_count": 447,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cTmJClqZnP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2090726202994827287",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1017,
+          "like_count": 100042,
+          "listed_count": 6,
+          "media_count": 823,
+          "tweet_count": 5059
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSupgL\n圖奇:https://t.co/YkKOU5yul1\nDC:https://t.co/MMs3vKONnH",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/O6HztSupgL"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/YkKOU5yul1"
+              },
+              {
+                "display_url": "discord.gg/kczQYckX",
+                "end": 132,
+                "expanded_url": "https://discord.gg/kczQYckX",
+                "start": 109,
+                "url": "https://t.co/MMs3vKONnH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGqdE"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "is_identity_verified": false,
+        "location": "魔界",
+        "most_recent_tweet_id": "2090712154936918073",
+        "name": "晴天カンナ@迷因Vtuber",
+        "pinned_tweet_id": "2065084654361903262",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536879871694999553/1695946261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055941908778909696/RLsrOHnL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10611,
+          "following_count": 976,
+          "like_count": 22058,
+          "listed_count": 52,
+          "media_count": 7780,
+          "tweet_count": 23733
+        },
+        "url": "https://t.co/SRtlcPGqdE",
+        "username": "Summerkanna",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

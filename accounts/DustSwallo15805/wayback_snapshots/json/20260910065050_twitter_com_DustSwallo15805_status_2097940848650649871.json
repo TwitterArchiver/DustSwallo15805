@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097683196301410304"
+      ],
+      "media_source_tweet_id": [
+        "2097683356989178064"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097940848650649871",
+    "created_at": "2026-09-10T06:50:50.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T07:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097940848650649871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1264149106781351937",
+          "start": 3,
+          "username": "sasuraisyogunda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I1HeIeLYOm",
+          "end": 44,
+          "expanded_url": "https://x.com/sasuraisyogunda/status/2097683356989178064/video/1",
+          "media_key": "13_2097683196301410304",
+          "start": 21,
+          "url": "https://t.co/I1HeIeLYOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097940848650649871",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097683196301410304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 522
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097683356989178064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasuraisyogunda: https://t.co/I1HeIeLYOm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8789,
+        "height": 900,
+        "media_key": "13_2097683196301410304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097683196301410304/img/XyB0M5rWQ3TW8-15.jpg",
+        "public_metrics": {
+          "view_count": 53410
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097683196301410304/vid/avc1/320x400/hRyihjiuZtOpKw4L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097683196301410304/vid/avc1/480x600/hULXg2yDxGSIiG90.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097683196301410304/vid/avc1/720x900/PfNbbQAqKmHWTNOZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097683196301410304/pl/JV5_Sz5UvrRtrdo6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097683196301410304"
+          ],
+          "media_source_tweet_id": [
+            "2097683356989178064"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097940848650649871",
+        "created_at": "2026-09-10T06:50:50.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097940848650649871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1264149106781351937",
+              "start": 3,
+              "username": "sasuraisyogunda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1HeIeLYOm",
+              "end": 44,
+              "expanded_url": "https://x.com/sasuraisyogunda/status/2097683356989178064/video/1",
+              "media_key": "13_2097683196301410304",
+              "start": 21,
+              "url": "https://t.co/I1HeIeLYOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097940848650649871",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097683196301410304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097683356989178064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasuraisyogunda: https://t.co/I1HeIeLYOm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097683196301410304"
+          ]
+        },
+        "author_id": "1264149106781351937",
+        "conversation_id": "2097683356989178064",
+        "created_at": "2026-09-09T13:47:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097683356989178064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1HeIeLYOm",
+              "end": 23,
+              "expanded_url": "https://x.com/sasuraisyogunda/status/2097683356989178064/video/1",
+              "media_key": "13_2097683196301410304",
+              "start": 0,
+              "url": "https://t.co/I1HeIeLYOm"
+            },
+            {
+              "display_url": "x.com/AIslop_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AIslop_/status/2095294453858677200",
+              "start": 24,
+              "url": "https://t.co/bfBdYvqZ3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097683356989178064",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097683196301410304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 182278,
+          "like_count": 3774,
+          "quote_count": 148,
+          "reply_count": 6,
+          "retweet_count": 522
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/I1HeIeLYOm https://t.co/bfBdYvqZ3f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097940848650649871",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1030,
+          "like_count": 103481,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5218
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-23T11:00:26.000Z",
+        "description": "ただの朝鮮史好き",
+        "id": "1264149106781351937",
+        "is_identity_verified": false,
+        "location": "愛内里菜の曲は名曲",
+        "most_recent_tweet_id": "2097894543798718585",
+        "name": "相討里菜",
+        "pinned_tweet_id": "1525444940993798144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1264149106781351937/1765714100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898636879853146112/_EjtAE65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 1251,
+          "like_count": 171273,
+          "listed_count": 4,
+          "media_count": 1514,
+          "tweet_count": 18153
+        },
+        "url": "",
+        "username": "sasuraisyogunda",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

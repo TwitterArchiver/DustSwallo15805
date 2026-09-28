@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026325474",
+          "name": "American Express "
+        }
+      }
+    ],
+    "conversation_id": "2098329437062471906",
+    "created_at": "2026-09-11T09:12:01.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098338765542744521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1287994312714670080",
+          "start": 0,
+          "username": "bozhuLANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098338765542744521",
+    "in_reply_to_user_id": "1287994312714670080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098329437062471906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bozhuLANG 羡慕amex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2098329427956678656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7Df08bQAAB5qi.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026325474",
+              "name": "American Express "
+            }
+          }
+        ],
+        "conversation_id": "2098329437062471906",
+        "created_at": "2026-09-11T09:12:01.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098338765542744521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1287994312714670080",
+              "start": 0,
+              "username": "bozhuLANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098338765542744521",
+        "in_reply_to_user_id": "1287994312714670080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098329437062471906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bozhuLANG 羡慕amex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098329427956678656"
+          ]
+        },
+        "author_id": "1287994312714670080",
+        "conversation_id": "2098329437062471906",
+        "created_at": "2026-09-11T08:34:57.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098329437062471906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNQYU6GIii",
+              "end": 28,
+              "expanded_url": "https://x.com/bozhuLANG/status/2098329437062471906/photo/1",
+              "media_key": "3_2098329427956678656",
+              "start": 5,
+              "url": "https://t.co/eNQYU6GIii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098329437062471906",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098329427956678656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一舞 https://t.co/eNQYU6GIii"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098338765542744521",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1036,
+          "like_count": 103672,
+          "listed_count": 5,
+          "media_count": 850,
+          "tweet_count": 5241
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-28T06:12:35.000Z",
+        "description": "「波珠朗」 aka 『BZLang』｜ Former aircraft mechanic, graduated from Vehicle Proposal Engineering at National Civil Aviation University of China. 中國民航大學 飛行器動力工程。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/XTNE7kw",
+                "end": 23,
+                "expanded_url": "https://b23.tv/XTNE7kw",
+                "start": 0,
+                "url": "https://t.co/jPoaJbPw9g"
+              }
+            ]
+          }
+        },
+        "id": "1287994312714670080",
+        "is_identity_verified": false,
+        "location": "CAN; KIX/ITM. 広州出身! ",
+        "most_recent_tweet_id": "2098329437062471906",
+        "name": "BZLang",
+        "pinned_tweet_id": "2044795533886460352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287994312714670080/1596269700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1289474702788960256/pwpMRqa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1564,
+          "like_count": 200766,
+          "listed_count": 6,
+          "media_count": 4802,
+          "tweet_count": 29958
+        },
+        "url": "https://t.co/jPoaJbPw9g",
+        "username": "bozhuLANG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

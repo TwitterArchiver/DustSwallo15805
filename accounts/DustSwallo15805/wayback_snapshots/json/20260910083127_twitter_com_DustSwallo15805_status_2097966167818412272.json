@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097611106391064576"
+      ],
+      "media_source_tweet_id": [
+        "2097611111885660543"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097966167818412272",
+    "created_at": "2026-09-10T08:31:27.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097966167818412272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1361951988091551746",
+          "start": 3,
+          "username": "yasaka_izumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/awdxxKVUsM",
+          "end": 60,
+          "expanded_url": "https://x.com/yasaka_izumi/status/2097611111885660543/photo/1",
+          "media_key": "3_2097611106391064576",
+          "start": 37,
+          "url": "https://t.co/awdxxKVUsM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097966167818412272",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097611106391064576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 844
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097611111885660543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yasaka_izumi: ヤニねこの影響で人生初の煙草を買った https://t.co/awdxxKVUsM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_2097611106391064576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRw2MAlagAAxpcw.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097611106391064576"
+          ],
+          "media_source_tweet_id": [
+            "2097611111885660543"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097966167818412272",
+        "created_at": "2026-09-10T08:31:27.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097966167818412272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1361951988091551746",
+              "start": 3,
+              "username": "yasaka_izumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/awdxxKVUsM",
+              "end": 60,
+              "expanded_url": "https://x.com/yasaka_izumi/status/2097611111885660543/photo/1",
+              "media_key": "3_2097611106391064576",
+              "start": 37,
+              "url": "https://t.co/awdxxKVUsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097966167818412272",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097611106391064576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 844
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097611111885660543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yasaka_izumi: ヤニねこの影響で人生初の煙草を買った https://t.co/awdxxKVUsM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097611106391064576"
+          ]
+        },
+        "author_id": "1361951988091551746",
+        "conversation_id": "2097611111885660543",
+        "created_at": "2026-09-09T09:00:35.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097611111885660543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awdxxKVUsM",
+              "end": 42,
+              "expanded_url": "https://x.com/yasaka_izumi/status/2097611111885660543/photo/1",
+              "media_key": "3_2097611106391064576",
+              "start": 19,
+              "url": "https://t.co/awdxxKVUsM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097611111885660543",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097611106391064576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1509,
+          "impression_count": 4314417,
+          "like_count": 39868,
+          "quote_count": 172,
+          "reply_count": 116,
+          "retweet_count": 845
+        },
+        "reply_settings": "following",
+        "text": "ヤニねこの影響で人生初の煙草を買った https://t.co/awdxxKVUsM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097966167818412272",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1033,
+          "like_count": 103554,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5221
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-17T08:16:04.000Z",
+        "description": "ナンデモアカウント/FF外通知オフ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC9F5K…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC9F5Ken1ES2pnB6sE3-vpyw/featured",
+                "start": 0,
+                "url": "https://t.co/PFcNnJdYKR"
+              }
+            ]
+          }
+        },
+        "id": "1361951988091551746",
+        "is_identity_verified": false,
+        "location": "OSAKA",
+        "most_recent_tweet_id": "2097948978205835601",
+        "name": "ひまいずみ",
+        "pinned_tweet_id": "1680234494283100160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361951988091551746/1754789045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563860122065068033/AKJouQ1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2703,
+          "following_count": 2391,
+          "like_count": 408030,
+          "listed_count": 19,
+          "media_count": 3721,
+          "tweet_count": 76767
+        },
+        "url": "https://t.co/PFcNnJdYKR",
+        "username": "yasaka_izumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

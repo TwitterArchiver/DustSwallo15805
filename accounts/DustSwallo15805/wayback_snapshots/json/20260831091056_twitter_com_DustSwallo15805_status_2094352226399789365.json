@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094352211115724800"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2094352226399789365",
+    "created_at": "2026-08-31T09:10:56.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T10:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094352226399789365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DCqK1erJFI",
+          "end": 63,
+          "expanded_url": "https://x.com/DustSwallo15805/status/2094352226399789365/photo/1",
+          "media_key": "3_2094352211115724800",
+          "start": 40,
+          "url": "https://t.co/DCqK1erJFI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094352226399789365",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094352211115724800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ｃｃｂ大合集\n本外币活期储蓄一本通\n本外币定期储蓄一本通\n储蓄存折\n龙卡对账薄 https://t.co/DCqK1erJFI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2094352211115724800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCiPVobUAA0-po.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094352211115724800"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2094352226399789365",
+        "created_at": "2026-08-31T09:10:56.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094352226399789365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCqK1erJFI",
+              "end": 63,
+              "expanded_url": "https://x.com/DustSwallo15805/status/2094352226399789365/photo/1",
+              "media_key": "3_2094352211115724800",
+              "start": 40,
+              "url": "https://t.co/DCqK1erJFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094352226399789365",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094352211115724800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ｃｃｂ大合集\n本外币活期储蓄一本通\n本外币定期储蓄一本通\n储蓄存折\n龙卡对账薄 https://t.co/DCqK1erJFI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2094352226399789365",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1021,
+          "like_count": 101924,
+          "listed_count": 5,
+          "media_count": 838,
+          "tweet_count": 5150
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

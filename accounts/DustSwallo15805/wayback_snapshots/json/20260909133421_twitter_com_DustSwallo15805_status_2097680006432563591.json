@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097602882594095104"
+      ],
+      "media_source_tweet_id": [
+        "2097602923878666642"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2097680006432563591",
+    "created_at": "2026-09-09T13:34:21.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097680006432563591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2850091924",
+          "start": 3,
+          "username": "bellus_anguis_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SfZAYIVuuU",
+          "end": 52,
+          "expanded_url": "https://x.com/bellus_anguis_/status/2097602923878666642/video/1",
+          "media_key": "13_2097602882594095104",
+          "start": 29,
+          "url": "https://t.co/SfZAYIVuuU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097680006432563591",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097602882594095104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 769
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097602923878666642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bellus_anguis_: 京都も参加するわ https://t.co/SfZAYIVuuU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7966,
+        "height": 864,
+        "media_key": "13_2097602882594095104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097602882594095104/img/ubcEX1_C0PR2xVyp.jpg",
+        "public_metrics": {
+          "view_count": 125381
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097602882594095104/vid/avc1/320x384/T8NJJ_u3xmw2g0c-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097602882594095104/vid/avc1/480x576/KoOjGgDiBi0W5C_h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097602882594095104/vid/avc1/720x864/MUU1kVLxpMUxduNK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097602882594095104/pl/Ukudg_cBsUldkU1E.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097602882594095104"
+          ],
+          "media_source_tweet_id": [
+            "2097602923878666642"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2097680006432563591",
+        "created_at": "2026-09-09T13:34:21.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097680006432563591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2850091924",
+              "start": 3,
+              "username": "bellus_anguis_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfZAYIVuuU",
+              "end": 52,
+              "expanded_url": "https://x.com/bellus_anguis_/status/2097602923878666642/video/1",
+              "media_key": "13_2097602882594095104",
+              "start": 29,
+              "url": "https://t.co/SfZAYIVuuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097680006432563591",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097602882594095104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097602923878666642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bellus_anguis_: 京都も参加するわ https://t.co/SfZAYIVuuU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097602882594095104"
+          ]
+        },
+        "author_id": "2850091924",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2097602923878666642",
+        "created_at": "2026-09-09T08:28:03.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097602923878666642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfZAYIVuuU",
+              "end": 32,
+              "expanded_url": "https://x.com/bellus_anguis_/status/2097602923878666642/video/1",
+              "media_key": "13_2097602882594095104",
+              "start": 9,
+              "url": "https://t.co/SfZAYIVuuU"
+            },
+            {
+              "display_url": "x.com/marlion_3121/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/marlion_3121/status/2097381040134467734",
+              "start": 33,
+              "url": "https://t.co/6IcIopKqwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097602923878666642",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097602882594095104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 844,
+          "impression_count": 627755,
+          "like_count": 4635,
+          "quote_count": 129,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097381040134467734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "京都も参加するわ https://t.co/SfZAYIVuuU https://t.co/6IcIopKqwX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097680006432563591",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1030,
+          "like_count": 103403,
+          "listed_count": 5,
+          "media_count": 848,
+          "tweet_count": 5207
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-29T16:50:06.000Z",
+        "description": "catgirls abuse department / enfp / 日本語жистка / артерка",
+        "id": "2850091924",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097602923878666642",
+        "name": "обділена серотоніном",
+        "pinned_tweet_id": "1348739848581033985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2850091924/1603060271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1307705391506227202/ahcNvEhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 532,
+          "like_count": 19410,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 2174
+        },
+        "url": "",
+        "username": "bellus_anguis_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097241240026894336"
+      ],
+      "media_source_tweet_id": [
+        "2097241257911480341"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2098338536072286521",
+    "created_at": "2026-09-11T09:11:06.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098338536072286521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678655311006273536",
+          "start": 3,
+          "username": "EimeiLait"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2d0fmffrO",
+          "end": 74,
+          "expanded_url": "https://x.com/EimeiLait/status/2097241257911480341/photo/1",
+          "media_key": "3_2097241240026894336",
+          "start": 51,
+          "url": "https://t.co/R2d0fmffrO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098338536072286521",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097241240026894336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097241257911480341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EimeiLait: 莱和沙又会面了但是沙现在又变得远远的…\n\n莱莱沙沙什么时候可以在一起呢 https://t.co/R2d0fmffrO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097241240026894336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrly9AaUAAPX92.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097241240026894336"
+          ],
+          "media_source_tweet_id": [
+            "2097241257911480341"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098338536072286521",
+        "created_at": "2026-09-11T09:11:06.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098338536072286521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678655311006273536",
+              "start": 3,
+              "username": "EimeiLait"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2d0fmffrO",
+              "end": 74,
+              "expanded_url": "https://x.com/EimeiLait/status/2097241257911480341/photo/1",
+              "media_key": "3_2097241240026894336",
+              "start": 51,
+              "url": "https://t.co/R2d0fmffrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098338536072286521",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097241240026894336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097241257911480341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EimeiLait: 莱和沙又会面了但是沙现在又变得远远的…\n\n莱莱沙沙什么时候可以在一起呢 https://t.co/R2d0fmffrO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097241240026894336"
+          ]
+        },
+        "author_id": "1678655311006273536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097241257911480341",
+        "created_at": "2026-09-08T08:30:55.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097241257911480341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2d0fmffrO",
+              "end": 59,
+              "expanded_url": "https://x.com/EimeiLait/status/2097241257911480341/photo/1",
+              "media_key": "3_2097241240026894336",
+              "start": 36,
+              "url": "https://t.co/R2d0fmffrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097241257911480341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097241240026894336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "莱和沙又会面了但是沙现在又变得远远的…\n\n莱莱沙沙什么时候可以在一起呢 https://t.co/R2d0fmffrO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098338536072286521",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1036,
+          "like_count": 103669,
+          "listed_count": 5,
+          "media_count": 850,
+          "tweet_count": 5236
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "莱／沙｜特別時期｜コイビト@DustSwallo15805 君何処へ　何時共に在らむ｜Ei. Si. Laitus｜萊・ライ｜BA4RRA｜LinguaZomina崇明说话｜ Arknights ARCAEA maimai ｜mtx｜LVNARIA †Iuli MMXXIV ｜违规的有害邮品@LaitusCorrupt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "DustSwallo15805"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "LaitusCorrupt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EimeiLait",
+                "end": 23,
+                "expanded_url": "http://github.com/EimeiLait",
+                "start": 0,
+                "url": "https://t.co/XrhaULs8l0"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098326677529284659",
+        "name": "墨落莱 Laitus-特別時期",
+        "pinned_tweet_id": "2081950059877617860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678655311006273536/1689057974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013739249770901504/mO56E89w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 738,
+          "like_count": 177315,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 3431
+        },
+        "url": "https://t.co/XrhaULs8l0",
+        "username": "EimeiLait",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

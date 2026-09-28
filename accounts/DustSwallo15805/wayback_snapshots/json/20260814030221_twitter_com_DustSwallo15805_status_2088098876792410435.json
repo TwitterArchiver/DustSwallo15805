@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2087934392392118331",
+    "created_at": "2026-08-14T03:02:21.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088098876792410435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Saki_LN_0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088098876792410435",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087934392392118331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saki_LN_0509 xm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2087934392392118331",
+        "created_at": "2026-08-14T03:02:21.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088098876792410435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Saki_LN_0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088098876792410435",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087934392392118331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saki_LN_0509 xm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "2087934392392118331",
+        "created_at": "2026-08-13T16:08:45.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:00:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087932429155848233",
+          "2087934392392118331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "角色 AI 的演示往往从“像不像”开始：常用词是否正确，句式是否接近，面对典型问题时能否复现熟悉的反应。这些指标适合衡量第一印象，却不足以评估长期互动，因为角色并非静态文本风格，而是一个在特定世界中掌握有限信息、具有自身目标，并通过经历调整判断的行动主体。 为此，我们不把角色稳定理解为“永远重复同一种反应”。完全不变的角色同样不可信；真正需要保护的是变化的可解释性——新的态度是否来自足够的经历，新的认知是否拥有合理来源，新的关系是否保留了过去事件的影响。 角色 AI 项目很容易因为术 语含义不一致而产生争论。有人说“人设崩了”，可能指语气变化；另一个人说同一句话时，指的却是角色使用了不可能知道的信息。以下定义不是唯一标准，但建议团队在开发初期采用一套明确的共同词汇。 一致性要求的是因果连续，而非表面重复。角色在早期保持警惕，后来因为玩家多次兑现承诺而愿意透露更多信息，这是一种合理变化；如果角色只因玩家提出要求便立即改变原则，则属于缺乏事件支撑的偏移。判断两者的关键，不是变化幅度本身，而是团队能否回答“为什么现在会变”。 Project Starlight 建议把关系变化描述为“事件—解释—影响”的连续链。事",
+              "display_url": "docs.google.com/document/d/e/2…",
+              "end": 33,
+              "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vTyMHrw0mDm58j2yM2NticWUzb3pKCxERqsLSQbsmUgGUobvBGEKGvR4x0CDUlKPQ/pub",
+              "start": 10,
+              "status": 200,
+              "title": "PS-TN-001_让角色继续成为角色_v1.0.docx",
+              "unwound_url": "https://docs.google.com/document/d/e/2PACX-1vTyMHrw0mDm58j2yM2NticWUzb3pKCxERqsLSQbsmUgGUobvBGEKGvR4x0CDUlKPQ/pub",
+              "url": "https://t.co/rc7PKZZ34Z"
+            },
+            {
+              "display_url": "x.com/hebuding129850…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/hebuding129850/status/2087572304641565022",
+              "start": 34,
+              "url": "https://t.co/B5wFRwmk5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087934392392118331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087572304641565022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都来屈服我吧\n\nhttps://t.co/rc7PKZZ34Z https://t.co/B5wFRwmk5A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2088098876792410435",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1004,
+          "like_count": 97439,
+          "listed_count": 6,
+          "media_count": 793,
+          "tweet_count": 4930
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Founder & Chair, @Palintropic · Lead, Project Starlight | Keep Thinking",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "Palintropic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "25nightcord.com",
+                "end": 23,
+                "expanded_url": "https://25nightcord.com",
+                "start": 0,
+                "url": "https://t.co/VFkjqr6vMS"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "is_identity_verified": false,
+        "location": "上海 静安",
+        "most_recent_tweet_id": "2088045023283581185",
+        "name": "Lewis",
+        "pinned_tweet_id": "2082820174613532693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856699710981251072/1784283576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070897078994087936/AwtSEF8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 395,
+          "like_count": 2716,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/VFkjqr6vMS",
+        "username": "Saki_LN_0509",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

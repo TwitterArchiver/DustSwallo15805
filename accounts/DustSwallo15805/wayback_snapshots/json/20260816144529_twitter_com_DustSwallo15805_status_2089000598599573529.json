@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088590888201314304"
+      ],
+      "media_source_tweet_id": [
+        "2088590895251853513"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2089000598599573529",
+    "created_at": "2026-08-16T14:45:29.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089000598599573529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "556143793",
+          "start": 3,
+          "username": "baisyuu03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yiMX494mXj",
+          "end": 69,
+          "expanded_url": "https://x.com/baisyuu03/status/2088590895251853513/photo/1",
+          "media_key": "3_2088590888201314304",
+          "start": 46,
+          "url": "https://t.co/yiMX494mXj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089000598599573529",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088590888201314304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088590895251853513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baisyuu03: あれ？もしかして昨年の冬コミで一緒に写真撮ってもらった方！？ https://t.co/yiMX494mXj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1521,
+        "media_key": "3_2088590888201314304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwqWNRbYAA4A5P.jpg",
+        "width": 2028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088590888201314304"
+          ],
+          "media_source_tweet_id": [
+            "2088590895251853513"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2089000598599573529",
+        "created_at": "2026-08-16T14:45:29.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089000598599573529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "556143793",
+              "start": 3,
+              "username": "baisyuu03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiMX494mXj",
+              "end": 69,
+              "expanded_url": "https://x.com/baisyuu03/status/2088590895251853513/photo/1",
+              "media_key": "3_2088590888201314304",
+              "start": 46,
+              "url": "https://t.co/yiMX494mXj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089000598599573529",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088590888201314304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088590895251853513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baisyuu03: あれ？もしかして昨年の冬コミで一緒に写真撮ってもらった方！？ https://t.co/yiMX494mXj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088590888201314304"
+          ]
+        },
+        "author_id": "556143793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088590895251853513",
+        "created_at": "2026-08-15T11:37:28.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088590895251853513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiMX494mXj",
+              "end": 54,
+              "expanded_url": "https://x.com/baisyuu03/status/2088590895251853513/photo/1",
+              "media_key": "3_2088590888201314304",
+              "start": 31,
+              "url": "https://t.co/yiMX494mXj"
+            },
+            {
+              "display_url": "x.com/zitaku11/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/zitaku11/status/2088516925026611617",
+              "start": 55,
+              "url": "https://t.co/yq667wEANL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088590895251853513",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088590888201314304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20690,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088516925026611617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "あれ？もしかして昨年の冬コミで一緒に写真撮ってもらった方！？ https://t.co/yiMX494mXj https://t.co/yq667wEANL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…\n🚪20",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2089000598599573529",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1014,
+          "like_count": 98279,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 4971
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-17T17:30:55.000Z",
+        "description": "ボカロとラジオ番組で知った方は「買収」と呼び、ラジドリやコスプレで知った方は「ぱらきん」と呼びます。どちらも私、ご存知の方の名前でお呼び下さい。Hi overseas! l am Japanese cosplayer . Everybody called me a “parakin “ トップ画撮影かかりちょう様",
+        "id": "556143793",
+        "is_identity_verified": false,
+        "location": "画像無断掲載及び使用禁止",
+        "most_recent_tweet_id": "2088996741551157624",
+        "name": "ぱらきんa.k.a買収",
+        "pinned_tweet_id": "1585956336529211393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/556143793/1731506481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/671710383472697344/VT8E_C6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15421,
+          "following_count": 1864,
+          "like_count": 227788,
+          "listed_count": 96,
+          "media_count": 10181,
+          "tweet_count": 83602
+        },
+        "url": "",
+        "username": "baisyuu03",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2089745592679539169",
+    "created_at": "2026-08-19T06:24:38.000Z",
+    "display_text_range": [
+      31,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089961722358665709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678655311006273536",
+          "start": 0,
+          "username": "EimeiLait"
+        },
+        {
+          "end": 18,
+          "id": "1676228046247038976",
+          "start": 11,
+          "username": "ElP15_"
+        },
+        {
+          "end": 30,
+          "id": "1469949824141508608",
+          "start": 19,
+          "username": "Yue0227uwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089961722358665709",
+    "in_reply_to_user_id": "1678655311006273536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089959684820402667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EimeiLait @ElP15_ @Yue0227uwu xm"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2089959684820402667].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2089959684820402667",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2089959684820402667"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2089745592679539169",
+        "created_at": "2026-08-19T06:24:38.000Z",
+        "display_text_range": [
+          31,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089961722358665709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678655311006273536",
+              "start": 0,
+              "username": "EimeiLait"
+            },
+            {
+              "end": 18,
+              "id": "1676228046247038976",
+              "start": 11,
+              "username": "ElP15_"
+            },
+            {
+              "end": 30,
+              "id": "1469949824141508608",
+              "start": 19,
+              "username": "Yue0227uwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089961722358665709",
+        "in_reply_to_user_id": "1678655311006273536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089959684820402667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EimeiLait @ElP15_ @Yue0227uwu xm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2089961722358665709",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1019,
+          "like_count": 99411,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 5025
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-11T06:40:08.000Z",
+        "description": "莱／沙｜特別時期｜コイビト@DustSwallo15805 君何処へ　何時共に在らむ｜Ei. Si. Laitus｜萊・ライ｜BA4RRA｜LinguaZomina崇明说话｜ Arknights ARCAEA maimai ｜mtx｜LVNARIA †Iuli MMXXIV ｜违规的有害邮品@LaitusCorrupt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "DustSwallo15805"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "LaitusCorrupt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/EimeiLait",
+                "end": 23,
+                "expanded_url": "http://github.com/EimeiLait",
+                "start": 0,
+                "url": "https://t.co/XrhaULs8l0"
+              }
+            ]
+          }
+        },
+        "id": "1678655311006273536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086412282335207804",
+        "name": "墨落莱 Laitus-特別時期",
+        "pinned_tweet_id": "2081950059877617860",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678655311006273536/1689057974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013739249770901504/mO56E89w_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 733,
+          "like_count": 167062,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/XrhaULs8l0",
+        "username": "EimeiLait",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai|好朋友@Quitewaterqwq @aya__maimai|小号@5leep1ng_|防炸备用号@OU0CT8964|⭐️😡宝宝@Yue0227uwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "5leep1ng_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "OU0CT8964"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Yue0227uwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0_an",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0_an",
+                "start": 0,
+                "url": "https://t.co/pKvp7ES0S4"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2089926110029214030",
+        "name": "0_an",
+        "pinned_tweet_id": "2026540174684074130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089433699238690816/ACCuKvG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 1427,
+          "like_count": 43651,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 13321
+        },
+        "url": "https://t.co/pKvp7ES0S4",
+        "username": "ElP15_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-12T08:39:00.000Z",
+        "description": "2011/INTP/TW\n@ElP15_ 老公\n舞萌吃CN優里互FO隨時私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "ElP15_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/U1ueu1",
+                "end": 23,
+                "expanded_url": "http://t.me/U1ueu1",
+                "start": 0,
+                "url": "https://t.co/w6A62FHOrm"
+              }
+            ]
+          }
+        },
+        "id": "1469949824141508608",
+        "is_identity_verified": false,
+        "location": "6.7km",
+        "most_recent_tweet_id": "2089959452451725746",
+        "name": "✝Ue✝💗",
+        "pinned_tweet_id": "2087948944580268486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1469949824141508608/1787074308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089433570234503168/0PicsJxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 87,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/w6A62FHOrm",
+        "username": "Yue0227uwu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

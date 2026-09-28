@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098362691584966656"
+      ],
+      "media_source_tweet_id": [
+        "2098362703467463118"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105164288",
+          "name": "Casual - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sushiro (スシロー)",
+          "id": "1037040836716843008",
+          "name": "Sushiro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sushi",
+          "id": "825054873343234048",
+          "name": "Sushi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1400493319017222145",
+          "name": "Chain restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2098724226295632333",
+    "created_at": "2026-09-12T10:43:42.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098724226295632333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1170506282018623489",
+          "start": 3,
+          "username": "dddpok8585"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmCb4k4cmB",
+          "end": 44,
+          "expanded_url": "https://x.com/dddpok8585/status/2098362703467463118/video/1",
+          "media_key": "13_2098362691584966656",
+          "start": 21,
+          "url": "https://t.co/pmCb4k4cmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098724226295632333",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2098362691584966656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098362703467463118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dddpok8585: スシロー https://t.co/pmCb4k4cmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6012,
+        "height": 854,
+        "media_key": "13_2098362691584966656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098362691584966656/img/gR7Kw-N53KSrJVy2.jpg",
+        "public_metrics": {
+          "view_count": 13857
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098362691584966656/vid/avc1/320x378/AXOnAkrzBe3zHaEk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098362691584966656/vid/avc1/480x568/gNWkwQzNvDuNIp-D.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098362691584966656/vid/avc1/720x854/g7t6688T4wNLsLw7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098362691584966656/pl/xmfpQ7f5x1zJ2rxm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098362691584966656"
+          ],
+          "media_source_tweet_id": [
+            "2098362703467463118"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105164288",
+              "name": "Casual - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sushiro (スシロー)",
+              "id": "1037040836716843008",
+              "name": "Sushiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2098724226295632333",
+        "created_at": "2026-09-12T10:43:42.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098724226295632333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1170506282018623489",
+              "start": 3,
+              "username": "dddpok8585"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmCb4k4cmB",
+              "end": 44,
+              "expanded_url": "https://x.com/dddpok8585/status/2098362703467463118/video/1",
+              "media_key": "13_2098362691584966656",
+              "start": 21,
+              "url": "https://t.co/pmCb4k4cmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098724226295632333",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098362691584966656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098362703467463118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dddpok8585: スシロー https://t.co/pmCb4k4cmB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098362691584966656"
+          ]
+        },
+        "author_id": "1170506282018623489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105164288",
+              "name": "Casual - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sushiro (スシロー)",
+              "id": "1037040836716843008",
+              "name": "Sushiro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sushi",
+              "id": "825054873343234048",
+              "name": "Sushi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400493319017222145",
+              "name": "Chain restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2098362703467463118",
+        "created_at": "2026-09-11T10:47:08.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098362703467463118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmCb4k4cmB",
+              "end": 28,
+              "expanded_url": "https://x.com/dddpok8585/status/2098362703467463118/video/1",
+              "media_key": "13_2098362691584966656",
+              "start": 5,
+              "url": "https://t.co/pmCb4k4cmB"
+            },
+            {
+              "display_url": "x.com/aislop_/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/aislop_/status/2095294453858677200",
+              "start": 29,
+              "url": "https://t.co/n26iKVmDMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098362703467463118",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098362691584966656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 65312,
+          "like_count": 777,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "スシロー https://t.co/pmCb4k4cmB https://t.co/n26iKVmDMp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098724226295632333",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1035,
+          "like_count": 103777,
+          "listed_count": 5,
+          "media_count": 850,
+          "tweet_count": 5249
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-08T01:17:16.000Z",
+        "description": "ふざけたポストばっかりです\n動画作るのハマってます\n良かったら覗いて見てね",
+        "id": "1170506282018623489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098636021294637324",
+        "name": "ぺぷちど",
+        "pinned_tweet_id": "2094757795686150430",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170506282018623489/1788355721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091836801229172736/FR5DH0yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 2,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "dddpok8585",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

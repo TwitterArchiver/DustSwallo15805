@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097741342747303936"
+      ],
+      "media_source_tweet_id": [
+        "2097741377723576756"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2098023260642480601",
+    "created_at": "2026-09-10T12:18:19.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098023260642480601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871757175485513728",
+          "start": 3,
+          "username": "URA_oka0101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbCyVEwesf",
+          "end": 49,
+          "expanded_url": "https://x.com/URA_oka0101/status/2097741377723576756/video/1",
+          "media_key": "13_2097741342747303936",
+          "start": 26,
+          "url": "https://t.co/GbCyVEwesf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098023260642480601",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097741342747303936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097741377723576756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @URA_oka0101: 赤組界隈の皆様へ https://t.co/GbCyVEwesf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35000,
+        "height": 856,
+        "media_key": "13_2097741342747303936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097741342747303936/img/PRHVpXT4srEqO1ff.jpg",
+        "public_metrics": {
+          "view_count": 63272
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097741342747303936/vid/avc1/320x380/00qLOvkXC4-YJD5r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097741342747303936/vid/avc1/480x570/FW0BLeHSQ19WS-tr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097741342747303936/vid/avc1/720x856/8vn2HPaI3tZ0AAtS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097741342747303936/pl/5sfhzD8ZFwKHbPLb.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097741342747303936"
+          ],
+          "media_source_tweet_id": [
+            "2097741377723576756"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2098023260642480601",
+        "created_at": "2026-09-10T12:18:19.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098023260642480601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871757175485513728",
+              "start": 3,
+              "username": "URA_oka0101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbCyVEwesf",
+              "end": 49,
+              "expanded_url": "https://x.com/URA_oka0101/status/2097741377723576756/video/1",
+              "media_key": "13_2097741342747303936",
+              "start": 26,
+              "url": "https://t.co/GbCyVEwesf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098023260642480601",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097741342747303936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097741377723576756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @URA_oka0101: 赤組界隈の皆様へ https://t.co/GbCyVEwesf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097741342747303936"
+          ]
+        },
+        "author_id": "1871757175485513728",
+        "conversation_id": "2097741377723576756",
+        "created_at": "2026-09-09T17:38:13.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097741377723576756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbCyVEwesf",
+              "end": 32,
+              "expanded_url": "https://x.com/URA_oka0101/status/2097741377723576756/video/1",
+              "media_key": "13_2097741342747303936",
+              "start": 9,
+              "url": "https://t.co/GbCyVEwesf"
+            },
+            {
+              "display_url": "x.com/aislop_/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aislop_/status/2095294453858677200",
+              "start": 33,
+              "url": "https://t.co/9fcNS8SZzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097741377723576756",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097741342747303936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 632,
+          "impression_count": 321557,
+          "like_count": 2679,
+          "quote_count": 70,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赤組界隈の皆様へ https://t.co/GbCyVEwesf https://t.co/9fcNS8SZzY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098023260642480601",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1033,
+          "like_count": 103591,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5223
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-25T03:17:55.000Z",
+        "description": "’99｜沖縄ベース｜2025 JGC DIAMOND METAL💎 ｜2025 SFC解脱の🟣組｜ゆるく4star⭐️目指してます｜",
+        "id": "1871757175485513728",
+        "is_identity_verified": false,
+        "location": "MMYメイン",
+        "most_recent_tweet_id": "2098014232214470673",
+        "name": "くずしろ",
+        "pinned_tweet_id": "1997230858907078767",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871757175485513728/1738230172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936795919090933760/D4k9v01p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 453,
+          "like_count": 4751,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "URA_oka0101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097587848916639744"
+      ],
+      "media_source_tweet_id": [
+        "2097604169406566483"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097622766258454983",
+    "created_at": "2026-09-09T09:46:54.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097622766258454983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsF0aZc30J",
+          "end": 91,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2097604169406566483/photo/1",
+          "media_key": "3_2097587848916639744",
+          "start": 68,
+          "url": "https://t.co/IsF0aZc30J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097622766258454983",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097587848916639744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097604169406566483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: Suica 企鹅的继任者：二阶堂希罗！\n\n二阶堂希罗 Suica 卡即将发行，敬请期待！（迫真 https://t.co/IsF0aZc30J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2097587848916639744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwhCPvaIAAErvR.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097587848916639744"
+          ],
+          "media_source_tweet_id": [
+            "2097604169406566483"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097622766258454983",
+        "created_at": "2026-09-09T09:46:54.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097622766258454983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsF0aZc30J",
+              "end": 91,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2097604169406566483/photo/1",
+              "media_key": "3_2097587848916639744",
+              "start": 68,
+              "url": "https://t.co/IsF0aZc30J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097622766258454983",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097587848916639744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097604169406566483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: Suica 企鹅的继任者：二阶堂希罗！\n\n二阶堂希罗 Suica 卡即将发行，敬请期待！（迫真 https://t.co/IsF0aZc30J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097587848916639744"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2097604169406566483",
+        "created_at": "2026-09-09T08:33:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097604169406566483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsF0aZc30J",
+              "end": 71,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2097604169406566483/photo/1",
+              "media_key": "3_2097587848916639744",
+              "start": 48,
+              "url": "https://t.co/IsF0aZc30J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097604169406566483",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097587848916639744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1904,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Suica 企鹅的继任者：二阶堂希罗！\n\n二阶堂希罗 Suica 卡即将发行，敬请期待！（迫真 https://t.co/IsF0aZc30J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097622766258454983",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1028,
+          "like_count": 103236,
+          "listed_count": 5,
+          "media_count": 847,
+          "tweet_count": 5199
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097616837550698587",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19568,
+          "following_count": 893,
+          "like_count": 35579,
+          "listed_count": 32,
+          "media_count": 3017,
+          "tweet_count": 13469
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

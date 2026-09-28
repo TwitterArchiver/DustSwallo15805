@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098358091624648705"
+      ],
+      "media_source_tweet_id": [
+        "2098358115272134954"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2098712178002112834",
+    "created_at": "2026-09-12T09:55:50.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T10:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098712178002112834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1931949543232610304",
+          "start": 3,
+          "username": "water_crown_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2oWll6yazb",
+          "end": 42,
+          "expanded_url": "https://x.com/water_crown_2/status/2098358115272134954/video/1",
+          "media_key": "13_2098358091624648705",
+          "start": 19,
+          "url": "https://t.co/2oWll6yazb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098712178002112834",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2098358091624648705"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098358115272134954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @water_crown_2: https://t.co/2oWll6yazb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11266,
+        "height": 862,
+        "media_key": "13_2098358091624648705",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098358091624648705/img/K2a7uvBhVW3c_Tex.jpg",
+        "public_metrics": {
+          "view_count": 10947
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098358091624648705/vid/avc1/320x382/Wm5Ix0ZA2r6M4ga0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098358091624648705/vid/avc1/480x574/ORdBKMjDimrCAV-_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098358091624648705/vid/avc1/720x862/yseNvVFDs9b3dTuT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098358091624648705/pl/LffFKi3H6dVpwqCS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098358091624648705"
+          ],
+          "media_source_tweet_id": [
+            "2098358115272134954"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2098712178002112834",
+        "created_at": "2026-09-12T09:55:50.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098712178002112834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1931949543232610304",
+              "start": 3,
+              "username": "water_crown_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oWll6yazb",
+              "end": 42,
+              "expanded_url": "https://x.com/water_crown_2/status/2098358115272134954/video/1",
+              "media_key": "13_2098358091624648705",
+              "start": 19,
+              "url": "https://t.co/2oWll6yazb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098712178002112834",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2098358091624648705"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098358115272134954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @water_crown_2: https://t.co/2oWll6yazb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098358091624648705"
+          ]
+        },
+        "author_id": "1931949543232610304",
+        "conversation_id": "2098358115272134954",
+        "created_at": "2026-09-11T10:28:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098358115272134954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2oWll6yazb",
+              "end": 23,
+              "expanded_url": "https://x.com/water_crown_2/status/2098358115272134954/video/1",
+              "media_key": "13_2098358091624648705",
+              "start": 0,
+              "url": "https://t.co/2oWll6yazb"
+            },
+            {
+              "display_url": "x.com/aislop_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aislop_/status/2095294453858677200",
+              "start": 24,
+              "url": "https://t.co/VzFl2EoCk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098358115272134954",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2098358091624648705"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 33950,
+          "like_count": 378,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2oWll6yazb https://t.co/VzFl2EoCk5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098712178002112834",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 1035,
+          "like_count": 103753,
+          "listed_count": 5,
+          "media_count": 850,
+          "tweet_count": 5248
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T05:41:03.000Z",
+        "description": "新潟の鉄道好き\n一応模型鉄（超ビギナー）\n出会い・投資系、外国人、副業関係、馬鹿にしたりストーカーする人は厳しくお断り\nYouTubeチャンネルはこちら",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@inaho_5052",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@inaho_5052",
+                "start": 0,
+                "url": "https://t.co/7BSQ3m6NCd"
+              }
+            ]
+          }
+        },
+        "id": "1931949543232610304",
+        "is_identity_verified": false,
+        "location": "にいがた",
+        "most_recent_tweet_id": "2098711750304735434",
+        "name": "うぉーたーくらうん",
+        "pinned_tweet_id": "2094889602373030257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1931949543232610304/1789118419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094043193990139904/6qZhVRuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 681,
+          "like_count": 15600,
+          "listed_count": 0,
+          "media_count": 484,
+          "tweet_count": 4410
+        },
+        "url": "https://t.co/7BSQ3m6NCd",
+        "username": "water_crown_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

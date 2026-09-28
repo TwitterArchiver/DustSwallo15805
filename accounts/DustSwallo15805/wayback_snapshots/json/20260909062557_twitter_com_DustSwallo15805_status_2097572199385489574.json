@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097228072366047232"
+      ],
+      "media_source_tweet_id": [
+        "2097228076166029683"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407388516682665984",
+          "name": "Otters"
+        }
+      }
+    ],
+    "conversation_id": "2097572199385489574",
+    "created_at": "2026-09-09T06:25:57.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097572199385489574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2218407378",
+          "start": 3,
+          "username": "PENIPOKO"
+        },
+        {
+          "end": 26,
+          "id": "1641361663021694976",
+          "start": 14,
+          "username": "JREast_News"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZJ1ggoIHEc",
+          "end": 68,
+          "expanded_url": "https://x.com/PENIPOKO/status/2097228076166029683/photo/1",
+          "media_key": "3_2097228072366047232",
+          "start": 45,
+          "url": "https://t.co/ZJ1ggoIHEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097572199385489574",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097228072366047232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2527
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097228076166029683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PENIPOKO: @JREast_News D案\nスイスイいこう、カワウソくん https://t.co/ZJ1ggoIHEc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2097228072366047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrZ0fpbAAA_4VX.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097228072366047232"
+          ],
+          "media_source_tweet_id": [
+            "2097228076166029683"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407388516682665984",
+              "name": "Otters"
+            }
+          }
+        ],
+        "conversation_id": "2097572199385489574",
+        "created_at": "2026-09-09T06:25:57.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097572199385489574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2218407378",
+              "start": 3,
+              "username": "PENIPOKO"
+            },
+            {
+              "end": 26,
+              "id": "1641361663021694976",
+              "start": 14,
+              "username": "JREast_News"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJ1ggoIHEc",
+              "end": 68,
+              "expanded_url": "https://x.com/PENIPOKO/status/2097228076166029683/photo/1",
+              "media_key": "3_2097228072366047232",
+              "start": 45,
+              "url": "https://t.co/ZJ1ggoIHEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097572199385489574",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097228072366047232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097228076166029683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PENIPOKO: @JREast_News D案\nスイスイいこう、カワウソくん https://t.co/ZJ1ggoIHEc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097228072366047232"
+          ]
+        },
+        "author_id": "2218407378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407388516682665984",
+              "name": "Otters"
+            }
+          }
+        ],
+        "conversation_id": "2097203973975351462",
+        "created_at": "2026-09-08T07:38:32.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097228076166029683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641361663021694976",
+              "start": 0,
+              "username": "JREast_News"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJ1ggoIHEc",
+              "end": 54,
+              "expanded_url": "https://x.com/PENIPOKO/status/2097228076166029683/photo/1",
+              "media_key": "3_2097228072366047232",
+              "start": 31,
+              "url": "https://t.co/ZJ1ggoIHEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097228076166029683",
+        "in_reply_to_user_id": "1641361663021694976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097228072366047232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1621,
+          "impression_count": 2294276,
+          "like_count": 43180,
+          "quote_count": 952,
+          "reply_count": 340,
+          "retweet_count": 2527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097203973975351462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JREast_News D案\nスイスイいこう、カワウソくん https://t.co/ZJ1ggoIHEc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097572215822975170",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1028,
+          "like_count": 103206,
+          "listed_count": 5,
+          "media_count": 847,
+          "tweet_count": 5196
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-11-27T20:42:04.000Z",
+        "description": "アニメ全般、ゲーム🎮🃏好き。\nDQ/P3〜5/FF/FE/KH/.hack /LOL/風来のシレン‥‥大神2待機中。\nポケカプレイヤー。\n初期ピカチュウ好き。\nちいかわ、モモンガ🍑好き。\nポケカとちいかわの推し活とゲームプレイに日々追われながら生きてます。\n十二国記、ハリポタ、攻殻機動隊\n千代田区住み。Ns",
+        "id": "2218407378",
+        "is_identity_verified": false,
+        "location": "東京 千代田区",
+        "most_recent_tweet_id": "2097233778393698307",
+        "name": "ぺにぽこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2218407378/1548064900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161257569442287617/tDU13TcL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 988,
+          "like_count": 32125,
+          "listed_count": 0,
+          "media_count": 505,
+          "tweet_count": 4042
+        },
+        "url": "",
+        "username": "PENIPOKO",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/583122926326583297/fdjHKu43_bigger.png",
+          "description": "JR東日本（公式）",
+          "url": "https://twitter.com/JREast_official",
+          "user_id": [
+            "3104527237"
+          ]
+        },
+        "created_at": "2023-03-30T08:48:14.000Z",
+        "description": "JR東日本ニュースリリース専用公式アカウントです。HP上でお知らせしているJR東日本の最新情報をお届けしていきます！お寄せいただいたコメントへのお返事はいたしかねます。ご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jreast.co.jp/press/index.ht…",
+                "end": 23,
+                "expanded_url": "https://www.jreast.co.jp/press/index.html/",
+                "start": 0,
+                "url": "https://t.co/pc1qdTyG6g"
+              }
+            ]
+          }
+        },
+        "id": "1641361663021694976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097559192248930504",
+        "name": "JR 東日本ニュースリリース【公式】",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641361663021694976/1770851871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641367469427417088/zdR8Q4ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32108,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 184,
+          "media_count": 777,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/pc1qdTyG6g",
+        "username": "JREast_News",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

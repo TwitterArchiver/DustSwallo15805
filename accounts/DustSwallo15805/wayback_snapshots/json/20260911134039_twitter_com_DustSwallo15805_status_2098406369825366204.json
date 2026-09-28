@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098045142498496514"
+      ],
+      "media_source_tweet_id": [
+        "2098045158680117587"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2098406369825366204",
+    "created_at": "2026-09-11T13:40:39.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098406369825366204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2291480186",
+          "start": 3,
+          "username": "peper0n_P"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gWp22jfprP",
+          "end": 38,
+          "expanded_url": "https://x.com/peper0n_P/status/2098045158680117587/video/1",
+          "media_key": "13_2098045142498496514",
+          "start": 15,
+          "url": "https://t.co/gWp22jfprP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098406369825366204",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2098045142498496514"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3708
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098045158680117587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peper0n_P: https://t.co/gWp22jfprP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5233,
+        "height": 900,
+        "media_key": "13_2098045142498496514",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098045142498496514/img/nwfkiF-oXsFawFAs.jpg",
+        "public_metrics": {
+          "view_count": 312098
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098045142498496514/vid/avc1/320x400/Vm_uGK5fxqEL8-mn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098045142498496514/vid/avc1/480x600/OaN-ymQr9uCawmLX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098045142498496514/vid/avc1/720x900/N7ya99-dCHycOJLZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098045142498496514/pl/dko6qQpHNz90BZvC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098045142498496514"
+          ],
+          "media_source_tweet_id": [
+            "2098045158680117587"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2098406369825366204",
+        "created_at": "2026-09-11T13:40:39.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098406369825366204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2291480186",
+              "start": 3,
+              "username": "peper0n_P"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWp22jfprP",
+              "end": 38,
+              "expanded_url": "https://x.com/peper0n_P/status/2098045158680117587/video/1",
+              "media_key": "13_2098045142498496514",
+              "start": 15,
+              "url": "https://t.co/gWp22jfprP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098406369825366204",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2098045142498496514"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3708
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098045158680117587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peper0n_P: https://t.co/gWp22jfprP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098045142498496514"
+          ]
+        },
+        "author_id": "2291480186",
+        "conversation_id": "2098045158680117587",
+        "created_at": "2026-09-10T13:45:20.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098045158680117587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWp22jfprP",
+              "end": 23,
+              "expanded_url": "https://x.com/peper0n_P/status/2098045158680117587/video/1",
+              "media_key": "13_2098045142498496514",
+              "start": 0,
+              "url": "https://t.co/gWp22jfprP"
+            },
+            {
+              "display_url": "x.com/aislop_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aislop_/status/2095294453858677200",
+              "start": 24,
+              "url": "https://t.co/sGhOccBACD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098045158680117587",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2098045142498496514"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3294,
+          "impression_count": 1781152,
+          "like_count": 26821,
+          "quote_count": 279,
+          "reply_count": 17,
+          "retweet_count": 3715
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/gWp22jfprP https://t.co/sGhOccBACD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2098406369825366204",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 1036,
+          "like_count": 103633,
+          "listed_count": 5,
+          "media_count": 850,
+          "tweet_count": 5244
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-14T17:52:40.000Z",
+        "description": "柴とクルマが好き",
+        "id": "2291480186",
+        "is_identity_verified": false,
+        "location": "MINI R56 JCW",
+        "most_recent_tweet_id": "2098045158680117587",
+        "name": "ペペロン",
+        "pinned_tweet_id": "1867068839076503697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2291480186/1686367898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945448057136377856/aBEKXc5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 421,
+          "like_count": 17724,
+          "listed_count": 5,
+          "media_count": 2942,
+          "tweet_count": 10026
+        },
+        "url": "",
+        "username": "peper0n_P",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
