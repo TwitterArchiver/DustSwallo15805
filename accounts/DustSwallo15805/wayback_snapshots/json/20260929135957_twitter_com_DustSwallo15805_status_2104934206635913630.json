@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104615963425689600"
+      ],
+      "media_source_tweet_id": [
+        "2104615974645485575"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2104934206635913630",
+    "created_at": "2026-09-29T13:59:57.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T14:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104934206635913630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "564249599",
+          "start": 3,
+          "username": "niraikanai07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4DnVNlB2sk",
+          "end": 41,
+          "expanded_url": "https://x.com/niraikanai07/status/2104615974645485575/photo/1",
+          "media_key": "3_2104615963425689600",
+          "start": 18,
+          "url": "https://t.co/4DnVNlB2sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104934206635913630",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104615963425689600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104615974645485575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niraikanai07: https://t.co/4DnVNlB2sk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2104615963425689600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUZEWia0AAYP4d.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104615963425689600"
+          ],
+          "media_source_tweet_id": [
+            "2104615974645485575"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2104934206635913630",
+        "created_at": "2026-09-29T13:59:57.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104934206635913630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "564249599",
+              "start": 3,
+              "username": "niraikanai07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4DnVNlB2sk",
+              "end": 41,
+              "expanded_url": "https://x.com/niraikanai07/status/2104615974645485575/photo/1",
+              "media_key": "3_2104615963425689600",
+              "start": 18,
+              "url": "https://t.co/4DnVNlB2sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104934206635913630",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104615963425689600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104615974645485575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niraikanai07: https://t.co/4DnVNlB2sk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104615963425689600"
+          ]
+        },
+        "author_id": "564249599",
+        "conversation_id": "2104615974645485575",
+        "created_at": "2026-09-28T16:55:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104615974645485575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4DnVNlB2sk",
+              "end": 23,
+              "expanded_url": "https://x.com/niraikanai07/status/2104615974645485575/photo/1",
+              "media_key": "3_2104615963425689600",
+              "start": 0,
+              "url": "https://t.co/4DnVNlB2sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104615974645485575",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104615963425689600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1436,
+          "impression_count": 4486230,
+          "like_count": 24858,
+          "quote_count": 1412,
+          "reply_count": 974,
+          "retweet_count": 2293
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4DnVNlB2sk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2104934206635913630",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1067,
+          "like_count": 106829,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 5335
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-27T03:12:19.000Z",
+        "description": "5chとTalkの愛国記者です。猫が大好き♡ ネットで見つけた話題や5chとTalkのスレッドを紹介しています。毎日更新したり、朝晩の挨拶をするスタンスは疲れますので、猫のように気が向いた時だけツイートする方式でいきたいと思います（笑）今後ともよろしくお願いします♪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/niraikanai07",
+                "end": 23,
+                "expanded_url": "https://note.com/niraikanai07",
+                "start": 0,
+                "url": "https://t.co/7mRXN45eN9"
+              }
+            ]
+          }
+        },
+        "id": "564249599",
+        "is_identity_verified": false,
+        "location": "兵庫県神戸市",
+        "most_recent_tweet_id": "2104873449483383001",
+        "name": "ニライカナイφ★",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/564249599/1787853032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078376690137653248/S76m75vc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44875,
+          "following_count": 46331,
+          "like_count": 182892,
+          "listed_count": 252,
+          "media_count": 22070,
+          "tweet_count": 115310
+        },
+        "url": "https://t.co/7mRXN45eN9",
+        "username": "niraikanai07",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

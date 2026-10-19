@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106256748146688",
+          "name": "Kodak"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106256748146688",
+          "name": "Kodak"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2105885243731554468",
+    "created_at": "2026-10-02T04:59:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105885243731554468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "132588642",
+          "start": 3,
+          "username": "Kodak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105885243731554468",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 195
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105353672821440657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kodak: Kodak's commitment to the future of film goes   beyond manufacturing.\n\nToday, Kodak distributes professional still films directl…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2105353593729548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTe38FjXgAAVWwB.jpg",
+        "width": 2720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106256748146688",
+              "name": "Kodak"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106256748146688",
+              "name": "Kodak"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2105885243731554468",
+        "created_at": "2026-10-02T04:59:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105885243731554468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "132588642",
+              "start": 3,
+              "username": "Kodak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105885243731554468",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 195
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105353672821440657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kodak: Kodak's commitment to the future of film goes   beyond manufacturing.\n\nToday, Kodak distributes professional still films directl…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105353593729548288"
+          ]
+        },
+        "author_id": "132588642",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106256748146688",
+              "name": "Kodak"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283786058618945536",
+              "name": "Photographers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106256748146688",
+              "name": "Kodak"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2105353672821440657",
+        "created_at": "2026-09-30T17:46:45.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T18:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105353672821440657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgkgfvNXAE",
+              "end": 298,
+              "expanded_url": "https://x.com/Kodak/status/2105353672821440657/photo/1",
+              "media_key": "3_2105353593729548288",
+              "start": 275,
+              "url": "https://t.co/dgkgfvNXAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105353672821440657",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105353593729548288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kodak.com/en/still-film/…",
+                "end": 304,
+                "expanded_url": "https://www.kodak.com/en/still-film/page/locator/?utm_source=x&utm_medium=social&utm_campaign=film&utm_content=20260930-locator",
+                "start": 281,
+                "url": "https://t.co/z1NZgFeUxR"
+              }
+            ]
+          },
+          "text": "Kodak's commitment to the future of film goes   beyond manufacturing.\n\nToday, Kodak distributes professional still films directly to distributors, helping support photographers with the same   trusted quality they've always known.\n\nNew packaging. Same great film. 📸\n\nFind it here: https://t.co/z1NZgFeUxR"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 64656,
+          "like_count": 1659,
+          "quote_count": 33,
+          "reply_count": 30,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "Kodak's commitment to the future of film goes   beyond manufacturing.\n\nToday, Kodak distributes professional still films directly to distributors, helping support photographers with the same   trusted quality they've always known.\n\nNew packaging. Same great film. 📸\n\nFind it https://t.co/dgkgfvNXAE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2105885243731554468",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1075,
+          "like_count": 107145,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 5348
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-13T17:04:41.000Z",
+        "description": "A leading global manufacturer focused on advanced materials & chemicals, commercial print, and photographic films. ❤️💛🎞️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Kodak.com",
+                "end": 23,
+                "expanded_url": "http://Kodak.com",
+                "start": 0,
+                "url": "https://t.co/5JBNaKQDfp"
+              }
+            ]
+          }
+        },
+        "id": "132588642",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105353672821440657",
+        "name": "Kodak",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/132588642/1628865735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790588294291742720/dgUmEwp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79301,
+          "following_count": 6,
+          "like_count": 6748,
+          "listed_count": 791,
+          "media_count": 2518,
+          "tweet_count": 7511
+        },
+        "url": "https://t.co/5JBNaKQDfp",
+        "username": "Kodak",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

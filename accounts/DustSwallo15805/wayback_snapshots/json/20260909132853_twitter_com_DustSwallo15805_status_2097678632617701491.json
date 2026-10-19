@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097347098144649216"
+      ],
+      "media_source_tweet_id": [
+        "2097347132235903454"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2097678632617701491",
+    "created_at": "2026-09-09T13:28:53.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097678632617701491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502204967549304833",
+          "start": 3,
+          "username": "satsukisan38"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NlVT9Ik2Q",
+          "end": 41,
+          "expanded_url": "https://x.com/satsukisan38/status/2097347132235903454/video/1",
+          "media_key": "13_2097347098144649216",
+          "start": 18,
+          "url": "https://t.co/0NlVT9Ik2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097678632617701491",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097347098144649216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097347132235903454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satsukisan38: https://t.co/0NlVT9Ik2Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7933,
+        "height": 864,
+        "media_key": "13_2097347098144649216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097347098144649216/img/2JjmvercmRGsMA84.jpg",
+        "public_metrics": {
+          "view_count": 255122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097347098144649216/vid/avc1/320x384/bI1GdPxNd992EE4r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097347098144649216/vid/avc1/480x576/b3BLqpG5arlr67As.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097347098144649216/vid/avc1/720x864/zCAfsOx8MfqmbV3L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097347098144649216/pl/PfPo3l15CoEse-Bv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097347098144649216"
+          ],
+          "media_source_tweet_id": [
+            "2097347132235903454"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2097678632617701491",
+        "created_at": "2026-09-09T13:28:53.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097678632617701491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502204967549304833",
+              "start": 3,
+              "username": "satsukisan38"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NlVT9Ik2Q",
+              "end": 41,
+              "expanded_url": "https://x.com/satsukisan38/status/2097347132235903454/video/1",
+              "media_key": "13_2097347098144649216",
+              "start": 18,
+              "url": "https://t.co/0NlVT9Ik2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097678632617701491",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097347098144649216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097347132235903454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satsukisan38: https://t.co/0NlVT9Ik2Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097347098144649216"
+          ]
+        },
+        "author_id": "1502204967549304833",
+        "conversation_id": "2097347132235903454",
+        "created_at": "2026-09-08T15:31:37.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097347132235903454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NlVT9Ik2Q",
+              "end": 23,
+              "expanded_url": "https://x.com/satsukisan38/status/2097347132235903454/video/1",
+              "media_key": "13_2097347098144649216",
+              "start": 0,
+              "url": "https://t.co/0NlVT9Ik2Q"
+            },
+            {
+              "display_url": "x.com/AIslop_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AIslop_/status/2095294453858677200",
+              "start": 24,
+              "url": "https://t.co/5OzrywZKz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097347132235903454",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097347098144649216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2592,
+          "impression_count": 1039898,
+          "like_count": 14844,
+          "quote_count": 174,
+          "reply_count": 26,
+          "retweet_count": 2163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095294453858677200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/0NlVT9Ik2Q https://t.co/5OzrywZKz0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097678632617701491",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 1030,
+          "like_count": 103384,
+          "listed_count": 5,
+          "media_count": 848,
+          "tweet_count": 5204
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-11T08:49:42.000Z",
+        "description": "建築学系のしがない男子大学生\n超かぐや姫！好き/学マスP(美鈴推し)/動画投稿者/イラスト/鉄道/旅行とか \n\nフォロバ98%(気づいたらやる)\n🔑→ @kido_38",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "kido_38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SATSUKI_Chann…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@SATSUKI_Channel",
+                "start": 0,
+                "url": "https://t.co/SwB0p12w45"
+              }
+            ]
+          }
+        },
+        "id": "1502204967549304833",
+        "is_identity_verified": false,
+        "location": "うつのみや⏩さいたま某所",
+        "most_recent_tweet_id": "2097664093713043496",
+        "name": "さつきちゃん🌸🌙",
+        "pinned_tweet_id": "2088296855704891803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1502204967549304833/1737298704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092942652631298048/hixXMK-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6348,
+          "following_count": 5923,
+          "like_count": 275760,
+          "listed_count": 23,
+          "media_count": 14025,
+          "tweet_count": 78129
+        },
+        "url": "https://t.co/SwB0p12w45",
+        "username": "satsukisan38",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

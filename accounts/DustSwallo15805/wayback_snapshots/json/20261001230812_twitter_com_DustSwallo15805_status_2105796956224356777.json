@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105755301735813120",
+        "3_2105755302561988608",
+        "3_2105755301744128001",
+        "3_2105755302545248256"
+      ],
+      "media_source_tweet_id": [
+        "2105755319523746152",
+        "2105755319523746152",
+        "2105755319523746152",
+        "2105755319523746152"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105796956224356777",
+    "created_at": "2026-10-01T23:08:12.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T00:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105796956224356777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904873292366036992",
+          "start": 3,
+          "username": "Chiyuyu520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Htk8cQoWbL",
+          "end": 71,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+          "media_key": "3_2105755301735813120",
+          "start": 48,
+          "url": "https://t.co/Htk8cQoWbL"
+        },
+        {
+          "display_url": "pic.x.com/Htk8cQoWbL",
+          "end": 71,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+          "media_key": "3_2105755302561988608",
+          "start": 48,
+          "url": "https://t.co/Htk8cQoWbL"
+        },
+        {
+          "display_url": "pic.x.com/Htk8cQoWbL",
+          "end": 71,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+          "media_key": "3_2105755301744128001",
+          "start": 48,
+          "url": "https://t.co/Htk8cQoWbL"
+        },
+        {
+          "display_url": "pic.x.com/Htk8cQoWbL",
+          "end": 71,
+          "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+          "media_key": "3_2105755302545248256",
+          "start": 48,
+          "url": "https://t.co/Htk8cQoWbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105796956224356777",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105755301735813120"
+      },
+      {
+        "media_key": "3_2105755302561988608"
+      },
+      {
+        "media_key": "3_2105755301744128001"
+      },
+      {
+        "media_key": "3_2105755302545248256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105755319523746152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiyuyu520: 求你别死给张复活卡吧。我们之前四月在上海见过的呀！！！\n空悲切 https://t.co/Htk8cQoWbL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105755301735813120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTklSkfb0AAd2Um.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105755302561988608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTklSnkaQAACItp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105755301744128001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTklSkhasAE_CMW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105755302545248256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTklSnga0AAHH-I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105755301735813120",
+            "3_2105755302561988608",
+            "3_2105755301744128001",
+            "3_2105755302545248256"
+          ],
+          "media_source_tweet_id": [
+            "2105755319523746152",
+            "2105755319523746152",
+            "2105755319523746152",
+            "2105755319523746152"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105796956224356777",
+        "created_at": "2026-10-01T23:08:12.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T00:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105796956224356777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904873292366036992",
+              "start": 3,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 71,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755301735813120",
+              "start": 48,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 71,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755302561988608",
+              "start": 48,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 71,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755301744128001",
+              "start": 48,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 71,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755302545248256",
+              "start": 48,
+              "url": "https://t.co/Htk8cQoWbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105796956224356777",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105755301735813120"
+          },
+          {
+            "media_key": "3_2105755302561988608"
+          },
+          {
+            "media_key": "3_2105755301744128001"
+          },
+          {
+            "media_key": "3_2105755302545248256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105755319523746152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiyuyu520: 求你别死给张复活卡吧。我们之前四月在上海见过的呀！！！\n空悲切 https://t.co/Htk8cQoWbL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105755301735813120",
+            "3_2105755302561988608",
+            "3_2105755301744128001",
+            "3_2105755302545248256"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105755319523746152",
+        "created_at": "2026-10-01T20:22:45.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T21:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105755319523746152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 55,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755301735813120",
+              "start": 32,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 55,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755302561988608",
+              "start": 32,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 55,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755301744128001",
+              "start": 32,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "pic.x.com/Htk8cQoWbL",
+              "end": 55,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2105755319523746152/photo/1",
+              "media_key": "3_2105755302545248256",
+              "start": 32,
+              "url": "https://t.co/Htk8cQoWbL"
+            },
+            {
+              "display_url": "x.com/liciiqaq/statu…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/liciiqaq/status/2105366767099154478",
+              "start": 56,
+              "url": "https://t.co/agsZiJgaSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105755319523746152",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105755301735813120"
+          },
+          {
+            "media_key": "3_2105755302561988608"
+          },
+          {
+            "media_key": "3_2105755301744128001"
+          },
+          {
+            "media_key": "3_2105755302545248256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105366767099154478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求你别死给张复活卡吧。我们之前四月在上海见过的呀！！！\n空悲切 https://t.co/Htk8cQoWbL https://t.co/agsZiJgaSa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2105796956224356777",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1076,
+          "like_count": 107093,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 5346
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "is_identity_verified": false,
+        "location": "遗书→",
+        "most_recent_tweet_id": "2105760637368606837",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904873292366036992/1758340055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4947,
+          "following_count": 1304,
+          "like_count": 8636,
+          "listed_count": 6,
+          "media_count": 824,
+          "tweet_count": 2073
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

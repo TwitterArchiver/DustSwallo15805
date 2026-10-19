@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2107832285567528999",
+    "created_at": "2026-10-07T13:55:53.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T14:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107832285567528999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sypshenlipu/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/sypshenlipu/status/2107776671202025536",
+          "start": 13,
+          "url": "https://t.co/PnV5oorNPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107832285567528999",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107776671202025536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 我是好女孩吗 https://t.co/PnV5oorNPS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2107832285567528999",
+        "created_at": "2026-10-07T13:55:53.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T14:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107832285567528999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sypshenlipu/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sypshenlipu/status/2107776671202025536",
+              "start": 13,
+              "url": "https://t.co/PnV5oorNPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107832285567528999",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107776671202025536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 我是好女孩吗 https://t.co/PnV5oorNPS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2107776671202025536",
+        "created_at": "2026-10-07T10:14:53.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107776671202025536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lil_tea_cpp/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/lil_tea_cpp/status/2107753900149502306",
+              "start": 13,
+              "url": "https://t.co/Rx7ctYKmPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107776671202025536",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107753900149502306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 我是好女孩吗 https://t.co/Rx7ctYKmPr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2107832285567528999",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1085,
+          "like_count": 108368,
+          "listed_count": 4,
+          "media_count": 867,
+          "tweet_count": 5366
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107832300192825472",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9147014,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7753,
+          "media_count": 3989575,
+          "tweet_count": 139437767
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107811635553501538",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 457,
+          "like_count": 69665,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 2137
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

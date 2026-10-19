@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2108783999061770348",
+    "created_at": "2026-10-10T04:57:39.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T05:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108783999061770348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1543753719451242496",
+          "start": 3,
+          "username": "4x_n2ym3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108783999061770348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108519536857436609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4x_n2ym3: 忠告\n如果你的精神状态较差或者不稳定\n不要把危险化学品放在身边\n请勿相信自己的自制力和理智程度\n契科夫之枪最后一定会响的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2108783999061770348",
+        "created_at": "2026-10-10T04:57:39.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108783999061770348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1543753719451242496",
+              "start": 3,
+              "username": "4x_n2ym3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108783999061770348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108519536857436609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4x_n2ym3: 忠告\n如果你的精神状态较差或者不稳定\n不要把危险化学品放在身边\n请勿相信自己的自制力和理智程度\n契科夫之枪最后一定会响的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543753719451242496",
+        "conversation_id": "2108519536857436609",
+        "created_at": "2026-10-09T11:26:46.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108519536857436609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108519536857436609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 16591,
+          "like_count": 521,
+          "quote_count": 12,
+          "reply_count": 18,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "忠告\n如果你的精神状态较差或者不稳定\n不要把危险化学品放在身边\n请勿相信自己的自制力和理智程度\n契科夫之枪最后一定会响的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2108783999061770348",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108517956011597824/T5nFivUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 1083,
+          "like_count": 108535,
+          "listed_count": 4,
+          "media_count": 867,
+          "tweet_count": 5375
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T00:29:15.000Z",
+        "description": "赛博社恐/08 沪/性别不明/含糖25.08/目前使用gnrha/明日方舟摆烂玩家/arcaea7.0享受中/maimai有点菜/chunithm没瓶颈/间歇性潜水/99.99%回fo/备用号@�����",
+        "id": "1543753719451242496",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2108695422747488387",
+        "name": "4x.n2ym3_酵素",
+        "pinned_tweet_id": "2100072181577257039",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543753719451242496/1765199277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103482814536839168/56s_hSl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 3618,
+          "like_count": 3792,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "4x_n2ym3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2107302383076454504",
+    "created_at": "2026-10-06T02:50:14.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T03:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107302383076454504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dadadajie01/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/dadadajie01/status/2107130075200270749",
+          "start": 18,
+          "url": "https://t.co/FXYQY91Q7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107302383076454504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107130075200270749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉所有看过我线下的人都被我丑哭了 https://t.co/FXYQY91Q7J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2107302383076454504",
+        "created_at": "2026-10-06T02:50:14.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T03:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107302383076454504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dadadajie01/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/dadadajie01/status/2107130075200270749",
+              "start": 18,
+              "url": "https://t.co/FXYQY91Q7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107302383076454504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107130075200270749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉所有看过我线下的人都被我丑哭了 https://t.co/FXYQY91Q7J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252463831185371136",
+        "conversation_id": "2107130075200270749",
+        "created_at": "2026-10-05T15:25:33.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107130075200270749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1207auggnod/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/1207auggnod/status/2107086890071666860",
+              "start": 18,
+              "url": "https://t.co/cwyypS8ROd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107130075200270749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107086890071666860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉所有看过我线下的人都被我丑哭了 https://t.co/cwyypS8ROd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2107302383076454504",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 1083,
+          "like_count": 108042,
+          "listed_count": 4,
+          "media_count": 864,
+          "tweet_count": 5358
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、20代前半の大学生で、N2合格証明書取った、今N1に向けて勉強中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "is_identity_verified": false,
+        "location": "距您1.6km",
+        "most_recent_tweet_id": "2107161917966176338",
+        "name": "Ziergaixv🐀🐂🐅🐇🐉🐍🐎🐑🐒🐓🐕🐖",
+        "pinned_tweet_id": "2055682513448718735",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1252463831185371136/1757637218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2338,
+          "like_count": 44097,
+          "listed_count": 8,
+          "media_count": 1518,
+          "tweet_count": 8855
+        },
+        "url": "",
+        "username": "Dadadajie01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

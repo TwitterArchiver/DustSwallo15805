@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097753546200592384"
+      ],
+      "media_source_tweet_id": [
+        "2097753566702457207"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2097943146319749522",
+    "created_at": "2026-09-10T06:59:58.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T07:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097943146319749522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "520097270",
+          "start": 3,
+          "username": "i_y_4_1_5tbfand"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8edfkJv6A4",
+          "end": 60,
+          "expanded_url": "https://x.com/i_y_4_1_5tbfand/status/2097753566702457207/video/1",
+          "media_key": "13_2097753546200592384",
+          "start": 37,
+          "url": "https://t.co/8edfkJv6A4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097943146319749522",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097753546200592384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097753566702457207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_y_4_1_5tbfand: 東京駅でアホみたいに聞くやつw https://t.co/8edfkJv6A4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8178,
+        "height": 1122,
+        "media_key": "13_2097753546200592384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097753546200592384/img/8I8ayxp-nMSbo38q.jpg",
+        "public_metrics": {
+          "view_count": 66437
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097753546200592384/vid/avc1/916x1122/6qHMCFX6MmeOHGjV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097753546200592384/pl/kDiNUOcsxVwIjNPz.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097753546200592384/vid/avc1/320x390/ts1qY4xHjpRdaYso.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097753546200592384/vid/avc1/720x880/--cSsPgjhuAmEjN2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097753546200592384/vid/avc1/480x586/QN0BwKHk_vHEdvgU.mp4"
+          }
+        ],
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097753546200592384"
+          ],
+          "media_source_tweet_id": [
+            "2097753566702457207"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2097943146319749522",
+        "created_at": "2026-09-10T06:59:58.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097943146319749522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "520097270",
+              "start": 3,
+              "username": "i_y_4_1_5tbfand"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8edfkJv6A4",
+              "end": 60,
+              "expanded_url": "https://x.com/i_y_4_1_5tbfand/status/2097753566702457207/video/1",
+              "media_key": "13_2097753546200592384",
+              "start": 37,
+              "url": "https://t.co/8edfkJv6A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097943146319749522",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097753546200592384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097753566702457207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_y_4_1_5tbfand: 東京駅でアホみたいに聞くやつw https://t.co/8edfkJv6A4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097753546200592384"
+          ]
+        },
+        "author_id": "520097270",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2097753566702457207",
+        "created_at": "2026-09-09T18:26:39.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097753566702457207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8edfkJv6A4",
+              "end": 39,
+              "expanded_url": "https://x.com/i_y_4_1_5tbfand/status/2097753566702457207/video/1",
+              "media_key": "13_2097753546200592384",
+              "start": 16,
+              "url": "https://t.co/8edfkJv6A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097753566702457207",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097753546200592384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 172628,
+          "like_count": 1540,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "東京駅でアホみたいに聞くやつw https://t.co/8edfkJv6A4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2097943146319749522",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1031,
+          "like_count": 103506,
+          "listed_count": 5,
+          "media_count": 849,
+          "tweet_count": 5220
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-03-10T04:48:42.000Z",
+        "description": "無言フォロー失礼します。 現在フォロー制限中。大の鉄道ファンかつ乗り物ファンでもあります。more more jump!のみのり推し ニーゴまふゆも好き。マジミラ初当選！超かぐや姫 かぐや推し",
+        "id": "520097270",
+        "is_identity_verified": false,
+        "location": "関東地方",
+        "most_recent_tweet_id": "2097942983018701313",
+        "name": "ウーラーヤハヤハ マジミラお疲れ様でした！次のミライで！",
+        "pinned_tweet_id": "2020215191376654655",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/520097270/1771097911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053568280863080448/84QJOlLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5049,
+          "following_count": 7500,
+          "like_count": 277944,
+          "listed_count": 38,
+          "media_count": 26679,
+          "tweet_count": 378542
+        },
+        "url": "",
+        "username": "i_y_4_1_5tbfand",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

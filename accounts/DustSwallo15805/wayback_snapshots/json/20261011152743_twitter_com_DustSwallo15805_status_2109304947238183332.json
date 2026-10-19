@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1647170304844914689",
+    "conversation_id": "2109304947238183332",
+    "created_at": "2026-10-11T15:27:43.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T16:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109304947238183332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanami_mua/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/nanami_mua/status/2109258382679155019",
+          "start": 35,
+          "url": "https://t.co/GCHTUcsPr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109304947238183332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109258382679155019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉上这个b学挺没意思的一个学期一个人都没认识，跟宿舍人也没共同语言 https://t.co/GCHTUcsPr4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2109304947238183332",
+        "created_at": "2026-10-11T15:27:43.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T16:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109304947238183332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2109258382679155019",
+              "start": 35,
+              "url": "https://t.co/GCHTUcsPr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109304947238183332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109258382679155019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉上这个b学挺没意思的一个学期一个人都没认识，跟宿舍人也没共同语言 https://t.co/GCHTUcsPr4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2109258382679155019",
+        "created_at": "2026-10-11T12:22:41.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109258382679155019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Axer1a/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/_Axer1a/status/2109245183883874735",
+              "start": 34,
+              "url": "https://t.co/YBys6122Hl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109258382679155019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109245183883874735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉上这个b学挺没意思的四年了一个人都没认识，跟宿舍人也没共同语言 https://t.co/YBys6122Hl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2109304947238183332",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108903204784410624/84Fc0kbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 1083,
+          "like_count": 108741,
+          "listed_count": 4,
+          "media_count": 868,
+          "tweet_count": 5377
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "这里是帆😺～MtX&Non-Binary(she/they)🍥25.1.11/思觉失调💊/偶尔键政/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep/姐姐喵 @barutan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "AnranbuSleep"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "barutan8964"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109294739078173066",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2104863945928618103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 540,
+          "like_count": 99141,
+          "listed_count": 9,
+          "media_count": 1020,
+          "tweet_count": 13977
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

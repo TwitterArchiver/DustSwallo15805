@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105200600002502656"
+      ],
+      "media_source_tweet_id": [
+        "2105268421273493854"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2105329187133489211",
+    "created_at": "2026-09-30T16:09:27.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105329187133489211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "89421672",
+          "start": 3,
+          "username": "USA_China_Talk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwkv79Qik7",
+          "end": 103,
+          "expanded_url": "https://x.com/USA_China_Talk/status/2105268421273493854/photo/1",
+          "media_key": "3_2105200600002502656",
+          "start": 80,
+          "url": "https://t.co/mwkv79Qik7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105329187133489211",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105200600002502656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105268421273493854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA_China_Talk: 为庆祝中华人民共和国国庆节，美国驻华大使馆和各总领事馆将于10月1日星期四至10月5日星期一闭馆。我们祝大家节日快乐！ https://t.co/mwkv79Qik7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2105200600002502656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcsyrgWoAAP0QN.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105200600002502656"
+          ],
+          "media_source_tweet_id": [
+            "2105268421273493854"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2105329187133489211",
+        "created_at": "2026-09-30T16:09:27.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105329187133489211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "89421672",
+              "start": 3,
+              "username": "USA_China_Talk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwkv79Qik7",
+              "end": 103,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2105268421273493854/photo/1",
+              "media_key": "3_2105200600002502656",
+              "start": 80,
+              "url": "https://t.co/mwkv79Qik7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105329187133489211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105200600002502656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105268421273493854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA_China_Talk: 为庆祝中华人民共和国国庆节，美国驻华大使馆和各总领事馆将于10月1日星期四至10月5日星期一闭馆。我们祝大家节日快乐！ https://t.co/mwkv79Qik7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105200600002502656"
+          ]
+        },
+        "author_id": "89421672",
+        "conversation_id": "2105268421273493854",
+        "created_at": "2026-09-30T12:08:00.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105268421273493854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwkv79Qik7",
+              "end": 83,
+              "expanded_url": "https://x.com/USA_China_Talk/status/2105268421273493854/photo/1",
+              "media_key": "3_2105200600002502656",
+              "start": 60,
+              "url": "https://t.co/mwkv79Qik7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105268421273493854",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105200600002502656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 191563,
+          "like_count": 2549,
+          "quote_count": 25,
+          "reply_count": 171,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "为庆祝中华人民共和国国庆节，美国驻华大使馆和各总领事馆将于10月1日星期四至10月5日星期一闭馆。我们祝大家节日快乐！ https://t.co/mwkv79Qik7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2105329187133489211",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1072,
+          "like_count": 107020,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 5342
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2065445010053431296/I2jXbYJL_bigger.jpg",
+          "description": "Department of State",
+          "url": "https://twitter.com/StateDept",
+          "user_id": [
+            "9624742"
+          ]
+        },
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2105268421273493854",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89421672/1772527120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651988,
+          "following_count": 174,
+          "like_count": 11,
+          "listed_count": 4429,
+          "media_count": 636,
+          "tweet_count": 3437
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

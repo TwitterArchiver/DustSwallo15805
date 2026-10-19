@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096531393446895616"
+      ],
+      "media_source_tweet_id": [
+        "2096531446458626194"
+      ]
+    },
+    "author_id": "1647170304844914689",
+    "conversation_id": "2104798601025396816",
+    "created_at": "2026-09-29T05:01:06.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104798601025396816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1545301592093511680",
+          "start": 3,
+          "username": "duskfrontier18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/00HS4wdQjv",
+          "end": 46,
+          "expanded_url": "https://x.com/duskfrontier18/status/2096531446458626194/photo/1",
+          "media_key": "3_2096531393446895616",
+          "start": 23,
+          "url": "https://t.co/00HS4wdQjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104798601025396816",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2096531393446895616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096531446458626194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duskfrontier18: cm https://t.co/00HS4wdQjv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_2096531393446895616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRhgMcbbYAA5aw-.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096531393446895616"
+          ],
+          "media_source_tweet_id": [
+            "2096531446458626194"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "2104798601025396816",
+        "created_at": "2026-09-29T05:01:06.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104798601025396816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1545301592093511680",
+              "start": 3,
+              "username": "duskfrontier18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/00HS4wdQjv",
+              "end": 46,
+              "expanded_url": "https://x.com/duskfrontier18/status/2096531446458626194/photo/1",
+              "media_key": "3_2096531393446895616",
+              "start": 23,
+              "url": "https://t.co/00HS4wdQjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104798601025396816",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2096531393446895616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096531446458626194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duskfrontier18: cm https://t.co/00HS4wdQjv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096531393446895616"
+          ]
+        },
+        "author_id": "1545301592093511680",
+        "conversation_id": "2096531446458626194",
+        "created_at": "2026-09-06T09:30:23.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096531446458626194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00HS4wdQjv",
+              "end": 26,
+              "expanded_url": "https://x.com/duskfrontier18/status/2096531446458626194/photo/1",
+              "media_key": "3_2096531393446895616",
+              "start": 3,
+              "url": "https://t.co/00HS4wdQjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096531446458626194",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2096531393446895616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 389,
+          "impression_count": 23082,
+          "like_count": 2322,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "cm https://t.co/00HS4wdQjv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱\n请把我的歌带回你的家\n请把你的微笑留下…",
+        "id": "1647170304844914689",
+        "is_identity_verified": false,
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "most_recent_tweet_id": "2104798601025396816",
+        "name": "Cassiopeia🍥",
+        "pinned_tweet_id": "2103039863197208613",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647170304844914689/1781355610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087892180337905665/YCSvpo6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 1066,
+          "like_count": 106707,
+          "listed_count": 4,
+          "media_count": 863,
+          "tweet_count": 5328
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-08T06:59:53.000Z",
+        "description": "大量草稿，废稿，以及R18的堆放处\n本体 @dusk_frontier",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "dusk_frontier"
+              }
+            ]
+          }
+        },
+        "id": "1545301592093511680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104723618513260578",
+        "name": "小黄",
+        "pinned_tweet_id": "1937937210248217025",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545301592093511680/1668705896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074045267297681408/cHb2Ej7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47025,
+          "following_count": 2,
+          "like_count": 887,
+          "listed_count": 200,
+          "media_count": 693,
+          "tweet_count": 1128
+        },
+        "url": "",
+        "username": "duskfrontier18",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
